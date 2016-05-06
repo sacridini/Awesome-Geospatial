@@ -12,6 +12,7 @@
     - [Python] (#python)
     - [PaaS - Platform as a Service] (#platform-as-a-service)
     - [SaaS – Software as a Service] (#software-as-a-service)
+    - [DaaS – Data as a Service] (#data-as-a-service)
 
 - - -
 
@@ -131,15 +132,24 @@
 
 * [Google Maps API] (https://developers.google.com/maps/) - Google's PaaS (Platform as a Service) for Geocoding or analysis/processing services.
 * [Microsoft Bing API] (https://www.bingmapsportal.com/) - Microsoft Bing Maps API.
+* [OpenStreetMap API] (http://wiki.openstreetmap.org/wiki/API_v0.6) - OpenStreetMap API.
 * [Mapbox.js] (https://www.mapbox.com/mapbox.js/api/v2.4.0/) - MapBox Javascript API.
 * [Mapbox GL JS] (https://www.mapbox.com/mapbox-gl-js/api/) - MapBox WebGL Javascript API.
+
 
 ## SaaS – Software as a Service
 
 * [ArcGIS Online] (https://www.arcgis.com/home/) - ArcGIS Online GIS platform for mapping ans spatial analysis.
 * [CartoDB] (https://cartodb.com/) -  Cloud computing platform that provides GIS and web mapping tools for display in a web browser.
-* 
+* [Mapbox] (https://www.mapbox.com/) - Plataform for web map design and manipulation.
 
+
+## DaaS – Data as a Service
+
+* [Apple Maps] (https://mapsconnect.apple.com/) - Apple map service.
+* [Google Maps] (https://www.google.com.br/maps) - Google map service.
+* [Microsoft Bing Maps] (http://www.bing.com/mapspreview) - Microsoft map service.
+* [OpenStreetMap] (http://www.openstreetmap.org/) - OpenStreeMap map service.
 
 
 
