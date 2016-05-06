@@ -15,6 +15,7 @@
 ## Database
 
 * [PostGIS](http://postgis.net/) - PostgreSql spatial extension.
+* [PostGIS Vector Tile Utils] (https://github.com/mapbox/postgis-vt-util) - A set of PostgreSQL functions that are useful when creating vector tile sources.
 * [Spatialite](http://www.gaia-gis.it/gaia-sins/) - SQLite spatial extension.
 * [Neo4j Spatial](https://github.com/neo4j-contrib/spatial) - Library of spatial utilities for Neo4j.
 * [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html) - Oracle database spatial extension.
@@ -118,6 +119,10 @@
 * [Descartes] (https://pypi.python.org/pypi/descartes) - Plot geometries in matplotlib.
 * [PyShp] (https://code.google.com/archive/p/pyshp/) - For reading and writing shapefiles.
 * [PyProj] (https://github.com/jswhit/pyproj) - For conversions between projections.
+* [Pyncf] (https://github.com/karimbahgat/pyncf) - Pure Python NetCDF file reading and writing.
+* [chupaESRI] (https://github.com/johnjreiser/chupaESRI) - ChupaESRI is a Python module/command line tool to extract features from ArcGIS Server map services.
+* [GeoPandas] (https://github.com/geopandas/geopandas) - Python tools for geographic data.
+* 
 
 
 
