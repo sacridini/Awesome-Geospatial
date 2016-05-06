@@ -45,6 +45,5 @@
 * [MapWindow GIS] (http://www.mapwindow.org/) - Free and open source desktop geographic information system.
 * [MapInfo] (http://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) - Commercial GIS.
 * [Geomedia] (http://www.hexagongeospatial.com/products/producer-suite/geomedia) - Commercial GIS.
-* 
 * [uDig] (http://udig.refractions.net/) - A GIS Framework for Eclipse (Java) and also a GIS software.
 * [SAGA] (http://www.saga-gis.org/en/index.html) - SAGA is the abbreviation for System for Automated Geoscientific Analyses.
