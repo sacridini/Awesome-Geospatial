@@ -17,6 +17,9 @@
     - [Java] (#java)
     - [C Sharp] (#c-sharp)
     - [C++] (#c++)
+    - [C] (#c)
+    - [Julia] (#julia)
+    - [R] (#r)
 
 - - -
 
@@ -120,6 +123,7 @@
 * [Terralib] (http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
 * [GeographicLib] (http://geographiclib.sourceforge.net/) - For solving geodesic problems. Implemented in C, C++, Java, Javascript, Fortran, Python and Matlab. 
 * [Orfeo ToolBox] (https://www.orfeo-toolbox.org/) - Orfeo ToolBox (OTB) is an open-source C++ library for remote sensing images processing.
+* [Geolib] (http://www.geolib.co.uk/) - GeoLib is a fast, efficient, computational geometry library available in C++, C# and Java.
 
 ## Python
 
@@ -197,7 +201,36 @@
 
 ## C++
 
-* [GEOS] (https://trac.osgeo.org/geos/) - GEOS (Geometry Engine - Open Source) is a C++ port of the ​Java Topology Suite (JTS).a
+* [GEOS] (https://trac.osgeo.org/geos/) - GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS).
+* [Capaware] (https://en.wikipedia.org/wiki/Capaware) - 3D terrain representation with multilayer representation.
+* [libspatialindex] (https://github.com/libspatialindex/libspatialindex) - C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API.
+* [Spatial] (https://sourceforge.net/projects/spatial/) - Spatial is a generic header-only C++ library providing multi-dimensional in-memory containers, iterators and functionals.
+
+## C
+
+* [Shapefile C Library] (http://shapelib.maptools.org/) - Provides the ability to write simple C programs for reading, writing and updating (to a limited extent) .shp and .dbf files.
+
+## Julia 
+
+* [RasterIO.jl] (https://github.com/wkearn/RasterIO.jl) - Simple Raster Formats for Julia.
+
+
+## R
+
+* [sp] (https://cran.r-project.org/web/packages/sp/index.html) - Classes and Methods for Spatial Data.
+* [rgdal] (https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library.
+* [raster] (https://cran.r-project.org/web/packages/raster/raster.pdf) - Reading, writing, manipulating, analyzing and modeling of gridded spatial data.
+* [ggplot2] (http://ggplot2.org/) - ggplot2 is a plotting system for R.
+* [rgeos] (https://cran.r-project.org/web/packages/rgeos/index.html) - Interface to Geometry Engine - Open Source (GEOS) using the C API for topology operations on geometries.
+* [rgrass7] (https://cran.r-project.org/web/packages/rgrass7/index.html) - Interface Between GRASS 7 GIS and R.
+* [Rnetcdf] (https://cran.r-project.org/web/packages/RNetCDF/index.html) - Interface to NetCDF Datasets.
+* [RSAGA] (https://cran.r-project.org/web/packages/RSAGA/index.html) - SAGA Geoprocessing and Terrain Analysis in R.
+* [RODBC] (https://cran.r-project.org/web/packages/RODBC/index.html) - ODBC Database Access.
+* [RPyGeo] (https://cran.r-project.org/web/packages/RPyGeo/index.html) - ArcGIS Geoprocessing in R via Python.
+* [shapefiles] (https://cran.r-project.org/web/packages/shapefiles/index.html) - Read and Write ESRI Shapefiles.
+* [Rgooglemaps] (https://cran.r-project.org/web/packages/RgoogleMaps/index.html) - Overlays on Google map tiles in R.
+* [leafletR] (https://cran.r-project.org/web/packages/leafletR/index.html) - Interactive Web-Maps Based on the Leaflet JavaScript Library.
+* 
 
 
 
