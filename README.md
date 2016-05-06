@@ -22,6 +22,7 @@
     - [Julia] (#julia)
     - [R] (#r)
     - [Node.js] (#node.js)
+    - [Mobile Development] (#mobile-development)
 
 - - -
 
@@ -81,6 +82,7 @@
 * [Leaflet] (http://leafletjs.com/) - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
 * [Geomanjas] (http://www.geomajas.org/) - Open source development software for web-based and cloud based GIS applications.
 * [Cesium] (https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps.
+* [geojson-vt] (https://github.com/mapbox/geojson-vt) - A highly efficient JavaScript library for slicing GeoJSON data into vector tiles on the fly.
 
 
 ## Web Map Server
@@ -214,6 +216,8 @@
 * [Capaware] (https://en.wikipedia.org/wiki/Capaware) - 3D terrain representation with multilayer representation.
 * [libspatialindex] (https://github.com/libspatialindex/libspatialindex) - C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API.
 * [Spatial] (https://sourceforge.net/projects/spatial/) - Spatial is a generic header-only C++ library providing multi-dimensional in-memory containers, iterators and functionals.
+* [geojson-vt-cpp] (https://github.com/mapbox/geojson-vt-cpp) - Port to C++ of JS GeoJSON-VT for slicing GeoJSON into vector tiles on the fly.
+* [Supercluster] (https://github.com/mapbox/supercluster.hpp) - A C++14 port of supercluster, a fast 2D point clustering library for use in interactive maps.
 
 ## C
 
@@ -267,6 +271,16 @@
 * [Turf.js] (http://turfjs.org/) - Advanced geospatial analysis for browsers and node.
 * [JSTS] (https://github.com/bjornharrtell/jsts) - Port of the Java JTS library.
 * [Spatial] (https://github.com/troufster/spatial) - A 2d spatial hash module for node.js.
+* [PGRestAPI] (https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities.
+* [Supercluster] (https://github.com/mapbox/supercluster) - A crazy fast geospatial point clustering library for browsers and Node.
+
+
+## Mobile Development
+
+* [Mapbox Android SDK] (https://www.mapbox.com/android-sdk/) - An open source toolset for building mapping applications for Android devices.
+* [Mapbox iOS SDK] (https://www.mapbox.com/ios-sdk/) - An open source toolset for building mapping applications for iPhone and iPad devices.
+* [Google Maps API for Android] (https://developers.google.com/maps/android/) - Google maps for Android.
+* [Google Maps API for iOS] (https://developers.google.com/maps/ios/) - Google maps for iOS.
 
 
 
