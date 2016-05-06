@@ -9,6 +9,9 @@
     - [Radar] (#radar)
     - [Atmospheric Correction] (#atmospheric-correction)
     - [Libraries] (#libraries)
+    - [Python] (#python)
+    - [PaaS - Platform as a Service] (#platform-as-a-service)
+    - [SaaS – Software as a Service] (#software-as-a-service)
 
 - - -
 
@@ -122,7 +125,22 @@
 * [Pyncf] (https://github.com/karimbahgat/pyncf) - Pure Python NetCDF file reading and writing.
 * [chupaESRI] (https://github.com/johnjreiser/chupaESRI) - ChupaESRI is a Python module/command line tool to extract features from ArcGIS Server map services.
 * [GeoPandas] (https://github.com/geopandas/geopandas) - Python tools for geographic data.
+
+
+## PaaS - Platform as  a Service
+
+* [Google Maps API] (https://developers.google.com/maps/) - Google's PaaS (Platform as a Service) for Geocoding or analysis/processing services.
+* [Microsoft Bing API] (https://www.bingmapsportal.com/) - Microsoft Bing Maps API.
+* [Mapbox.js] (https://www.mapbox.com/mapbox.js/api/v2.4.0/) - MapBox Javascript API.
+* [Mapbox GL JS] (https://www.mapbox.com/mapbox-gl-js/api/) - MapBox WebGL Javascript API.
+
+## SaaS – Software as a Service
+
+* [ArcGIS Online] (https://www.arcgis.com/home/) - ArcGIS Online GIS platform for mapping ans spatial analysis.
+* [CartoDB] (https://cartodb.com/) -  Cloud computing platform that provides GIS and web mapping tools for display in a web browser.
 * 
+
+
 
 
 
