@@ -20,7 +20,7 @@
     - [C] (#c)
     - [Julia] (#julia)
     - [R] (#r)
-    - [Javascript/Node.js] (#javascript/node.js)
+    - [Node.js] (#node.js)
 
 - - -
 
@@ -232,12 +232,22 @@
 * [shapefiles] (https://cran.r-project.org/web/packages/shapefiles/index.html) - Read and Write ESRI Shapefiles.
 * [Rgooglemaps] (https://cran.r-project.org/web/packages/RgoogleMaps/index.html) - Overlays on Google map tiles in R.
 * [leafletR] (https://cran.r-project.org/web/packages/leafletR/index.html) - Interactive Web-Maps Based on the Leaflet JavaScript Library.
+* [maptools] (https://cran.r-project.org/web/packages/maptools/index.html) - Tools for Reading and Handling Spatial Objects.
+* [RArcInfo] (https://cran.r-project.org/web/packages/RArcInfo/index.html) - Functions to import data from Arc/Info V7.x binary coverages.
+* [Akima] (https://cran.r-project.org/web/packages/akima/index.html) - Interpolation of Irregularly and Regularly Spaced Data.
+* [maps] (https://cran.r-project.org/web/packages/maps/index.html) - Draw Geographical Maps.
+* [PBSmapping] (https://cran.r-project.org/web/packages/PBSmapping/index.html) - Mapping Fisheries Data and Spatial Analysis Tools.
+* [Landsat] (https://cran.r-project.org/web/packages/landsat/index.html) - Radiometric and topographic correction of satellite imagery.
+* [spatstat] (https://cran.r-project.org/web/packages/spatstat/index.html) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests.
+* [splancs] (https://cran.r-project.org/web/packages/splancs/index.html) - Spatial and Space-Time Point Pattern Analysis.
 
 
-## Javascript/Node.js
+## Node.js
 
 * [Turf.js] (http://turfjs.org/) - Advanced geospatial analysis for browsers and node.
-* 
+* [JSTS] (https://github.com/bjornharrtell/jsts) - Port of the Java JTS library.
+* [Spatial] (https://github.com/troufster/spatial) - A 2d spatial hash module for node.js.
+
 
 
 
