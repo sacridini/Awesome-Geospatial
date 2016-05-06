@@ -15,7 +15,8 @@
     - [SaaS – Software as a Service] (#software-as-a-service)
     - [DaaS – Data as a Service] (#data-as-a-service)
     - [Java] (#java)
-    - [C#] (#c#)
+    - [C Sharp] (#c-sharp)
+    - [C++] (#c++)
 
 - - -
 
@@ -186,13 +187,17 @@
 * [Apache SIS] (http://sis.apache.org/) - Apache Spatial Information System (SIS) is a free software, Java language library for developing geospatial applications.
 
 
-## C#
+## C Sharp
 
 * [SharpMap] (http://sharpmap.codeplex.com/) - SharpMap is an easy-to-use mapping library for use in web and desktop applications.
 * [DotSpatial] (https://dotspatial.codeplex.com/) - DotSpatial is a geographic information system library written for .NET 4.
 * [NTS Net Topology Suite] (https://github.com/NetTopologySuite/NetTopologySuite) - A .NET GIS solution that is fast and reliable for the .NET platform.
 * [Geo] (https://github.com/sibartlett/Geo) - A geospatial library for .NET
 
+
+## C++
+
+* [GEOS] (https://trac.osgeo.org/geos/) - GEOS (Geometry Engine - Open Source) is a C++ port of the ​Java Topology Suite (JTS).a
 
 
 
