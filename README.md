@@ -91,11 +91,14 @@
 
 ## Libraries
 
-* [GDAL] (http://www.gdal.org/) - Geospatial Data Abstraction Library (GDAL)is a computer library.
+* [GDAL] (http://www.gdal.org/) - Geospatial Data Abstraction Library (GDAL) is a computer library.
+* [Terralib] (http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
 
 ## Python
 
-* [
+* [Landsat-util] (https://github.com/developmentseed/landsat-util) - Landsat-util is a command line utility that makes it easy to search, download, and process Landsat imagery.
+* [Rasterio] (https://github.com/mapbox/rasterio) - Rasterio employs GDAL under the hood for file I/O and raster formatting.
+* 
 
 
 
