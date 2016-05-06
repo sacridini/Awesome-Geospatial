@@ -6,6 +6,7 @@
     - [Geographic Information System] (#geographic-information-system)
     - [Web map development] (#web-map-development)
     - [Web map server] (#web-map-server)
+    - [Radar] (#radar)
 
 - - -
 
@@ -34,6 +35,8 @@
 * [Global Mapper] (http://www.bluemarblegeo.com/products/global-mapper.php) - Geospatial and remote sensing data analysis.
 * [Spring] (http://www.dpi.inpe.br/spring/english/index.html) - GIS and remote sensing image processing system with an object-oriented data model.
 * [TerrSet] (https://clarklabs.org/terrset/) - TerrSet (formerly IDRISI) is an integrated geographic information system (GIS) and remote sensing software
+* [OSSIM] (http://trac.osgeo.org/ossim/) - Suite of geospatial libraries and applications used to process imagery, maps, terrain, and vector data.
+* [e-Foto] (http://www.efoto.eng.uerj.br/en) - Free and open source digital photogrammetric workstation.
 
 
 ## Geographic Information System
@@ -68,3 +71,11 @@
 * [Mapserver] (http://mapserver.org/) - WMS written in C.
 * [Mapnik] (http://mapnik.org/) - C++/Python/Node.js library for rendering.
 * [MapGuide] (https://mapguide.osgeo.org/) - Runs on Linux or Windows, supports Apache and IIS web servers, and has APIs (PHP, .NET, Java, and JavaScript) for application development.
+
+
+## Radar
+
+* [PolSARpro] (https://earth.esa.int/web/polsarpro) - Open source radar image data processing software.
+* 
+
+
