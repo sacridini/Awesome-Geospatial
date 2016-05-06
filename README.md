@@ -4,9 +4,11 @@
     - [Database](#database)
     - [Image Classification & DIP Software ] (#image-classification-&-DIP-software)
     - [Geographic Information System] (#geographic-information-system)
-    - [Web map development] (#web-map-development)
-    - [Web map server] (#web-map-server)
+    - [Web Map Development] (#web-map-development)
+    - [Web Map Server] (#web-map-server)
     - [Radar] (#radar)
+    - [Atmospheric Correction] (#atmospheric-correction)
+    - [Libraries] (#libraries)
 
 - - -
 
@@ -79,5 +81,21 @@
 * [Sarmap] (http://www.sarmap.ch/page.php?page=sarscape) - Synthetic Aperture Radar processing software.
 * [GAMMA] (http://www.gamma-rs.ch/no_cache/software.html) - Allows processing of SAR, interferometric SAR (InSAR) and differential interferometric SAR (DInSAR).
 * [Sentinel Toolboxes] (https://sentinel.esa.int/web/sentinel/toolboxes) - Free open source toolboxes for the scientific exploitation of the Sentinel missions.
+* [NANSAT] (https://github.com/nansencenter/nansat) - Nansat is a scientist friendly Python toolbox for processing 2D satellite earth observation data.
+
+
+## Atmospheric Correction
+
+* [ATCOR] (http://www.atcor.de/) - ERDAS Imagine module.
+* [6S] (http://6s.ltdri.org/) - Open source algorithm.
+
+## Libraries
+
+* [GDAL] (http://www.gdal.org/) - Geospatial Data Abstraction Library (GDAL)is a computer library.
+
+## Python
+
+* [
+
 
 
