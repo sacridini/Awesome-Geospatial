@@ -223,6 +223,7 @@
 * [rgdal] (https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library.
 * [raster] (https://cran.r-project.org/web/packages/raster/raster.pdf) - Reading, writing, manipulating, analyzing and modeling of gridded spatial data.
 * [ggplot2] (http://ggplot2.org/) - ggplot2 is a plotting system for R.
+* [ggmap] (https://cran.r-project.org/web/packages/ggmap/index.html) - Spatial Visualization with ggplot2.
 * [rgeos] (https://cran.r-project.org/web/packages/rgeos/index.html) - Interface to Geometry Engine - Open Source (GEOS) using the C API for topology operations on geometries.
 * [rgrass7] (https://cran.r-project.org/web/packages/rgrass7/index.html) - Interface Between GRASS 7 GIS and R.
 * [Rnetcdf] (https://cran.r-project.org/web/packages/RNetCDF/index.html) - Interface to NetCDF Datasets.
@@ -240,6 +241,19 @@
 * [Landsat] (https://cran.r-project.org/web/packages/landsat/index.html) - Radiometric and topographic correction of satellite imagery.
 * [spatstat] (https://cran.r-project.org/web/packages/spatstat/index.html) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests.
 * [splancs] (https://cran.r-project.org/web/packages/splancs/index.html) - Spatial and Space-Time Point Pattern Analysis.
+* [plotKML] (https://cran.r-project.org/web/packages/plotKML/index.html) - Visualization of Spatial and Spatio-Temporal Objects in Google Earth.
+* [OpenStreetMap] (https://cran.r-project.org/web/packages/OpenStreetMap/index.html) - Access to Open Street Map Raster Images.
+* [GEOmap] (https://cran.r-project.org/web/packages/GEOmap/index.html) - Topographic and Geologic Mapping.
+* [rworldmap] (https://cran.r-project.org/web/packages/rworldmap/index.html) - Mapping Global Data.
+* [rasterVis] (https://cran.r-project.org/web/packages/rasterVis/index.html) - Visualization Methods for Raster Data.
+* [spdep] (https://cran.r-project.org/web/packages/spdep/index.html) - Spatial Dependence: Weighting Schemes, Statistics and Models.
+* [spacetime] (https://cran.r-project.org/web/packages/spacetime/index.html) - Classes and Methods for Spatio-Temporal Data.
+* [geoR] (https://cran.r-project.org/web/packages/geoR/index.html) - Analysis of Geostatistical Data.
+* [ecespa] (https://cran.r-project.org/web/packages/ecespa/index.html) - Functions for Spatial Point Pattern Analysis.
+* [mapproj] (https://cran.r-project.org/web/packages/mapproj/index.html) - Map Projections.
+* [gstat] (https://cran.r-project.org/web/packages/gstat/index.html) - Spatio-Temporal Geostatistical Modelling, Prediction and Simulation.
+* [intamap] (https://cran.r-project.org/web/packages/intamap/index.html) - Procedures for automated interpolation.
+
 
 
 ## Node.js
