@@ -5,6 +5,7 @@
     - [Image Classification & DIP Software ] (#image-classification-&-DIP-software)
     - [Geographic Information System] (#geographic-information-system)
     - [Web map development] (#web-map-development)
+    - [Web map server] (#web-map-server)
 
 - - -
 
@@ -57,4 +58,13 @@
 
 * [OpenLayers] (http://openlayers.org/) - Open source AJAX library.
 * [Leaflet] (http://leafletjs.com/) - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
-* 
+* [Geomanjas] (http://www.geomajas.org/) - Open source development software for web-based and cloud based GIS applications.
+* [Cesium] (https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps.
+
+
+# Web map server
+
+* [Geoserver] (http://geoserver.org/) - WMS written in Java and relies on GeoTools. Allows users to share and edit geospatial data.
+* [Mapserver] (http://mapserver.org/) - WMS written in C.
+* [Mapnik] (http://mapnik.org/) - C++/Python/Node.js library for rendering.
+* [MapGuide] (https://mapguide.osgeo.org/) - Runs on Linux or Windows, supports Apache and IIS web servers, and has APIs (PHP, .NET, Java, and JavaScript) for application development.
