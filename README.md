@@ -20,6 +20,7 @@
     - [C] (#c)
     - [Julia] (#julia)
     - [R] (#r)
+    - [Javascript/Node.js] (#javascript/node.js)
 
 - - -
 
@@ -189,6 +190,7 @@
 * [Geoapi] (http://www.geoapi.org/) - GeoAPI provides a set of Java language programming interfaces for geospatial applications.
 * [Openmap] (https://github.com/openmap-java/openmap) - Open Source JavaBeans-based programmer's toolkit.
 * [Apache SIS] (http://sis.apache.org/) - Apache Spatial Information System (SIS) is a free software, Java language library for developing geospatial applications.
+* [World Wind Java SDK] (http://worldwind.arc.nasa.gov/java/) - Nasa cross-platform Java SDK.
 
 
 ## C Sharp
@@ -230,7 +232,13 @@
 * [shapefiles] (https://cran.r-project.org/web/packages/shapefiles/index.html) - Read and Write ESRI Shapefiles.
 * [Rgooglemaps] (https://cran.r-project.org/web/packages/RgoogleMaps/index.html) - Overlays on Google map tiles in R.
 * [leafletR] (https://cran.r-project.org/web/packages/leafletR/index.html) - Interactive Web-Maps Based on the Leaflet JavaScript Library.
+
+
+## Javascript/Node.js
+
+* [Turf.js] (http://turfjs.org/) - Advanced geospatial analysis for browsers and node.
 * 
+
 
 
 
