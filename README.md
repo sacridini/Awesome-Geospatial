@@ -4,6 +4,7 @@
     - [Database](#database)
     - [Image Classification & DIP Software ] (#image-classification-&-DIP-software)
     - [Geographic Information System] (#geographic-information-system)
+    - [Web map development] (#web-map-development)
 
 - - -
 
@@ -47,3 +48,13 @@
 * [Geomedia] (http://www.hexagongeospatial.com/products/producer-suite/geomedia) - Commercial GIS.
 * [uDig] (http://udig.refractions.net/) - A GIS Framework for Eclipse (Java) and also a GIS software.
 * [SAGA] (http://www.saga-gis.org/en/index.html) - SAGA is the abbreviation for System for Automated Geoscientific Analyses.
+* [Manifold System] (http://www.manifold.net/) - Commercial GIS.
+* [AutoCAD Map 3D] (http://www.autodesk.com.br/products/autocad-map-3d/overview) - GIS AutoCAD integration.
+* [Smallworld] (https://www.gegridsolutions.com/geospatial/catalog/smallworld_core.htm) - Commercial GIS.
+
+
+## Web map development
+
+* [OpenLayers] (http://openlayers.org/) - Open source AJAX library.
+* [Leaflet] (http://leafletjs.com/) - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
+* 
