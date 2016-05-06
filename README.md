@@ -102,7 +102,22 @@
 * [Pandas] (http://pandas.pydata.org/) - Open source library providing high-performance, easy-to-use data structures and data analysis tools for the Python.
 * [Shapely] (https://pypi.python.org/pypi/Shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
 * [Cartopy] (http://scitools.org.uk/cartopy/) - A library providing cartographic tools for python for plotting spatial data.
-* [rtree] (http://toblerity.org/rtree/) - For efficiently querying spatial data.
+* [Rtree] (http://toblerity.org/rtree/) - For efficiently querying spatial data.
+* [NodeBox-opengl] (http://www.cityinabottle.org/nodebox/) - For playing around with animations.
+* [Statsmodels] (http://statsmodels.sourceforge.net/) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
+* [NumPy] (http://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python.
+* [geopy] (https://github.com/geopy/geopy) - geopy is a Python 2 and 3 client for several popular geocoding web services.
+* [IPython] (http://ipython.org/) - For a wondering interactive environment in which to play.
+* [FreeType] (https://code.google.com/archive/p/freetype-py/) - For converting font glyphs to polygons.
+* [PyQGIS] (http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/) - Python for QGIS.
+* [Fiona] (http://toblerity.org/fiona/) - For making it easy to read/write geospatial data formats.
+* [matplotlib] (http://matplotlib.org/) - Python 2D plotting library.
+* [networkx] (http://networkx.github.io/) - To work with networks.
+* [PySAL] (http://pysal.readthedocs.io/en/latest/) - For all your spatial econometrics needs.
+* [Descartes] (https://pypi.python.org/pypi/descartes) - Plot geometries in matplotlib.
+* [PyShp] (https://code.google.com/archive/p/pyshp/) - For reading and writing shapefiles.
+* [PyProj] (https://github.com/jswhit/pyproj) - For conversions between projections.
+
 
 
 
