@@ -93,6 +93,7 @@
 
 * [GDAL] (http://www.gdal.org/) - Geospatial Data Abstraction Library (GDAL) is a computer library.
 * [Terralib] (http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
+* [GeographicLib] (http://geographiclib.sourceforge.net/) - For solving geodesic problems. Works with (C, C++, Java, Javascript, Fortran, Matlab and Python). 
 
 ## Python
 
@@ -117,6 +118,7 @@
 * [Descartes] (https://pypi.python.org/pypi/descartes) - Plot geometries in matplotlib.
 * [PyShp] (https://code.google.com/archive/p/pyshp/) - For reading and writing shapefiles.
 * [PyProj] (https://github.com/jswhit/pyproj) - For conversions between projections.
+
 
 
 
