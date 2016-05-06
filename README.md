@@ -98,7 +98,11 @@
 
 * [Landsat-util] (https://github.com/developmentseed/landsat-util) - Landsat-util is a command line utility that makes it easy to search, download, and process Landsat imagery.
 * [Rasterio] (https://github.com/mapbox/rasterio) - Rasterio employs GDAL under the hood for file I/O and raster formatting.
-* 
+* [Rasterstats] (https://github.com/perrygeo/python-rasterstats/) - Python module for summarizing geospatial raster datasets based on vector geometries.
+* [Pandas] (http://pandas.pydata.org/) - Open source library providing high-performance, easy-to-use data structures and data analysis tools for the Python.
+* [Shapely] (https://pypi.python.org/pypi/Shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
+* [Cartopy] (http://scitools.org.uk/cartopy/) - A library providing cartographic tools for python for plotting spatial data.
+* [rtree] (http://toblerity.org/rtree/) - For efficiently querying spatial data.
 
 
 
