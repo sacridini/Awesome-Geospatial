@@ -2,7 +2,7 @@
 
 - [Awesome Geospatial](#awesome-geospatial)
     - [Database](#database)
-    - [Image Classification & PDI Software ] (#image-classification-&-pdi-software)
+    - [Image Classification Software ] (#image-classification-software)
 
 - - -
 
@@ -19,7 +19,7 @@
 * [DB2 Spatial Extender] (http://www-03.ibm.com/software/products/en/db2spaext) - Spatial Extender allows you to store, manage, and analyze spatial data in DB2.
 
 
-## Image Classification & PDI Software
+## Image Classification Software
 
 * [eCognition] (http://www.ecognition.com/suite/ecognition-developer) - GEOBIA software.
 * [ENVI] (http://www.harrisgeospatial.com/ProductsandSolutions/GeospatialProducts/ENVI.aspx) - Geospatial image processing software.
