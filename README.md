@@ -15,6 +15,7 @@
     - [SaaS – Software as a Service] (#software-as-a-service)
     - [DaaS – Data as a Service] (#data-as-a-service)
     - [Java] (#java)
+    - [C#] (#c#)
 
 - - -
 
@@ -183,6 +184,14 @@
 * [Geoapi] (http://www.geoapi.org/) - GeoAPI provides a set of Java language programming interfaces for geospatial applications.
 * [Openmap] (https://github.com/openmap-java/openmap) - Open Source JavaBeans-based programmer's toolkit.
 * [Apache SIS] (http://sis.apache.org/) - Apache Spatial Information System (SIS) is a free software, Java language library for developing geospatial applications.
+
+
+## C#
+
+* [SharpMap] (http://sharpmap.codeplex.com/) - SharpMap is an easy-to-use mapping library for use in web and desktop applications.
+* [DotSpatial] (https://dotspatial.codeplex.com/) - DotSpatial is a geographic information system library written for .NET 4.
+* [NTS Net Topology Suite] (https://github.com/NetTopologySuite/NetTopologySuite) - A .NET GIS solution that is fast and reliable for the .NET platform.
+* [Geo] (https://github.com/sibartlett/Geo) - A geospatial library for .NET
 
 
 
