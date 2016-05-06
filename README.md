@@ -8,6 +8,7 @@
     - [Web Map Server] (#web-map-server)
     - [Radar] (#radar)
     - [Lidar] (#lidar)
+    - [Geographic Data Mining] (#geographic-data-mining)
     - [Atmospheric Correction] (#atmospheric-correction)
     - [Libraries] (#libraries)
     - [Python] (#python)
@@ -74,7 +75,7 @@
 * [OpenJUMP] (http://openjump.org/) - Open source Java GIS.
 
 
-## Web map development
+## Web Map Development
 
 * [OpenLayers] (http://openlayers.org/) - Open source AJAX library.
 * [Leaflet] (http://leafletjs.com/) - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
@@ -82,7 +83,7 @@
 * [Cesium] (https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps.
 
 
-## Web map server
+## Web Map Server
 
 * [Geoserver] (http://geoserver.org/) - WMS written in Java and relies on GeoTools. Allows users to share and edit geospatial data.
 * [Mapserver] (http://mapserver.org/) - WMS written in C.
@@ -111,6 +112,12 @@
 * [PyLAS] (https://pypi.python.org/pypi/PyLAS) - A python library for reading and writing LAS files.
 * [Laspy] (http://laspy.readthedocs.io/en/latest/) - Laspy is a python library for reading, modifying, and creating .LAS LIDAR files.
 * [PDAL] (http://www.pdal.io/) - PDAL is a C++ BSD library for translating and manipulating point cloud data.
+
+
+## Geographic Data Mining
+
+* [Weka] (http://www.cs.waikato.ac.nz/ml/weka/) - Weka is a collection of machine learning algorithms for data mining tasks written in Java.
+* [GeoDMA] (https://sourceforge.net/projects/geodma/) - GeoDMA is a plugin for TerraView software, used for geographical data mining.
 
 
 ## Atmospheric Correction
@@ -154,7 +161,7 @@
 * [GeoPandas] (https://github.com/geopandas/geopandas) - Python tools for geographic data.
 
 
-## PaaS - Platform as  a Service
+## PaaS - Platform as a Service
 
 * [Google Maps API] (https://developers.google.com/maps/) - Google's PaaS (Platform as a Service) for Geocoding or analysis/processing services.
 * [Microsoft Bing API] (https://www.bingmapsportal.com/) - Microsoft Bing Maps API.
@@ -253,7 +260,6 @@
 * [mapproj] (https://cran.r-project.org/web/packages/mapproj/index.html) - Map Projections.
 * [gstat] (https://cran.r-project.org/web/packages/gstat/index.html) - Spatio-Temporal Geostatistical Modelling, Prediction and Simulation.
 * [intamap] (https://cran.r-project.org/web/packages/intamap/index.html) - Procedures for automated interpolation.
-
 
 
 ## Node.js
