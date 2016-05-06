@@ -62,7 +62,7 @@
 * [Cesium] (https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps.
 
 
-# Web map server
+## Web map server
 
 * [Geoserver] (http://geoserver.org/) - WMS written in Java and relies on GeoTools. Allows users to share and edit geospatial data.
 * [Mapserver] (http://mapserver.org/) - WMS written in C.
