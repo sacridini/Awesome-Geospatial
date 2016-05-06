@@ -7,6 +7,7 @@
     - [Web Map Development] (#web-map-development)
     - [Web Map Server] (#web-map-server)
     - [Radar] (#radar)
+    - [Lidar] (#lidar)
     - [Atmospheric Correction] (#atmospheric-correction)
     - [Libraries] (#libraries)
     - [Python] (#python)
@@ -92,6 +93,12 @@
 * [NANSAT] (https://github.com/nansencenter/nansat) - Nansat is a scientist friendly Python toolbox for processing 2D satellite earth observation data.
 
 
+# Lidar
+
+* [FME Desktop] (https://www.safe.com/fme/fme-desktop/) - FME is an integrated collection of Spatial ETL tools for data transformation and data translation.
+* [LAStools] (http://www.cs.unc.edu/~isenburg/lastools/) - A collection of highly-efficient, scriptable tools with multi-core batching that process LAS, compressed LAZ, Terrasolid BIN, .shp, and ASCII.
+
+
 ## Atmospheric Correction
 
 * [ATCOR] (http://www.atcor.de/) - ERDAS Imagine module.
@@ -164,6 +171,12 @@
 * [GeOxygene] (https://sourceforge.net/projects/oxygene-project/) - Provide an open framework which implements OGC/ISO specifications for the development and deployment of GIS applications.
 * [Gisgraphy] (http://www.gisgraphy.com/) - Open source framework that offers the ability to do geolocalisation and geocoding via Java APIs or REST webservices.
 * [JGeocoder] (http://jgeocoder.sourceforge.net/) - Free Java Geocoder.
+* [Spatial4j] (https://github.com/locationtech/spatial4j) - Spatial4j is a general purpose geospatial ASL licensed open-source Java library.
+* [Geoapi] (http://www.geoapi.org/) - GeoAPI provides a set of Java language programming interfaces for geospatial applications.
+* [Openmap] (https://github.com/openmap-java/openmap) - Open Source JavaBeans-based programmer's toolkit.
+* [Apache SIS] (http://sis.apache.org/) - Apache Spatial Information System (SIS) is a free software, Java language library for developing geospatial applications.
+
+
 
 
 
