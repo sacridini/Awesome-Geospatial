@@ -2,7 +2,7 @@
 
 - [Awesome Geospatial](#awesome-geospatial)
     - [Database](#database)
-    - 
+    - [Image Classification Software & PDI] (#image-classification-software-&-pdi)
 
 - - -
 
@@ -17,3 +17,9 @@
 * [Cloudant] (https://cloudant.com/) - IBM noSQL database that supports spatial data (GeoJSON).
 * [MondoDB] (https://www.mongodb.com/) - Also supports GeoJSON and spatial indexes.
 * [DB2 Spatial Extender] (http://www-03.ibm.com/software/products/en/db2spaext) - Spatial Extender allows you to store, manage, and analyze spatial data in DB2.
+
+
+## Image Classification Software & PDI
+
+* [eCognition] (http://www.ecognition.com/suite/ecognition-developer) - GEOBIA software.
+* [ENVI] (http://www.harrisgeospatial.com/ProductsandSolutions/GeospatialProducts/ENVI.aspx) - Geospatial image processing software.
