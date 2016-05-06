@@ -13,6 +13,7 @@
     - [PaaS - Platform as a Service] (#platform-as-a-service)
     - [SaaS – Software as a Service] (#software-as-a-service)
     - [DaaS – Data as a Service] (#data-as-a-service)
+    - [Java] (#java)
 
 - - -
 
@@ -44,6 +45,7 @@
 * [TerrSet] (https://clarklabs.org/terrset/) - TerrSet (formerly IDRISI) is an integrated geographic information system (GIS) and remote sensing software
 * [OSSIM] (http://trac.osgeo.org/ossim/) - Suite of geospatial libraries and applications used to process imagery, maps, terrain, and vector data.
 * [e-Foto] (http://www.efoto.eng.uerj.br/en) - Free and open source digital photogrammetric workstation.
+* [Guidos Toolbox] (http://forest.jrc.ec.europa.eu/download/software/guidos/) - Some GDAL functionalities and includes MSPA (Morphological Spatial Pattern Analysis) for connectivity maps.
 
 
 ## Geographic Information System
@@ -62,6 +64,7 @@
 * [Manifold System] (http://www.manifold.net/) - Commercial GIS.
 * [AutoCAD Map 3D] (http://www.autodesk.com.br/products/autocad-map-3d/overview) - GIS AutoCAD integration.
 * [Smallworld] (https://www.gegridsolutions.com/geospatial/catalog/smallworld_core.htm) - Commercial GIS.
+* [OpenJUMP] (http://openjump.org/) - Open source Java GIS.
 
 
 ## Web map development
@@ -99,6 +102,7 @@
 * [GDAL] (http://www.gdal.org/) - Geospatial Data Abstraction Library (GDAL) is a computer library.
 * [Terralib] (http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
 * [GeographicLib] (http://geographiclib.sourceforge.net/) - For solving geodesic problems. Implemented in C, C++, Java, Javascript, Fortran, Python and Matlab. 
+* [Orfeo ToolBox] (https://www.orfeo-toolbox.org/) - Orfeo ToolBox (OTB) is an open-source C++ library for remote sensing images processing.
 
 ## Python
 
@@ -150,6 +154,16 @@
 * [Google Maps] (https://www.google.com.br/maps) - Google map service.
 * [Microsoft Bing Maps] (http://www.bing.com/mapspreview) - Microsoft map service.
 * [OpenStreetMap] (http://www.openstreetmap.org/) - OpenStreeMap map service.
+
+
+## Java
+
+* [Geotools] (http://www.geotools.org/) - GeoTools is an open source Java library that provides tools for geospatial data.
+* [Geonetwork] (http://geonetwork-opensource.org/) - GeoNetwork is a catalog application to manage spatially referenced resources.
+* [JTS Topology Suite] (http://www.vividsolutions.com/jts/jtshome.htm) - JTS Topology Suite is an API of 2D spatial predicates and functions.
+* [GeOxygene] (https://sourceforge.net/projects/oxygene-project/) - Provide an open framework which implements OGC/ISO specifications for the development and deployment of GIS applications.
+* [Gisgraphy] (http://www.gisgraphy.com/) - Open source framework that offers the ability to do geolocalisation and geocoding via Java APIs or REST webservices.
+* [JGeocoder] (http://jgeocoder.sourceforge.net/) - Free Java Geocoder.
 
 
 
