@@ -19,6 +19,7 @@
     - [C Sharp] (#c-sharp)
     - [C++] (#c++)
     - [C] (#c)
+    - [CSS] (#css)
     - [Julia] (#julia)
     - [R] (#r)
     - [Node.js] (#node.js)
@@ -83,6 +84,11 @@
 * [Geomanjas] (http://www.geomajas.org/) - Open source development software for web-based and cloud based GIS applications.
 * [Cesium] (https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps.
 * [geojson-vt] (https://github.com/mapbox/geojson-vt) - A highly efficient JavaScript library for slicing GeoJSON data into vector tiles on the fly.
+* [ArcGIS JS App Generator] (https://github.com/odoe/generator-arcgis-js-app) - This is a yeoman generator for ArcGIS API for JavaScript applications.
+* [CMV - The Configurable Map Viewer] (https://github.com/cmv/cmv-app) - CMV is a community-supported open source mapping framework. CMV works with the Esri JavaScript API, ArcGIS Server, ArcGIS Online and more.
+* [Leaflet.MapboxVectorTile] (https://github.com/SpatialServer/Leaflet.MapboxVectorTile) - A Leaflet Plugin that renders Mapbox Vector Tiles on HTML5 Canvas.
+* [Flare Cluster Layer] (https://github.com/nickcam/FlareClusterLayer) - ArcGIS javascript custom graphics layer. Creates clusters and creates flares for clusters.
+* [Google Maps API Polyline String Decoder] (https://github.com/mgd722/decode-google-maps-polyline) - Function that will convert encoded polyline strings (as returned by the Google Maps API) into a list of lat/lon pairs.
 
 
 ## Web Map Server
@@ -218,14 +224,26 @@
 * [Spatial] (https://sourceforge.net/projects/spatial/) - Spatial is a generic header-only C++ library providing multi-dimensional in-memory containers, iterators and functionals.
 * [geojson-vt-cpp] (https://github.com/mapbox/geojson-vt-cpp) - Port to C++ of JS GeoJSON-VT for slicing GeoJSON into vector tiles on the fly.
 * [Supercluster] (https://github.com/mapbox/supercluster.hpp) - A C++14 port of supercluster, a fast 2D point clustering library for use in interactive maps.
+* [Mapbox GL Native] (https://github.com/mapbox/mapbox-gl-native) - Render Mapbox styles in mobile, desktop, and node applications using C++ and OpenGL.
+
 
 ## C
 
 * [Shapefile C Library] (http://shapelib.maptools.org/) - Provides the ability to write simple C programs for reading, writing and updating (to a limited extent) .shp and .dbf files.
+* [Libuv] (https://github.com/libuv/libuv) - Cross-platform asynchronous I/O.
+* 
+
+
+## CSS
+
+* [CartoCSS] (https://www.mapbox.com/tilemill/docs/manual/carto/) - TileMills language.
+* [MapCSS] (http://wiki.openstreetmap.org/wiki/MapCSS) - MapCSS is a CSS-like language for map stylesheets.
+
 
 ## Julia 
 
 * [RasterIO.jl] (https://github.com/wkearn/RasterIO.jl) - Simple Raster Formats for Julia.
+* [OpenStreetMaps.jl] (https://github.com/tedsteiner/OpenStreetMap.jl) - This package provides basic functionality for parsing, viewing, and working with OpenStreetMap map data.
 
 
 ## R
@@ -273,6 +291,7 @@
 * [Spatial] (https://github.com/troufster/spatial) - A 2d spatial hash module for node.js.
 * [PGRestAPI] (https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities.
 * [Supercluster] (https://github.com/mapbox/supercluster) - A crazy fast geospatial point clustering library for browsers and Node.
+* [SQLite3] (https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
 
 
 ## Mobile Development
