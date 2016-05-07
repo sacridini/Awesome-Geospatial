@@ -114,7 +114,7 @@
 * [NANSAT] (https://github.com/nansencenter/nansat) - Nansat is a scientist friendly Python toolbox for processing 2D satellite earth observation data.
 
 
-# Lidar
+## Lidar
 
 * [FME Desktop] (https://www.safe.com/fme/fme-desktop/) - FME is an integrated collection of Spatial ETL tools for data transformation and data translation.
 * [LAStools] (http://www.cs.unc.edu/~isenburg/lastools/) - A collection of highly-efficient, scriptable tools with multi-core batching that process LAS, compressed LAZ, Terrasolid BIN, .shp, and ASCII.
