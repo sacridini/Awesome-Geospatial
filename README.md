@@ -26,6 +26,7 @@
     - [Node.js] (#node.js)
     - [Mobile Development] (#mobile-development)
     - [Visualization] (#visualization)
+    - [Tools] (#tools)
     - [References] (#references)
 
 - - -
@@ -178,6 +179,7 @@
 * [Pyncf] (https://github.com/karimbahgat/pyncf) - Pure Python NetCDF file reading and writing.
 * [chupaESRI] (https://github.com/johnjreiser/chupaESRI) - ChupaESRI is a Python module/command line tool to extract features from ArcGIS Server map services.
 * [GeoPandas] (https://github.com/geopandas/geopandas) - Python tools for geographic data.
+* [geojsonio.py] (https://github.com/jwass/geojsonio.py) - Open GeoJSON data on geojson.io from Python. geojsonio.py also contains a command line utility that is a Python port of geojsonio-cli.
 
 
 ## PaaS - Platform as a Service
@@ -337,6 +339,21 @@
 * [tippiecannoe] (https://github.com/mapbox/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
 * [Kosmtik] (https://github.com/kosmtik/kosmtik) - Very lite but extendable mapping framework to create Mapnik ready maps with OpenStreetMap data (and more).
 * [mplleaflet] (https://github.com/jwass/mplleaflet) - Easily convert matplotlib plots from Python into interactive Leaflet web maps.
+
+
+## Tools
+
+* [TileMill] (https://github.com/mapbox/tilemill) - TileMill is a modern map design studio powered by Node.js and Mapnik.
+* [DataPillager] (https://github.com/gdherbert/DataPillager) - Download data from Esri service.
+
+
+## Cheat sheets
+
+* [Fiona-Rasterio-Shapely Cheat Sheet] (https://github.com/sgillies/frs-cheat-sheet) - A cheat sheet for Fiona/Rasterio/Shapely command-line geodata tools.
+* [GDAL] (https://github.com/dwtkns/gdal-cheat-sheet) - Cheat sheet for GDAL/OGR command-line tools.
+* [PostGIS] (http://www.postgis.us/downloads/postgis21_cheatsheet.pdf) - Cheat sheet for PostGIS.
+* [PostGIS 2] (https://gist.github.com/kidpixo/5698476) 
+* [PostGIS Raster] (http://www.postgis.us/downloads/postgis20_raster_cheatsheet.pdf) 
 
 
 ## References
