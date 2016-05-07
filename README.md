@@ -12,9 +12,9 @@
     - [Atmospheric Correction] (#atmospheric-correction)
     - [Libraries] (#libraries)
     - [Python] (#python)
-    - [PaaS - Platform as a Service] (#platform-as-a-service)
-    - [SaaS – Software as a Service] (#software-as-a-service)
-    - [DaaS – Data as a Service] (#data-as-a-service)
+    - [PaaS - [Platform as a Service] (#platform-as-a-service)
+    - [SaaS – [Software as a Service] (#software-as-a-service)
+    - [DaaS – [Data as a Service] (#data-as-a-service)
     - [Java] (#java)
     - [C Sharp] (#c-sharp)
     - [C++] (#c++)
@@ -362,6 +362,8 @@
 * [GeoJSON] (https://github.com/tmcw/awesome-geojson)
 * [Vector Tiles] (https://github.com/mapbox/awesome-vector-tiles)
 * [Awesome Spatial] (https://github.com/RoboDonut/awesome-spatial/blob/master/README.md)
+* [Awesome SQLite] (https://github.com/planetopendata/awesome-sqlite) 
+* [Awesome Python] (https://github.com/vinta/awesome-python/blob/master/README.md)
 
 
 
