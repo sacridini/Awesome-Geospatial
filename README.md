@@ -26,6 +26,7 @@
     - [Node.js] (#node.js)
     - [Mobile Development] (#mobile-development)
     - [Visualization] (#visualization)
+    - [References] (#references)
 
 - - -
 
@@ -58,6 +59,9 @@
 * [OSSIM] (http://trac.osgeo.org/ossim/) - Suite of geospatial libraries and applications used to process imagery, maps, terrain, and vector data.
 * [e-Foto] (http://www.efoto.eng.uerj.br/en) - Free and open source digital photogrammetric workstation.
 * [Guidos Toolbox] (http://forest.jrc.ec.europa.eu/download/software/guidos/) - Some GDAL functionalities and includes MSPA (Morphological Spatial Pattern Analysis) for connectivity maps.
+* [Matlab] (http://www.mathworks.com/products/matlab/) - Multi-paradigm numerical computing environment and fourth-generation programming language.
+* [IDL] (http://www.harrisgeospatial.com/ProductsandSolutions/GeospatialProducts/IDL.aspx) - IDL is a programming language used for data analysis and image processing programming.
+* [ArcMap Raster Edit Suite] (https://github.com/haoliangyu/ares) - An ArcMap Addin that enables manual editing of single pixels on raster layer.
 
 
 ## Geographic Information System
@@ -335,6 +339,12 @@
 * [mplleaflet] (https://github.com/jwass/mplleaflet) - Easily convert matplotlib plots from Python into interactive Leaflet web maps.
 
 
+## References
+
+* [Essential Python Geospatial Libraries] (http://carsonfarmer.com/2013/07/essential-python-geo-libraries/) 
+* [GeoJSON] (https://github.com/tmcw/awesome-geojson)
+* [Vector Tiles] (https://github.com/mapbox/awesome-vector-tiles)
+* [Awesome Spatial] (https://github.com/RoboDonut/awesome-spatial/blob/master/README.md)
 
 
 
