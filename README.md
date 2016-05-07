@@ -19,11 +19,13 @@
     - [C Sharp] (#c-sharp)
     - [C++] (#c++)
     - [C] (#c)
+    - [Ruby] (#ruby)
     - [CSS] (#css)
     - [Julia] (#julia)
     - [R] (#r)
     - [Node.js] (#node.js)
     - [Mobile Development] (#mobile-development)
+    - [Visualization] (#visualization)
 
 - - -
 
@@ -75,6 +77,7 @@
 * [AutoCAD Map 3D] (http://www.autodesk.com.br/products/autocad-map-3d/overview) - GIS AutoCAD integration.
 * [Smallworld] (https://www.gegridsolutions.com/geospatial/catalog/smallworld_core.htm) - Commercial GIS.
 * [OpenJUMP] (http://openjump.org/) - Open source Java GIS.
+* [Mapbox Studio] (https://github.com/mapbox/mapbox-studio-classic) - Desktop application for vector tile driven map design.
 
 
 ## Web Map Development
@@ -89,6 +92,7 @@
 * [Leaflet.MapboxVectorTile] (https://github.com/SpatialServer/Leaflet.MapboxVectorTile) - A Leaflet Plugin that renders Mapbox Vector Tiles on HTML5 Canvas.
 * [Flare Cluster Layer] (https://github.com/nickcam/FlareClusterLayer) - ArcGIS javascript custom graphics layer. Creates clusters and creates flares for clusters.
 * [Google Maps API Polyline String Decoder] (https://github.com/mgd722/decode-google-maps-polyline) - Function that will convert encoded polyline strings (as returned by the Google Maps API) into a list of lat/lon pairs.
+* [Mapzen Tangram] (https://github.com/tangrams/tangram) - JavaScript library for rendering 2D & 3D maps live in a web browser with WebGL, supports MVT, GeoJSON, TopoJSON.
 
 
 ## Web Map Server
@@ -97,6 +101,8 @@
 * [Mapserver] (http://mapserver.org/) - WMS written in C.
 * [Mapnik] (http://mapnik.org/) - C++/Python/Node.js library for rendering.
 * [MapGuide] (https://mapguide.osgeo.org/) - Runs on Linux or Windows, supports Apache and IIS web servers, and has APIs (PHP, .NET, Java, and JavaScript) for application development.
+* [PGRestAPI] (https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities. AKA: SpatialServer.
+* [utilery] (https://github.com/tilery/utilery) - Micro vector tile manufacturing from PostGIS.
 
 
 ## Radar
@@ -143,6 +149,7 @@
 
 ## Python
 
+*[GeoDjango] (http://geodjango.org/) - Django geographic web framework.
 * [Landsat-util] (https://github.com/developmentseed/landsat-util) - Landsat-util is a command line utility that makes it easy to search, download, and process Landsat imagery.
 * [Rasterio] (https://github.com/mapbox/rasterio) - Rasterio employs GDAL under the hood for file I/O and raster formatting.
 * [Rasterstats] (https://github.com/perrygeo/python-rasterstats/) - Python module for summarizing geospatial raster datasets based on vector geometries.
@@ -225,13 +232,23 @@
 * [geojson-vt-cpp] (https://github.com/mapbox/geojson-vt-cpp) - Port to C++ of JS GeoJSON-VT for slicing GeoJSON into vector tiles on the fly.
 * [Supercluster] (https://github.com/mapbox/supercluster.hpp) - A C++14 port of supercluster, a fast 2D point clustering library for use in interactive maps.
 * [Mapbox GL Native] (https://github.com/mapbox/mapbox-gl-native) - Render Mapbox styles in mobile, desktop, and node applications using C++ and OpenGL.
+* [Mapzen Tangram-ES] (https://github.com/tangrams/tangram-es) - C++ library for rendering 2D and 3D maps using OpenGL ES 2 with custom styling and interactions
+* [Mapnik Vector Tile] (https://github.com/mapbox/mapnik-vector-tile) - Mapnik C++ implemention of Mapbox Vector Tile specification.
+* [Vector Tiles Producer] (https://github.com/vross/vector-tiles-producer) - Command line tool in C++ to creates vector tiles for a given area at chosen zoom levels using a Mapnik XML.
 
 
 ## C
 
 * [Shapefile C Library] (http://shapelib.maptools.org/) - Provides the ability to write simple C programs for reading, writing and updating (to a limited extent) .shp and .dbf files.
 * [Libuv] (https://github.com/libuv/libuv) - Cross-platform asynchronous I/O.
-* 
+* [Datamaps] (https://github.com/ericfischer/datamaps) - This is a tool for indexing large lists of geographic points or lines and dynamically generating map tiles from the index for display.
+ 
+
+
+## Ruby
+
+* [Geokit] (http://geokit.rubyforge.org/) - A Ruby gem & Rails plugin for easier map-based applications.
+* [Rgeo] (https://github.com/rgeo/rgeo) - RGeo is a geospatial data library for Ruby. It provides an implementation of the Open Geospatial Consortium's Simple Features Specification
 
 
 ## CSS
@@ -300,7 +317,22 @@
 * [Mapbox iOS SDK] (https://www.mapbox.com/ios-sdk/) - An open source toolset for building mapping applications for iPhone and iPad devices.
 * [Google Maps API for Android] (https://developers.google.com/maps/android/) - Google maps for Android.
 * [Google Maps API for iOS] (https://developers.google.com/maps/ios/) - Google maps for iOS.
+* [Nutiteq Maps SDK] (http://www.nutiteq.com/nutiteq-sdk/overview/) - C++ maps library for iOS, Android, Windows Phone and Xamarin with bindings for Java, ObjectiveC and C#.
+* [WhirlyGlobe/Maply] (http://mousebird.github.io/WhirlyGlobe/) - Objective C code that is able to read and render vector tiles(and style with mapnik xml) on iOS devices.
 
+
+## Visualization 
+
+* [Processing] (https://processing.org/) - Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts.
+* [P5.js] (https://p5js.org/) - Javascript library that starts with the original goal of Processing.
+* [Processing.py] (http://py.processing.org/) - Python mode for Processing.
+* [D3.js] (https://d3js.org/) - D3.js is a JavaScript library for manipulating documents based on data.
+* [openFrameworks] (http://openframeworks.cc/) - openFrameworks is an open source C++ toolkit for creative coding.
+* [Folium] (https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
+* [Blender GIS] (https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data.
+* [tippiecannoe] (https://github.com/mapbox/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
+* [Kosmtik] (https://github.com/kosmtik/kosmtik) - Very lite but extendable mapping framework to create Mapnik ready maps with OpenStreetMap data (and more).
+* [mplleaflet] (https://github.com/jwass/mplleaflet) - Easily convert matplotlib plots from Python into interactive Leaflet web maps.
 
 
 
