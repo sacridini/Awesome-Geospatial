@@ -28,6 +28,8 @@
     - [Mobile Development] (#mobile-development)
     - [Visualization] (#visualization)
     - [Tools] (#tools)
+    - [Data Sources] (#data-sources)
+    - [Resources] (#resources)
     - [References] (#references)
 
 - - -
@@ -367,6 +369,17 @@
 * [PostGIS] (http://www.postgis.us/downloads/postgis21_cheatsheet.pdf) - Cheat sheet for PostGIS.
 * [PostGIS 2] (https://gist.github.com/kidpixo/5698476) 
 * [PostGIS Raster] (http://www.postgis.us/downloads/postgis20_raster_cheatsheet.pdf) 
+
+## Data Sources
+
+* [TZ Timezone Shapefiles] (http://efele.net/maps/tz/world/) Polygon boundaries of world timezones.
+
+
+## Resourses
+
+* [Cartographical Map Projections] (http://www.progonos.com/furuti/MapProj/Normal/TOC/cartTOC.html) - A good introduction to projected coordinate systems
+* [Spatialreference.org] (http://spatialreference.org/) - Source for coordinate system information.
+* [ESRI Shapefile Specs] (http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) - Shapefile specifications.
 
 
 ## References
