@@ -371,6 +371,7 @@
 * [Awesome Spatial] (https://github.com/RoboDonut/awesome-spatial/blob/master/README.md)
 * [Awesome SQLite] (https://github.com/planetopendata/awesome-sqlite) 
 * [Awesome Python] (https://github.com/vinta/awesome-python/blob/master/README.md)
+* [GeoRails] (http://daniel-azuma.com/articles/georails/)
 
 
 
