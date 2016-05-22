@@ -255,6 +255,13 @@
 
 * [Geokit] (http://geokit.rubyforge.org/) - A Ruby gem & Rails plugin for easier map-based applications.
 * [Rgeo] (https://github.com/rgeo/rgeo) - RGeo is a geospatial data library for Ruby. It provides an implementation of the Open Geospatial Consortium's Simple Features Specification
+* [Rgeo Shapefile] (https://github.com/rgeo/rgeo-shapefile) - Optional module for RGeo for reading geospatial data from ESRI shapefiles.
+* [Rgeo GeoJSON] (https://github.com/rgeo/rgeo-geojson) - RGeo component for reading and writing GeoJSON.
+* [ffi-geos] (RGeo component for reading and writing GeoJSON) - Low-level ruby bindings to GEOS library.
+* [PostGIS ActiveRecord Adapter] (https://github.com/rgeo/activerecord-postgis-adapter) - ActiveRecord adapter for PostGIS.
+* [SpatiaLite ActiveRecord Adapter] (https://github.com/rgeo/activerecord-spatialite-adapter) - ActiveRecord adapter for Spatialite.
+* [Mongoid Geospatial] (https://github.com/nofxx/mongoid-geospatial) - A Mongoid Extension that simplifies the use of MongoDB spatial features.
+* [Ruby Geocoder] (http://www.rubygeocoder.com/) - Integration with geocoding services.
 
 
 ## CSS
