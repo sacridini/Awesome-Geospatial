@@ -372,7 +372,8 @@
 
 ## Data Sources
 
-* [TZ Timezone Shapefiles] (http://efele.net/maps/tz/world/) Polygon boundaries of world timezones.
+* [TZ Timezone Shapefiles] (http://efele.net/maps/tz/world/) - Polygon boundaries of world timezones.
+* [USGS Earth Explorer] (http://earthexplorer.usgs.gov/) - Provides online search,metadata export, and data download for earth science data from the archives of the USGS.
 
 
 ## Resourses
