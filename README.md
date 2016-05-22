@@ -23,6 +23,7 @@
     - [CSS] (#css)
     - [Julia] (#julia)
     - [R] (#r)
+    - [JavaScript] (#javascript)
     - [Node.js] (#node.js)
     - [Mobile Development] (#mobile-development)
     - [Visualization] (#visualization)
@@ -312,6 +313,11 @@
 * [mapproj] (https://cran.r-project.org/web/packages/mapproj/index.html) - Map Projections.
 * [gstat] (https://cran.r-project.org/web/packages/gstat/index.html) - Spatio-Temporal Geostatistical Modelling, Prediction and Simulation.
 * [intamap] (https://cran.r-project.org/web/packages/intamap/index.html) - Procedures for automated interpolation.
+
+## JavaScript
+* [Heatmap.js] (https://www.patrick-wied.at/static/heatmapjs/) - A heatmap implementation for Javascript.
+* [Thermo.js] (https://github.com/dazuma/thermo.js) - Another heatmap implementation for Javascript.
+* [Heatcanvas.js] (https://github.com/sunng87/heatcanvas) - Yet another heatmap implementation for Javascript.
 
 
 ## Node.js
