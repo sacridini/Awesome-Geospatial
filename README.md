@@ -183,6 +183,7 @@
 * [chupaESRI] (https://github.com/johnjreiser/chupaESRI) - ChupaESRI is a Python module/command line tool to extract features from ArcGIS Server map services.
 * [GeoPandas] (https://github.com/geopandas/geopandas) - Python tools for geographic data.
 * [geojsonio.py] (https://github.com/jwass/geojsonio.py) - Open GeoJSON data on geojson.io from Python. geojsonio.py also contains a command line utility that is a Python port of geojsonio-cli.
+* [Ogcserver] (https://github.com/mapnik/OGCServer) - Python WMS implementation using Mapnik.
 
 
 ## PaaS - Platform as a Service
@@ -330,6 +331,7 @@
 * [PGRestAPI] (https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities.
 * [Supercluster] (https://github.com/mapbox/supercluster) - A crazy fast geospatial point clustering library for browsers and Node.
 * [SQLite3] (https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
+* [Windshaft] (https://github.com/CartoDB/Windshaft) - A Node.js map tile library for PostGIS and torque.js, with CartoCSS styling.
 
 
 ## Mobile Development
@@ -360,6 +362,7 @@
 
 * [TileMill] (https://github.com/mapbox/tilemill) - TileMill is a modern map design studio powered by Node.js and Mapnik.
 * [DataPillager] (https://github.com/gdherbert/DataPillager) - Download data from Esri service.
+* [Osm2pgsql] (https://github.com/openstreetmap/osm2pgsql) - osm2pgsql is a tool for loading OpenStreetMap data into a PostgreSQL.
 
 
 ## Cheat sheets
