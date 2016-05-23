@@ -379,11 +379,12 @@
 * [USGS Earth Explorer] (http://earthexplorer.usgs.gov/) - Provides online search,metadata export, and data download for earth science data from the archives of the USGS.
 
 
-## Resourses
+## Resources
 
 * [Cartographical Map Projections] (http://www.progonos.com/furuti/MapProj/Normal/TOC/cartTOC.html) - A good introduction to projected coordinate systems
 * [Spatialreference.org] (http://spatialreference.org/) - Source for coordinate system information.
 * [ESRI Shapefile Specs] (http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) - Shapefile specifications.
+* [GeoJSON.io] (http://geojson.io/) - geojson.io is a quick, simple tool for creating, viewing, and sharing maps.
 
 
 ## References
