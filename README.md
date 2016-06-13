@@ -231,6 +231,7 @@
 * [DotSpatial] (https://dotspatial.codeplex.com/) - DotSpatial is a geographic information system library written for .NET 4.
 * [NTS Net Topology Suite] (https://github.com/NetTopologySuite/NetTopologySuite) - A .NET GIS solution that is fast and reliable for the .NET platform.
 * [Geo] (https://github.com/sibartlett/Geo) - A geospatial library for .NET
+* [SharpKml] (https://sharpkml.codeplex.com/) - Is able to read/write both KML files and KMZ files.
 
 
 ## C++
