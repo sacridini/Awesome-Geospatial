@@ -185,6 +185,7 @@
 * [geojsonio.py] (https://github.com/jwass/geojsonio.py) - Open GeoJSON data on geojson.io from Python. geojsonio.py also contains a command line utility that is a Python port of geojsonio-cli.
 * [Ogcserver] (https://github.com/mapnik/OGCServer) - Python WMS implementation using Mapnik.
 * [RSGISLib] (http://www.rsgislib.org/) - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using Python bindings or an XML interface.
+* [Scikit-image] (http://scikit-image.org/) - Scikit-image is a collection of algorithms for image processing.
 
 
 ## PaaS - Platform as a Service
