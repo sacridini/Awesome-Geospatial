@@ -388,6 +388,7 @@
 * [Mapzen] (https://mapzen.com/metro-extracts) - It provides data in OSM/PBF and Esri shapefile formats for popular cities.
 * [Geofabrik] (http://download.geofabrik.de/) - This is another source of prepared OpenStreetMap data. This distribution is generally built nightly and comes in OSM XML, pbf, and shapefile (for very popular areas) formats.
 * [Natural Earth] (www.naturalearthdata.com) - This site offers public domain map data sets that contain both raster and vector data.
+* [ASTER Data] (https://lpdaac.usgs.gov/dataset_discovery/aster) - Download ASTER data.
 
 
 ## Resources
