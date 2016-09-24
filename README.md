@@ -184,6 +184,7 @@
 * [GeoPandas] (https://github.com/geopandas/geopandas) - Python tools for geographic data.
 * [geojsonio.py] (https://github.com/jwass/geojsonio.py) - Open GeoJSON data on geojson.io from Python. geojsonio.py also contains a command line utility that is a Python port of geojsonio-cli.
 * [Ogcserver] (https://github.com/mapnik/OGCServer) - Python WMS implementation using Mapnik.
+* [RSGISLib] (http://www.rsgislib.org/) - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using Python bindings or an XML interface.
 
 
 ## PaaS - Platform as a Service
@@ -248,6 +249,8 @@
 * [Vector Tiles Producer] (https://github.com/vross/vector-tiles-producer) - Command line tool in C++ to creates vector tiles for a given area at chosen zoom levels using a Mapnik XML.
 * [libGeoTiff] (https://trac.osgeo.org/geotiff/) - Manipulate TIFF based interchange format for georeferenced raster imagery.
 * [Orfeo ToolBox] (https://www.orfeo-toolbox.org/) - Orfeo TooLBox (OTB) is an open-source C++ library for remote sensing images processing, distributed under the CeCILL-v2 licence.
+* [ITK] (https://itk.org/) - ITK is an open-source, cross-platform system that provides developers with an extensive suite of software tools for image analysis.
+* [RSGISLib] (https://bitbucket.org/petebunting/rsgislib/src/bf7933996822?at=default) - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using Python bindings or an XML interface.
 
 
 ## C
@@ -380,6 +383,10 @@
 
 * [TZ Timezone Shapefiles] (http://efele.net/maps/tz/world/) - Polygon boundaries of world timezones.
 * [USGS Earth Explorer] (http://earthexplorer.usgs.gov/) - Provides online search,metadata export, and data download for earth science data from the archives of the USGS.
+* [GeoNames] (www.geonames.org) - The GeoNames geographical database covers all countries and contains over eight million place names (cities, postal codes, countries) that are available for download free of charge.
+* [Mapzen] (https://mapzen.com/metro-extracts) - It provides data in OSM/PBF and Esri shapefile formats for popular cities.
+* [Geofabrik] (http://download.geofabrik.de/) - This is another source of prepared OpenStreetMap data. This distribution is generally built nightly and comes in OSM XML, pbf, and shapefile (for very popular areas) formats.
+* [Natural Earth] (www.naturalearthdata.com) - This site offers public domain map data sets that contain both raster and vector data.
 
 
 ## Resources
