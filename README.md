@@ -107,7 +107,6 @@
 
 * [Geoserver] (http://geoserver.org/) - WMS written in Java and relies on GeoTools. Allows users to share and edit geospatial data.
 * [Mapserver] (http://mapserver.org/) - WMS written in C.
-* [Mapnik] (http://mapnik.org/) - C++/Python/Node.js library for rendering.
 * [MapGuide] (https://mapguide.osgeo.org/) - Runs on Linux or Windows, supports Apache and IIS web servers, and has APIs (PHP, .NET, Java, and JavaScript) for application development.
 * [PGRestAPI] (https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities. AKA: SpatialServer.
 * [utilery] (https://github.com/tilery/utilery) - Micro vector tile manufacturing from PostGIS.
@@ -150,6 +149,7 @@
 ## Libraries
 
 * [GDAL] (http://www.gdal.org/) - Geospatial Data Abstraction Library (GDAL) is a computer library.
+* [Mapnik] (http://mapnik.org/) - C++/Python/Node.js library for rendering.
 * [Terralib] (http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
 * [GeographicLib] (http://geographiclib.sourceforge.net/) - For solving geodesic problems. Implemented in C, C++, Java, Javascript, Fortran, Python and Matlab. 
 * [Orfeo ToolBox] (https://www.orfeo-toolbox.org/) - Orfeo ToolBox (OTB) is an open-source C++ library for remote sensing images processing.
