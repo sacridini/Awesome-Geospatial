@@ -239,7 +239,7 @@
 ## C++
 
 * [GEOS](https://trac.osgeo.org/geos/) - GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS).
-* [GDAL](http://www.gdal.org/) - Geospatial Data Abstraction Library (GDAL) is a computer library.
+* [GDAL](http://www.gdal.org/) - Geospatial Data Abstraction Library (GDAL) is a computer library that serve as a translator library for raster and vector geospatial data formats.
 * [Mapnik](http://mapnik.org/) - C++ library for rendering.
 * [Terralib](http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
 * [Boost Geometry](http://www.boost.org/doc/libs/1_61_0/libs/geometry/doc/html/index.html) - Part of collection of the Boost C++ Libraries, defines concepts, primitives and algorithms for solving geometry problems.
