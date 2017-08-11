@@ -30,6 +30,7 @@
     - [Tools](#tools)
     - [Data Sources](#data-sources)
     - [Resources](#resources)
+    - [Conferences](#conferences)
     - [References](#references)
 
 - - -
@@ -402,6 +403,11 @@
 * [Spatialreference.org](http://spatialreference.org/) - Source for coordinate system information.
 * [ESRI Shapefile Specs](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) - Shapefile specifications.
 * [GeoJSON.io](http://geojson.io/) - geojson.io is a quick, simple tool for creating, viewing, and sharing maps.
+
+## Conferences
+
+* [FOSS4G](http://foss4g.org/) - Free and Open Source Software for Geospatial.
+* [State of the Map](https://stateofthemap.org/) - is the annual event for all mappers and OpenStreetMap users.
 
 
 ## References
