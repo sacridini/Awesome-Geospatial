@@ -300,7 +300,7 @@
 * [GeoJSON.jl](https://github.com/JuliaGeo/GeoJSON.jl) - This library is developed independently of, but is heavily influenced in design by the python-geojson package.
 * [Turf.jl](https://github.com/yeesian/Turf.jl) - This library is a port of Turf.js to the Julia programming language for geospatial analysis.
 * [Images.jl](https://github.com/JuliaImages/Images.jl) - An image processing library for Julia.
-* [GeoStats.jl](https://github.com/visr/GeoStats.jl) - Geostatistics in Julia.
+* [GeoStats.jl](https://github.com/juliohm/GeoStats.jl) - Geostatistics in Julia.
 * [ArchGDAL](https://github.com/yeesian/ArchGDAL.jl) - Vector and Raster interfaces.
 * [Proj4.jl](https://github.com/JuliaGeo/Proj4.jl) - A simple wrapper around the Proj.4 cartographic projections library.
 * [Geodesy.jl](https://github.com/JuliaGeo/Geodesy.jl) - Work with points defined in various coordinate systems.
