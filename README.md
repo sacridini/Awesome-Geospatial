@@ -19,6 +19,7 @@
     - [C Sharp](#c-sharp)
     - [C++](#c++)
     - [C](#c)
+    - [Rust](#rust)
     - [Ruby](#ruby)
     - [CSS](#css)
     - [Julia](#julia)
@@ -269,7 +270,20 @@
 * [Libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O.
 * [Datamaps](https://github.com/ericfischer/datamaps) - This is a tool for indexing large lists of geographic points or lines and dynamically generating map tiles from the index for display.
  
+## Rust
 
+* [rust-geo](https://github.com/georust/rust-geo) - Geospatial primitives and algorithms for Rust.
+* [rust-gdal](https://github.com/georust/rust-gdal) - Rust bindings for GDAL.
+* [rust-proj](https://github.com/georust/rust-proj) - Rust bindings for Proj.
+* [rust-geojson](https://github.com/georust/rust-geojson) - Library for serializing the GeoJSON vector GIS file format.
+* [rust-topojson](https://github.com/georust/rust-topojson) - TopoJSON bindings and utilities for Rust.
+* [rust-geohash](https://github.com/georust/rust-geohash) - Geohash for Rust.
+* [rust-wkt](https://github.com/georust/rust-wkt) - Rust read/write support for well-known text (WKT).
+* [rust-polyline](https://github.com/georust/rust-polyline) - Google Encoded Polyline encoding & decoding in Rust.
+* [rust-geocoding](https://github.com/georust/rust-geocoding) - Geocoding library for Rust.
+* [rust-osm](https://github.com/georust/rust-osm) - OSM XML serialization and other OpenStreetMap utilities.
+* [rust-shapefile](https://github.com/georust/rust-shapefile) - Rust read/write support for shapefiles.
+* [rust-gpx](https://github.com/georust/rust-gpx) - Rust read/write support for GPS Exchange Format (GPX).
 
 ## Ruby
 
