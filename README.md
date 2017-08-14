@@ -26,6 +26,7 @@
     - [JavaScript](#javascript)
     - [Node.js](#nodejs)
     - [Mobile Development](#mobile-development)
+    - [Geospatial Big Data](#geospatial-big-data)
     - [Visualization](#visualization)
     - [Tools](#tools)
     - [Data Sources](#data-sources)
@@ -315,6 +316,13 @@
 * [Interpolations.jl](https://github.com/juliohm/Interpolations.jl) - This package implements a variety of interpolation schemes for the Julia language.
 * [NMEA.jl](https://github.com/zznop/NMEA.jl) - NMEA.jl is a package for parsing NMEA GPS protocol sentences.
 * [Watershed.jl](https://github.com/seung-lab/Watershed.jl) - This is a translation of Zlateski's C++ Watershed code.
+* [ImageSegmentation.jl](https://github.com/JuliaImages/ImageSegmentation.jl) - Julia package for multiple Image Segmentation Algorithms.
+* [ImageMorphology.jl](https://github.com/JuliaImages/ImageMorphology.jl) - This package provides morphology-related functionality to the Images.jl project.
+* [ImageFiltering.jl](https://github.com/JuliaImages/ImageFiltering.jl) - ImageFiltering implements blurring, sharpening, gradient computation, and other linear filtering operations, as well nonlinear filters like min/max.
+* [ImageTransformations.jl](https://github.com/JuliaImages/ImageTransformations.jl/tree/master/src) - This package provides support for image resizing, image rotation, and other spatial transformations of arrays.
+* [ImageMetadata.jl](https://github.com/JuliaImages/ImageMetadata.jl) - ImageMetadata is a simple package providing utilities for working with images that have metadata attached.
+* [Tinker.jl](https://github.com/JuliaImages/Tinker.jl) - Interactive graphical tool for complex image analysis.
+* [ImageFeatures.jl](https://github.com/JuliaImages/ImageFeatures.jl) - Image feature detection for the Julia language.
 
 ## R
 
@@ -483,6 +491,11 @@
 * [Nutiteq Maps SDK](http://www.nutiteq.com/nutiteq-sdk/overview/) - C++ maps library for iOS, Android, Windows Phone and Xamarin with bindings for Java, ObjectiveC and C#.
 * [WhirlyGlobe/Maply](http://mousebird.github.io/WhirlyGlobe/) - Objective C code that is able to read and render vector tiles(and style with mapnik xml) on iOS devices.
 
+## Geospatial Big Data
+
+* [GeoMesa](https://github.com/locationtech/geomesa) - GeoMesa is a suite of tools for working with big geo-spatial data in a distributed fashion.
+* [GeoWave](https://github.com/locationtech/geowave) - GeoWave provides geospatial and temporal indexing on top of Accumulo and HBase.
+* [GeoTrellis](https://github.com/locationtech/geotrellis) - GeoTrellis is a geographic data processing engine for high performance applications.
 
 ## Visualization 
 
@@ -500,6 +513,7 @@
 
 ## Tools
 
+* [GeoGig](https://github.com/locationtech/geogig) - GeoGig is a Distributed Version Control System (DVCS) specially designed to handle geospatial data efficiently.
 * [TileMill](https://github.com/mapbox/tilemill) - TileMill is a modern map design studio powered by Node.js and Mapnik.
 * [DataPillager](https://github.com/gdherbert/DataPillager) - Download data from Esri service.
 * [Osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - osm2pgsql is a tool for loading OpenStreetMap data into a PostgreSQL.
