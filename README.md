@@ -221,6 +221,7 @@
 ## Java
 
 * [Geotools](http://www.geotools.org/) - GeoTools is an open source Java library that provides tools for geospatial data.
+* [GeoServer](http://geoserver.org/) - GeoServer is open source server for sharing geospatial data.
 * [Geonetwork](http://geonetwork-opensource.org/) - GeoNetwork is a catalog application to manage spatially referenced resources.
 * [JTS Topology Suite](http://www.vividsolutions.com/jts/jtshome.htm) - JTS Topology Suite is an API of 2D spatial predicates and functions.
 * [GeOxygene](https://sourceforge.net/projects/oxygene-project/) - Provide an open framework which implements OGC/ISO specifications for the development and deployment of GIS applications.
