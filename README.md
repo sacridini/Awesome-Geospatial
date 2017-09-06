@@ -502,7 +502,6 @@
 * [Thermo.js](https://github.com/dazuma/thermo.js) - Another heatmap implementation for Javascript.
 * [Heatcanvas.js](https://github.com/sunng87/heatcanvas) - Yet another heatmap implementation for Javascript.
 * [GeoExt](https://geoext.github.io/geoext3/) - Open Source and enables building desktop-like GIS applications through the web. It is a JavaScript framework that combines the GIS functionality of OpenLayers with the user interface of the ExtJS library provided by Sencha.
-* [ThreeJS](https://threejs.org/) - JavaScript 3D library.
 * [iTowns](http://www.itowns-project.org/) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data. It can connect to WMS/WMTS/TMS servers including elevation data and load many different data formats (3dTiles, gpx, KML and much much more).
 
 
