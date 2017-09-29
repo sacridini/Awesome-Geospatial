@@ -285,7 +285,6 @@
 ## C
 
 * [Shapefile C Library](http://shapelib.maptools.org/) - Provides the ability to write simple C programs for reading, writing and updating (to a limited extent) .shp and .dbf files.
-* [Libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O.
 * [Datamaps](https://github.com/ericfischer/datamaps) - This is a tool for indexing large lists of geographic points or lines and dynamically generating map tiles from the index for display.
  
 ## Rust
