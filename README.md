@@ -140,7 +140,7 @@
 * [FullAnalyze](https://code.google.com/archive/p/fullanalyze/) - Handling, visualizing and processing lidar data (3D point clouds and waveforms).
 * [DielmoOpenLidar](http://www.dielmo.com/eng/ficha-tecnologia-software.php?prod=21) - Open source software based in gvSIG for the management of LiDAR data.
 * [Global Mapper Lidar Module](https://www.bluemarblegeo.com/products/global-mapper-lidar.php) - Lidar module for Global Mapper.
-* [Fusion](http://forsys.cfr.washington.edu/fusion/fusionlatest.html) - Python for Lidar data.
+* [Fusion](http://forsys.cfr.washington.edu/fusion/fusionlatest.html) - CLI/GUI Lidar software.
 * [libLAS](http://www.liblas.org/) - libLAS is a C/C++ library for reading and writing the very common LAS LiDAR format. 
 * [PyLAS](https://pypi.python.org/pypi/PyLAS) - A python library for reading and writing LAS files.
 * [Laspy](http://laspy.readthedocs.io/en/latest/) - Laspy is a python library for reading, modifying, and creating .LAS LIDAR files.
@@ -550,6 +550,7 @@
 
 ## Tools
 
+* [MapShaper](http://mapshaper.org/) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.
 * [GeoGig](https://github.com/locationtech/geogig) - GeoGig is a Distributed Version Control System (DVCS) specially designed to handle geospatial data efficiently.
 * [TileMill](https://github.com/mapbox/tilemill) - TileMill is a modern map design studio powered by Node.js and Mapnik.
 * [DataPillager](https://github.com/gdherbert/DataPillager) - Download data from Esri service.
@@ -580,6 +581,7 @@
 
 ## Resources
 
+* [IndexDatabase](http://www.indexdatabase.de/) - A database for remote sensing indices.
 * [Cartographical Map Projections](http://www.progonos.com/furuti/MapProj/Normal/TOC/cartTOC.html) - A good introduction to projected coordinate systems
 * [Spatialreference.org](http://spatialreference.org/) - Source for coordinate system information.
 * [ESRI Shapefile Specs](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) - Shapefile specifications.
