@@ -19,6 +19,7 @@
     - [C Sharp](#c-sharp)
     - [C++](#c++)
     - [C](#c)
+    - [Go](#go)
     - [Rust](#rust)
     - [Ruby](#ruby)
     - [CSS](#css)
@@ -291,7 +292,18 @@
 
 * [Shapefile C Library](http://shapelib.maptools.org/) - Provides the ability to write simple C programs for reading, writing and updating (to a limited extent) .shp and .dbf files.
 * [Datamaps](https://github.com/ericfischer/datamaps) - This is a tool for indexing large lists of geographic points or lines and dynamically generating map tiles from the index for display.
- 
+
+## Go
+
+* [GoSpatial](https://github.com/jblindsay/go-spatial) - GoSpatial is a simple command-line interface program for manipulating geospatial data.
+* [Go GDAL](https://github.com/lukeroth/gdal) - Go (golang) wrapper for GDAL, the Geospatial Data Abstraction Library.
+* [Go-shp](https://github.com/jonas-p/go-shp) - Go library for reading and writing ESRI Shapefiles. Pure Golang implementation based on the ESRI Shapefile technical description.
+* [Go-proj-4](https://github.com/pebbe/go-proj-4) - Go bindings for the Cartographic Projections Library PROJ.4.
+* [Draw2D](https://github.com/llgcode/draw2d) - 2D rendering for different output (raster, pdf).
+* [Go.Geo](https://github.com/paulmach/go.geo) - Geometry/geography library in Go.
+* [geom](https://github.com/ctessum/geom) - Geometry objects and functions for Go.
+* [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries.
+
 ## Rust
 
 * [rust-geo](https://github.com/georust/rust-geo) - Geospatial primitives and algorithms for Rust.
