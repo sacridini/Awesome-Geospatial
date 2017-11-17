@@ -163,7 +163,7 @@
 
 ## Libraries
 
-* [GDAL](http://www.gdal.org/) - Geospatial Data Abstraction Library (GDAL) is a computer library.
+* [GDAL](http://www.gdal.org/) - Geospatial Data Abstraction Library (GDAL) is a translator library for raster and vector geospatial data formats.
 * [PDAL](https://www.pdal.io/) - Point Data Abstraction Library. GDAL for point cloud data.
 * [Mapnik](http://mapnik.org/) - C++/Python/Node.js library for rendering.
 * [Terralib](http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
