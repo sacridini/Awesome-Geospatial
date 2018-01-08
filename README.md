@@ -225,6 +225,7 @@
 * [ArcGIS Online](https://www.arcgis.com/home/) - ArcGIS Online GIS platform for mapping ans spatial analysis.
 * [Carto](https://carto.com/) -  Cloud computing platform that provides GIS and web mapping tools for display in a web browser.
 * [Mapbox](https://www.mapbox.com/) - Plataform for web map design and manipulation.
+* [OpenMapTiles](https://openmaptiles.com/) - Vector tiles and map services as service, self-hosted or off-line.
 
 
 ## DaaS - Data as a Service
