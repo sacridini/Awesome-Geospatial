@@ -294,6 +294,7 @@
 
 * [Shapefile C Library](http://shapelib.maptools.org/) - Provides the ability to write simple C programs for reading, writing and updating (to a limited extent) .shp and .dbf files.
 * [Datamaps](https://github.com/ericfischer/datamaps) - This is a tool for indexing large lists of geographic points or lines and dynamically generating map tiles from the index for display.
+* [H3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system.
 
 ## Go
 
