@@ -22,6 +22,7 @@
     - [Go](#go)
     - [Rust](#rust)
     - [Ruby](#ruby)
+    - [Lua](#lua)
     - [Swift](#swift)
     - [CSS](#css)
     - [Julia](#julia)
@@ -336,6 +337,12 @@
 * [SpatiaLite ActiveRecord Adapter](https://github.com/rgeo/activerecord-spatialite-adapter) - ActiveRecord adapter for Spatialite.
 * [Mongoid Geospatial](https://github.com/nofxx/mongoid-geospatial) - A Mongoid Extension that simplifies the use of MongoDB spatial features.
 * [Ruby Geocoder](http://www.rubygeocoder.com/) - Integration with geocoding services.
+
+## Lua
+
+* [TerraME](http://www.terrame.org/doku.php) - TerraME is a programming environment for spatial dynamical modelling. It supports cellular automata, agent-based models, and network models running in 2D cell spaces.
+* [Tarantool/GIS](https://github.com/tarantool/gis) - A full-featured geospatial extension for Tarantool.
+* [geo.lua](https://github.com/RedisLabs/geo.lua) - A helper library for Redis geospatial indices.
 
 ## Swift
 
