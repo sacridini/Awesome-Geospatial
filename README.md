@@ -611,6 +611,8 @@
 * [Natural Earth](www.naturalearthdata.com) - This site offers public domain map data sets that contain both raster and vector data.
 * [ASTER Data](https://lpdaac.usgs.gov/dataset_discovery/aster) - Download ASTER data.
 * [INPE Database](http://www.dgi.inpe.br/CDSR/) - Download free satellite data including MODIS, Landsat (1-7), ResourceSat (1-2) and CBERS (2, 2B and 4) data.
+* [Sentinel 2 AWS](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/) - Sentinel 2 data on Amazon S3.
+* [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home) - Sentinel data from scihub.
 
 
 ## Resources
