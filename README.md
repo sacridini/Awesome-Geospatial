@@ -22,6 +22,7 @@
     - [Go](#go)
     - [Rust](#rust)
     - [Ruby](#ruby)
+    - [Swift](#swift)
     - [CSS](#css)
     - [Julia](#julia)
     - [R](#r)
@@ -147,7 +148,7 @@
 * [PyLAS](https://pypi.python.org/pypi/PyLAS) - A python library for reading and writing LAS files.
 * [Laspy](http://laspy.readthedocs.io/en/latest/) - Laspy is a python library for reading, modifying, and creating .LAS LIDAR files.
 * [PDAL](http://www.pdal.io/) - PDAL is a C++ BSD library for translating and manipulating point cloud data.
-
+* [displaz](https://github.com/c42f/displaz) - A hackable lidar viewer.
 
 ## Geographic Data Mining
 
@@ -288,6 +289,7 @@
 * [ITK](https://itk.org/) - ITK is an open-source, cross-platform system that provides developers with an extensive suite of software tools for image analysis.
 * [RSGISLib](https://bitbucket.org/petebunting/rsgislib/src/bf7933996822?at=default) - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using Python bindings or an XML interface.
 * [OSRM (Open Source Routing Machine)](http://project-osrm.org/) - High performance routing engine written in C++, designed to run on OpenStreetMap data. Services available: Nearest, Route, Table, Match, Trip, Tile.
+* [OpenOrienteering Mapper](https://github.com/OpenOrienteering/mapper) - OpenOrienteering Mapper is a software for creating maps for the orienteering sport.
 
 
 ## C
@@ -333,6 +335,10 @@
 * [SpatiaLite ActiveRecord Adapter](https://github.com/rgeo/activerecord-spatialite-adapter) - ActiveRecord adapter for Spatialite.
 * [Mongoid Geospatial](https://github.com/nofxx/mongoid-geospatial) - A Mongoid Extension that simplifies the use of MongoDB spatial features.
 * [Ruby Geocoder](http://www.rubygeocoder.com/) - Integration with geocoding services.
+
+## Swift
+
+* [GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geographic Engine.
 
 
 ## CSS
@@ -529,6 +535,7 @@
 * [Heatcanvas.js](https://github.com/sunng87/heatcanvas) - Yet another heatmap implementation for Javascript.
 * [GeoExt](https://geoext.github.io/geoext3/) - Open Source and enables building desktop-like GIS applications through the web. It is a JavaScript framework that combines the GIS functionality of OpenLayers with the user interface of the ExtJS library provided by Sencha.
 * [iTowns](http://www.itowns-project.org/) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data. It can connect to WMS/WMTS/TMS servers including elevation data and load many different data formats (3dTiles, gpx, KML and much much more).
+* [proj4js](https://github.com/proj4js/proj4js) - JavaScript library to transform coordinates from one coordinate system to another, including datum transformations.
 
 
 ## Node.js
