@@ -295,7 +295,8 @@
 * [OpenOrienteering Mapper](https://github.com/OpenOrienteering/mapper) - OpenOrienteering Mapper is a software for creating maps for the orienteering sport.
 * [TauDEM](https://github.com/dtarb/TauDEM) - Terrain Analysis Using Digital Elevation Models (TauDEM) software for hydrologic terrain analysis and channel network extraction. 
 * [osgearth](https://github.com/gwaldron/osgearth) - A free open source C++ geospatial toolkit.
-+ [dreich_algorithm](https://github.com/csdms-contrib/dreich_algorithm) - Algorithm for extracting channel networks from high resolution topographic data.
+* [dreich_algorithm](https://github.com/csdms-contrib/dreich_algorithm) - Algorithm for extracting channel networks from high resolution topographic data.
+* [gSLICr](http://www.edgardigital.ufba.br/?p=5841) - Real-time super-pixel segmentation.
 
 
 ## C
