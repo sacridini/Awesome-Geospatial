@@ -16,6 +16,7 @@
     - [DaaS - Data as a Service](#daas---data-as-a-service)
     - [Python](#python)
     - [Java](#java)
+    - [Clojure](#clojure)
     - [C Sharp](#c-sharp)
     - [C++](#c++)
     - [C](#c)
@@ -259,6 +260,12 @@
 * [MapFish Print](http://mapfish.github.io/) - The purpose of Mapfish Print is to create reports that contain maps (and map related components) within them. The project is a Java based servlet/library/application based on the mature Jasper Reports Library.
 * [asgbook](https://github.com/lakshmanok/asgbook) - Implementation of GIS/RS features in Java. Its also the code accompanying the book "Automating the Analysis of Spatial Grids" by Valliappa Lakshmanan.
 
+
+## Clojure
+
+* [geo](https://github.com/Factual/geo) - Clojure library for working with geohashes, polygons, and other world geometry.
+
+
 ## C Sharp
 * [Windows UWP map control](https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn642089.aspx) - The Bing Maps control built into the Windows UWP platform.
 * [Bing Maps WPF SDK ](https://msdn.microsoft.com/en-us/library/hh750210.aspx) - The Bing Maps WPF API.
@@ -356,6 +363,7 @@
 * [php-libspatialite](https://github.com/rukandax/php-libspatialite) - PHP Query Builder for SQLite data with Spatial SQL Capabilities.
 * [laragis](https://github.com/ralphschindler/laragis) - A standalone Geo/GIS Provider for Laravel.
 * [li3_geo](https://github.com/nateabele/li3_geo) - Adds geospatial support to Lithium for multiple databases, including MongoDB, CouchDB and MySQL.
+
 
 ## Lua
 
