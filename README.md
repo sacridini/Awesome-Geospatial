@@ -22,6 +22,7 @@
     - [Go](#go)
     - [Rust](#rust)
     - [Ruby](#ruby)
+    - [PHP](#php)
     - [Lua](#lua)
     - [Swift](#swift)
     - [CSS](#css)
@@ -342,6 +343,19 @@
 * [SpatiaLite ActiveRecord Adapter](https://github.com/rgeo/activerecord-spatialite-adapter) - ActiveRecord adapter for Spatialite.
 * [Mongoid Geospatial](https://github.com/nofxx/mongoid-geospatial) - A Mongoid Extension that simplifies the use of MongoDB spatial features.
 * [Ruby Geocoder](http://www.rubygeocoder.com/) - Integration with geocoding services.
+
+
+## PHP
+
+* [GeoPHP](https://geophp.net/) - Advanced geometry operations in PHP.
+* [geospatial](https://github.com/php-geospatial/geospatial) - PHP Extension to handle common geospatial functions.
+* [geojson](https://github.com/jmikola/geojson) - GeoJSON implementation for PHP.
+* [laravel-geo](https://github.com/eleven-lab/laravel-geo) - GeoSpatial integration on Laravel 5.2+ that supports MySQL and PostgreSQL.
+* [shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP.
+* [ShapeReader](https://github.com/muka/ShapeReader) - A PHP library to parse ESRI Shape files.
+* [php-libspatialite](https://github.com/rukandax/php-libspatialite) - PHP Query Builder for SQLite data with Spatial SQL Capabilities.
+* [laragis](https://github.com/ralphschindler/laragis) - A standalone Geo/GIS Provider for Laravel.
+* [li3_geo](https://github.com/nateabele/li3_geo) - Adds geospatial support to Lithium for multiple databases, including MongoDB, CouchDB and MySQL.
 
 ## Lua
 
