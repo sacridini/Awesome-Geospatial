@@ -85,6 +85,7 @@
 ## Geographic Information System
 
 * [ArcGIS](https://www.arcgis.com/features/) - GIS for working with maps and geographic information.
+* [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/) - Fully 64-bit version of ArcGIS with new GUI and 2D/3D integration.
 * [QGIS](http://www.qgis.org/en/site/) - Cross-platform free and open-source desktop geographic information system.
 * [Terraview](http://www.dpi.inpe.br/terraview_eng/index.php) - GIS application built using the TerraLib  GIS library.
 * [gvSIG](http://www.gvsig.com/en) - Free and open source GIS.
@@ -213,7 +214,9 @@
 * [Landsat-util](https://github.com/developmentseed/landsat-util) - Landsat-util is a command line utility that makes it easy to search, download, and process Landsat imagery.
 * [Rasterio](https://github.com/mapbox/rasterio) - Rasterio employs GDAL under the hood for file I/O and raster formatting.
 * [Rasterstats](https://github.com/perrygeo/python-rasterstats/) - Python module for summarizing geospatial raster datasets based on vector geometries.
+* [ArcGIS Python API](https://developers.arcgis.com/python/) - ArcGIS API for Python is a Python library for working with maps and geospatial data, powered by web GIS.
 * [Pandas](http://pandas.pydata.org/) - Open source library providing high-performance, easy-to-use data structures and data analysis tools for the Python.
+* [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data.
 * [Shapely](https://pypi.python.org/pypi/Shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
 * [Cartopy](http://scitools.org.uk/cartopy/) - A library providing cartographic tools for python for plotting spatial data.
 * [Rtree](http://toblerity.org/rtree/) - For efficiently querying spatial data.
@@ -233,7 +236,6 @@
 * [PyProj](https://github.com/jswhit/pyproj) - For conversions between projections.
 * [Pyncf](https://github.com/karimbahgat/pyncf) - Pure Python NetCDF file reading and writing.
 * [chupaESRI](https://github.com/johnjreiser/chupaESRI) - ChupaESRI is a Python module/command line tool to extract features from ArcGIS Server map services.
-* [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data.
 * [geojsonio.py](https://github.com/jwass/geojsonio.py) - Open GeoJSON data on geojson.io from Python. geojsonio.py also contains a command line utility that is a Python port of geojsonio-cli.
 * [Ogcserver](https://github.com/mapnik/OGCServer) - Python WMS implementation using Mapnik.
 * [RSGISLib](http://www.rsgislib.org/) - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using Python bindings or an XML interface.
