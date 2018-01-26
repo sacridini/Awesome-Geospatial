@@ -11,10 +11,10 @@
     - [Geographic Data Mining](#geographic-data-mining)
     - [Atmospheric Correction](#atmospheric-correction)
     - [Libraries](#libraries)
-    - [Python](#python)
     - [PaaS - Platform as a Service](#paas---platform-as-a-service)
     - [SaaS - Software as a Service](#saas---software-as-a-service)
     - [DaaS - Data as a Service](#daas---data-as-a-service)
+    - [Python](#python)
     - [Java](#java)
     - [C Sharp](#c-sharp)
     - [C++](#c++)
@@ -26,9 +26,9 @@
     - [Swift](#swift)
     - [CSS](#css)
     - [Julia](#julia)
-    - [R](#r)
     - [JavaScript](#javascript)
     - [Node.js](#nodejs)
+    - [R](#r)
     - [Mobile Development](#mobile-development)
     - [Geospatial Big Data](#geospatial-big-data)
     - [Visualization](#visualization)
@@ -179,6 +179,32 @@
 * [OSM Building](https://osmbuildings.org/) - A JavaScript library for visualizing OpenStreetMap building geometry on 2D and 3D maps.
 
 
+## PaaS - Platform as a Service
+
+* [Google Maps API](https://developers.google.com/maps/) - Google's PaaS (Platform as a Service) for Geocoding or analysis/processing services.
+* [Microsoft Bing API](https://www.microsoft.com/en-us/maps) - Microsoft Bing Maps API.
+* [OpenStreetMap API](http://wiki.openstreetmap.org/wiki/API_v0.6) - OpenStreetMap API.
+* [Mapbox.js](https://www.mapbox.com/mapbox.js/api/v2.4.0/) - MapBox Javascript API.
+* [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - MapBox WebGL Javascript API.
+
+
+## SaaS - Software as a Service
+
+* [ArcGIS Online](https://www.arcgis.com/home/) - ArcGIS Online GIS platform for mapping ans spatial analysis.
+* [Carto](https://carto.com/) -  Cloud computing platform that provides GIS and web mapping tools for display in a web browser.
+* [Mapbox](https://www.mapbox.com/) - Plataform for web map design and manipulation.
+* [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser.
+* [OpenMapTiles](https://openmaptiles.com/) - Vector tiles and map services as service, self-hosted or off-line.
+
+
+## DaaS - Data as a Service
+
+* [Apple Maps](https://mapsconnect.apple.com/) - Apple map service.
+* [Google Maps](https://www.google.com.br/maps) - Google map service.
+* [Microsoft Bing Maps](http://www.bing.com/mapspreview) - Microsoft map service.
+* [OpenStreetMap](http://www.openstreetmap.org/) - OpenStreeMap map service.
+
+
 ## Python
 
 * [GeoDjango](http://geodjango.org/) - Django geographic web framework.
@@ -212,32 +238,6 @@
 * [Scikit-image](http://scikit-image.org/) - Scikit-image is a collection of algorithms for image processing.
 * [pyWPS](http://pywps.org/) - An implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python. It enables integration, publishing and execution of Python processes via the WPS standard.
 * [pyCSW](http://pycsw.org/) - Fully implements the OpenGIS Catalogue Service Implementation Specification (Catalogue Service for the Web). Initial development started in 2010 (more formally announced in 2011). The project is certified OGC Compliant, and is an OGC Reference Implementation.
-
-
-## PaaS - Platform as a Service
-
-* [Google Maps API](https://developers.google.com/maps/) - Google's PaaS (Platform as a Service) for Geocoding or analysis/processing services.
-* [Microsoft Bing API](https://www.microsoft.com/en-us/maps) - Microsoft Bing Maps API.
-* [OpenStreetMap API](http://wiki.openstreetmap.org/wiki/API_v0.6) - OpenStreetMap API.
-* [Mapbox.js](https://www.mapbox.com/mapbox.js/api/v2.4.0/) - MapBox Javascript API.
-* [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - MapBox WebGL Javascript API.
-
-
-## SaaS - Software as a Service
-
-* [ArcGIS Online](https://www.arcgis.com/home/) - ArcGIS Online GIS platform for mapping ans spatial analysis.
-* [Carto](https://carto.com/) -  Cloud computing platform that provides GIS and web mapping tools for display in a web browser.
-* [Mapbox](https://www.mapbox.com/) - Plataform for web map design and manipulation.
-* [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser.
-* [OpenMapTiles](https://openmaptiles.com/) - Vector tiles and map services as service, self-hosted or off-line.
-
-
-## DaaS - Data as a Service
-
-* [Apple Maps](https://mapsconnect.apple.com/) - Apple map service.
-* [Google Maps](https://www.google.com.br/maps) - Google map service.
-* [Microsoft Bing Maps](http://www.bing.com/mapspreview) - Microsoft map service.
-* [OpenStreetMap](http://www.openstreetmap.org/) - OpenStreeMap map service.
 
 
 ## Java
@@ -394,6 +394,34 @@
 * [Tinker.jl](https://github.com/JuliaImages/Tinker.jl) - Interactive graphical tool for complex image analysis.
 * [ImageFeatures.jl](https://github.com/JuliaImages/ImageFeatures.jl) - Image feature detection for the Julia language.
 
+
+## JavaScript
+* [OpenLayers](http://openlayers.org/) - Open source AJAX library.
+* [Leaflet](http://leafletjs.com/) - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
+* [Google Maps API](https://developers.google.com/maps/documentation/javascript/?hl=pt-br) - Google Maps API for JavaScript.
+* [Bing Maps V8 Web Control](https://msdn.microsoft.com/en-us/library/mt712542.aspx) - Bing Maps API for JavaScript.
+* [Bing Maps V8 Interactive SDK](https://www.bing.com/api/maps/sdkrelease/mapcontrol/isdk#loadMapWithOptions+JS) - An interactive code sample gallery for Bing Maps V8.
+* [Bing Maps V8 Code Samples](https://github.com/Microsoft/BingMapsV8CodeSamples) - A large collection of open source code samples for Bing Maps V8.
+* [Bing Maps V8 TypeScript Definitions ](https://github.com/Microsoft/Bing-Maps-V8-TypeScript-Definitions) - TypeScript Definitions for the Bing Maps V8 web control.
+* [ArcGIS API](https://developers.arcgis.com/javascript/) - ArcGIS API for JavaScript.
+* [Heatmap.js](https://www.patrick-wied.at/static/heatmapjs/) - A heatmap implementation for Javascript.
+* [Thermo.js](https://github.com/dazuma/thermo.js) - Another heatmap implementation for Javascript.
+* [Heatcanvas.js](https://github.com/sunng87/heatcanvas) - Yet another heatmap implementation for Javascript.
+* [GeoExt](https://geoext.github.io/geoext3/) - Open Source and enables building desktop-like GIS applications through the web. It is a JavaScript framework that combines the GIS functionality of OpenLayers with the user interface of the ExtJS library provided by Sencha.
+* [iTowns](http://www.itowns-project.org/) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data. It can connect to WMS/WMTS/TMS servers including elevation data and load many different data formats (3dTiles, gpx, KML and much much more).
+* [proj4js](https://github.com/proj4js/proj4js) - JavaScript library to transform coordinates from one coordinate system to another, including datum transformations.
+
+
+## Node.js
+
+* [Turf.js](http://turfjs.org/) - Advanced geospatial analysis for browsers and node.
+* [JSTS](https://github.com/bjornharrtell/jsts) - Port of the Java JTS library.
+* [Spatial](https://github.com/troufster/spatial) - A 2d spatial hash module for node.js.
+* [PGRestAPI](https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities.
+* [Supercluster](https://github.com/mapbox/supercluster) - A crazy fast geospatial point clustering library for browsers and Node.
+* [SQLite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
+* [Windshaft](https://github.com/CartoDB/Windshaft) - A Node.js map tile library for PostGIS and torque.js, with CartoCSS styling.
+
 ## R
 
 * [sp](https://cran.r-project.org/web/packages/sp/index.html) - Classes and Methods for Spatial Data.
@@ -533,33 +561,6 @@
 * [RStoolbox](https://cran.r-project.org/web/packages/RStoolbox/index.html) - Toolbox for remote sensing image processing and analysis such as calculating spectral indices, principal component transformation, unsupervised and supervised classification or fractional cover analyses.
 * [sits](https://github.com/gilbertocamara/sits) - satellite image time series package for R.
 * [dtwSat](https://github.com/vwmaus/dtwSat) - Time-Weighted Dynamic Time Warping for satellite image time series analysis.
-
-## JavaScript
-* [OpenLayers](http://openlayers.org/) - Open source AJAX library.
-* [Leaflet](http://leafletjs.com/) - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
-* [Google Maps API](https://developers.google.com/maps/documentation/javascript/?hl=pt-br) - Google Maps API for JavaScript.
-* [Bing Maps V8 Web Control](https://msdn.microsoft.com/en-us/library/mt712542.aspx) - Bing Maps API for JavaScript.
-* [Bing Maps V8 Interactive SDK](https://www.bing.com/api/maps/sdkrelease/mapcontrol/isdk#loadMapWithOptions+JS) - An interactive code sample gallery for Bing Maps V8.
-* [Bing Maps V8 Code Samples](https://github.com/Microsoft/BingMapsV8CodeSamples) - A large collection of open source code samples for Bing Maps V8.
-* [Bing Maps V8 TypeScript Definitions ](https://github.com/Microsoft/Bing-Maps-V8-TypeScript-Definitions) - TypeScript Definitions for the Bing Maps V8 web control.
-* [ArcGIS API](https://developers.arcgis.com/javascript/) - ArcGIS API for JavaScript.
-* [Heatmap.js](https://www.patrick-wied.at/static/heatmapjs/) - A heatmap implementation for Javascript.
-* [Thermo.js](https://github.com/dazuma/thermo.js) - Another heatmap implementation for Javascript.
-* [Heatcanvas.js](https://github.com/sunng87/heatcanvas) - Yet another heatmap implementation for Javascript.
-* [GeoExt](https://geoext.github.io/geoext3/) - Open Source and enables building desktop-like GIS applications through the web. It is a JavaScript framework that combines the GIS functionality of OpenLayers with the user interface of the ExtJS library provided by Sencha.
-* [iTowns](http://www.itowns-project.org/) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data. It can connect to WMS/WMTS/TMS servers including elevation data and load many different data formats (3dTiles, gpx, KML and much much more).
-* [proj4js](https://github.com/proj4js/proj4js) - JavaScript library to transform coordinates from one coordinate system to another, including datum transformations.
-
-
-## Node.js
-
-* [Turf.js](http://turfjs.org/) - Advanced geospatial analysis for browsers and node.
-* [JSTS](https://github.com/bjornharrtell/jsts) - Port of the Java JTS library.
-* [Spatial](https://github.com/troufster/spatial) - A 2d spatial hash module for node.js.
-* [PGRestAPI](https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities.
-* [Supercluster](https://github.com/mapbox/supercluster) - A crazy fast geospatial point clustering library for browsers and Node.
-* [SQLite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
-* [Windshaft](https://github.com/CartoDB/Windshaft) - A Node.js map tile library for PostGIS and torque.js, with CartoCSS styling.
 
 
 ## Mobile Development
