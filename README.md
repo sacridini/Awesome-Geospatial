@@ -17,6 +17,7 @@
     - [Python](#python)
     - [Java](#java)
     - [Clojure](#clojure)
+    - [Crystal](#crystal)
     - [C Sharp](#c-sharp)
     - [C++](#c++)
     - [C](#c)
@@ -25,7 +26,10 @@
     - [Ruby](#ruby)
     - [PHP](#php)
     - [Lua](#lua)
+    - [Elixir](#elixir)
     - [Swift](#swift)
+    - [Scala](#scala)
+    - [Groovy](#groovy)
     - [CSS](#css)
     - [Julia](#julia)
     - [JavaScript](#javascript)
@@ -154,6 +158,8 @@
 * [Laspy](http://laspy.readthedocs.io/en/latest/) - Laspy is a python library for reading, modifying, and creating .LAS LIDAR files.
 * [PDAL](http://www.pdal.io/) - PDAL is a C++ BSD library for translating and manipulating point cloud data.
 * [displaz](https://github.com/c42f/displaz) - A hackable lidar viewer.
+* [lidario](https://github.com/jblindsay/lidario) - A small Go library for reading and writing LiDAR (LAS) files.
+* [lidar](https://github.com/jblindsay/lidar) - A Crystal language library for reading and writing LiDAR data in LAS format.
 
 ## Geographic Data Mining
 
@@ -261,11 +267,17 @@
 * [World Wind Java SDK](http://worldwind.arc.nasa.gov/java/) - Nasa cross-platform Java SDK.
 * [MapFish Print](http://mapfish.github.io/) - The purpose of Mapfish Print is to create reports that contain maps (and map related components) within them. The project is a Java based servlet/library/application based on the mature Jasper Reports Library.
 * [asgbook](https://github.com/lakshmanok/asgbook) - Implementation of GIS/RS features in Java. Its also the code accompanying the book "Automating the Analysis of Spatial Grids" by Valliappa Lakshmanan.
+* [whitebox-geospatial-analysis-tools](https://github.com/jblindsay/whitebox-geospatial-analysis-tools) - An open-source GIS and remote sensing package.
 
 
 ## Clojure
 
 * [geo](https://github.com/Factual/geo) - Clojure library for working with geohashes, polygons, and other world geometry.
+
+
+## Crystal
+
+* [lidar](https://github.com/jblindsay/lidar) - A Crystal language library for reading and writing LiDAR data in LAS format.
 
 
 ## C Sharp
@@ -325,6 +337,7 @@
 * [Go.Geo](https://github.com/paulmach/go.geo) - Geometry/geography library in Go.
 * [geom](https://github.com/ctessum/geom) - Geometry objects and functions for Go.
 * [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries.
+* [lidario](https://github.com/jblindsay/lidario) - A small Go library for reading and writing LiDAR (LAS) files.
 
 ## Rust
 
@@ -373,9 +386,28 @@
 * [Tarantool/GIS](https://github.com/tarantool/gis) - A full-featured geospatial extension for Tarantool.
 * [geo.lua](https://github.com/RedisLabs/geo.lua) - A helper library for Redis geospatial indices.
 
+
+## Elixir
+
+* [geo](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+* [Geometry Library](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
+
+
 ## Swift
 
 * [GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geographic Engine.
+
+
+## Scala
+
+* [geoscript.scala](https://github.com/dwins/geoscript.scala) - Scala implementation of the GeoScript API.
+* [mapnik2geotools](https://github.com/dwins/mapnik2geotools) - Using the Scala XML API to translate from Mapnik XML to GeoTools' SLD dialect.
+* [GeoTrellis](https://github.com/locationtech/geotrellis) - GeoTrellis is a Scala library and framework that uses Spark to work with raster data.
+
+
+# Groovy
+
+* [GeoScript Groovy](https://github.com/geoscript/geoscript-groovy) - GeoScript Groovy is the Groovy implementation of GeoScript.
 
 
 ## CSS
