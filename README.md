@@ -31,6 +31,7 @@
     - [Swift](#swift)
     - [Scala](#scala)
     - [Groovy](#groovy)
+    - [Delphi](#delphi)
     - [CSS](#css)
     - [Julia](#julia)
     - [JavaScript](#javascript)
@@ -420,6 +421,10 @@
 
 * [GeoScript Groovy](https://github.com/geoscript/geoscript-groovy) - GeoScript Groovy is the Groovy implementation of GeoScript.
 
+
+## Delphi
+
+* [DSpatial](http://dspatial.sourceforge.net/) - DSpatial is an Open Source software development project to provide developers using Delphi with a library of tools for the use, manipulation, and visualization of spatial data.
 
 ## CSS
 
