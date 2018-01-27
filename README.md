@@ -414,7 +414,7 @@
 * [GeoTrellis](https://github.com/locationtech/geotrellis) - GeoTrellis is a Scala library and framework that uses Spark to work with raster data.
 
 
-# Groovy
+## Groovy
 
 * [GeoScript Groovy](https://github.com/geoscript/geoscript-groovy) - GeoScript Groovy is the Groovy implementation of GeoScript.
 
