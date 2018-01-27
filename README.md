@@ -230,6 +230,7 @@
 * [Shapely](https://pypi.python.org/pypi/Shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
 * [Cartopy](http://scitools.org.uk/cartopy/) - A library providing cartographic tools for python for plotting spatial data.
 * [Rtree](http://toblerity.org/rtree/) - For efficiently querying spatial data.
+* [geoalchemy](https://github.com/geoalchemy/geoalchemy) - Using SQLAlchemy with spatial databases.
 * [NodeBox-opengl](http://www.cityinabottle.org/nodebox/) - For playing around with animations.
 * [Statsmodels](http://statsmodels.sourceforge.net/) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
 * [NumPy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python.
