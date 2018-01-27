@@ -295,6 +295,9 @@
 * [Geo](https://github.com/sibartlett/Geo) - A geospatial library for .NET
 * [SharpKml](https://sharpkml.codeplex.com/) - Is able to read/write both KML files and KMZ files.
 * [Mapbox Maps SDK for Unity](https://www.mapbox.com/unity-sdk/) - The Maps SDK for Unity is a collection of tools for building Unity applications from real map data.
+* [osmsharp](http://www.osmsharp.com/) - OsmSharp is a C# library to work with OpenStreetMap (OSM) data.
+* [GeoJSON4EntityFramework](https://github.com/alatas/GeoJSON4EntityFramework) - Create GeoJSON from Entity Framework Spatial Data or WKT.
+* [GeoJSON.Net](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers.
 
 
 ## C++
