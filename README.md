@@ -174,7 +174,7 @@
 ## Atmospheric Correction
 
 * [ATCOR](http://www.atcor.de/) - ERDAS Imagine module.
-* [6S](http://6s.ltdri.org/) - Open source algorithm.
+* [6S](http://6s.ltdri.org/) - Second Simulation of the Satellite Signal in the Solar Spectrum (6S) open source algorithm.
 * [Py6S](https://py6s.readthedocs.io/en/latest/) - Py6S is a interface to the Second Simulation of the Satellite Signal in the Solar Spectrum (6S) atmospheric Radiative Transfer Model through the Python programming language.
 * [i.atcorr](https://grass.osgeo.org/grass70/manuals/i.atcorr.html) - GRASS GIS module that performs atmospheric correction using the 6S algorithm.
 
