@@ -26,6 +26,7 @@
     - [Ruby](#ruby)
     - [PHP](#php)
     - [Lua](#lua)
+    - [Haskell](#haskell)
     - [Elixir](#elixir)
     - [Swift](#swift)
     - [Scala](#scala)
@@ -370,6 +371,7 @@
 ## PHP
 
 * [GeoPHP](https://geophp.net/) - Advanced geometry operations in PHP.
+* [PHP7 Mapnik](https://github.com/garrettrayj/php7-mapnik) - PHP extension for geospatial rendering with Mapnik.
 * [geospatial](https://github.com/php-geospatial/geospatial) - PHP Extension to handle common geospatial functions.
 * [geojson](https://github.com/jmikola/geojson) - GeoJSON implementation for PHP.
 * [laravel-geo](https://github.com/eleven-lab/laravel-geo) - GeoSpatial integration on Laravel 5.2+ that supports MySQL and PostgreSQL.
@@ -387,15 +389,22 @@
 * [geo.lua](https://github.com/RedisLabs/geo.lua) - A helper library for Redis geospatial indices.
 
 
+## Haskell
+
+* [Naqsha](https://github.com/naqsha/naqsha) - Naqsha is a Haskell library to work with geospatial data types.
+
+
 ## Elixir
 
 * [geo](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 * [Geometry Library](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
+* [distance](https://github.com/pkinney/distance) - Provides a set of distance functions for use in GIS or graphic applications.
 
 
 ## Swift
 
 * [GEOSwift](https://github.com/GEOSwift/GEOSwift) - The Swift Geographic Engine.
+* [turf-swift](https://github.com/mapbox/turf-swift) - A Swift language port of Turf.js.
 
 
 ## Scala
