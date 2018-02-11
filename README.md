@@ -422,6 +422,7 @@
 * [turf-swift](https://github.com/mapbox/turf-swift) - A Swift language port of Turf.js.
 * [MapboxDirections.swift](https://github.com/mapbox/MapboxDirections.swift) - Traffic-aware directions in Swift or Objective-C on iOS, macOS, tvOS, and watchOS.
 * [Mapbox Navigation SDK for iOS](https://github.com/mapbox/mapbox-navigation-ios) - Turn-by-turn navigation logic and UI in Swift or Objective-C on iOS.
+* [Apple MapKit](https://developer.apple.com/documentation/mapkit) - Display map or satellite imagery directly from your app's interface, call out points of interest, and determine placemark information for map coordinates.
 
 
 ## Scala
@@ -736,14 +737,16 @@
 * [GEOINFO](http://www.geoinfo.info/geoinfo2017/) - The GEOINFO series (Brazilian Symposium on Geoinformatics) is an annual conference for exploring ongoing research, development and innovative applications on geographic information science and related areas.
 * [SBSR](http://www.dsr.inpe.br/sbsr2017/) - Bi-annual Brazilian National Symposium on Remote Sensing.
 
-## References
+## References and other awesome lists
 
 * [Essential Python Geospatial Libraries](http://carsonfarmer.com/2013/07/essential-python-geo-libraries/) 
 * [GeoJSON](https://github.com/tmcw/awesome-geojson)
 * [Vector Tiles](https://github.com/mapbox/awesome-vector-tiles)
 * [Spatial R](https://cran.r-project.org/web/views/Spatial.html)
 * [Awesome Spatial](https://github.com/RoboDonut/awesome-spatial/blob/master/README.md)
-* [Awesome GIS](https://github.com/spatialhast/awesome-gis)
+* [Awesome GIS - sshuair](https://github.com/sshuair/awesome-gis)
+* [Awesome GIS - spatialhast](https://github.com/spatialhast/awesome-gis)
 * [Awesome SQLite](https://github.com/planetopendata/awesome-sqlite) 
 * [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md)
+* [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel)
 * [GeoRails](http://daniel-azuma.com/articles/georails/)
