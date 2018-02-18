@@ -335,6 +335,8 @@
 * [entwine](https://github.com/connormanning/entwine) - Entwine is a data organization library for massive point clouds, designed to conquer datasets of hundreds of billions of points as well as desktop-scale point clouds.
 * [OpenDroneMap](https://github.com/OpenDroneMap/OpenDroneMap) - OpenDroneMap is a tool to postprocess drone, balloon, kite, and street view data to geographic data including orthophotos, point clouds, & textured mesh.
 * [tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
+* [selene](https://github.com/kmhofmann/selene) - A C++14 image representation, processing and I/O library.
+* [Pronto Raster](https://github.com/ahhz/raster) - C++ library for geographical raster data analysis.
 
 
 ## C
@@ -342,6 +344,7 @@
 * [Shapefile C Library](http://shapelib.maptools.org/) - Provides the ability to write simple C programs for reading, writing and updating (to a limited extent) .shp and .dbf files.
 * [Datamaps](https://github.com/ericfischer/datamaps) - This is a tool for indexing large lists of geographic points or lines and dynamically generating map tiles from the index for display.
 * [H3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system.
+
 
 ## Go
 
@@ -354,6 +357,7 @@
 * [geom](https://github.com/ctessum/geom) - Geometry objects and functions for Go.
 * [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries.
 * [lidario](https://github.com/jblindsay/lidario) - A small Go library for reading and writing LiDAR (LAS) files.
+
 
 ## Rust
 
@@ -369,6 +373,7 @@
 * [rust-osm](https://github.com/georust/rust-osm) - OSM XML serialization and other OpenStreetMap utilities.
 * [rust-shapefile](https://github.com/georust/rust-shapefile) - Rust read/write support for shapefiles.
 * [rust-gpx](https://github.com/georust/rust-gpx) - Rust read/write support for GPS Exchange Format (GPX).
+
 
 ## Ruby
 
@@ -492,6 +497,8 @@
 * [Bing Maps V8 Code Samples](https://github.com/Microsoft/BingMapsV8CodeSamples) - A large collection of open source code samples for Bing Maps V8.
 * [Bing Maps V8 TypeScript Definitions ](https://github.com/Microsoft/Bing-Maps-V8-TypeScript-Definitions) - TypeScript Definitions for the Bing Maps V8 web control.
 * [ArcGIS API](https://developers.arcgis.com/javascript/) - ArcGIS API for JavaScript.
+* [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
+* [react-map-gl](https://github.com/uber/react-map-gl) - React friendly API wrapper around MapboxGL JS.
 * [Heatmap.js](https://www.patrick-wied.at/static/heatmapjs/) - A heatmap implementation for Javascript.
 * [Thermo.js](https://github.com/dazuma/thermo.js) - Another heatmap implementation for Javascript.
 * [Heatcanvas.js](https://github.com/sunng87/heatcanvas) - Yet another heatmap implementation for Javascript.
