@@ -698,6 +698,7 @@
 * [Kosmtik](https://github.com/kosmtik/kosmtik) - Very lite but extendable mapping framework to create Mapnik ready maps with OpenStreetMap data (and more).
 * [mplleaflet](https://github.com/jwass/mplleaflet) - Easily convert matplotlib plots from Python into interactive Leaflet web maps.
 * [three.js](https://threejs.org/) - A javascript 3D library which makes WebGL simpler
+* [Strava](https://github.com/marcusvolz/strava) - Create artistic visualisations with your exercise data.
 
 
 ## Tools
