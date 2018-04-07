@@ -51,7 +51,7 @@
 
 ## Database
 
-* [PostGIS](http://postgis.net/) - PostgreSql spatial extension.
+* [PostGIS](http://postgis.net/) :zap: - PostgreSql spatial extension.
 * [PostGIS Vector Tile Utils](https://github.com/mapbox/postgis-vt-util) - A set of PostgreSQL functions that are useful when creating vector tile sources.
 * [Spatialite](http://www.gaia-gis.it/gaia-sins/) - SQLite spatial extension.
 * [Microsoft SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/spatial/spatial-data-sql-server) - Microsoft SQL/SQL Azure spatial features. All the spatial functionality is also available as a .NET library (can be downloaded using nuget)
@@ -91,9 +91,9 @@
 
 ## Geographic Information System
 
-* [ArcGIS](https://www.arcgis.com/features/) - GIS for working with maps and geographic information.
+* [ArcGIS](https://www.arcgis.com/features/) :zap: - GIS for working with maps and geographic information.
 * [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/) - Fully 64-bit version of ArcGIS with new GUI and 2D/3D integration.
-* [QGIS](http://www.qgis.org/en/site/) - Cross-platform free and open-source desktop geographic information system.
+* [QGIS](http://www.qgis.org/en/site/) :zap: - Cross-platform free and open-source desktop geographic information system.
 * [Terraview](http://www.dpi.inpe.br/terraview_eng/index.php) - GIS application built using the TerraLib  GIS library.
 * [gvSIG](http://www.gvsig.com/en) - Free and open source GIS.
 * [GRASS GIS](https://grass.osgeo.org/) - GRASS (Geographic Resources Analysis Support System) is a free and open source GIS.
@@ -112,8 +112,8 @@
 
 ## Web Map Development
 
-* [OpenLayers](http://openlayers.org/) - Open source AJAX library.
-* [Leaflet](http://leafletjs.com/) - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
+* [OpenLayers](http://openlayers.org/) :zap:- Open source AJAX library.
+* [Leaflet](http://leafletjs.com/) :zap: - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
 * [Geomanjas](http://www.geomajas.org/) - Open source development software for web-based and cloud based GIS applications.
 * [CesiumJS](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps.
 * [geojson-vt](https://github.com/mapbox/geojson-vt) - A highly efficient JavaScript library for slicing GeoJSON data into vector tiles on the fly.
@@ -128,9 +128,9 @@
 
 ## Web Map Server
 
-* [Geoserver](http://geoserver.org/) - WMS written in Java and relies on GeoTools. Allows users to share and edit geospatial data.
+* [Geoserver](http://geoserver.org/) :zap: - WMS written in Java and relies on GeoTools. Allows users to share and edit geospatial data.
 * [MapProxy](http://mapproxy.org/) - An open source tile server proxy for geospatial data (WMS-C, TMS, WMTS, KML SuperOverlays). It caches, accelerates and transforms data from existing map services and serves any desktop or web GIS client. 
-* [Mapserver](http://mapserver.org/) - WMS written in C.
+* [Mapserver](http://mapserver.org/) :zap: - WMS written in C.
 * [MapGuide](https://mapguide.osgeo.org/) - Runs on Linux or Windows, supports Apache and IIS web servers, and has APIs (PHP, .NET, Java, and JavaScript) for application development.
 * [PGRestAPI](https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities. AKA: SpatialServer.
 * [utilery](https://github.com/tilery/utilery) - Micro vector tile manufacturing from PostGIS.
@@ -189,7 +189,7 @@
 
 ## Libraries
 
-* [GDAL](http://www.gdal.org/) - Geospatial Data Abstraction Library (GDAL) is a translator library for raster and vector geospatial data formats.
+* [GDAL](http://www.gdal.org/) :zap: - Geospatial Data Abstraction Library (GDAL) is a translator library for raster and vector geospatial data formats.
 * [PDAL](https://www.pdal.io/) - Point Data Abstraction Library. GDAL for point cloud data.
 * [Mapnik](http://mapnik.org/) - C++/Python/Node.js library for map rendering.
 * [Terralib](http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
@@ -234,7 +234,7 @@
 
 * [GeoDjango](http://geodjango.org/) - Django geographic web framework.
 * [Landsat-util](https://github.com/developmentseed/landsat-util) - Landsat-util is a command line utility that makes it easy to search, download, and process Landsat imagery.
-* [Rasterio](https://github.com/mapbox/rasterio) - Rasterio employs GDAL under the hood for file I/O and raster formatting.
+* [Rasterio](https://github.com/mapbox/rasterio) :zap: - Rasterio employs GDAL under the hood for file I/O and raster formatting.
 * [Rasterstats](https://github.com/perrygeo/python-rasterstats/) - Python module for summarizing geospatial raster datasets based on vector geometries.
 * [ArcGIS Python API](https://developers.arcgis.com/python/) - ArcGIS API for Python is a Python library for working with maps and geospatial data, powered by web GIS.
 * [PyQGIS](http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/) - Python for QGIS.
@@ -263,7 +263,7 @@
 * [chupaESRI](https://github.com/johnjreiser/chupaESRI) - ChupaESRI is a Python module/command line tool to extract features from ArcGIS Server map services.
 * [geojsonio.py](https://github.com/jwass/geojsonio.py) - Open GeoJSON data on geojson.io from Python. geojsonio.py also contains a command line utility that is a Python port of geojsonio-cli.
 * [Ogcserver](https://github.com/mapnik/OGCServer) - Python WMS implementation using Mapnik.
-* [RSGISLib](http://www.rsgislib.org/) - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using Python bindings or an XML interface.
+* [RSGISLib](http://www.rsgislib.org/) :zap: - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using Python bindings or an XML interface.
 * [Scikit-image](http://scikit-image.org/) - Scikit-image is a collection of algorithms for image processing.
 * [pyWPS](http://pywps.org/) - An implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python. It enables integration, publishing and execution of Python processes via the WPS standard.
 * [pyCSW](http://pycsw.org/) - Fully implements the OpenGIS Catalogue Service Implementation Specification (Catalogue Service for the Web). Initial development started in 2010 (more formally announced in 2011). The project is certified OGC Compliant, and is an OGC Reference Implementation.
@@ -277,11 +277,11 @@
 
 ## Java
 
-* [Geotools](http://www.geotools.org/) - GeoTools is an open source Java library that provides tools for geospatial data.
+* [Geotools](http://www.geotools.org/) :zap: - GeoTools is an open source Java library that provides tools for geospatial data.
 * [GeoServer](http://geoserver.org/) - GeoServer is open source server for sharing geospatial data.
 * [GeoWebCache](http://www.geowebcache.org/) - a Java web application used to cache map tiles coming from a variety of sources such as OGC Web Map Service (WMS). It implements various service interfaces (such as WMS-C, WMTS, TMS, Google Maps KML, Virtual Earth) in order to accelerate and optimize map image delivery. It can also recombine tiles to work with regular WMS clients.
 * [Geonetwork](http://geonetwork-opensource.org/) - GeoNetwork is a catalog application to manage spatially referenced resources.
-* [JTS Topology Suite](http://www.vividsolutions.com/jts/jtshome.htm) - JTS Topology Suite is an API of 2D spatial predicates and functions.
+* [JTS Topology Suite](http://www.vividsolutions.com/jts/jtshome.htm) :zap: - JTS Topology Suite is an API of 2D spatial predicates and functions.
 * [GeOxygene](https://sourceforge.net/projects/oxygene-project/) - Provide an open framework which implements OGC/ISO specifications for the development and deployment of GIS applications.
 * [Gisgraphy](http://www.gisgraphy.com/) - Open source framework that offers the ability to do geolocalisation and geocoding via Java APIs or REST webservices.
 * [JGeocoder](http://jgeocoder.sourceforge.net/) - Free Java Geocoder.
@@ -325,11 +325,11 @@
 
 ## C++
 
-* [GEOS](https://trac.osgeo.org/geos/) - GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS).
-* [GDAL](http://www.gdal.org/) - Geospatial Data Abstraction Library (GDAL) is a computer library that serve as a translator library for raster and vector geospatial data formats.
+* [GEOS](https://trac.osgeo.org/geos/) :zap: - GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS).
+* [GDAL](http://www.gdal.org/) :zap: - Geospatial Data Abstraction Library (GDAL) is a computer library that serve as a translator library for raster and vector geospatial data formats.
 * [Mapnik](http://mapnik.org/) - C++ library for map rendering.
 * [Terralib](http://www.dpi.inpe.br/terralib5/wiki/doku.php?id=start) - TerraLib is a GIS classes and functions open source library.
-* [Boost Geometry](http://www.boost.org/doc/libs/1_61_0/libs/geometry/doc/html/index.html) - Part of collection of the Boost C++ Libraries, defines concepts, primitives and algorithms for solving geometry problems.
+* [Boost Geometry](http://www.boost.org/doc/libs/1_61_0/libs/geometry/doc/html/index.html) :zap: - Part of collection of the Boost C++ Libraries, defines concepts, primitives and algorithms for solving geometry problems.
 * [Capaware](https://en.wikipedia.org/wiki/Capaware) - 3D terrain representation with multilayer representation.
 * [libspatialindex](https://github.com/libspatialindex/libspatialindex) - C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API.
 * [Spatial](https://sourceforge.net/projects/spatial/) - Spatial is a generic header-only C++ library providing multi-dimensional in-memory containers, iterators and functionals.
@@ -511,15 +511,15 @@
 
 
 ## JavaScript
-* [OpenLayers](http://openlayers.org/) - Open source AJAX library.
-* [Leaflet](http://leafletjs.com/) - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
-* [Google Maps API](https://developers.google.com/maps/documentation/javascript/?hl=pt-br) - Google Maps API for JavaScript.
+* [OpenLayers](http://openlayers.org/) :zap: - Open source AJAX library.
+* [Leaflet](http://leafletjs.com/) :zap: - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
+* [Google Maps API](https://developers.google.com/maps/documentation/javascript/?hl=pt-br) :zap: - Google Maps API for JavaScript.
 * [gmaps.js](https://github.com/hpneo/gmaps) - gmaps.js allows you to use the potential of Google Maps in a simple way. 
 * [Bing Maps V8 Web Control](https://msdn.microsoft.com/en-us/library/mt712542.aspx) - Bing Maps API for JavaScript.
 * [Bing Maps V8 Interactive SDK](https://www.bing.com/api/maps/sdkrelease/mapcontrol/isdk#loadMapWithOptions+JS) - An interactive code sample gallery for Bing Maps V8.
 * [Bing Maps V8 Code Samples](https://github.com/Microsoft/BingMapsV8CodeSamples) - A large collection of open source code samples for Bing Maps V8.
 * [Bing Maps V8 TypeScript Definitions ](https://github.com/Microsoft/Bing-Maps-V8-TypeScript-Definitions) - TypeScript Definitions for the Bing Maps V8 web control.
-* [ArcGIS API](https://developers.arcgis.com/javascript/) - ArcGIS API for JavaScript.
+* [ArcGIS API](https://developers.arcgis.com/javascript/) :zap: - ArcGIS API for JavaScript.
 * [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 * [react-map-gl](https://github.com/uber/react-map-gl) - React friendly API wrapper around MapboxGL JS.
 * [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
@@ -538,7 +538,7 @@
 
 ## Node.js
 
-* [Turf.js](http://turfjs.org/) - Advanced geospatial analysis for browsers and node.
+* [Turf.js](http://turfjs.org/) :zap: - Advanced geospatial analysis for browsers and node.
 * [JSTS](https://github.com/bjornharrtell/jsts) - Port of the Java JTS library.
 * [Spatial](https://github.com/troufster/spatial) - A 2d spatial hash module for node.js.
 * [PGRestAPI](https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities.
@@ -548,9 +548,9 @@
 
 ## R
 
-* [sp](https://cran.r-project.org/web/packages/sp/index.html) - Classes and Methods for Spatial Data.
+* [sp](https://cran.r-project.org/web/packages/sp/index.html) :zap: - Classes and Methods for Spatial Data.
 * [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library.
-* [raster](https://cran.r-project.org/web/packages/raster/raster.pdf) - Reading, writing, manipulating, analyzing and modeling of gridded spatial data.
+* [raster](https://cran.r-project.org/web/packages/raster/raster.pdf) :zap: - Reading, writing, manipulating, analyzing and modeling of gridded spatial data.
 * [ggplot2](http://ggplot2.org/) - ggplot2 is a plotting system for R.
 * [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html) - Spatial Visualization with ggplot2.
 * [rgeos](https://cran.r-project.org/web/packages/rgeos/index.html) - Interface to Geometry Engine - Open Source (GEOS) using the C API for topology operations on geometries.
@@ -683,7 +683,7 @@
 * [ngspatial](https://cran.r-project.org/web/packages/ngspatial/index.html) - Provides tools for analyzing spatial data, especially non- Gaussian areal data.
 * [bfastSpatial](https://github.com/loicdtx/bfastSpatial) - Package to pre-process gridded time-series data in order for them to be analyzed with change detection algorithms such as bfast. Uses classes from the raster package and includes utilities to run the algorithms and post-process the results.
 * [teamlucc](https://github.com/azvoleff/teamlucc) -  Is designed to facilitate analysis of land use and cover change (LUCC) around the monitoring sites of the Tropical Ecology Assessment and Monitoring (TEAM) Network.
-* [RStoolbox](https://cran.r-project.org/web/packages/RStoolbox/index.html) - Toolbox for remote sensing image processing and analysis such as calculating spectral indices, principal component transformation, unsupervised and supervised classification or fractional cover analyses.
+* [RStoolbox](https://cran.r-project.org/web/packages/RStoolbox/index.html) :zap: - Toolbox for remote sensing image processing and analysis such as calculating spectral indices, principal component transformation, unsupervised and supervised classification or fractional cover analyses.
 * [sits](https://github.com/gilbertocamara/sits) - satellite image time series package for R.
 * [dtwSat](https://github.com/vwmaus/dtwSat) - Time-Weighted Dynamic Time Warping for satellite image time series analysis.
 
@@ -703,7 +703,7 @@
 
 ## Geospatial Big Data
 
-* [Google Earth Engine](https://earthengine.google.com/) - Is a cloud computing platform for processing satellite imagery and other Earth observation data.
+* [Google Earth Engine](https://earthengine.google.com/) :zap: - Is a cloud computing platform for processing satellite imagery and other Earth observation data.
 * [GeoMesa](https://github.com/locationtech/geomesa) - GeoMesa is a suite of tools for working with big geo-spatial data in a distributed fashion.
 * [GeoWave](https://github.com/locationtech/geowave) - GeoWave provides geospatial and temporal indexing on top of Accumulo and HBase.
 * [GeoTrellis](https://github.com/locationtech/geotrellis) - GeoTrellis is a geographic data processing engine for high performance applications.
