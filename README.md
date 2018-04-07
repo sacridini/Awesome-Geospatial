@@ -269,6 +269,11 @@
 * [pyCSW](http://pycsw.org/) - Fully implements the OpenGIS Catalogue Service Implementation Specification (Catalogue Service for the Web). Initial development started in 2010 (more formally announced in 2011). The project is certified OGC Compliant, and is an OGC Reference Implementation.
 * [urbansim](https://github.com/UDST/urbansim) - New version of UrbanSim, a platform for modeling metropolitan real estate markets.
 * [OSMnet](https://github.com/UDST/osmnet) - Tools for the extraction of OpenStreetMap street network data.
+* [rio-hist](https://github.com/mapbox/rio-hist) - Histogram matching plugin for rasterio.
+* [rio-color](https://github.com/mapbox/rio-color) - Color correction plugin for rasterio.
+* [geojson-area](https://github.com/scisco/area) - Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python.
+* [Peartree](https://github.com/kuanb/peartree) - Peartree: A library for converting transit data into a directed graph for network analysis.
+
 
 ## Java
 
@@ -724,6 +729,7 @@
 ## Tools
 
 * [MapShaper](http://mapshaper.org/) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.
+* [landsat-espa-util](https://github.com/loicdtx/landsat-espa-util) - Library for querying and ordering Landsat Surface Reflectance data via ESPA.
 * [GeoGig](https://github.com/locationtech/geogig) - GeoGig is a Distributed Version Control System (DVCS) specially designed to handle geospatial data efficiently.
 * [TileMill](https://github.com/mapbox/tilemill) - TileMill is a modern map design studio powered by Node.js and Mapnik.
 * [DataPillager](https://github.com/gdherbert/DataPillager) - Download data from Esri service.
