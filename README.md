@@ -210,6 +210,7 @@
 * [GIS Cloud](https://www.giscloud.com/) - Real-time mapping platform for the entire workflow of your organization.
 * [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser.
 * [OpenMapTiles](https://openmaptiles.com/) - Vector tiles and map services as service, self-hosted or off-line.
+* [Linq](https://www.linq.it/) - Business process mapping.
 
 
 ## DaaS - Data as a Service
