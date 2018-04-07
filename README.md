@@ -706,6 +706,7 @@
 * [mplleaflet](https://github.com/jwass/mplleaflet) - Easily convert matplotlib plots from Python into interactive Leaflet web maps.
 * [three.js](https://threejs.org/) - A javascript 3D library which makes WebGL simpler
 * [Strava](https://github.com/marcusvolz/strava) - Create artistic visualisations with your exercise data.
+* [CityEngine-Twitter](https://github.com/urschrei/CityEngine-Twitter) - Visualise Twitter activity using a procedurally-generated 3D city model.
 
 
 ## Tools
