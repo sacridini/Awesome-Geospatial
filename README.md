@@ -194,7 +194,7 @@
 * [Mapnik](http://mapnik.org/) - C++/Python/Node.js library for map rendering.
 * [Terralib](http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
 * [GeographicLib](http://geographiclib.sourceforge.net/) - For solving geodesic problems. Implemented in C, C++, Java, Javascript, Fortran, Python and Matlab. 
-* [Orfeo ToolBox](https://www.orfeo-toolbox.org/) - Orfeo ToolBox (OTB) is an open-source C++ library for remote sensing images processing.
+* [Orfeo ToolBox](https://www.orfeo-toolbox.org/) :zap: - Orfeo ToolBox (OTB) is an open-source C++ library for remote sensing images processing.
 * [Geolib](http://www.geolib.co.uk/) - GeoLib is a fast, efficient, computational geometry library available in C++, C# and Java.
 * [pgRouting](http://pgrouting.org/) - Extends the PostGIS / PostgreSQL geospatial database to provide geospatial routing functionality.
 * [PointCloud](https://github.com/pgpointcloud/pointcloud) - A PostgreSQL extension for storing point cloud (LIDAR) data.
@@ -242,7 +242,7 @@
 * [pandana](https://github.com/UDST/pandana) - Pandas Network Analysis - dataframes of network queries, quickly.
 * [xarray ](http://xarray.pydata.org/en/stable/) - xarray (formerly xray) is an open source project and Python package that aims to bring the labeled data power of pandas to the physical sciences, by providing N-dimensional variants of the core pandas data structures.
 * [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data.
-* [Shapely](https://pypi.python.org/pypi/Shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
+* [Shapely](https://pypi.python.org/pypi/Shapely) :zap: - Manipulation and analysis of geometric objects in the Cartesian plane.
 * [mapboxgl-jupyter](https://github.com/mapbox/mapboxgl-jupyter) - Use Mapbox GL JS to visualize data in a Python Jupyter notebook.
 * [Cartopy](http://scitools.org.uk/cartopy/) - A library providing cartographic tools for python for plotting spatial data.
 * [Rtree](http://toblerity.org/rtree/) - For efficiently querying spatial data.
@@ -252,7 +252,7 @@
 * [NumPy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python.
 * [geopy](https://github.com/geopy/geopy) - geopy is a Python 2 and 3 client for several popular geocoding web services.
 * [FreeType](https://code.google.com/archive/p/freetype-py/) - For converting font glyphs to polygons.
-* [Fiona](http://toblerity.org/fiona/) - For making it easy to read/write geospatial data formats.
+* [Fiona](http://toblerity.org/fiona/) :zap: - For making it easy to read/write geospatial data formats.
 * [matplotlib](http://matplotlib.org/) - Python 2D plotting library.
 * [networkx](http://networkx.github.io/) - To work with networks.
 * [PySAL](http://pysal.readthedocs.io/en/latest/) - For all your spatial econometrics needs.
