@@ -10,6 +10,7 @@
     - [Lidar](#lidar)
     - [Geographic Data Mining](#geographic-data-mining)
     - [Atmospheric Correction](#atmospheric-correction)
+    - [Agent-based Modeling](#agent-based-modeling)
     - [Libraries](#libraries)
     - [PaaS - Platform as a Service](#paas---platform-as-a-service)
     - [SaaS - Software as a Service](#saas---software-as-a-service)
@@ -178,6 +179,13 @@
 * [6S](http://6s.ltdri.org/) - Second Simulation of the Satellite Signal in the Solar Spectrum (6S) open source algorithm.
 * [Py6S](https://py6s.readthedocs.io/en/latest/) - Py6S is a interface to the Second Simulation of the Satellite Signal in the Solar Spectrum (6S) atmospheric Radiative Transfer Model through the Python programming language.
 * [i.atcorr](https://grass.osgeo.org/grass70/manuals/i.atcorr.html) - GRASS GIS module that performs atmospheric correction using the 6S algorithm.
+
+## Agent-based Modeling
+* [Mesa](https://github.com/projectmesa/mesa) - Mesa is an Apache2 licensed agent-based modeling (or ABM) framework in Python.
+* [NetLogo](https://ccl.northwestern.edu/netlogo/) - NetLogo is a multi-agent programmable modeling environment.
+* [Repast](https://repast.github.io/) - The Repast Suite is a family of advanced, free, and open source agent-based modeling and simulation platforms.
+* [MASON](https://cs.gmu.edu/~eclab/projects/mason/) - MASON is a fast discrete-event multiagent simulation library core in Java, designed to be the foundation for large custom-purpose Java simulations, and also to provide more than enough functionality for many lightweight simulation needs. MASON contains both a model library and an optional suite of visualization tools in 2D and 3D.
+
 
 ## Libraries
 
