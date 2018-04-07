@@ -141,7 +141,7 @@
 
 ## Radar
 
-* [PolSARpro](https://earth.esa.int/web/polsarpro) - Open source radar image data processing software.
+* [PolSARpro](https://earth.esa.int/web/polsarpro) :zap: - Open source radar image data processing software.
 * [Sarmap](http://www.sarmap.ch/page.php?page=sarscape) - Synthetic Aperture Radar processing software.
 * [GAMMA](http://www.gamma-rs.ch/no_cache/software.html) - Allows processing of SAR, interferometric SAR (InSAR) and differential interferometric SAR (DInSAR).
 * [Sentinel Toolboxes](https://sentinel.esa.int/web/sentinel/toolboxes) - Free open source toolboxes for the scientific exploitation of the Sentinel missions.
@@ -151,11 +151,11 @@
 ## Lidar
 
 * [FME Desktop](https://www.safe.com/fme/fme-desktop/) - FME is an integrated collection of Spatial ETL tools for data transformation and data translation.
-* [LAStools](http://www.cs.unc.edu/~isenburg/lastools/) - A collection of highly-efficient, scriptable tools with multi-core batching that process LAS, compressed LAZ, Terrasolid BIN, .shp, and ASCII.
+* [LAStools](http://www.cs.unc.edu/~isenburg/lastools/) :zap: - A collection of highly-efficient, scriptable tools with multi-core batching that process LAS, compressed LAZ, Terrasolid BIN, .shp, and ASCII.
 * [FullAnalyze](https://code.google.com/archive/p/fullanalyze/) - Handling, visualizing and processing lidar data (3D point clouds and waveforms).
 * [DielmoOpenLidar](http://www.dielmo.com/eng/ficha-tecnologia-software.php?prod=21) - Open source software based in gvSIG for the management of LiDAR data.
 * [Global Mapper Lidar Module](https://www.bluemarblegeo.com/products/global-mapper-lidar.php) - Lidar module for Global Mapper.
-* [Fusion](http://forsys.cfr.washington.edu/fusion/fusionlatest.html) - CLI/GUI Lidar software.
+* [Fusion](http://forsys.cfr.washington.edu/fusion/fusionlatest.html) :zap: - CLI/GUI Lidar software.
 * [libLAS](http://www.liblas.org/) - libLAS is a C/C++ library for reading and writing the very common LAS LiDAR format. 
 * [LASzip](https://www.laszip.org/) - Quickly turns bulky LAS files into compact LAZ files without information loss.
 * [PyLAS](https://pypi.python.org/pypi/PyLAS) - A python library for reading and writing LAS files.
