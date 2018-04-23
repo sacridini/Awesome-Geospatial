@@ -691,6 +691,7 @@
 * [sits](https://github.com/gilbertocamara/sits) - satellite image time series package for R.
 * [dtwSat](https://github.com/vwmaus/dtwSat) - Time-Weighted Dynamic Time Warping for satellite image time series analysis.
 * [googleway](https://github.com/SymbolixAU/googleway) - R Package for accessing and plotting Google Maps.
+* [geojsonsf](https://github.com/SymbolixAU/geojsonsf) - Conversion between sf and geojson.
 
 
 ## Mobile Development
