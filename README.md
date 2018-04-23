@@ -690,6 +690,7 @@
 * [RStoolbox](https://cran.r-project.org/web/packages/RStoolbox/index.html) :zap: - Toolbox for remote sensing image processing and analysis such as calculating spectral indices, principal component transformation, unsupervised and supervised classification or fractional cover analyses.
 * [sits](https://github.com/gilbertocamara/sits) - satellite image time series package for R.
 * [dtwSat](https://github.com/vwmaus/dtwSat) - Time-Weighted Dynamic Time Warping for satellite image time series analysis.
+* [googleway](https://github.com/SymbolixAU/googleway) - R Package for accessing and plotting Google Maps.
 
 
 ## Mobile Development
