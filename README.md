@@ -95,6 +95,7 @@
 * [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/) - Fully 64-bit version of ArcGIS with new GUI and 2D/3D integration.
 * [LuciadFusion](http://www.luciad.com/solutions/luciadfusion) - An all-in-one server solution for your data publication workflow and geospatial data management
 * [QGIS](http://www.qgis.org/en/site/) :zap: - Cross-platform free and open-source desktop geographic information system.
+* [GeoDa](http://geodacenter.github.io/) - Spatial data analysis software.
 * [Terraview](http://www.dpi.inpe.br/terraview_eng/index.php) - GIS application built using the TerraLib  GIS library.
 * [gvSIG](http://www.gvsig.com/en) - Free and open source GIS.
 * [GRASS GIS](https://grass.osgeo.org/) - GRASS (Geographic Resources Analysis Support System) is a free and open source GIS.
@@ -275,6 +276,7 @@
 * [rio-color](https://github.com/mapbox/rio-color) - Color correction plugin for rasterio.
 * [geojson-area](https://github.com/scisco/area) - Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python.
 * [Peartree](https://github.com/kuanb/peartree) - Peartree: A library for converting transit data into a directed graph for network analysis.
+* [GeoDaSpace](https://github.com/GeoDaCenter/GeoDaSpace) - Software for Advanced Spatial Econometrics.
 
 
 ## Java
