@@ -36,7 +36,6 @@
     - [CSS](#css)
     - [Julia](#julia)
     - [JavaScript](#javascript)
-    - [Node.js](#nodejs)
     - [R](#r)
     - [Mobile Development](#mobile-development)
     - [Geospatial Big Data](#geospatial-big-data)
@@ -543,10 +542,6 @@
 * [LuciadRIA](http://www.luciad.com/solutions/luciadria) - A JavaScript library for 3D globes and maps, with support for military symbology and desktop-like performance
 * [geotiff.js](https://github.com/geotiffjs/geotiff.js) - geotiff.js is a small library to parse TIFF files for visualization or analysis.
 * [geoblaze](https://github.com/GeoTIFF/geoblaze) - Geoblaze is a geospatial raster processing engine written purely in javascript.
-
-
-## Node.js
-
 * [Turf.js](http://turfjs.org/) :zap: - Advanced geospatial analysis for browsers and node.
 * [JSTS](https://github.com/bjornharrtell/jsts) - Port of the Java JTS library.
 * [Spatial](https://github.com/troufster/spatial) - A 2d spatial hash module for node.js.
