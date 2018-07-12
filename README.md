@@ -44,7 +44,7 @@
     - [Data Sources](#data-sources)
     - [Resources](#resources)
     - [Conferences](#conferences)
-    - [References](#references)
+    - [References](#references-and-other-awesome-lists)
 
 - - -
 
