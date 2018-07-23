@@ -278,6 +278,8 @@
 * [geojson-area](https://github.com/scisco/area) - Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python.
 * [Peartree](https://github.com/kuanb/peartree) - Peartree: A library for converting transit data into a directed graph for network analysis.
 * [GeoDaSpace](https://github.com/GeoDaCenter/GeoDaSpace) - Software for Advanced Spatial Econometrics.
+* [Mahotas](https://github.com/luispedro/mahotas) - Mahotas is a library of fast computer vision algorithms (all implemented in C++ for speed) operating over numpy arrays.
+* [Mahotas-imread](https://github.com/luispedro/imread) - Read images to numpy arrays.
 
 
 ## Java
