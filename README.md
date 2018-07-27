@@ -116,6 +116,7 @@
 
 * [OpenLayers](http://openlayers.org/) :zap:- Open source AJAX library.
 * [Leaflet](http://leafletjs.com/) :zap: - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
+* [SuperMap iClient JavaScript](http://iclient.supermap.io) :zap: - Cloud GIS web client development platform supportted by SuperMap.
 * [Geomanjas](http://www.geomajas.org/) - Open source development software for web-based and cloud based GIS applications.
 * [CesiumJS](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps.
 * [LuciadRIA](http://www.luciad.com/solutions/luciadria) - A JavaScript library for 3D globes and maps, with support for military symbology and desktop-like performance
@@ -522,6 +523,7 @@
 ## JavaScript
 * [OpenLayers](http://openlayers.org/) :zap: - Open source AJAX library.
 * [Leaflet](http://leafletjs.com/) :zap: - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
+* [SuperMap iClient JavaScript](http://iclient.supermap.io) :zap: - Cloud GIS web client development platform supportted by SuperMap.
 * [Google Maps API](https://developers.google.com/maps/documentation/javascript/?hl=pt-br) :zap: - Google Maps API for JavaScript.
 * [gmaps.js](https://github.com/hpneo/gmaps) - gmaps.js allows you to use the potential of Google Maps in a simple way. 
 * [Bing Maps V8 Web Control](https://msdn.microsoft.com/en-us/library/mt712542.aspx) - Bing Maps API for JavaScript.
@@ -529,7 +531,6 @@
 * [Bing Maps V8 Code Samples](https://github.com/Microsoft/BingMapsV8CodeSamples) - A large collection of open source code samples for Bing Maps V8.
 * [Bing Maps V8 TypeScript Definitions ](https://github.com/Microsoft/Bing-Maps-V8-TypeScript-Definitions) - TypeScript Definitions for the Bing Maps V8 web control.
 * [ArcGIS API](https://developers.arcgis.com/javascript/) :zap: - ArcGIS API for JavaScript.
-* [SuperMap iClient for JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supportted by SuperMap.
 * [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 * [react-map-gl](https://github.com/uber/react-map-gl) - React friendly API wrapper around MapboxGL JS.
 * [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
