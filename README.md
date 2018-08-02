@@ -40,7 +40,6 @@
     - [Mobile Development](#mobile-development)
     - [Geospatial Big Data](#geospatial-big-data)
     - [Visualization](#visualization)
-    - [Tools](#tools)
     - [Data Sources](#data-sources)
     - [Resources](#resources)
     - [Conferences](#conferences)
@@ -158,7 +157,7 @@
 * [DielmoOpenLidar](http://www.dielmo.com/eng/ficha-tecnologia-software.php?prod=21) - Open source software based in gvSIG for the management of LiDAR data.
 * [Global Mapper Lidar Module](https://www.bluemarblegeo.com/products/global-mapper-lidar.php) - Lidar module for Global Mapper.
 * [Fusion](http://forsys.cfr.washington.edu/fusion/fusionlatest.html) :zap: - CLI/GUI Lidar software.
-* [libLAS](http://www.liblas.org/) - libLAS is a C/C++ library for reading and writing the very common LAS LiDAR format. 
+* [libLAS](https://liblas.org/) - libLAS is a C/C++ library for reading and writing the very common LAS LiDAR format. 
 * [LASzip](https://www.laszip.org/) - Quickly turns bulky LAS files into compact LAZ files without information loss.
 * [PyLAS](https://pypi.python.org/pypi/PyLAS) - A python library for reading and writing LAS files.
 * [Laspy](http://laspy.readthedocs.io/en/latest/) - Laspy is a python library for reading, modifying, and creating .LAS LIDAR files.
