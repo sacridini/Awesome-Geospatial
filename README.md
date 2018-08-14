@@ -280,6 +280,7 @@
 * [Mahotas](https://github.com/luispedro/mahotas) - Mahotas is a library of fast computer vision algorithms (all implemented in C++ for speed) operating over numpy arrays.
 * [Mahotas-imread](https://github.com/luispedro/imread) - Read images to numpy arrays.
 * [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask.
+* [geeup](https://github.com/samapriya/geeup) - Simple CLI for Earth Engine Uploads.
 
 
 ## Java
