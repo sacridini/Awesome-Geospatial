@@ -700,6 +700,7 @@
 * [dtwSat](https://github.com/vwmaus/dtwSat) - Time-Weighted Dynamic Time Warping for satellite image time series analysis.
 * [googleway](https://github.com/SymbolixAU/googleway) - R Package for accessing and plotting Google Maps.
 * [geojsonsf](https://github.com/SymbolixAU/geojsonsf) - Conversion between sf and geojson.
+* [ncdfgeom](https://github.com/USGS-R/ncdfgeom) - NetCDF-CF Geometry and Timeseries Tools for R.
 
 
 ## Mobile Development
