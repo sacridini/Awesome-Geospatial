@@ -367,6 +367,7 @@
 * [tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
 * [Selene](https://github.com/kmhofmann/selene) - A C++14 image representation, processing and I/O library.
 * [Pronto Raster](https://github.com/ahhz/raster) - C++ library for geographical raster data analysis.
+* [valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap.
 
 
 ## C
