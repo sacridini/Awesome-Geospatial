@@ -703,6 +703,7 @@
 * [googleway](https://github.com/SymbolixAU/googleway) - R Package for accessing and plotting Google Maps.
 * [geojsonsf](https://github.com/SymbolixAU/geojsonsf) - Conversion between sf and geojson.
 * [ncdfgeom](https://github.com/USGS-R/ncdfgeom) - NetCDF-CF Geometry and Timeseries Tools for R.
+* [tidytransit](https://github.com/r-transit/tidytransit) - 'sf'-compatible package to analyze transit schedules, routes, and stops.
 
 
 ## Mobile Development
