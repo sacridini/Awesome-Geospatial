@@ -281,6 +281,7 @@
 * [Mahotas-imread](https://github.com/luispedro/imread) - Read images to numpy arrays.
 * [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask.
 * [geeup](https://github.com/samapriya/geeup) - Simple CLI for Earth Engine Uploads.
+* [Verde](https://github.com/fatiando/verde) - Verde is a Python library for processing spatial data (bathymetry, geophysics surveys, etc) and interpolating it on regular grids (i.e., gridding).
 
 
 ## Java
