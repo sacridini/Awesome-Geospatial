@@ -371,6 +371,7 @@
 * [Selene](https://github.com/kmhofmann/selene) - A C++14 image representation, processing and I/O library.
 * [Pronto Raster](https://github.com/ahhz/raster) - C++ library for geographical raster data analysis.
 * [valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap.
+* [Halide](https://github.com/halide/Halide) - Halide is a programming language designed to make it easier to write high-performance image processing code on modern machines.
 
 
 ## C
@@ -711,6 +712,7 @@
 * [tidytransit](https://github.com/r-transit/tidytransit) - 'sf'-compatible package to analyze transit schedules, routes, and stops.
 * [lucCalculus](https://github.com/e-sensing/lucCalculus) - Spatiotemporal calculus for land use change trajectories.
 * [lidR](https://github.com/Jean-Romain/lidR) - R package for airborne LiDAR data manipulation and visualisation for forestry application.
+* [uavRst](https://github.com/gisma/uavRst) - UAV related Remote Sensing Toolbox.
 
 
 ## Mobile Development
