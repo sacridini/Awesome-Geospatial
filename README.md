@@ -167,6 +167,7 @@
 * [lidar](https://github.com/jblindsay/lidar) - A Crystal language library for reading and writing LiDAR data in LAS format.
 * [MCC-LIDAR](https://sourceforge.net/projects/mcclidar/) - Multiscale Curvature Classification for LIDAR Data.
 * [lidR](https://github.com/Jean-Romain/lidR) - R package for airborne LiDAR data manipulation and visualisation for forestry application.
+* [Entwine](https://github.com/connormanning/entwine) - Point cloud indexing for massive datasets.
 
 
 ## Geographic Data Mining
