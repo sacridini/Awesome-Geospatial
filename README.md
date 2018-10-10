@@ -400,6 +400,7 @@
 * [geom](https://github.com/ctessum/geom) - Geometry objects and functions for Go.
 * [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries.
 * [lidario](https://github.com/jblindsay/lidario) - A small Go library for reading and writing LiDAR (LAS) files.
+* [BoxTree](https://github.com/tidwall/boxtree) - An R-tree implementation for Go.
 
 
 ## Rust
