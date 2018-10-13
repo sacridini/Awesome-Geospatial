@@ -726,6 +726,7 @@
 * [uavRst](https://github.com/gisma/uavRst) - UAV related Remote Sensing Toolbox.
 * [getSpatialData](https://github.com/16EAGLE/getSpatialData) - An R package making it easy to query, preview, download and preprocess multiple kinds of spatial data via R.
 * [landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) - landscapemetrics is an R package for calculating landscape metrics for categorical landscape patterns in a tidy workflow.
+* [stars](https://github.com/r-spatial/stars) - Spatiotemporal tidy arrays for R.
 
 
 ## Mobile Development
