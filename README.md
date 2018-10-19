@@ -731,6 +731,7 @@
 * [vapour](https://github.com/hypertidy/vapour) - A lightweight GDAL API package for R.
 * [ffraster](https://github.com/hypertidy/ffraster) - Treat ff arrays as raster objects, and vice versa.
 * [tidync](https://github.com/hypertidy/tidync) - Systematic approaches to NetCDF data extraction, manipulation and visualization.
+* [geodist](https://github.com/hypertidy/geodist) - Ultra lightweight, ultra fast calculation of geo distances.
 
 
 ## Mobile Development
