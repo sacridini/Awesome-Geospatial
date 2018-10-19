@@ -728,6 +728,9 @@
 * [getSpatialData](https://github.com/16EAGLE/getSpatialData) - An R package making it easy to query, preview, download and preprocess multiple kinds of spatial data via R.
 * [landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) - landscapemetrics is an R package for calculating landscape metrics for categorical landscape patterns in a tidy workflow.
 * [stars](https://github.com/r-spatial/stars) - Spatiotemporal tidy arrays for R.
+* [vapour](https://github.com/hypertidy/vapour) - A lightweight GDAL API package for R.
+* [ffraster](https://github.com/hypertidy/ffraster) - Treat ff arrays as raster objects, and vice versa.
+* [tidync](https://github.com/hypertidy/tidync) - Systematic approaches to NetCDF data extraction, manipulation and visualization.
 
 
 ## Mobile Development
