@@ -390,6 +390,7 @@
 * [Pronto Raster](https://github.com/ahhz/raster) - C++ library for geographical raster data analysis.
 * [valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap.
 * [Halide](https://github.com/halide/Halide) - Halide is a programming language designed to make it easier to write high-performance image processing code on modern machines.
+* [S2 Geometry](https://github.com/google/s2geometry) - Computational geometry and spatial indexing on the sphere.
 
 
 ## C
