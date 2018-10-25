@@ -293,6 +293,7 @@
 * [som-tsp](https://github.com/DiegoVicen/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps.
 * [Centroids]9https://github.com/lyzidiamond/centroids) - This application reads a valid geojson FeatureCollection and returns a valid geojson FeatureColleciton of centroids.
 * [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images.
+* [PyPostal](https://github.com/openvenues/pypostal) - Python bindings to libpostal for fast international address parsing/normalization.
 
 
 ## Java
@@ -314,6 +315,7 @@
 * [asgbook](https://github.com/lakshmanok/asgbook) - Implementation of GIS/RS features in Java. Its also the code accompanying the book "Automating the Analysis of Spatial Grids" by Valliappa Lakshmanan.
 * [whitebox-geospatial-analysis-tools](https://github.com/jblindsay/whitebox-geospatial-analysis-tools) - An open-source GIS and remote sensing package.
 * [LuciadLightspeed](http://www.luciad.com/solutions/luciadlightspeed) - A Java library that provides the foundations for advanced geospatial analytics applications
+* [jpostal](https://github.com/openvenues/jpostal) - Java/JNI bindings to libpostal for fast international street address parsing/normalization.
 
 
 ## Clojure
@@ -389,6 +391,7 @@
 * [Datamaps](https://github.com/ericfischer/datamaps) - This is a tool for indexing large lists of geographic points or lines and dynamically generating map tiles from the index for display.
 * [H3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system.
 * [YOLT](https://github.com/CosmiQ/yolt) - You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery.
+* [libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 
 
 ## Go
@@ -405,6 +408,7 @@
 * [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries.
 * [lidario](https://github.com/jblindsay/lidario) - A small Go library for reading and writing LiDAR (LAS) files.
 * [BoxTree](https://github.com/tidwall/boxtree) - An R-tree implementation for Go.
+* [gopostal](https://github.com/openvenues/gopostal) - Go (cgo) interface to libpostal for fast international address parsing/normalization.
 
 
 ## Rust
@@ -434,6 +438,7 @@
 * [SpatiaLite ActiveRecord Adapter](https://github.com/rgeo/activerecord-spatialite-adapter) - ActiveRecord adapter for Spatialite.
 * [Mongoid Geospatial](https://github.com/nofxx/mongoid-geospatial) - A Mongoid Extension that simplifies the use of MongoDB spatial features.
 * [Ruby Geocoder](http://www.rubygeocoder.com/) - Integration with geocoding services.
+* [ruby_postal](https://github.com/openvenues/ruby_postal) - Ruby bindings to libpostal for fast international address parsing/normalization.
 
 
 ## PHP
