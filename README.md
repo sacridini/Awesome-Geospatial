@@ -16,6 +16,7 @@
     - [SaaS - Software as a Service](#saas---software-as-a-service)
     - [DaaS - Data as a Service](#daas---data-as-a-service)
     - [Python](#python)
+    - [Perl](#perl)
     - [Java](#java)
     - [Clojure](#clojure)
     - [Crystal](#crystal)
@@ -294,6 +295,11 @@
 * [Centroids]9https://github.com/lyzidiamond/centroids) - This application reads a valid geojson FeatureCollection and returns a valid geojson FeatureColleciton of centroids.
 * [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images.
 * [PyPostal](https://github.com/openvenues/pypostal) - Python bindings to libpostal for fast international address parsing/normalization.
+
+
+## Perl
+* [address formatting](https://github.com/OpenCageData/address-formatting) - Templates to format geographic addresses.
+* [Geo::GDAL](https://metacpan.org/pod/Geo::GDAL) - Perl extension for the GDAL library for geospatial data.
 
 
 ## Java
