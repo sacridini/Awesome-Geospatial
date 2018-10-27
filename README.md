@@ -18,6 +18,7 @@
     - [Python](#python)
     - [Perl](#perl)
     - [Java](#java)
+    - [Kotlin](#kotlin)
     - [Clojure](#clojure)
     - [Crystal](#crystal)
     - [C Sharp](#c-sharp)
@@ -323,6 +324,11 @@
 * [whitebox-geospatial-analysis-tools](https://github.com/jblindsay/whitebox-geospatial-analysis-tools) - An open-source GIS and remote sensing package.
 * [LuciadLightspeed](http://www.luciad.com/solutions/luciadlightspeed) - A Java library that provides the foundations for advanced geospatial analytics applications
 * [jpostal](https://github.com/openvenues/jpostal) - Java/JNI bindings to libpostal for fast international street address parsing/normalization.
+
+
+## Kotlin
+
+* [geospatial-messenger](https://github.com/sdeleuze/geospatial-messenger) - Geospatial messenger application written with Spring Boot + Kotlin + PostgreSQL.
 
 
 ## Clojure
