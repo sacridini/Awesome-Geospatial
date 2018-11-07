@@ -203,15 +203,12 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 ## Libraries
 
 * [GDAL](http://www.gdal.org/) :zap: - Geospatial Data Abstraction Library (GDAL) is a translator library for raster and vector geospatial data formats.
-* [PDAL](https://www.pdal.io/) - Point Data Abstraction Library. GDAL for point cloud data.
 * [Mapnik](http://mapnik.org/) - C++/Python/Node.js library for map rendering.
 * [Terralib](http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
 * [GeographicLib](http://geographiclib.sourceforge.net/) - For solving geodesic problems. Implemented in C, C++, Java, Javascript, Fortran, Python and Matlab. 
-* [Orfeo ToolBox](https://www.orfeo-toolbox.org/) :zap: - Orfeo ToolBox (OTB) is an open-source C++ library for remote sensing images processing.
 * [Geolib](http://www.geolib.co.uk/) - GeoLib is a fast, efficient, computational geometry library available in C++, C# and Java.
 * [pgRouting](http://pgrouting.org/) - Extends the PostGIS / PostgreSQL geospatial database to provide geospatial routing functionality.
 * [PointCloud](https://github.com/pgpointcloud/pointcloud) - A PostgreSQL extension for storing point cloud (LIDAR) data.
-* [OSM Building](https://osmbuildings.org/) - A JavaScript library for visualizing OpenStreetMap building geometry on 2D and 3D maps.
 
 
 ## PaaS - Platform as a Service
@@ -607,6 +604,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Geokit](https://github.com/developmentseed/geokit) - Geokit is a command-line interface (CLI) tool written in javascript, that contains all the basic functionalities for measurements, conversions and operations of geojson files.
 * [arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format.
 * [tilegarden](https://github.com/azavea/tilegarden) - Serverless raster and vector map tile generation using Mapnik and AWS Lambda.
+* [OSM Building](https://osmbuildings.org/) - A JavaScript library for visualizing OpenStreetMap building geometry on 2D and 3D maps.
 
 
 ## R
