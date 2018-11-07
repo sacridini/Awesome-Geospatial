@@ -49,6 +49,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [Visualization](#visualization)
     - [Data Sources](#data-sources)
     - [Resources](#resources)
+    - [Podcasts](#podcasts)
     - [Conferences](#conferences)
     - [References](#references-and-other-awesome-lists)
 
@@ -858,6 +859,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [GDAL/OGR Cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/) - Simple code snippets on how to use the Python GDAL/OGR API.
 * [Geopython](https://github.com/urschrei/Geopython) - Notebooks and libraries for spatial/geo Python explorations.
 
+
 ## Conferences
 
 * [FOSS4G](http://foss4g.org/) - Free and Open Source Software for Geospatial.
@@ -865,9 +867,11 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [GEOINFO](http://www.geoinfo.info/geoinfo2017/) - The GEOINFO series (Brazilian Symposium on Geoinformatics) is an annual conference for exploring ongoing research, development and innovative applications on geographic information science and related areas.
 * [SBSR](http://www.dsr.inpe.br/sbsr2017/) - Bi-annual Brazilian National Symposium on Remote Sensing.
 
+
 ## Podcasts
 
 * [Scene From Above](http://scenefromabove.org/index.html) - Earth observation, remote sensing, geospatial and geeky chat
+
 
 ## References and other awesome lists
 
