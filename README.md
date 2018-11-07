@@ -19,6 +19,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [PaaS - Platform as a Service](#paas---platform-as-a-service)
     - [SaaS - Software as a Service](#saas---software-as-a-service)
     - [DaaS - Data as a Service](#daas---data-as-a-service)
+    - [Deep Learning](#deep-learning)
     - [Python](#python)
     - [Perl](#perl)
     - [Java](#java)
@@ -239,6 +240,15 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Google Maps](https://www.google.com.br/maps) - Google map service.
 * [Microsoft Bing Maps](http://www.bing.com/mapspreview) - Microsoft map service.
 * [OpenStreetMap](http://www.openstreetmap.org/) - OpenStreeMap map service.
+
+
+## Deep Learning
+
+* [Raster Vision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery.
+* [AirNet](https://github.com/mathildor/TF-SegNet) - SegNet-like network implemented in TensorFlow to use for segmenting aerial images.
+* [TernausNetV2](https://github.com/ternaus/TernausNetV2) - TernausNetV2: Fully Convolutional Network for Instance Segmentation.
+* [YOLT](https://github.com/avanetten/yolt) - You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery.
+* [Pixel Decoder](https://github.com/Geoyi/pixel-decoder) - A machine learning python package to run deep learning with satellite imagery.
 
 
 ## Python
@@ -865,6 +875,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Awesome GIS - spatialhast](https://github.com/spatialhast/awesome-gis)
 * [Awesome SQLite](https://github.com/planetopendata/awesome-sqlite) 
 * [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md)
+* [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 * [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel)
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
