@@ -455,6 +455,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rust-osm](https://github.com/georust/rust-osm) - OSM XML serialization and other OpenStreetMap utilities.
 * [rust-shapefile](https://github.com/georust/rust-shapefile) - Rust read/write support for shapefiles.
 * [rust-gpx](https://github.com/georust/rust-gpx) - Rust read/write support for GPS Exchange Format (GPX).
+* [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
 
 
 ## Ruby
