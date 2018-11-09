@@ -313,6 +313,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [python-opencage-geocoder](https://github.com/OpenCageData/python-opencage-geocoder) - A Python module that uses the OpenCage Geocoding API.
 * [rio-tiler](https://github.com/mapbox/rio-tiler) - Get mercator tile from landsat, sentinel or other AWS hosted raster.
 * [rio-cogeo](https://github.com/mapbox/rio-cogeo) - CloudOptimized GeoTIFF creation plugin for rasterio.   
+* [GIPPY](https://github.com/gipit/gippy) - Geospatial Image Processing for Python.
 
 
 ## Perl
