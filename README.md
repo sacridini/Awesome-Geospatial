@@ -314,6 +314,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rio-tiler](https://github.com/mapbox/rio-tiler) - Get mercator tile from landsat, sentinel or other AWS hosted raster.
 * [rio-cogeo](https://github.com/mapbox/rio-cogeo) - CloudOptimized GeoTIFF creation plugin for rasterio.   
 * [GIPPY](https://github.com/gipit/gippy) - Geospatial Image Processing for Python.
+* [ts-raster](https://github.com/adbeda/ts-raster) - ts-raster is a python package for analyzing time-series characteristics from raster data. It allows feature extraction, dimension reduction and applications of machine learning techniques for geospatial data.
 
 
 ## Perl
