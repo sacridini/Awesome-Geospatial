@@ -315,6 +315,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rio-cogeo](https://github.com/mapbox/rio-cogeo) - CloudOptimized GeoTIFF creation plugin for rasterio.   
 * [GIPPY](https://github.com/gipit/gippy) - Geospatial Image Processing for Python.
 * [ts-raster](https://github.com/adbeda/ts-raster) - ts-raster is a python package for analyzing time-series characteristics from raster data. It allows feature extraction, dimension reduction and applications of machine learning techniques for geospatial data.
+* [LT-ChangeDB](https://github.com/eMapR/LT-ChangeDB) - Scripts to extract spectral change information from LandTrendr data to a geodatabase.
 
 
 ## Perl
