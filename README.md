@@ -433,6 +433,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 ## Fortran
 * [6S](http://6s.ltdri.org/) - Second Simulation of the Satellite Signal in the Solar Spectrum (6S) open source algorithm.
 * [SWAT](https://github.com/WatershedModels/SWAT) - Implementation of SWAT model.
+* [SPECFEM3D_GLOBE](https://github.com/geodynamics/specfem3d_globe) - SPECFEM3D_GLOBE simulates global and regional (continental-scale) seismic wave propagation.
 
 
 ## Go
