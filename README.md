@@ -29,6 +29,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [C Sharp](#c-sharp)
     - [C++](#c++)
     - [C](#c)
+    - [Fortran](#fortran)
     - [Go](#go)
     - [Rust](#rust)
     - [Ruby](#ruby)
@@ -41,6 +42,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [Groovy](#groovy)
     - [Delphi](#delphi)
     - [CSS](#css)
+    - [IDL](#idl)
     - [Julia](#julia)
     - [JavaScript](#javascript)
     - [R](#r)
@@ -427,6 +429,10 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 
 
+## Fortran
+* [6S](http://6s.ltdri.org/) - Second Simulation of the Satellite Signal in the Solar Spectrum (6S) open source algorithm.
+
+
 ## Go
 
 * [S2](https://github.com/golang/geo) - S2 is a library for spherical geometry that aims to have the same robustness, flexibility, and performance as the best planar geometry libraries.
@@ -539,6 +545,10 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 * [CartoCSS](https://www.mapbox.com/tilemill/docs/manual/carto/) - TileMills language.
 * [MapCSS](http://wiki.openstreetmap.org/wiki/MapCSS) - MapCSS is a CSS-like language for map stylesheets.
+
+
+## IDL
+* [LandTrendr](https://github.com/KennedyResearch/LandTrendr-2012) - LandTrendr (Landsat-based Detection of Trends in Disturbance and Recovery) attempt to capture, label, and map changes in Earth's surface for use in science, natural resource management, and education.
 
 
 ## Julia 
