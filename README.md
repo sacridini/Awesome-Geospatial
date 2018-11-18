@@ -482,6 +482,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Mongoid Geospatial](https://github.com/nofxx/mongoid-geospatial) - A Mongoid Extension that simplifies the use of MongoDB spatial features.
 * [Ruby Geocoder](http://www.rubygeocoder.com/) - Integration with geocoding services.
 * [ruby_postal](https://github.com/openvenues/ruby_postal) - Ruby bindings to libpostal for fast international address parsing/normalization.
+* [Agroclimatology](https://github.com/beaorn/agroclimatology) - Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource.
+* [Evapotranspiration](https://github.com/beaorn/evapotranspiration) - Ruby library for calculating reference crop evapotranspiration (ETo).
 
 
 ## PHP
