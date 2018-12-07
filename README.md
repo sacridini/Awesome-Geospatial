@@ -798,6 +798,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [geodist](https://github.com/hypertidy/geodist) - Ultra lightweight, ultra fast calculation of geo distances.
 * [GeospatialLineGraphs](https://github.com/Brideau/GeospatialLineGraphs) - A library for creating geospatial line graphs along lines of latitude.
 * [phenofit](https://github.com/kongdd/phenofit) - A state-of-the-art Vegetation Phenology extraction package.
+* [rayshader](https://github.com/tylermorganwall/rayshader) - rayshader is an open source R package for producing 2D and 3D hillshaded maps of elevation matrices using a combination of raytracing, spherical texture mapping, and ambient occlusion.
 
 
 ## Mobile Development
