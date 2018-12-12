@@ -523,6 +523,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 ## Haskell
 
 * [Naqsha](https://github.com/naqsha/naqsha) - Naqsha is a Haskell library to work with geospatial data types.
+* [TerraHS](https://wiki.haskell.org/TerraHS) - TerraHS is a software component that enables the development of geographical applications in a functional language, using the data handling capabilities and spatial operations of TerraLib.
 
 
 ## Elixir
