@@ -35,6 +35,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [Ruby](#ruby)
     - [PHP](#php)
     - [Lua](#lua)
+    - [Lisp](#lips)
     - [Haskell](#haskell)
     - [Elixir](#elixir)
     - [Swift](#swift)
@@ -511,6 +512,12 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [TerraME](http://www.terrame.org/doku.php) - TerraME is a programming environment for spatial dynamical modelling. It supports cellular automata, agent-based models, and network models running in 2D cell spaces.
 * [Tarantool/GIS](https://github.com/tarantool/gis) - A full-featured geospatial extension for Tarantool.
 * [geo.lua](https://github.com/RedisLabs/geo.lua) - A helper library for Redis geospatial indices.
+
+
+## Lisp
+* [cl-ewkb](https://github.com/filonenko-mikhail/cl-ewkb/) - Common Lisp PostGIS EWKB data model and encoder/decoder.
+* [cl-proj](https://bitbucket.org/vityok/cl-proj) - CL-PROJ provides CFFI-based Common Lisp bindings for the PROJ.4 library.
+* [utm](https://github.com/jl2/utm) - Lisp library for converting between latitude/longitude and UTM.
 
 
 ## Haskell
