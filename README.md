@@ -121,6 +121,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [OpenJUMP](http://openjump.org/) - Open source Java GIS.
 * [Mapbox Studio](https://github.com/mapbox/mapbox-studio-classic) - Desktop application for vector tile driven map design.
 * [FME Desktop](https://www.safe.com/fme/fme-desktop/) - FME is an integrated collection of Spatial ETL tools for data transformation and data translation.
+* [GC2](http://www.mapcentia.com/en/product/) - GC2 is a enterprise platform GIS (open source)
 
 
 ## Web Map Development
@@ -238,7 +239,6 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser.
 * [OpenCage Geocoding API](https://geocoder.opencagedata.com/) - An API aggregating multiple open geo datasources (OpenStreetMap and others).
 * [OpenMapTiles](https://openmaptiles.com/) - Vector tiles and map services as service, self-hosted or off-line.
-
 
 ## DaaS - Data as a Service
 
