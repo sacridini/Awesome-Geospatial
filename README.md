@@ -328,6 +328,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [LT-ChangeDB](https://github.com/eMapR/LT-ChangeDB) - Scripts to extract spectral change information from LandTrendr data to a geodatabase.
 * [pymap3d](https://github.com/scivision/pymap3d) - Python 3D coordinate conversions for geospace ecef enu eci.
 * [YATSM](https://github.com/ceholden/yatsm) - Yet Another Timeseries Model (YATSM) is a Python package for utilizing a collection of timeseries algorithms and methods designed to monitor the land surface using remotely sensed imagery.
+* [untiler](https://github.com/mapbox/untiler) - Stitch image tiles into larger composite TIFs.
 
 
 ## Perl
