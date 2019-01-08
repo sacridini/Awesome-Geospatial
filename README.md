@@ -612,6 +612,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data explorers. 
 * [LazIO.jl](https://github.com/evetion/LazIO.jl) - Extends LasIO with Laszip integration.
 * [LASindex.jl](https://github.com/evetion/LASindex.jl) - Pure Julia reader of lasindex .lax files.
+* [LibSpatialIndex.jl](https://github.com/JuliaGeo/LibSpatialIndex.jl) - A library for spatially indexing kD bounding box data (based on libspatialindex).
 
 
 ## JavaScript
