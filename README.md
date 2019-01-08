@@ -419,7 +419,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [TauDEM](https://github.com/dtarb/TauDEM) - Terrain Analysis Using Digital Elevation Models (TauDEM) software for hydrologic terrain analysis and channel network extraction. 
 * [osgearth](https://github.com/gwaldron/osgearth) - A free open source C++ geospatial toolkit.
 * [dreich_algorithm](https://github.com/csdms-contrib/dreich_algorithm) - Algorithm for extracting channel networks from high resolution topographic data.
-* [gSLICr](http://www.edgardigital.ufba.br/?p=5841) - Real-time super-pixel segmentation.
+* [gSLICr](https://github.com/carlren/gSLICr) - Real-time super-pixel segmentation.
 * [LASzip](https://github.com/LASzip/LASzip) - Quickly turns bulky LAS files into compact LAZ files without information loss.
 * [laz-perf](https://github.com/hobu/laz-perf) - Alternative LAZ implementation for C++ and JavaScript.
 * [entwine](https://github.com/connormanning/entwine) - Entwine is a data organization library for massive point clouds, designed to conquer datasets of hundreds of billions of points as well as desktop-scale point clouds.
