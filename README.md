@@ -430,6 +430,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Pronto Raster](https://github.com/ahhz/raster) - C++ library for geographical raster data analysis.
 * [valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap.
 * [Halide](https://github.com/halide/Halide) - Halide is a programming language designed to make it easier to write high-performance image processing code on modern machines.
+* [gdalcubes](https://github.com/appelmar/gdalcubes) - gdalcubes is a library to represent collections of Earth Observation (EO) images as on demand data cubes (or multidimensional arrays).
 
 
 ## C
@@ -820,6 +821,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rayshader](https://github.com/tylermorganwall/rayshader) - rayshader is an open source R package for producing 2D and 3D hillshaded maps of elevation matrices using a combination of raytracing, spherical texture mapping, and ambient occlusion.
 * [Prioritizr](https://github.com/prioritizr/prioritizr) - The prioritizr R package uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.
 * [ModelR](https://github.com/Model-R/modelr_pkg) - A workflow for ecological niche models based on dismo.
+* [gdalcubes_R](https://github.com/appelmar/gdalcubes_R) - R package for gdalcubes to process collections of Earth observation image collection as on demand data cubes.
 
 
 ## Mobile Development
