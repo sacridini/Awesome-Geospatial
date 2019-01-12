@@ -822,6 +822,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Prioritizr](https://github.com/prioritizr/prioritizr) - The prioritizr R package uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.
 * [ModelR](https://github.com/Model-R/modelr_pkg) - A workflow for ecological niche models based on dismo.
 * [gdalcubes_R](https://github.com/appelmar/gdalcubes_R) - R package for gdalcubes to process collections of Earth observation image collection as on demand data cubes.
+* [ggspatial](https://github.com/paleolimbot/ggspatial) - A ggplot2 R extension for plotting Spatial* objects.
 
 
 ## Mobile Development
