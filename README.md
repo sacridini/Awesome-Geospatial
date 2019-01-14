@@ -329,6 +329,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [pymap3d](https://github.com/scivision/pymap3d) - Python 3D coordinate conversions for geospace ecef enu eci.
 * [YATSM](https://github.com/ceholden/yatsm) - Yet Another Timeseries Model (YATSM) is a Python package for utilizing a collection of timeseries algorithms and methods designed to monitor the land surface using remotely sensed imagery.
 * [untiler](https://github.com/mapbox/untiler) - Stitch image tiles into larger composite TIFs.
+* [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - A Python Framework for Large-Scale SAR Satellite Data Processing.
 
 
 ## Perl
@@ -823,6 +824,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [ModelR](https://github.com/Model-R/modelr_pkg) - A workflow for ecological niche models based on dismo.
 * [gdalcubes_R](https://github.com/appelmar/gdalcubes_R) - R package for gdalcubes to process collections of Earth observation image collection as on demand data cubes.
 * [ggspatial](https://github.com/paleolimbot/ggspatial) - A ggplot2 R extension for plotting Spatial* objects.
+* [exactextractr](https://github.com/isciences/exactextractr) - R package for fast and accurate raster zonal statistics.
 
 
 ## Mobile Development
