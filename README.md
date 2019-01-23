@@ -865,6 +865,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [three.js](https://threejs.org/) - A javascript 3D library which makes WebGL simpler
 * [Strava](https://github.com/marcusvolz/strava) - Create artistic visualisations with your exercise data.
 * [CityEngine-Twitter](https://github.com/urschrei/CityEngine-Twitter) - Visualise Twitter activity using a procedurally-generated 3D city model.
+* [PostGIS Preview](https://github.com/NYCPlanning/labs-postgis-preview) - A lightweight node api and frontend for quickly previewing PostGIS queries. 
 
 
 ## Tools
