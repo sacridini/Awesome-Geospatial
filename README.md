@@ -435,6 +435,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap.
 * [Halide](https://github.com/halide/Halide) - Halide is a programming language designed to make it easier to write high-performance image processing code on modern machines.
 * [gdalcubes](https://github.com/appelmar/gdalcubes) - gdalcubes is a library to represent collections of Earth Observation (EO) images as on demand data cubes (or multidimensional arrays).
+* [hydroflow](https://github.com/sistemalabgis/hydroflow) - Compute drainage orders in drainage basins using Strahler and Shreve methods.
 
 
 ## C
