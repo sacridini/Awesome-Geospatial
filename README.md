@@ -394,6 +394,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [GeoJSON4EntityFramework](https://github.com/alatas/GeoJSON4EntityFramework) - Create GeoJSON from Entity Framework Spatial Data or WKT.
 * [GeoJSON.Net](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers.
 * [Earth-Lens](https://github.com/Microsoft/Earth-Lens) - Earth Lens, a Microsoft Garage project is an iOS iPad application that helps people and organizations quickly identify and classify objects in aerial imagery through the power of machine learning.
+* [ArcBruTile](https://github.com/ArcBruTile/ArcBruTile) - ArcBruTile displays a collection of maps in ArcGIS Pro 2.0 and ArcMap 10.0 - 10.6.
 
 
 ## C++
@@ -486,6 +487,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rust-shapefile](https://github.com/georust/rust-shapefile) - Rust read/write support for shapefiles.
 * [rust-gpx](https://github.com/georust/rust-gpx) - Rust read/write support for GPS Exchange Format (GPX).
 * [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
+* [Martin](https://github.com/urbica/martin) - Martin is a PostGIS vector tiles server suitable for large databases. Martin is written in Rust using Actix web framework.
 
 
 ## Ruby
@@ -665,6 +667,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format.
 * [tilegarden](https://github.com/azavea/tilegarden) - Serverless raster and vector map tile generation using Mapnik and AWS Lambda.
 * [OSM Building](https://osmbuildings.org/) - A JavaScript library for visualizing OpenStreetMap building geometry on 2D and 3D maps.
+* [Galton](https://github.com/urbica/galton) - Lightweight Node.js isochrone server. Build isochrones using OSRM, Turf and concaveman.
 
 
 ## R
