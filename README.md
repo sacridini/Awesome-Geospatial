@@ -333,6 +333,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [YATSM](https://github.com/ceholden/yatsm) - Yet Another Timeseries Model (YATSM) is a Python package for utilizing a collection of timeseries algorithms and methods designed to monitor the land surface using remotely sensed imagery.
 * [untiler](https://github.com/mapbox/untiler) - Stitch image tiles into larger composite TIFs.
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - A Python Framework for Large-Scale SAR Satellite Data Processing.
+* [RIOS](https://bitbucket.org/chchrsc/rios/overview) - Raster I/O Simplification. A set of python modules which makes it easy to write raster processing code in Python.
 
 
 ## Perl
@@ -885,10 +886,9 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Tools
 
-* [GeoGig](http://geogig.org/) - Geospatial Distributed Version Control System.
+* [GeoGig](http://geogig.org/) - GeoGig is a Distributed Version Control System (DVCS) specially designed to handle geospatial data efficiently
 * [MapShaper](http://mapshaper.org/) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.
 * [landsat-espa-util](https://github.com/loicdtx/landsat-espa-util) - Library for querying and ordering Landsat Surface Reflectance data via ESPA.
-* [GeoGig](https://github.com/locationtech/geogig) - GeoGig is a Distributed Version Control System (DVCS) specially designed to handle geospatial data efficiently.
 * [TileMill](https://github.com/mapbox/tilemill) - TileMill is a modern map design studio powered by Node.js and Mapnik.
 * [DataPillager](https://github.com/gdherbert/DataPillager) - Download data from Esri service.
 * [Osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - osm2pgsql is a tool for loading OpenStreetMap data into a PostgreSQL.
