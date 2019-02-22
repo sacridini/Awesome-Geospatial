@@ -50,6 +50,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [Mobile Development](#mobile-development)
     - [Geospatial Big Data](#geospatial-big-data)
     - [Visualization](#visualization)
+    - [Tools](#tools)
+    - [Cheat sheets](#cheat-sheets)
     - [Data Sources](#data-sources)
     - [Resources](#resources)
     - [Podcasts](#podcasts)
@@ -894,6 +896,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [DataPillager](https://github.com/gdherbert/DataPillager) - Download data from Esri service.
 * [Osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - osm2pgsql is a tool for loading OpenStreetMap data into a PostgreSQL.
 * [52North SOS](http://52north.org/communities/sensorweb/sos/) - A reference implementation of the [OGC Sensor Observation Service specification (version 2.0)]
+* [Maptiks](https://maptiks.com/) - Maptiks its a tool that provides in-depth user insights by tracking how visitors click, pan and zoom on your maps.
 
 
 ## Cheat sheets
