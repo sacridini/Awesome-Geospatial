@@ -337,6 +337,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [untiler](https://github.com/mapbox/untiler) - Stitch image tiles into larger composite TIFs.
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - A Python Framework for Large-Scale SAR Satellite Data Processing.
 * [RIOS](https://bitbucket.org/chchrsc/rios/overview) - Raster I/O Simplification. A set of python modules which makes it easy to write raster processing code in Python.
+* [thunder](https://github.com/thunder-project/thunder) - Thunder is an ecosystem of tools for the analysis of image and time series data in Python.
 
 
 ## Perl
