@@ -932,6 +932,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Spatialreference.org](http://spatialreference.org/) - Source for coordinate system information.
 * [ESRI Shapefile Specs](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) - Shapefile specifications.
 * [GeoJSON.io](http://geojson.io/) - geojson.io is a quick, simple tool for creating, viewing, and sharing maps.
+* [TileJSON.io](http://tilejson.io/) - tilejson.io is a simple viewer for raster tile sets (Enter tile URL, layer properties, share).
 * [GDAL/OGR Cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/) - Simple code snippets on how to use the Python GDAL/OGR API.
 * [Geopython](https://github.com/urschrei/Geopython) - Notebooks and libraries for spatial/geo Python explorations.
 
