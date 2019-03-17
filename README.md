@@ -323,7 +323,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website.
 * [USGS API](https://github.com/kapadia/usgs) - USGS is a python module for interfacing with the US Geological Survey's API.
 * [som-tsp](https://github.com/DiegoVicen/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps.
-* [Centroids]9https://github.com/lyzidiamond/centroids) - This application reads a valid geojson FeatureCollection and returns a valid geojson FeatureColleciton of centroids.
+* [Centroids](https://github.com/lyzidiamond/centroids) - This application reads a valid geojson FeatureCollection and returns a valid geojson FeatureColleciton of centroids.
 * [sentinelsat](https://github.com/sentinelsat/sentinelsat) - Search and download Copernicus Sentinel satellite images.
 * [PyPostal](https://github.com/openvenues/pypostal) - Python bindings to libpostal for fast international address parsing/normalization.
 * [python-opencage-geocoder](https://github.com/OpenCageData/python-opencage-geocoder) - A Python module that uses the OpenCage Geocoding API.
@@ -339,6 +339,9 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [RIOS](https://bitbucket.org/chchrsc/rios/overview) - Raster I/O Simplification. A set of python modules which makes it easy to write raster processing code in Python.
 * [thunder](https://github.com/thunder-project/thunder) - Thunder is an ecosystem of tools for the analysis of image and time series data in Python.
 * [eo-box](https://github.com/benmack/eo-box) - Earth observation processing framework for machine learning in Python.
+* [lidar](https://github.com/giswqs/lidar) - Terrain and hydrological analysis using digital elevation models (DEMs).
+* [whitebox](https://github.com/giswqs/whitebox) - Python frontend for [WhiteboxTools](https://github.com/jblindsay/whitebox-tools). 
+* [WhiteboxTools-ArcGIS](https://github.com/giswqs/WhiteboxTools-ArcGIS) - ArcGIS Python Toolbox for [WhiteboxTools](https://github.com/jblindsay/whitebox-tools). 
 
 
 ## Perl
@@ -497,6 +500,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rust-gpx](https://github.com/georust/rust-gpx) - Rust read/write support for GPS Exchange Format (GPX).
 * [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
 * [Martin](https://github.com/urbica/martin) - Martin is a PostGIS vector tiles server suitable for large databases. Martin is written in Rust using Actix web framework.
+* [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) - An advanced geospatial data analysis platform.
 
 
 ## Ruby
@@ -847,6 +851,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [ggspatial](https://github.com/paleolimbot/ggspatial) - A ggplot2 R extension for plotting Spatial* objects.
 * [exactextractr](https://github.com/isciences/exactextractr) - R package for fast and accurate raster zonal statistics.
 * [kuenm](https://github.com/marlonecobos/kuenm) - kuenm is an R package designed to make the process of model calibration and final model creation easier and more reproducible, and at the same time more robust.
+* [whiteboxR](https://github.com/giswqs/whiteboxR) - R frontend of [WhiteboxTools](https://github.com/jblindsay/whitebox-tools).
 
 
 ## Mobile Development
