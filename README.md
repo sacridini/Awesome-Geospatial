@@ -62,7 +62,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Database
 
-* [PostGIS](http://postgis.net/) :zap: - PostgreSql spatial extension.
+* [PostGIS](http://postgis.net/) :star2: - PostgreSql spatial extension.
 * [PostGIS Vector Tile Utils](https://github.com/mapbox/postgis-vt-util) - A set of PostgreSQL functions that are useful when creating vector tile sources.
 * [Spatialite](http://www.gaia-gis.it/gaia-sins/) - SQLite spatial extension.
 * [Microsoft SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/spatial/spatial-data-sql-server) - Microsoft SQL/SQL Azure spatial features. All the spatial functionality is also available as a .NET library (can be downloaded using nuget)
@@ -106,10 +106,10 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Geographic Information System
 
-* [ArcGIS](https://www.arcgis.com/features/) :zap: - GIS for working with maps and geographic information.
+* [ArcGIS](https://www.arcgis.com/features/) :star2: - GIS for working with maps and geographic information.
 * [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/) - Fully 64-bit version of ArcGIS with new GUI and 2D/3D integration.
 * [LuciadFusion](http://www.luciad.com/solutions/luciadfusion) - An all-in-one server solution for your data publication workflow and geospatial data management
-* [QGIS](http://www.qgis.org/en/site/) :zap: - Cross-platform free and open-source desktop geographic information system.
+* [QGIS](http://www.qgis.org/en/site/) :star2: - Cross-platform free and open-source desktop geographic information system.
 * [GeoDa](http://geodacenter.github.io/) - Spatial data analysis software.
 * [Terraview](http://www.dpi.inpe.br/terraview_eng/index.php) - GIS application built using the TerraLib  GIS library.
 * [gvSIG](http://www.gvsig.com/en) - Free and open source GIS.
@@ -131,8 +131,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Web Map Development
 
-* [OpenLayers](http://openlayers.org/) :zap:- Open source AJAX library.
-* [Leaflet](http://leafletjs.com/) :zap: - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
+* [OpenLayers](http://openlayers.org/) :star2:- Open source AJAX library.
+* [Leaflet](http://leafletjs.com/) :star2: - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
 * [Geomanjas](http://www.geomajas.org/) - Open source development software for web-based and cloud based GIS applications.
 * [CesiumJS](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps.
 * [LuciadRIA](http://www.luciad.com/solutions/luciadria) - A JavaScript library for 3D globes and maps, with support for military symbology and desktop-like performance
@@ -148,9 +148,9 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Web Map Server
 
-* [Geoserver](http://geoserver.org/) :zap: - WMS written in Java and relies on GeoTools. Allows users to share and edit geospatial data.
+* [Geoserver](http://geoserver.org/) :star2: - WMS written in Java and relies on GeoTools. Allows users to share and edit geospatial data.
 * [MapProxy](http://mapproxy.org/) - An open source tile server proxy for geospatial data (WMS-C, TMS, WMTS, KML SuperOverlays). It caches, accelerates and transforms data from existing map services and serves any desktop or web GIS client. 
-* [Mapserver](http://mapserver.org/) :zap: - WMS written in C.
+* [Mapserver](http://mapserver.org/) :star2: - WMS written in C.
 * [MapGuide](https://mapguide.osgeo.org/) - Runs on Linux or Windows, supports Apache and IIS web servers, and has APIs (PHP, .NET, Java, and JavaScript) for application development.
 * [PGRestAPI](https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities. AKA: SpatialServer.
 * [utilery](https://github.com/tilery/utilery) - Micro vector tile manufacturing from PostGIS.
@@ -161,7 +161,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Radar
 
-* [PolSARpro](https://earth.esa.int/web/polsarpro) :zap: - Open source radar image data processing software.
+* [PolSARpro](https://earth.esa.int/web/polsarpro) :star2: - Open source radar image data processing software.
 * [Sarmap](http://www.sarmap.ch/page.php?page=sarscape) - Synthetic Aperture Radar processing software.
 * [GAMMA](http://www.gamma-rs.ch/no_cache/software.html) - Allows processing of SAR, interferometric SAR (InSAR) and differential interferometric SAR (DInSAR).
 * [Sentinel Toolboxes](https://sentinel.esa.int/web/sentinel/toolboxes) - Free open source toolboxes for the scientific exploitation of the Sentinel missions.
@@ -170,11 +170,11 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Lidar
 
-* [LAStools](http://www.cs.unc.edu/~isenburg/lastools/) :zap: - A collection of highly-efficient, scriptable tools with multi-core batching that process LAS, compressed LAZ, Terrasolid BIN, .shp, and ASCII.
+* [LAStools](http://www.cs.unc.edu/~isenburg/lastools/) :star2: - A collection of highly-efficient, scriptable tools with multi-core batching that process LAS, compressed LAZ, Terrasolid BIN, .shp, and ASCII.
 * [FullAnalyze](https://code.google.com/archive/p/fullanalyze/) - Handling, visualizing and processing lidar data (3D point clouds and waveforms).
 * [DielmoOpenLidar](http://www.dielmo.com/eng/ficha-tecnologia-software.php?prod=21) - Open source software based in gvSIG for the management of LiDAR data.
 * [Global Mapper Lidar Module](https://www.bluemarblegeo.com/products/global-mapper-lidar.php) - Lidar module for Global Mapper.
-* [Fusion](http://forsys.cfr.washington.edu/fusion/fusionlatest.html) :zap: - CLI/GUI Lidar software.
+* [Fusion](http://forsys.cfr.washington.edu/fusion/fusionlatest.html) :star2: - CLI/GUI Lidar software.
 * [libLAS](https://liblas.org/) - libLAS is a C/C++ library for reading and writing the very common LAS LiDAR format. 
 * [LASzip](https://www.laszip.org/) - Quickly turns bulky LAS files into compact LAZ files without information loss.
 * [PyLAS](https://pypi.python.org/pypi/PyLAS) - A python library for reading and writing LAS files.
@@ -215,7 +215,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Libraries
 
-* [GDAL](http://www.gdal.org/) :zap: - Geospatial Data Abstraction Library (GDAL) is a translator library for raster and vector geospatial data formats.
+* [GDAL](http://www.gdal.org/) :star2: - Geospatial Data Abstraction Library (GDAL) is a translator library for raster and vector geospatial data formats.
 * [Mapnik](http://mapnik.org/) - C++/Python/Node.js library for map rendering.
 * [Terralib](http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
 * [GeographicLib](http://geographiclib.sourceforge.net/) - For solving geodesic problems. Implemented in C, C++, Java, Javascript, Fortran, Python and Matlab. 
@@ -274,7 +274,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 * [GeoDjango](http://geodjango.org/) - Django geographic web framework.
 * [Landsat-util](https://github.com/developmentseed/landsat-util) - Landsat-util is a command line utility that makes it easy to search, download, and process Landsat imagery.
-* [Rasterio](https://github.com/mapbox/rasterio) :zap: - Rasterio employs GDAL under the hood for file I/O and raster formatting.
+* [Rasterio](https://github.com/mapbox/rasterio) :star2: - Rasterio employs GDAL under the hood for file I/O and raster formatting.
 * [Rasterstats](https://github.com/perrygeo/python-rasterstats/) - Python module for summarizing geospatial raster datasets based on vector geometries.
 * [ArcGIS Python API](https://developers.arcgis.com/python/) - ArcGIS API for Python is a Python library for working with maps and geospatial data, powered by web GIS.
 * [PyQGIS](http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/) - Python for QGIS.
@@ -282,7 +282,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [pandana](https://github.com/UDST/pandana) - Pandas Network Analysis - dataframes of network queries, quickly.
 * [xarray ](http://xarray.pydata.org/en/stable/) - xarray (formerly xray) is an open source project and Python package that aims to bring the labeled data power of pandas to the physical sciences, by providing N-dimensional variants of the core pandas data structures.
 * [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data.
-* [Shapely](https://pypi.python.org/pypi/Shapely) :zap: - Manipulation and analysis of geometric objects in the Cartesian plane.
+* [Shapely](https://pypi.python.org/pypi/Shapely) :star2: - Manipulation and analysis of geometric objects in the Cartesian plane.
 * [mapboxgl-jupyter](https://github.com/mapbox/mapboxgl-jupyter) - Use Mapbox GL JS to visualize data in a Python Jupyter notebook.
 * [Cartopy](http://scitools.org.uk/cartopy/) - A library providing cartographic tools for python for plotting spatial data.
 * [Rtree](http://toblerity.org/rtree/) - For efficiently querying spatial data.
@@ -292,7 +292,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [NumPy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python.
 * [geopy](https://github.com/geopy/geopy) - geopy is a Python 2 and 3 client for several popular geocoding web services.
 * [FreeType](https://code.google.com/archive/p/freetype-py/) - For converting font glyphs to polygons.
-* [Fiona](http://toblerity.org/fiona/) :zap: - For making it easy to read/write geospatial data formats.
+* [Fiona](http://toblerity.org/fiona/) :star2: - For making it easy to read/write geospatial data formats.
 * [matplotlib](http://matplotlib.org/) - Python 2D plotting library.
 * [networkx](http://networkx.github.io/) - To work with networks.
 * [PySAL](http://pysal.readthedocs.io/en/latest/) - For all your spatial econometrics needs.
@@ -303,7 +303,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [chupaESRI](https://github.com/johnjreiser/chupaESRI) - ChupaESRI is a Python module/command line tool to extract features from ArcGIS Server map services.
 * [geojsonio.py](https://github.com/jwass/geojsonio.py) - Open GeoJSON data on geojson.io from Python. geojsonio.py also contains a command line utility that is a Python port of geojsonio-cli.
 * [Ogcserver](https://github.com/mapnik/OGCServer) - Python WMS implementation using Mapnik.
-* [RSGISLib](http://www.rsgislib.org/) :zap: - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using Python bindings or an XML interface.
+* [RSGISLib](http://www.rsgislib.org/) :star2: - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using Python bindings or an XML interface.
 * [Scikit-image](http://scikit-image.org/) - Scikit-image is a collection of algorithms for image processing.
 * [pyWPS](http://pywps.org/) - An implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python. It enables integration, publishing and execution of Python processes via the WPS standard.
 * [pyCSW](http://pycsw.org/) - Fully implements the OpenGIS Catalogue Service Implementation Specification (Catalogue Service for the Web). Initial development started in 2010 (more formally announced in 2011). The project is certified OGC Compliant, and is an OGC Reference Implementation.
@@ -352,11 +352,11 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Java
 
-* [Geotools](http://www.geotools.org/) :zap: - GeoTools is an open source Java library that provides tools for geospatial data.
+* [Geotools](http://www.geotools.org/) :star2: - GeoTools is an open source Java library that provides tools for geospatial data.
 * [GeoServer](http://geoserver.org/) - GeoServer is open source server for sharing geospatial data.
 * [GeoWebCache](http://www.geowebcache.org/) - a Java web application used to cache map tiles coming from a variety of sources such as OGC Web Map Service (WMS). It implements various service interfaces (such as WMS-C, WMTS, TMS, Google Maps KML, Virtual Earth) in order to accelerate and optimize map image delivery. It can also recombine tiles to work with regular WMS clients.
 * [Geonetwork](http://geonetwork-opensource.org/) - GeoNetwork is a catalog application to manage spatially referenced resources.
-* [JTS Topology Suite](http://www.vividsolutions.com/jts/jtshome.htm) :zap: - JTS Topology Suite is an API of 2D spatial predicates and functions.
+* [JTS Topology Suite](http://www.vividsolutions.com/jts/jtshome.htm) :star2: - JTS Topology Suite is an API of 2D spatial predicates and functions.
 * [GeOxygene](https://sourceforge.net/projects/oxygene-project/) - Provide an open framework which implements OGC/ISO specifications for the development and deployment of GIS applications.
 * [Gisgraphy](http://www.gisgraphy.com/) - Open source framework that offers the ability to do geolocalisation and geocoding via Java APIs or REST webservices.
 * [JGeocoder](http://jgeocoder.sourceforge.net/) - Free Java Geocoder.
@@ -412,11 +412,11 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## C++
 
-* [GEOS](https://trac.osgeo.org/geos/) :zap: - GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS).
-* [GDAL](http://www.gdal.org/) :zap: - Geospatial Data Abstraction Library (GDAL) is a computer library that serve as a translator library for raster and vector geospatial data formats.
+* [GEOS](https://trac.osgeo.org/geos/) :star2: - GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS).
+* [GDAL](http://www.gdal.org/) :star2: - Geospatial Data Abstraction Library (GDAL) is a computer library that serve as a translator library for raster and vector geospatial data formats.
 * [Mapnik](http://mapnik.org/) - C++ library for map rendering.
 * [Terralib](http://www.dpi.inpe.br/terralib5/wiki/doku.php?id=start) - TerraLib is a GIS classes and functions open source library.
-* [Boost Geometry](http://www.boost.org/doc/libs/1_61_0/libs/geometry/doc/html/index.html) :zap: - Part of collection of the Boost C++ Libraries, defines concepts, primitives and algorithms for solving geometry problems.
+* [Boost Geometry](http://www.boost.org/doc/libs/1_61_0/libs/geometry/doc/html/index.html) :star2: - Part of collection of the Boost C++ Libraries, defines concepts, primitives and algorithms for solving geometry problems.
 * [Capaware](https://en.wikipedia.org/wiki/Capaware) - 3D terrain representation with multilayer representation.
 * [libspatialindex](https://github.com/libspatialindex/libspatialindex) - C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API.
 * [Spatial](https://sourceforge.net/projects/spatial/) - Spatial is a generic header-only C++ library providing multi-dimensional in-memory containers, iterators and functionals.
@@ -638,15 +638,15 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 
 ## JavaScript
-* [OpenLayers](http://openlayers.org/) :zap: - Open source AJAX library.
-* [Leaflet](http://leafletjs.com/) :zap: - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
-* [Google Maps API](https://developers.google.com/maps/documentation/javascript/?hl=pt-br) :zap: - Google Maps API for JavaScript.
+* [OpenLayers](http://openlayers.org/) :star2: - Open source AJAX library.
+* [Leaflet](http://leafletjs.com/) :star2: - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
+* [Google Maps API](https://developers.google.com/maps/documentation/javascript/?hl=pt-br) :star2: - Google Maps API for JavaScript.
 * [gmaps.js](https://github.com/hpneo/gmaps) - gmaps.js allows you to use the potential of Google Maps in a simple way. 
 * [Bing Maps V8 Web Control](https://msdn.microsoft.com/en-us/library/mt712542.aspx) - Bing Maps API for JavaScript.
 * [Bing Maps V8 Interactive SDK](https://www.bing.com/api/maps/sdkrelease/mapcontrol/isdk#loadMapWithOptions+JS) - An interactive code sample gallery for Bing Maps V8.
 * [Bing Maps V8 Code Samples](https://github.com/Microsoft/BingMapsV8CodeSamples) - A large collection of open source code samples for Bing Maps V8.
 * [Bing Maps V8 TypeScript Definitions ](https://github.com/Microsoft/Bing-Maps-V8-TypeScript-Definitions) - TypeScript Definitions for the Bing Maps V8 web control.
-* [ArcGIS API](https://developers.arcgis.com/javascript/) :zap: - ArcGIS API for JavaScript.
+* [ArcGIS API](https://developers.arcgis.com/javascript/) :star2: - ArcGIS API for JavaScript.
 * [SuperMap iClient for JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supportted by SuperMap.
 * [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 * [react-map-gl](https://github.com/uber/react-map-gl) - React friendly API wrapper around MapboxGL JS.
@@ -665,7 +665,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [LuciadRIA](http://www.luciad.com/solutions/luciadria) - A JavaScript library for 3D globes and maps, with support for military symbology and desktop-like performance
 * [geotiff.js](https://github.com/geotiffjs/geotiff.js) - geotiff.js is a small library to parse TIFF files for visualization or analysis.
 * [geoblaze](https://github.com/GeoTIFF/geoblaze) - Geoblaze is a geospatial raster processing engine written purely in javascript.
-* [Turf.js](http://turfjs.org/) :zap: - Advanced geospatial analysis for browsers and node.
+* [Turf.js](http://turfjs.org/) :star2: - Advanced geospatial analysis for browsers and node.
 * [JSTS](https://github.com/bjornharrtell/jsts) - Port of the Java JTS library.
 * [Spatial](https://github.com/troufster/spatial) - A 2d spatial hash module for node.js.
 * [PGRestAPI](https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities.
@@ -691,9 +691,9 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## R
 
-* [sp](https://cran.r-project.org/web/packages/sp/index.html) :zap: - Classes and Methods for Spatial Data.
+* [sp](https://cran.r-project.org/web/packages/sp/index.html) :star2: - Classes and Methods for Spatial Data.
 * [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library.
-* [raster](https://cran.r-project.org/web/packages/raster/raster.pdf) :zap: - Reading, writing, manipulating, analyzing and modeling of gridded spatial data.
+* [raster](https://cran.r-project.org/web/packages/raster/raster.pdf) :star2: - Reading, writing, manipulating, analyzing and modeling of gridded spatial data.
 * [ggplot2](http://ggplot2.org/) - ggplot2 is a plotting system for R.
 * [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html) - Spatial Visualization with ggplot2.
 * [rgeos](https://cran.r-project.org/web/packages/rgeos/index.html) - Interface to Geometry Engine - Open Source (GEOS) using the C API for topology operations on geometries.
@@ -826,7 +826,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [ngspatial](https://cran.r-project.org/web/packages/ngspatial/index.html) - Provides tools for analyzing spatial data, especially non- Gaussian areal data.
 * [bfastSpatial](https://github.com/loicdtx/bfastSpatial) - Package to pre-process gridded time-series data in order for them to be analyzed with change detection algorithms such as bfast. Uses classes from the raster package and includes utilities to run the algorithms and post-process the results.
 * [teamlucc](https://github.com/azvoleff/teamlucc) -  Is designed to facilitate analysis of land use and cover change (LUCC) around the monitoring sites of the Tropical Ecology Assessment and Monitoring (TEAM) Network.
-* [RStoolbox](https://cran.r-project.org/web/packages/RStoolbox/index.html) :zap: - Toolbox for remote sensing image processing and analysis such as calculating spectral indices, principal component transformation, unsupervised and supervised classification or fractional cover analyses.
+* [RStoolbox](https://cran.r-project.org/web/packages/RStoolbox/index.html) :star2: - Toolbox for remote sensing image processing and analysis such as calculating spectral indices, principal component transformation, unsupervised and supervised classification or fractional cover analyses.
 * [sits](https://github.com/gilbertocamara/sits) - satellite image time series package for R.
 * [dtwSat](https://github.com/vwmaus/dtwSat) - Time-Weighted Dynamic Time Warping for satellite image time series analysis.
 * [googleway](https://github.com/SymbolixAU/googleway) - R Package for accessing and plotting Google Maps.
@@ -872,7 +872,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Geospatial Big Data
 
-* [Google Earth Engine](https://earthengine.google.com/) :zap: - Is a cloud computing platform for processing satellite imagery and other Earth observation data.
+* [Google Earth Engine](https://earthengine.google.com/) :star2: - Is a cloud computing platform for processing satellite imagery and other Earth observation data.
 * [GeoMesa](https://github.com/locationtech/geomesa) - GeoMesa is a suite of tools for working with big geo-spatial data in a distributed fashion.
 * [GeoWave](https://github.com/locationtech/geowave) - GeoWave provides geospatial and temporal indexing on top of Accumulo and HBase.
 * [GeoTrellis](https://github.com/locationtech/geotrellis) - GeoTrellis is a geographic data processing engine for high performance applications.
