@@ -168,6 +168,9 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [GAMMA](http://www.gamma-rs.ch/no_cache/software.html) - Allows processing of SAR, interferometric SAR (InSAR) and differential interferometric SAR (DInSAR).
 * [Sentinel Toolboxes](https://sentinel.esa.int/web/sentinel/toolboxes) - Free open source toolboxes for the scientific exploitation of the Sentinel missions.
 * [NANSAT](https://github.com/nansencenter/nansat) - Nansat is a scientist friendly Python toolbox for processing 2D satellite earth observation data.
+* [PySAR](https://github.com/insarlab/PySAR) - InSAR time series analysis in Python.
+* [SARbian](https://eo-college.org/sarbian/) - Free and open SAR operating system (based on Debian Linux).
+* [GMT5SAR](https://topex.ucsd.edu/gmtsar/) - InSAR processing system based on GMT.
 
 
 ## Lidar
@@ -988,4 +991,5 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 * [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
+* [Awesome SAR](https://github.com/RadarCODE/awesome-sar)
 * [GeoRails](http://daniel-azuma.com/articles/georails/)
