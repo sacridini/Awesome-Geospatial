@@ -948,6 +948,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Natural Earth](www.naturalearthdata.com) - This site offers public domain map data sets that contain both raster and vector data.
 * [ASTER Data](https://lpdaac.usgs.gov/dataset_discovery/aster) - Download ASTER data.
 * [INPE Database](http://www.dgi.inpe.br/CDSR/) - Download free satellite data including MODIS, Landsat (1-7), ResourceSat (1-2) and CBERS (2, 2B and 4) data.
+* [CBERS on AWS](https://github.com/fredliporace/cbers-on-aws) - Information, tools and data related to the China-Brazil Earth Resources Satellite (CBERS) PDS on AWS.
 * [Sentinel 2 AWS](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/) - Sentinel 2 data on Amazon S3.
 * [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home) - Sentinel data from scihub.
 * [Cityscapes Dataset](https://www.cityscapes-dataset.com/) -  large-scale dataset that contains a diverse set of stereo video sequences recorded in street scenes from 50 different cities, with high quality pixel-level annotations of 5 000 frames in addition to a larger set of 20 000 weakly annotated frames.
