@@ -918,6 +918,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Skia](https://skia.org/) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 * [geoplot](https://github.com/ResidentMario/geoplot) -  High-level Python geospatial plotting library. It's an extension to cartopy and matplotlib which makes mapping easy.
 * [GeoJs](https://github.com/OpenGeoscience/geojs) - High-performance visualization and interactive data exploration of scientific and geospatial location aware datasets.
+* [Cinder](https://libcinder.org/) - Cinder is a free and open source library for professional-quality creative coding in C++.
 
 
 ## Tools
