@@ -879,6 +879,9 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rsMove](https://cran.r-project.org/web/packages/rsMove/index.html) - Tools that support the combined use of animal movement and remote sensing data.
 * [rnaturalearth](https://github.com/ropensci/rnaturalearth) - An R package to hold and facilitate interaction with Natural Earth map data.
 * [ranger](https://github.com/imbs-hl/ranger) - A Fast Implementation of Random Forests.
+* [osmplotr](https://github.com/ropensci/osmplotr) - Data visualisation using OpenStreetMap objects.
+* [osmdata](https://github.com/ropensci/osmdata) - R package for downloading OpenStreetMap data.
+* [vapour](https://github.com/hypertidy/vapour) - A lightweight GDAL API package for R.
 
 
 ## Mobile Development
