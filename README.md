@@ -66,6 +66,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [PostGIS](http://postgis.net/) :star2: - PostgreSql spatial extension.
 * [PostGIS Vector Tile Utils](https://github.com/mapbox/postgis-vt-util) - A set of PostgreSQL functions that are useful when creating vector tile sources.
 * [Spatialite](http://www.gaia-gis.it/gaia-sins/) - SQLite spatial extension.
+* [Geopackage](https://www.geopackage.org/) - Sqlite spatial extension. More powerfull than its older brother Spatialite.
 * [Microsoft SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/spatial/spatial-data-sql-server) - Microsoft SQL/SQL Azure spatial features. All the spatial functionality is also available as a .NET library (can be downloaded using nuget)
 * [Neo4j Spatial](https://github.com/neo4j-contrib/spatial) - Library of spatial utilities for Neo4j.
 * [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html) - Oracle database spatial extension.
