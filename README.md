@@ -239,6 +239,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Geolib](http://www.geolib.co.uk/) - GeoLib is a fast, efficient, computational geometry library available in C++, C# and Java.
 * [pgRouting](http://pgrouting.org/) - Extends the PostGIS / PostgreSQL geospatial database to provide geospatial routing functionality.
 * [PointCloud](https://github.com/pgpointcloud/pointcloud) - A PostgreSQL extension for storing point cloud (LIDAR) data.
+* [TerraMA2](https://github.com/TerraMA2/terrama2) - A free and open source computational platform for early warning systems.
 
 
 ## PaaS - Platform as a Service
