@@ -887,6 +887,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [osmplotr](https://github.com/ropensci/osmplotr) - Data visualisation using OpenStreetMap objects.
 * [osmdata](https://github.com/ropensci/osmdata) - R package for downloading OpenStreetMap data.
 * [vapour](https://github.com/hypertidy/vapour) - A lightweight GDAL API package for R.
+* [polyclip](https://github.com/baddstats/polyclip) - R package polyclip: a port of the Clipper library for polygon geometry.
 
 
 ## Mobile Development
