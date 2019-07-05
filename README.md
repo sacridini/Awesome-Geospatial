@@ -311,7 +311,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [NumPy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python.
 * [geopy](https://github.com/geopy/geopy) - geopy is a Python 2 and 3 client for several popular geocoding web services.
 * [FreeType](https://code.google.com/archive/p/freetype-py/) - For converting font glyphs to polygons.
-* [Fiona](http://toblerity.org/fiona/) :star2: - For making it easy to read/write geospatial data formats.
+* [Fiona](https://fiona.readthedocs.io/en/latest/) :star2: - For making it easy to read/write geospatial data formats.
 * [matplotlib](http://matplotlib.org/) - Python 2D plotting library.
 * [networkx](http://networkx.github.io/) - To work with networks.
 * [PySAL](http://pysal.readthedocs.io/en/latest/) - For all your spatial econometrics needs.
