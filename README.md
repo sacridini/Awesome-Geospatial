@@ -366,6 +366,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
 * [Python Geocoder](https://github.com/DenisCarriere/geocoder) - Simple and consistent geocoding library written in Python.
 * [EarthPy](https://github.com/earthlab/earthpy) - A package built to support working with spatial data using open source python.
+* [scikit-mobility](https://github.com/scikit-mobility/scikit-mobility) - Mobility analysis in Python.
 
 
 ## Perl
