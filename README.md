@@ -891,6 +891,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [osmdata](https://github.com/ropensci/osmdata) - R package for downloading OpenStreetMap data.
 * [vapour](https://github.com/hypertidy/vapour) - A lightweight GDAL API package for R.
 * [polyclip](https://github.com/baddstats/polyclip) - R package polyclip: a port of the Clipper library for polygon geometry.
+* [cartography](https://github.com/riatelab/cartography) - Thematic Cartography with R.
 
 
 ## Mobile Development
@@ -948,6 +949,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - osm2pgsql is a tool for loading OpenStreetMap data into a PostgreSQL.
 * [52North SOS](http://52north.org/communities/sensorweb/sos/) - A reference implementation of the [OGC Sensor Observation Service specification (version 2.0)]
 * [Maptiks](https://maptiks.com/) - Maptiks its a tool that provides in-depth user insights by tracking how visitors click, pan and zoom on your maps.
+* [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) - GMT is an open source collection of about 90 command-line tools for manipulating geographic and Cartesian data sets.
 
 
 ## Cheat sheets
