@@ -893,6 +893,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [vapour](https://github.com/hypertidy/vapour) - A lightweight GDAL API package for R.
 * [polyclip](https://github.com/baddstats/polyclip) - R package polyclip: a port of the Clipper library for polygon geometry.
 * [cartography](https://github.com/riatelab/cartography) - Thematic Cartography with R.
+* [ROSM](https://github.com/paleolimbot/rosm) - Plot Open Street Map and Other Tiles in R.
 
 
 ## Mobile Development
