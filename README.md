@@ -978,6 +978,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Sentinel 2 AWS](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/) - Sentinel 2 data on Amazon S3.
 * [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home) - Sentinel data from scihub.
 * [Cityscapes Dataset](https://www.cityscapes-dataset.com/) -  large-scale dataset that contains a diverse set of stereo video sequences recorded in street scenes from 50 different cities, with high quality pixel-level annotations of 5 000 frames in addition to a larger set of 20 000 weakly annotated frames.
+* [Scale Open Datasets](https://scale.com/open-datasets?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter) - Open Datasets for Autonomous Driving.
 
 
 ## Resources
