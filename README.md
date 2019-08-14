@@ -288,6 +288,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Hyperspectral](https://github.com/KGPML/Hyperspectral) - Deep Learning for Land-cover Classification in Hyperspectral Images.
 * [SNIPER](https://github.com/mahyarnajibi/SNIPER) - SNIPER is an efficient multi-scale object detection algorithm.
 * [Label Maker](https://github.com/developmentseed/label-maker) - Data Preparation for Satellite Machine Learning.
+* [TorchSat](https://github.com/sshuair/torchsat) - TorchSat is an open-source PyTorch framework for satellite imagery analysis.
 
 
 ## Python
