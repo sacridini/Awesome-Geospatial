@@ -945,6 +945,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Tools
 
+* [Projection  Wizard](http://projectionwizard.org/) - Helps you select an appropriate projection for your map, depending on the area that you are mapping.
 * [GeoGig](http://geogig.org/) - GeoGig is a Distributed Version Control System (DVCS) specially designed to handle geospatial data efficiently
 * [MapShaper](http://mapshaper.org/) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.
 * [landsat-espa-util](https://github.com/loicdtx/landsat-espa-util) - Library for querying and ordering Landsat Surface Reflectance data via ESPA.
@@ -1026,3 +1027,4 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
 * [Awesome SAR](https://github.com/RadarCODE/awesome-sar)
 * [GeoRails](http://daniel-azuma.com/articles/georails/)
+* [Cartography / mapping / web design resources](https://github.com/tolomaps/resources)
