@@ -720,6 +720,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [GeoPackage.js](https://github.com/ngageoint/geopackage-js) - GeoPackage JS is an implementation of the OGC GeoPackage spec. This library works in both the browser and Node 4+.
 * [mapshaper-proj](https://github.com/mbloch/mapshaper-proj) - A JavaScript port of the Proj.4 map projection library.
 * [Geodesy](https://github.com/chrisveness/geodesy) - Libraries of geodesy functions implemented in JavaScript.
+* [d3-geomap](https://d3-geomap.github.io/) - A library for creating geographical maps based on D3.js.
 
 
 ## R
