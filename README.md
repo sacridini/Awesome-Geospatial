@@ -426,6 +426,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [DotSpatial](https://dotspatial.codeplex.com/) - DotSpatial is a geographic information system library written for .NET 4.
 * [NTS Net Topology Suite](https://github.com/NetTopologySuite/NetTopologySuite) - A .NET GIS solution that is fast and reliable for the .NET platform.
 * [GDAL/OGR CSharp](https://trac.osgeo.org/gdal/wiki/GdalOgrInCsharp) - C# bindings for GDAL and OGR.
+* [MaxRev.Gdal.Core](https://github.com/MaxRev-Dev/gdal.netcore) - **.NET Core** bindings for GDAL and OGR. (both win-x64 and linux-x64) 
 * [Geo](https://github.com/sibartlett/Geo) - A geospatial library for .NET
 * [SharpKml](https://sharpkml.codeplex.com/) - Is able to read/write both KML files and KMZ files.
 * [Mapbox Maps SDK for Unity](https://www.mapbox.com/unity-sdk/) - The Maps SDK for Unity is a collection of tools for building Unity applications from real map data.
