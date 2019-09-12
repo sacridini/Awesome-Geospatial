@@ -483,6 +483,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [otbtf](https://github.com/remicres/otbtf) - Deep learning with otb.
 * [prepair](https://github.com/tudelft3d/prepair) - Automatic repair of single polygons (according to the OGC Simple Features / ISO19107 rules) using a constrained triangulation.
 * [pprepair](https://github.com/tudelft3d/pprepair) - Validation and Automatic Repair of Planar Partitions.
+* [OSMExpress](https://github.com/protomaps/OSMExpress) - Fast database file format for OpenStreetMap.
 
 
 ## C
