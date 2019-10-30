@@ -375,6 +375,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [MovingPandas](https://github.com/anitagraser/movingpandas) - Implementation of Trajectory classes and functions built on top of GeoPandas.
 * [geojson-area](https://github.com/scisco/area) - Calculate the area inside of any GeoJSON geometry.
 * [osm2geojson](https://github.com/aspectumapp/osm2geojson) - Parse OpenStreetMap (OSM) XML and Overpass JSON/XML.
+* [pyGEOS](https://github.com/pygeos/pygeos) - Exposes geospatial operations from GEOS into Python.
 
 
 ## Perl
