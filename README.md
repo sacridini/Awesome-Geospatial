@@ -911,6 +911,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [cartography](https://github.com/riatelab/cartography) - Thematic Cartography with R.
 * [ROSM](https://github.com/paleolimbot/rosm) - Plot Open Street Map and Other Tiles in R.
 * [nngeo](https://github.com/michaeldorman/nngeo) - k-Nearest Neighbor Join for Spatial Data.
+* [wordcloud2](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud for data visualization.
 
 
 ## Mobile Development
