@@ -732,6 +732,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [mapshaper-proj](https://github.com/mbloch/mapshaper-proj) - A JavaScript port of the Proj.4 map projection library.
 * [Geodesy](https://github.com/chrisveness/geodesy) - Libraries of geodesy functions implemented in JavaScript.
 * [d3-geomap](https://d3-geomap.github.io/) - A library for creating geographical maps based on D3.js.
+* [Arabesque](https://github.com/gflowiz/arabesque) - Arabesque is a web application for thematic mapping of flow and networks datasets.
 
 
 
