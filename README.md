@@ -912,6 +912,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [ROSM](https://github.com/paleolimbot/rosm) - Plot Open Street Map and Other Tiles in R.
 * [nngeo](https://github.com/michaeldorman/nngeo) - k-Nearest Neighbor Join for Spatial Data.
 * [wordcloud2](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud for data visualization.
+* [fasterize](https://github.com/ecohealthalliance/fasterize) - High performance raster conversion for modern spatial data.
 
 
 ## Mobile Development
