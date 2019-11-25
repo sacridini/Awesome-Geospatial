@@ -297,7 +297,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Python
 
-* [GeoDjango](http://geodjango.org/) - Django geographic web framework.
+* [GeoDjango](https://docs.djangoproject.com/en/2.2/ref/contrib/gis/) - Django geographic web framework.
 * [Landsat-util](https://github.com/developmentseed/landsat-util) - Landsat-util is a command line utility that makes it easy to search, download, and process Landsat imagery.
 * [Rasterio](https://github.com/mapbox/rasterio) :star2: - Rasterio employs GDAL under the hood for file I/O and raster formatting.
 * [Rasterstats](https://github.com/perrygeo/python-rasterstats/) - Python module for summarizing geospatial raster datasets based on vector geometries.
