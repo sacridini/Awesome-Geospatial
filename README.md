@@ -39,6 +39,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [Lisp](#lisp)
     - [Haskell](#haskell)
     - [Elixir](#elixir)
+    - [Swift](#swift)
     - [Scala](#scala)
     - [Groovy](#groovy)
     - [Delphi](#delphi)
