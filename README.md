@@ -914,6 +914,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [nngeo](https://github.com/michaeldorman/nngeo) - k-Nearest Neighbor Join for Spatial Data.
 * [wordcloud2](https://github.com/Lchiffon/wordcloud2) - R interface to wordcloud for data visualization.
 * [fasterize](https://github.com/ecohealthalliance/fasterize) - High performance raster conversion for modern spatial data.
+* [earthEngineGrabR](https://github.com/JesJehle/earthEngineGrabR) - The earthEngineGrabR is an interface between R and the Google Earth Engine, which simplifies the acquisition of remote sensing data.
 
 
 ## Mobile Development
