@@ -294,7 +294,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Label Maker](https://github.com/developmentseed/label-maker) - Data Preparation for Satellite Machine Learning.
 * [TorchSat](https://github.com/sshuair/torchsat) - TorchSat is an open-source PyTorch framework for satellite imagery analysis.
 * [Temporal Convolutional Neural Network](https://github.com/charlotte-pel/temporalCNN) - Temporal Convolutional Neural Network for the Classification of Satellite Image Time Series.
-* [neat-EO](https://github.com/datapink/neat-EO) - Efficient AI4EO OpenSource framework
+* [neat-EO](https://neat-EO.pink) - Efficient AI4EO OpenSource framework
 
 
 ## Python
