@@ -680,6 +680,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [LazIO.jl](https://github.com/evetion/LazIO.jl) - Extends LasIO with Laszip integration.
 * [LASindex.jl](https://github.com/evetion/LASindex.jl) - Pure Julia reader of lasindex .lax files.
 * [LibSpatialIndex.jl](https://github.com/JuliaGeo/LibSpatialIndex.jl) - A library for spatially indexing kD bounding box data (based on libspatialindex).
+* [GeoMakie.jl](https://github.com/JuliaPlots/GeoMakie.jl) - Geographical plotting utilities for Makie.jl
 
 
 ## JavaScript
