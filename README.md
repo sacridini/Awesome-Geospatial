@@ -200,6 +200,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Entwine](https://github.com/connormanning/entwine) - Point cloud indexing for massive datasets.
 * [Quick Terrain Modeler](http://appliedimagery.com/) - Proprietary LiDAR exploitation software by Applied Imagery.
 * [TopoDOT](https://new.certainty3d.com/) - Proprietary software for extracting topography, 3D models, GIS Assets, and more from point cloud data.
+* [rGEDI](https://github.com/carlos-alberto-silva/rGEDI) - An R Package for NASA's Global Ecosystem Dynamics Investigation (GEDI) Data Visualization and Processing.
 
 
 ## 3D Application
