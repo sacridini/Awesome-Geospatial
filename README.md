@@ -380,6 +380,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [geojson-area](https://github.com/scisco/area) - Calculate the area inside of any GeoJSON geometry.
 * [osm2geojson](https://github.com/aspectumapp/osm2geojson) - Parse OpenStreetMap (OSM) XML and Overpass JSON/XML.
 * [pyGEOS](https://github.com/pygeos/pygeos) - Exposes geospatial operations from GEOS into Python.
+* [mapclassify](https://github.com/pysal/mapclassify) - Classification schemes for choropleth mapping.
 
 
 ## Perl
@@ -505,6 +506,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 * [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 * [udunits2](https://github.com/Unidata/UDUNITS-2) - API and utility for arithmetic manipulation of units of physical quantities.
+* [FORCE](https://github.com/davidfrantz/force) - Framework for Operational Radiometric Correction for Environmental monitoring.
 
 
 ## Fortran
