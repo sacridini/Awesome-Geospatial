@@ -135,7 +135,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Web Map Development
 
-* [OpenLayers](http://openlayers.org/) :star2:- Open source AJAX library.
+* [OpenLayers](http://openlayers.org/) :star2: - High-performance, feature-packed library for creating interactive maps on the web.
+* [Ol-ext](https://viglino.github.io/ol-ext/) :star2: - Cool extensions for Openlayers (ol) - animated clusters, CSS popup, Font Awesome symbol renderer, charts for statistical map (pie/bar), layer switcher, wikipedia layer, animations, canvas filters.
 * [Leaflet](http://leafletjs.com/) :star2: - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
 * [Geomanjas](http://www.geomajas.org/) - Open source development software for web-based and cloud based GIS applications.
 * [CesiumJS](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps.
