@@ -927,6 +927,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [earthEngineGrabR](https://github.com/JesJehle/earthEngineGrabR) - The earthEngineGrabR is an interface between R and the Google Earth Engine, which simplifies the acquisition of remote sensing data.
 * [stlnpp](https://github.com/Moradii/stlnpp) - Spatio-temporal point patterns on linear networks.
 * [geom](https://github.com/paleolimbot/geom) - Vectorized geometries and low-level GEOS access.
+* [terra](https://github.com/rspatial/terra) - terra is an R package that replaces raster. It has a very similar, but simpler, interface, and it is much faster.
 
 
 ## Mobile Development
