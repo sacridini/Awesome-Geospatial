@@ -65,6 +65,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 * [PostGIS](http://postgis.net/) :star2: - PostgreSql spatial extension.
 * [PostGIS Vector Tile Utils](https://github.com/mapbox/postgis-vt-util) - A set of PostgreSQL functions that are useful when creating vector tile sources.
+* [PgRouting](https://pgrouting.org/) - pgRouting extends the PostGIS / PostgreSQL geospatial database to provide geospatial routing functionality.
 * [Spatialite](http://www.gaia-gis.it/gaia-sins/) - SQLite spatial extension.
 * [Geopackage](https://www.geopackage.org/) - SQLite spatial extension. More powerfull than its older brother Spatialite.
 * [Microsoft SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/spatial/spatial-data-sql-server) - Microsoft SQL/SQL Azure spatial features. All the spatial functionality is also available as a .NET library (can be downloaded using nuget)
@@ -1006,10 +1007,10 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 * [TZ Timezone Shapefiles](http://efele.net/maps/tz/world/) - Polygon boundaries of world timezones.
 * [USGS Earth Explorer](http://earthexplorer.usgs.gov/) - Provides online search,metadata export, and data download for earth science data from the archives of the USGS.
-* [GeoNames](www.geonames.org) - The GeoNames geographical database covers all countries and contains over eight million place names (cities, postal codes, countries) that are available for download free of charge.
+* [GeoNames](http://www.geonames.org/) - The GeoNames geographical database covers all countries and contains over eight million place names (cities, postal codes, countries) that are available for download free of charge.
 * [Mapzen](https://mapzen.com/metro-extracts) - It provides data in OSM/PBF and Esri shapefile formats for popular cities.
 * [Geofabrik](http://download.geofabrik.de/) - This is another source of prepared OpenStreetMap data. This distribution is generally built nightly and comes in OSM XML, pbf, and shapefile (for very popular areas) formats.
-* [Natural Earth](www.naturalearthdata.com) - This site offers public domain map data sets that contain both raster and vector data.
+* [Natural Earth](http://www.naturalearthdata.com/) - This site offers public domain map data sets that contain both raster and vector data.
 * [ASTER Data](https://lpdaac.usgs.gov/dataset_discovery/aster) - Download ASTER data.
 * [INPE Database](http://www.dgi.inpe.br/CDSR/) - Download free satellite data including MODIS, Landsat (1-7), ResourceSat (1-2) and CBERS (2, 2B and 4) data.
 * [CBERS on AWS](https://github.com/fredliporace/cbers-on-aws) - Information, tools and data related to the China-Brazil Earth Resources Satellite (CBERS) PDS on AWS.
