@@ -931,6 +931,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [stlnpp](https://github.com/Moradii/stlnpp) - Spatio-temporal point patterns on linear networks.
 * [geom](https://github.com/paleolimbot/geom) - Vectorized geometries and low-level GEOS access.
 * [terra](https://github.com/rspatial/terra) - terra is an R package that replaces raster. It has a very similar, but simpler, interface, and it is much faster.
+* [wt](https://github.com/paleolimbot/wk) - Lightweight Well-Known Geometry Parsing.
 
 
 ## Mobile Development
