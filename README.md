@@ -16,6 +16,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [Geographic Data Mining](#geographic-data-mining)
     - [Atmospheric Correction](#atmospheric-correction)
     - [Agent-based Modeling](#agent-based-modeling)
+    - [Landscape Metrics](#landscape-metrics)
     - [Libraries](#libraries)
     - [PaaS - Platform as a Service](#paas---platform-as-a-service)
     - [SaaS - Software as a Service](#saas---software-as-a-service)
@@ -236,6 +237,12 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [MASON](https://cs.gmu.edu/~eclab/projects/mason/) - MASON is a fast discrete-event multiagent simulation library core in Java, designed to be the foundation for large custom-purpose Java simulations, and also to provide more than enough functionality for many lightweight simulation needs. MASON contains both a model library and an optional suite of visualization tools in 2D and 3D.
 * [DMASON](https://github.com/isislab-unisa/dmason) - DMASON is a parallel version of the MASON library for writing and running simulations of Agent based simulation models.
 * [nlrx](https://github.com/ropensci/nlrx) - Provides tools to setup and execute NetLogo simulations from R.
+
+
+## Landscape Metrics
+* [Fragstats](https://www.umass.edu/landeco/research/fragstats/fragstats.html) - Spatial Pattern Analysis Program for Categorical Maps.
+* [landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) - landscapemetrics is an R package for calculating landscape metrics for categorical landscape patterns in a tidy workflow.
+* [LS_METRICS](https://github.com/LEEClab/LS_METRICS) - A tool for calculating landscape connectivity and other ecologically scaled landscape metrics
 
 
 ## Libraries
