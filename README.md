@@ -940,6 +940,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [terra](https://github.com/rspatial/terra) - terra is an R package that replaces raster. It has a very similar, but simpler, interface, and it is much faster.
 * [wt](https://github.com/paleolimbot/wk) - Lightweight Well-Known Geometry Parsing.
 * [tiff](https://github.com/s-u/tiff) - Read and write TIFF images in R.
+* [pepair](https://github.com/dickoa/prepair) - An R package to repair broken GIS polygons using the prepair cpp library.
 
 
 ## Mobile Development
