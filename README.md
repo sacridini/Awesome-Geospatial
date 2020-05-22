@@ -942,6 +942,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [wt](https://github.com/paleolimbot/wk) - Lightweight Well-Known Geometry Parsing.
 * [tiff](https://github.com/s-u/tiff) - Read and write TIFF images in R.
 * [pepair](https://github.com/dickoa/prepair) - An R package to repair broken GIS polygons using the prepair cpp library.
+* [mapboxapi](https://github.com/walkerke/mapboxapi) - R interface to Mapbox web services.
 
 
 ## Mobile Development
