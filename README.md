@@ -248,7 +248,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) - landscapemetrics is an R package for calculating landscape metrics for categorical landscape patterns in a tidy workflow.
 * [LS_METRICS](https://github.com/LEEClab/LS_METRICS) - A tool for calculating landscape connectivity and other ecologically scaled landscape metrics
 * [PyLandStats](https://github.com/martibosch/pylandstats) - An open-source Pythonic library to compute landscape metrics.
-
+* [nlmpy](https://pypi.org/project/nlmpy/) - A Python package to create neutral landscape models.
+* [NLMR](https://github.com/ropensci/NLMR) - R package to simulate neutral landscape models.
 
 ## Libraries
 
