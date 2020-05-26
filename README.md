@@ -247,6 +247,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Fragstats](https://www.umass.edu/landeco/research/fragstats/fragstats.html) - Spatial Pattern Analysis Program for Categorical Maps.
 * [landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) - landscapemetrics is an R package for calculating landscape metrics for categorical landscape patterns in a tidy workflow.
 * [LS_METRICS](https://github.com/LEEClab/LS_METRICS) - A tool for calculating landscape connectivity and other ecologically scaled landscape metrics
+* [PyLandStats](https://github.com/martibosch/pylandstats) - An open-source Pythonic library to compute landscape metrics.
 
 
 ## Libraries
