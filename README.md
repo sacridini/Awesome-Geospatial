@@ -1017,9 +1017,9 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Fiona-Rasterio-Shapely Cheat Sheet](https://github.com/sgillies/frs-cheat-sheet) - A cheat sheet for Fiona/Rasterio/Shapely command-line geodata tools.
 * [GDAL](https://github.com/dwtkns/gdal-cheat-sheet) - Cheat sheet for GDAL/OGR command-line tools.
 * [PostGIS](http://www.postgis.us/downloads/postgis21_cheatsheet.pdf) - Cheat sheet for PostGIS.
-* [PostGIS 2](https://gist.github.com/kidpixo/5698476) 
-* [PostGIS Raster](http://www.postgis.us/downloads/postgis20_raster_cheatsheet.pdf) 
-* [GNU Parallel](https://www.gnu.org/software/parallel/parallel_cheat.pdf)
+* [PostGIS 2](https://gist.github.com/kidpixo/5698476) - Cheat sheet for PostGIS (version 2)
+* [PostGIS Raster](http://www.postgis.us/downloads/postgis20_raster_cheatsheet.pdf) - Cheat sheet for PostGIS Raster manipulation.
+* [GNU Parallel](https://www.gnu.org/software/parallel/parallel_cheat.pdf)- Cheat sheet for the GNU Parallel CLI tool.
 
 ## Data Sources
 
