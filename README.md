@@ -1019,7 +1019,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [PostGIS](http://www.postgis.us/downloads/postgis21_cheatsheet.pdf) - Cheat sheet for PostGIS.
 * [PostGIS 2](https://gist.github.com/kidpixo/5698476) - Cheat sheet for PostGIS (version 2)
 * [PostGIS Raster](http://www.postgis.us/downloads/postgis20_raster_cheatsheet.pdf) - Cheat sheet for PostGIS Raster manipulation.
-* [GNU Parallel](https://www.gnu.org/software/parallel/parallel_cheat.pdf)- Cheat sheet for the GNU Parallel CLI tool.
+* [GNU Parallel](https://www.gnu.org/software/parallel/parallel_cheat.pdf) - Cheat sheet for the GNU Parallel CLI tool.
 
 ## Data Sources
 
