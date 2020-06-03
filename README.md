@@ -949,6 +949,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [pepair](https://github.com/dickoa/prepair) - An R package to repair broken GIS polygons using the prepair cpp library.
 * [mapboxapi](https://github.com/walkerke/mapboxapi) - R interface to Mapbox web services.
 * [quickglobe](https://github.com/daranzolin/quickglobe) - View Country Data via a 3D, D3, Globe.
+* [geovctrs](https://github.com/paleolimbot/geovctrs) - Common Classes and Data Structures for Geometry Vectors.
 
 
 ## Mobile Development
