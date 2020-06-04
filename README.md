@@ -311,6 +311,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Temporal Convolutional Neural Network](https://github.com/charlotte-pel/temporalCNN) - Temporal Convolutional Neural Network for the Classification of Satellite Image Time Series.
 * [neat-EO](https://neat-EO.pink) - Efficient AI4EO OpenSource framework
 * [PixelLib](https://github.com/ayoolaolafenwa/PixelLib) - Pixellib is a library for performing segmentation of images. It suports both Semantic Segmentation as Instance Segmentation.
+* [WaterNet](https://github.com/treigerm/WaterNet) - A convolutional neural network that identifies water in satellite images.
 
 
 ## Python
