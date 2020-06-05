@@ -951,6 +951,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [mapboxapi](https://github.com/walkerke/mapboxapi) - R interface to Mapbox web services.
 * [quickglobe](https://github.com/daranzolin/quickglobe) - View Country Data via a 3D, D3, Globe.
 * [geovctrs](https://github.com/paleolimbot/geovctrs) - Common Classes and Data Structures for Geometry Vectors.
+* [rHarmonics](https://github.com/MBalthasar/rHarmonics/) - R package for harmonic modelling of time-series data.
 
 
 ## Mobile Development
