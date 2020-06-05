@@ -953,6 +953,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [geovctrs](https://github.com/paleolimbot/geovctrs) - Common Classes and Data Structures for Geometry Vectors.
 * [rHarmonics](https://github.com/MBalthasar/rHarmonics/) - R package for harmonic modelling of time-series data.
 * [mapdeck](https://github.com/SymbolixAU/mapdeck) - R interface to Deck.gl and Mapbox.
+* [sfheaders](https://github.com/dcooley/sfheaders) - Build sf objects from R and Rcpp.
 
 
 ## Mobile Development
