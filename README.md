@@ -254,6 +254,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 ## Libraries
 
 * [GDAL](http://www.gdal.org/) :star2: - Geospatial Data Abstraction Library (GDAL) is a translator library for raster and vector geospatial data formats.
+* [MDAL](https://github.com/lutraconsulting/MDAL) - Mesh Data Abstraction Library.
 * [Mapnik](http://mapnik.org/) - C++/Python/Node.js library for map rendering.
 * [Terralib](http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
 * [GeographicLib](http://geographiclib.sourceforge.net/) - For solving geodesic problems. Implemented in C, C++, Java, Javascript, Fortran, Python and Matlab. 
