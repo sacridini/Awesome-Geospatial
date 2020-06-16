@@ -956,6 +956,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [mapdeck](https://github.com/SymbolixAU/mapdeck) - R interface to Deck.gl and Mapbox.
 * [sfheaders](https://github.com/dcooley/sfheaders) - Build sf objects from R and Rcpp.
 * [rgee](https://github.com/r-spatial/rgee) - Google Earth Engine for R.
+* [rgeoda](https://github.com/GeoDaCenter/rgeoda) - rgeoda is a R package for spatial data analysis based on libgeoda and GeoDa.
 
 
 ## Mobile Development
