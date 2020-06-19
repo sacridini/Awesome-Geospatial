@@ -326,6 +326,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Pandas](http://pandas.pydata.org/) - Open source library providing high-performance, easy-to-use data structures and data analysis tools for the Python.
 * [pandana](https://github.com/UDST/pandana) - Pandas Network Analysis - dataframes of network queries, quickly.
 * [xarray ](http://xarray.pydata.org/en/stable/) - xarray (formerly xray) is an open source project and Python package that aims to bring the labeled data power of pandas to the physical sciences, by providing N-dimensional variants of the core pandas data structures.
+* [xarray-spatial](https://github.com/makepath/xarray-spatial) - xarray-spatial implements common raster analysis functions using Numba and provides an easy-to-install, easy-to-extend codebase for raster analysis.
 * [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data.
 * [MovingPandas](https://github.com/anitagraser/movingpandas) - MovingPandas implements a Trajectory class and corresponding methods based on GeoPandas.
 * [Shapely](https://pypi.python.org/pypi/Shapely) :star2: - Manipulation and analysis of geometric objects in the Cartesian plane.
