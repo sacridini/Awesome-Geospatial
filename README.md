@@ -764,6 +764,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [d3-geomap](https://d3-geomap.github.io/) - A library for creating geographical maps based on D3.js.
 * [Arabesque](https://github.com/gflowiz/arabesque) - Arabesque is a web application for thematic mapping of flow and networks datasets.
 * [Ginkgoch](https://ginkgoch.com) - Ginkgoch is a GIS visualization, analyze library on Node.js. It allows to build cross-platform GIS services, desktop and mobile apps.
+* [leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) - An extension to Leaflet that contains configurations for various free tile providers.
 
 
 
