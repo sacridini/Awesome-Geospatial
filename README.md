@@ -404,6 +404,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [mapclassify](https://github.com/pysal/mapclassify) - Classification schemes for choropleth mapping.
 * [Tobler](https://github.com/pysal/tobler) - Tobler is a python package for areal interpolation, dasymetric mapping, and change of support.
 * [RasterFrames](https://github.com/locationtech/rasterframes) - RasterFrames brings together Earth-observation (EO) data access, cloud computing, and DataFrame-based data science.
+* [starfm4py](https://github.com/nmileva/starfm4py) - The STARFM fusion model for Python (image fusion).
+* []
 
 
 ## Perl
@@ -1082,6 +1084,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 ## References and other awesome lists
 
 * [Essential Python Geospatial Libraries](http://carsonfarmer.com/2013/07/essential-python-geo-libraries/) 
+* [Awesome-EarthObservation-Code](https://github.com/acgeospatial/awesome-earthobservation-code)
 * [GeoJSON](https://github.com/tmcw/awesome-geojson)
 * [Vector Tiles](https://github.com/mapbox/awesome-vector-tiles)
 * [Spatial R](https://cran.r-project.org/web/views/Spatial.html)
