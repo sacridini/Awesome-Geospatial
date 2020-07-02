@@ -408,6 +408,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [RasterFrames](https://github.com/locationtech/rasterframes) - RasterFrames brings together Earth-observation (EO) data access, cloud computing, and DataFrame-based data science.
 * [starfm4py](https://github.com/nmileva/starfm4py) - The STARFM fusion model for Python (image fusion).
 * [cog_validator](https://github.com/rouault/cog_validator) - This is a standalone (Python / Flask) service that allows users to submit GeoTIFF files (preferably by URL) and check their compliance with the Cloud Optimized GeoTIFF (COG) specification.
+* [Mapchete](https://github.com/ungarj/mapchete) - Mapchete processes raster and vector geodata in digestable chunks. Tile-based geodata processing.
 
 
 ## Perl
