@@ -411,6 +411,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Mapchete](https://github.com/ungarj/mapchete) - Mapchete processes raster and vector geodata in digestable chunks. Tile-based geodata processing.
 * [unmixing](https://github.com/arthur-e/unmixing) - Interactive tools and functions for performing linear spectral mixture analysis (LSMA) and spatially adaptive spectral mixture analysis (SASMA).
 * [landsat7-errors](https://github.com/gena/landsat7-errors) - Identifies and correct errors in raw values of Landsat 7.
+* [prosail](https://github.com/jgomezdans/prosail) - Python bindings for the PROSAIL canopy reflectance model.
 
 
 ## Perl
