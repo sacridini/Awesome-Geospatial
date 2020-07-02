@@ -413,6 +413,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [landsat7-errors](https://github.com/gena/landsat7-errors) - Identifies and correct errors in raw values of Landsat 7.
 * [prosail](https://github.com/jgomezdans/prosail) - Python bindings for the PROSAIL canopy reflectance model.
 * [get_modis](https://github.com/jgomezdans/get_modis) - Downloading MODIS data from the USGS repository.
+* [landsatxplore](https://github.com/yannforget/landsatxplore) - Search and download Landsat scenes from EarthExplorer.
 
 
 ## Perl
