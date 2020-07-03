@@ -414,6 +414,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [prosail](https://github.com/jgomezdans/prosail) - Python bindings for the PROSAIL canopy reflectance model.
 * [get_modis](https://github.com/jgomezdans/get_modis) - Downloading MODIS data from the USGS repository.
 * [landsatxplore](https://github.com/yannforget/landsatxplore) - Search and download Landsat scenes from EarthExplorer.
+* [pyimpute](https://github.com/perrygeo/pyimpute) - Python module for geospatial prediction using scikit-learn and rasterio.
 
 
 ## Perl
