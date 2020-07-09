@@ -235,6 +235,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [sen2cor](http://step.esa.int/main/third-party-plugins-2/sen2cor/) - is a processor for Sentinel-2 Level 2A product generation and formatting; it performs the atmospheric-, terrain and cirrus correction of Top-Of- Atmosphere Level 1C input data.
 * [SIAC](https://github.com/MarcYin/SIAC) - A sensor invariant Atmospheric Correction (SIAC).
 * [SIAC_GEE](https://github.com/MarcYin/SIAC_GEE) - SIAC GEE version.
+* [ACOLITE_MR](https://github.com/acolite/acolite_mr) - Atmospheric correction for aquatic applications of metre-scale satellites.
 
 
 ## Agent-based Modeling
