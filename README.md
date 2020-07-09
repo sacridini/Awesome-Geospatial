@@ -419,6 +419,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [orbit-predictor](https://github.com/satellogic/orbit-predictor) - Orbit Predictor is a Python library to propagate orbits of Earth-orbiting objects (satellites, ISS, Santa Claus, etc) using TLE (Two-Line Elements set).
 * [GeoLambda](https://github.com/developmentseed/geolambda) - Create and deploy Geospatial AWS Lambda functions Python.
 * [telluric](https://github.com/satellogic/telluric) - telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way.
+* [geocube](https://github.com/corteva/geocube) - Tool to convert geopandas vector data into rasterized xarray data.
 
 
 ## Perl
