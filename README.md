@@ -582,6 +582,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rust-geo](https://github.com/georust/rust-geo) - Geospatial primitives and algorithms for Rust.
 * [rust-gdal](https://github.com/georust/rust-gdal) - Rust bindings for GDAL.
 * [rust-proj](https://github.com/georust/rust-proj) - Rust bindings for Proj.
+* [rust-geos](https://github.com/georust/geos) - Rust bindings for GEOS C API.
+* [rust-netcdf](https://github.com/georust/netcdf) - Medium-level netCDF bindings for Rust, allowing easy reading and writing of array-like structures to a file.
 * [rust-geojson](https://github.com/georust/rust-geojson) - Library for serializing the GeoJSON vector GIS file format.
 * [rust-topojson](https://github.com/georust/rust-topojson) - TopoJSON bindings and utilities for Rust.
 * [rust-geohash](https://github.com/georust/rust-geohash) - Geohash for Rust.
