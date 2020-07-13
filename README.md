@@ -317,7 +317,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [neat-EO](https://neat-EO.pink) - Efficient AI4EO OpenSource framework
 * [PixelLib](https://github.com/ayoolaolafenwa/PixelLib) - Pixellib is a library for performing segmentation of images. It suports both Semantic Segmentation as Instance Segmentation.
 * [WaterNet](https://github.com/treigerm/WaterNet) - A convolutional neural network that identifies water in satellite images.
-
+* [srcnn](https://github.com/WarrenGreen/srcnn) - Super Resolution for Satellite Imagery.
 
 ## Python
 
