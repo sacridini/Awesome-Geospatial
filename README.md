@@ -1104,7 +1104,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [State of the Map](https://stateofthemap.org/) - is the annual event for all mappers and OpenStreetMap users.
 * [GEOINFO](http://www.geoinfo.info/geoinfo2017/) - The GEOINFO series (Brazilian Symposium on Geoinformatics) is an annual conference for exploring ongoing research, development and innovative applications on geographic information science and related areas.
 * [SBSR](http://sbsr.com.br/br/node/1379) - Bi-annual Brazilian National Symposium on Remote Sensing.
-
+* [FOSSGIS](https://fossgis.de/) - yearly conference of the German OpenStreetMap chapter and FOSS GIS community
 
 ## Podcasts
 
