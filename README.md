@@ -75,6 +75,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [MySql Spatial](http://dev.mysql.com/doc/refman/5.7/en/spatial-extensions.html) - MySql spatial extension.
 * [GeoCouch](https://github.com/couchbase/geocouch) - GeoCouch is a spatial extension for Couchbase and Apache CouchDB.
 * [Cloudant](https://cloudant.com/) - IBM noSQL database that supports spatial data (GeoJSON).
+* [Hastings](https://github.com/cloudant-labs/hastings) - GeoSpatial Search for CouchDB 2
 * [MongoDB](https://www.mongodb.com/) - Also supports GeoJSON and spatial indexes.
 * [DB2 Spatial Extender](http://www-03.ibm.com/software/products/en/db2spaext) - Spatial Extender allows you to store, manage, and analyze spatial data in DB2.
 * [Informix Spatial](http://www-01.ibm.com/software/data/informix/spatial/) - Informix spatial extension.
@@ -1029,7 +1030,6 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Strava](https://github.com/marcusvolz/strava) - Create artistic visualisations with your exercise data.
 * [CityEngine-Twitter](https://github.com/urschrei/CityEngine-Twitter) - Visualise Twitter activity using a procedurally-generated 3D city model.
 * [PostGIS Preview](https://github.com/NYCPlanning/labs-postgis-preview) - A lightweight node api and frontend for quickly previewing PostGIS queries. 
-* [BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data.
 * [circlize](https://github.com/jokergoo/circlize) - Circular visualization in R. Circular layout is an efficient way for the visualization of huge amounts of information. 
 * [Skia](https://skia.org/) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 * [geoplot](https://github.com/ResidentMario/geoplot) -  High-level Python geospatial plotting library. It's an extension to cartopy and matplotlib which makes mapping easy.
@@ -1103,7 +1103,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [State of the Map](https://stateofthemap.org/) - is the annual event for all mappers and OpenStreetMap users.
 * [GEOINFO](http://www.geoinfo.info/geoinfo2017/) - The GEOINFO series (Brazilian Symposium on Geoinformatics) is an annual conference for exploring ongoing research, development and innovative applications on geographic information science and related areas.
 * [SBSR](http://sbsr.com.br/br/node/1379) - Bi-annual Brazilian National Symposium on Remote Sensing.
-
+* [FOSSGIS](https://fossgis.de/) - yearly conference of the German OpenStreetMap chapter and FOSS GIS community
 
 ## Podcasts
 
