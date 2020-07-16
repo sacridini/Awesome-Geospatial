@@ -324,33 +324,31 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Python
 
+* [RSGISLib](http://www.rsgislib.org/) :star2: - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using Python bindings or an XML interface.
+* [Rasterio](https://github.com/mapbox/rasterio) :star2: - Rasterio employs GDAL under the hood for file I/O and raster formatting.
+* [Fiona](https://fiona.readthedocs.io/en/latest/) :star2: - For making it easy to read/write geospatial data formats.
+* [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data.
+* [networkx](http://networkx.github.io/) - To work with networks.
+* [Shapely](https://pypi.python.org/pypi/Shapely) :star2: - Manipulation and analysis of geometric objects in the Cartesian plane.
+* [PySAL](http://pysal.readthedocs.io/en/latest/) - For all your spatial econometrics needs.
+* [Rasterstats](https://github.com/perrygeo/python-rasterstats/) - Python module for summarizing geospatial raster datasets based on vector geometries.
 * [GeoDjango](https://docs.djangoproject.com/en/2.2/ref/contrib/gis/) - Django geographic web framework.
 * [Landsat-util](https://github.com/developmentseed/landsat-util) - Landsat-util is a command line utility that makes it easy to search, download, and process Landsat imagery.
-* [Rasterio](https://github.com/mapbox/rasterio) :star2: - Rasterio employs GDAL under the hood for file I/O and raster formatting.
-* [Rasterstats](https://github.com/perrygeo/python-rasterstats/) - Python module for summarizing geospatial raster datasets based on vector geometries.
 * [ArcGIS Python API](https://developers.arcgis.com/python/) - ArcGIS API for Python is a Python library for working with maps and geospatial data, powered by web GIS.
 * [PyQGIS](http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/) - Python for QGIS.
-* [Pandas](http://pandas.pydata.org/) - Open source library providing high-performance, easy-to-use data structures and data analysis tools for the Python.
 * [pandana](https://github.com/UDST/pandana) - Pandas Network Analysis - dataframes of network queries, quickly.
 * [xarray ](http://xarray.pydata.org/en/stable/) - xarray (formerly xray) is an open source project and Python package that aims to bring the labeled data power of pandas to the physical sciences, by providing N-dimensional variants of the core pandas data structures.
 * [xarray-spatial](https://github.com/makepath/xarray-spatial) - xarray-spatial implements common raster analysis functions using Numba and provides an easy-to-install, easy-to-extend codebase for raster analysis.
 * [xarray_leaflet](https://github.com/davidbrochart/xarray_leaflet) - An xarray extension for tiled map plotting.
-* [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data.
 * [MovingPandas](https://github.com/anitagraser/movingpandas) - MovingPandas implements a Trajectory class and corresponding methods based on GeoPandas.
-* [Shapely](https://pypi.python.org/pypi/Shapely) :star2: - Manipulation and analysis of geometric objects in the Cartesian plane.
 * [mapboxgl-jupyter](https://github.com/mapbox/mapboxgl-jupyter) - Use Mapbox GL JS to visualize data in a Python Jupyter notebook.
 * [Cartopy](http://scitools.org.uk/cartopy/) - A library providing cartographic tools for python for plotting spatial data.
 * [Rtree](http://toblerity.org/rtree/) - For efficiently querying spatial data.
 * [geoalchemy](https://github.com/geoalchemy/geoalchemy) - Using SQLAlchemy with spatial databases.
 * [NodeBox-opengl](http://www.cityinabottle.org/nodebox/) - For playing around with animations.
 * [Statsmodels](http://statsmodels.sourceforge.net/) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
-* [NumPy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python.
 * [geopy](https://github.com/geopy/geopy) - geopy is a Python 2 and 3 client for several popular geocoding web services.
 * [FreeType](https://code.google.com/archive/p/freetype-py/) - For converting font glyphs to polygons.
-* [Fiona](https://fiona.readthedocs.io/en/latest/) :star2: - For making it easy to read/write geospatial data formats.
-* [matplotlib](http://matplotlib.org/) - Python 2D plotting library.
-* [networkx](http://networkx.github.io/) - To work with networks.
-* [PySAL](http://pysal.readthedocs.io/en/latest/) - For all your spatial econometrics needs.
 * [Descartes](https://pypi.python.org/pypi/descartes) - Plot geometries in matplotlib.
 * [PyShp](https://code.google.com/archive/p/pyshp/) - For reading and writing shapefiles.
 * [PyProj](https://github.com/jswhit/pyproj) - For conversions between projections.
@@ -358,7 +356,6 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [chupaESRI](https://github.com/johnjreiser/chupaESRI) - ChupaESRI is a Python module/command line tool to extract features from ArcGIS Server map services.
 * [geojsonio.py](https://github.com/jwass/geojsonio.py) - Open GeoJSON data on geojson.io from Python. geojsonio.py also contains a command line utility that is a Python port of geojsonio-cli.
 * [Ogcserver](https://github.com/mapnik/OGCServer) - Python WMS implementation using Mapnik.
-* [RSGISLib](http://www.rsgislib.org/) :star2: - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using Python bindings or an XML interface.
 * [Scikit-image](http://scikit-image.org/) - Scikit-image is a collection of algorithms for image processing.
 * [pyWPS](http://pywps.org/) - An implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python. It enables integration, publishing and execution of Python processes via the WPS standard.
 * [pyCSW](http://pycsw.org/) - Fully implements the OpenGIS Catalogue Service Implementation Specification (Catalogue Service for the Web). Initial development started in 2010 (more formally announced in 2011). The project is certified OGC Compliant, and is an OGC Reference Implementation.
@@ -429,6 +426,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [S2P - Satellite Stereo Pipeline](https://github.com/cmla/s2p) - S2P is a Python library and command line tool that implements a stereo pipeline which produces elevation models from images taken by high resolution satellites.
 * [xcube](https://github.com/dcs4cop/xcube) - xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr.
 * [rioxarray](https://github.com/corteva/rioxarray) - rasterio xarray extension.
+* [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
 
 
 ## Perl
