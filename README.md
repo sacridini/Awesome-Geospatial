@@ -75,6 +75,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [MySql Spatial](http://dev.mysql.com/doc/refman/5.7/en/spatial-extensions.html) - MySql spatial extension.
 * [GeoCouch](https://github.com/couchbase/geocouch) - GeoCouch is a spatial extension for Couchbase and Apache CouchDB.
 * [Cloudant](https://cloudant.com/) - IBM noSQL database that supports spatial data (GeoJSON).
+* [Hastings](https://github.com/cloudant-labs/hastings) - GeoSpatial Search for CouchDB 2
 * [MongoDB](https://www.mongodb.com/) - Also supports GeoJSON and spatial indexes.
 * [DB2 Spatial Extender](http://www-03.ibm.com/software/products/en/db2spaext) - Spatial Extender allows you to store, manage, and analyze spatial data in DB2.
 * [Informix Spatial](http://www-01.ibm.com/software/data/informix/spatial/) - Informix spatial extension.
