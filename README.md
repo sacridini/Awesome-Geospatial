@@ -428,6 +428,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [xcube](https://github.com/dcs4cop/xcube) - xcube is a Python package for generating and exploiting data cubes powered by xarray, dask, and zarr.
 * [rioxarray](https://github.com/corteva/rioxarray) - rasterio xarray extension.
 * [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
+* [Intake-stac](https://github.com/intake/intake-stac) - This is an intake data source for SpatioTemporal Asset Catalogs (STAC).
 
 
 ## Perl
