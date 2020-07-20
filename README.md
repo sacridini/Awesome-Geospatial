@@ -17,6 +17,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [Atmospheric Correction](#atmospheric-correction)
     - [Agent-based Modeling](#agent-based-modeling)
     - [Landscape Metrics](#landscape-metrics)
+    - [Landscape Modelling](#landscape-modelling)
     - [Libraries](#libraries)
     - [PaaS - Platform as a Service](#paas---platform-as-a-service)
     - [SaaS - Software as a Service](#saas---software-as-a-service)
@@ -256,6 +257,14 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [PyLandStats](https://github.com/martibosch/pylandstats) - An open-source Pythonic library to compute landscape metrics.
 * [nlmpy](https://pypi.org/project/nlmpy/) - A Python package to create neutral landscape models.
 * [NLMR](https://github.com/ropensci/NLMR) - R package to simulate neutral landscape models.
+
+
+## Landscape Modelling
+* [prioritizr](https://github.com/prioritizr/prioritizr) - R package that uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.
+* [MARXAN](https://marxansolutions.org/) - Marxan is freely available conservation planning software. It provides decision support to a range of conservation planning problems, including the design of new reserve systems, reporting on the performance of existing reserve systems, and developing multiple-use zoning plans for natural resource management.
+* [InVEST](https://naturalcapitalproject.stanford.edu/software/invest) - InVEST (Integrated Valuation of Ecosystem Services and Tradeoffs) is a suite of models used to map and value the goods and services from nature that sustain and fulfill human life.
+* [GLOBIOM](https://iiasa.ac.at/web/home/research/GLOBIOM/GLOBIOM.html) - Global Biosphere Management Model (GLOBIOM) is used to analyze the competition for land use between agriculture, forestry, and bioenergy, which are the main land-based production sectors.
+
 
 ## Libraries
 
