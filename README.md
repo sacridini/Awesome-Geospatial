@@ -443,6 +443,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Intake-stac](https://github.com/intake/intake-stac) - This is an intake data source for SpatioTemporal Asset Catalogs (STAC).
 * [CoastSat](https://github.com/kvos/CoastSat) - CoastSat is an open-source software toolkit written in Python that enables users to obtain time-series of shoreline position at any coastline worldwide from 30+ years (and growing) of publicly available satellite imagery.
 * [Turfpy](https://github.com/omanges/turfpy) - This is Python library for performing geo spatial data analysis. This is an python alternative for turf.js.
+* [pyKriging](https://github.com/capaulson/pyKriging) - N-dimensional kriging.
+
 
 ## Perl
 * [address formatting](https://github.com/OpenCageData/address-formatting) - Templates to format geographic addresses.
