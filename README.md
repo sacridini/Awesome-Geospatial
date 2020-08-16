@@ -111,6 +111,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Dinamica EGO](http://csr.ufmg.br/dinamica/) - Dinamica EGO consists of a sophisticated platform for environmental modeling.
 * [TIMESAT](http://web.nateko.lu.se/timesat/timesat.asp?cat=0) - TIMESAT is a software package for analysing time-series of satellite sensor data.
 * [gdal2tilesp](https://github.com/pramsey/gdal2tilesp) - This enhancement to the gdal2tiles.py script includes additional features.
+* [rasterix](https://github.com/mogasw/rasterix) - Rasterix is a cross-platform utility built around the GDAL library and the Qt framework designed to process geospatial raster data.
 
 
 ## Geographic Information System
