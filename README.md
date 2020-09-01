@@ -448,6 +448,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Turfpy](https://github.com/omanges/turfpy) - This is Python library for performing geo spatial data analysis. This is an python alternative for turf.js.
 * [pyKriging](https://github.com/capaulson/pyKriging) - N-dimensional kriging.
 * [HPGL](https://github.com/hpgl/hpgl) - High Perfomance Geostatistics Library.
+* [cuSpatial](https://github.com/rapidsai/cuspatial) - GPU-Accelerated Spatial and Trajectory Data Management and Analytics Library.
 
 
 ## Perl
