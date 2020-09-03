@@ -599,6 +599,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [lidario](https://github.com/jblindsay/lidario) - A small Go library for reading and writing LiDAR (LAS) files.
 * [BoxTree](https://github.com/tidwall/boxtree) - An R-tree implementation for Go.
 * [gopostal](https://github.com/openvenues/gopostal) - Go (cgo) interface to libpostal for fast international address parsing/normalization.
+* [Tegola](https://github.com/go-spatial/tegola) - Tegola is a vector tile server delivering Mapbox Vector Tiles with support for PostGIS and GeoPackage data providers.
 
 
 ## Rust
