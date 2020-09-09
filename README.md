@@ -825,6 +825,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 * [sf](https://github.com/r-spatial/sf) :star2: - Simple Features for R.
 * [sp](https://cran.r-project.org/web/packages/sp/index.html) - Classes and Methods for Spatial Data.
+* [tmap](https://github.com/mtennekes/tmap) - R-library for drawing thematic maps. The API is based on A Layered Grammar of Graphics and resembles the syntax of ggplot2.
+* [tmaptools](https://github.com/mtennekes/tmaptools) - This package offers a set of handy tool functions for reading and processing spatial data.
 * [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library.
 * [raster](https://cran.r-project.org/web/packages/raster/raster.pdf) :star2: - Reading, writing, manipulating, analyzing and modeling of gridded spatial data.
 * [ggplot2](http://ggplot2.org/) - ggplot2 is a plotting system for R.
