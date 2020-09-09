@@ -1082,6 +1082,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [CODA](http://stcorp.github.io/coda/doc/html/index.html) - The Common Data Access toolbox (CODA) provides a set of tools for ingesting, processing, and analyzing remote sensing data.
 * [veins](https://github.com/sommer/veins) - Open source vehicular network simulation framework.
 * [sat-search](https://github.com/sat-utils/sat-search) - Sat-search is a Python 3 library and a command line tool for discovering and downloading publicly available satellite imagery using STAC compliant API.
+* [exactextract](https://github.com/isciences/exactextract) - Provides a fast and accurate algorithm for summarizing values in the portion of a raster dataset that is covered by a polygon, often referred to as zonal statistics.
 
 
 ## Cheat sheets
