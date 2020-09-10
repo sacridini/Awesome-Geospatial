@@ -336,6 +336,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Solaris](https://github.com/cosmiq/solaris) - CosmiQ Works Geospatial Machine Learning Analysis Toolkit.
 * [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) - MMSegmentation is an open source semantic segmentation toolbox based on PyTorch. It is a part of the OpenMMLab project.
 * [Deep Learning ArcGIS](https://github.com/Esri/deep-learning-frameworks) - Deep Learning Libraries Installers for ArcGIS.
+* [platypus](https://github.com/maju116/platypus) - R package for object detection and image segmentation.
 
 
 ## Python
