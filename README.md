@@ -683,6 +683,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [geo](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 * [Geometry Library](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
 * [distance](https://github.com/pkinney/distance) - Provides a set of distance functions for use in GIS or graphic applications.
+* [GeoPostGIS](https://github.com/bryanjos/geo_postgis) - Postgrex extension for the PostGIS data types.
 
 
 ## Swift
