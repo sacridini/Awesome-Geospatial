@@ -832,7 +832,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [tmaptools](https://github.com/mtennekes/tmaptools) - This package offers a set of handy tool functions for reading and processing spatial data.
 * [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library.
 * [raster](https://cran.r-project.org/web/packages/raster/raster.pdf) :star2: - Reading, writing, manipulating, analyzing and modeling of gridded spatial data.
-* [ggplot2](http://ggplot2.org/) - ggplot2 is a plotting system for R.
+* [mapview](https://r-spatial.github.io/mapview/index.html) - mapview provides functions to very quickly and conveniently create interactive visualisations of spatial data.
 * [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html) - Spatial Visualization with ggplot2.
 * [rgeos](https://cran.r-project.org/web/packages/rgeos/index.html) - Interface to Geometry Engine - Open Source (GEOS) using the C API for topology operations on geometries.
 * [rgrass7](https://cran.r-project.org/web/packages/rgrass7/index.html) - Interface Between GRASS 7 GIS and R.
