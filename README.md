@@ -450,6 +450,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [pyKriging](https://github.com/capaulson/pyKriging) - N-dimensional kriging.
 * [HPGL](https://github.com/hpgl/hpgl) - High Perfomance Geostatistics Library.
 * [cuSpatial](https://github.com/rapidsai/cuspatial) - GPU-Accelerated Spatial and Trajectory Data Management and Analytics Library.
+* [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy) - GSLIB reimplimented in Python
 
 
 ## Perl
