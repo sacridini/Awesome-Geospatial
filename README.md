@@ -596,7 +596,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Go-shp](https://github.com/jonas-p/go-shp) - Go library for reading and writing ESRI Shapefiles. Pure Golang implementation based on the ESRI Shapefile technical description.
 * [Go-proj-4](https://github.com/pebbe/go-proj-4) - Go bindings for the Cartographic Projections Library PROJ.4.
 * [Draw2D](https://github.com/llgcode/draw2d) - 2D rendering for different output (raster, pdf).
-* [Go.Geo](https://github.com/paulmach/go.geo) - Geometry/geography library in Go.
+* [Go.Geo](https://github.com/paulmach/go.geo) - DEPRECATED Geometry/geography library in Go.
+* [orb](https://github.com/paulmach/orb) - A set of types for working with 2d geo and planar/projected geometric data in Golang
 * [geom](https://github.com/ctessum/geom) - Geometry objects and functions for Go.
 * [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries.
 * [lidario](https://github.com/jblindsay/lidario) - A small Go library for reading and writing LiDAR (LAS) files.
