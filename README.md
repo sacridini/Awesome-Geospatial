@@ -1025,6 +1025,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rgee](https://github.com/r-spatial/rgee) - Google Earth Engine for R.
 * [rgeoda](https://github.com/GeoDaCenter/rgeoda) - rgeoda is a R package for spatial data analysis based on libgeoda and GeoDa.
 * [rnoaa](https://github.com/ropensci/rnoaa) - R interface to many NOAA data sources.
+* [sfnetworks](https://github.com/luukvdmeer/sfnetworks) - Tidy Geospatial Networks in R.
 
 
 ## Mobile Development
