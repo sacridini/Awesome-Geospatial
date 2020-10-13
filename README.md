@@ -69,7 +69,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [PostGIS Vector Tile Utils](https://github.com/mapbox/postgis-vt-util) - A set of PostgreSQL functions that are useful when creating vector tile sources.
 * [PgRouting](https://pgrouting.org/) - pgRouting extends the PostGIS / PostgreSQL geospatial database to provide geospatial routing functionality.
 * [Spatialite](http://www.gaia-gis.it/gaia-sins/) - SQLite spatial extension.
-* [Geopackage](https://www.geopackage.org/) - SQLite spatial extension. More powerfull than its older brother Spatialite.
+* [Geopackage](https://www.geopackage.org/) - SQLite spatial extension. More powerful than its older brother Spatialite.
 * [Microsoft SQL Server](https://docs.microsoft.com/en-us/sql/relational-databases/spatial/spatial-data-sql-server) - Microsoft SQL/SQL Azure spatial features. All the spatial functionality is also available as a .NET library (can be downloaded using nuget)
 * [Neo4j Spatial](https://github.com/neo4j-contrib/spatial) - Library of spatial utilities for Neo4j.
 * [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html) - Oracle database spatial extension.
@@ -137,7 +137,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [OpenJUMP](http://openjump.org/) - Open source Java GIS.
 * [Mapbox Studio](https://github.com/mapbox/mapbox-studio-classic) - Desktop application for vector tile driven map design.
 * [FME Desktop](https://www.safe.com/fme/fme-desktop/) - FME is an integrated collection of Spatial ETL tools for data transformation and data translation.
-* [GC2](http://www.mapcentia.com/en/product/) - GC2 is a enterprise platform GIS (open source)
+* [GC2](http://www.mapcentia.com/en/product/) - GC2 is an enterprise platform GIS (open source)
 
 
 ## Web Map Development
