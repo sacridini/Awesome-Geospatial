@@ -1031,6 +1031,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [sfnetworks](https://github.com/luukvdmeer/sfnetworks) - Tidy Geospatial Networks in R.
 * [ribge](https://github.com/tbrugz/ribge) - R package for (down)loading data from IBGE (Instituto Brasileiro de Geografia e Estatística).
 * [marmap](https://github.com/ericpante/marmap) - Import, plot and analyze bathymetric and topographic data.
+* [maxnet](https://github.com/mrmaxent/maxnet) - R package for modelling species geographic distributions. It implements much of the functionality of the Maxent Java application.
 
 
 ## Mobile Development
