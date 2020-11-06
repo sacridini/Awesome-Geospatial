@@ -573,6 +573,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [VROOM](https://github.com/VROOM-Project/vroom) - VROOM is an open-source optimization engine written in C++17 that aim at providing good solutions to various real-life vehicle routing problems (VRP) within a small computing time.
 * [cpd](https://github.com/gadomski/cpd) - Coherent Point Drift (CPD) is a point-set registration algorithm.
 * [hmm](https://github.com/fogleman/hmm) - Heightmap meshing utility
+* [RoutingKit](https://github.com/RoutingKit/RoutingKit) - RoutingKit is a C++ library that provides advanced route planning functionality.
 
 
 ## C
