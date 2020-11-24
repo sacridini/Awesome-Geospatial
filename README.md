@@ -458,6 +458,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [pydelatin](https://github.com/kylebarron/pydelatin) - Python bindings to `hmm` for fast terrain mesh generation
 * [urbanaccess](https://github.com/UDST/urbanaccess) - A tool for computing GTFS transit and OSM pedestrian networks for accessibility analysis.
 * [momepy](https://github.com/martinfleis/momepy) - Momepy is a library for quantitative analysis of urban form - urban morphometrics.
+* [networkit](https://github.com/networkit/networkit) - NetworKit is a growing open-source toolkit for large-scale network analysis.
 
 
 ## Perl
@@ -576,6 +577,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [cpd](https://github.com/gadomski/cpd) - Coherent Point Drift (CPD) is a point-set registration algorithm.
 * [hmm](https://github.com/fogleman/hmm) - Heightmap meshing utility
 * [RoutingKit](https://github.com/RoutingKit/RoutingKit) - RoutingKit is a C++ library that provides advanced route planning functionality.
+* [networkit](https://github.com/networkit/networkit) - NetworKit is a growing open-source toolkit for large-scale network analysis.
 
 
 ## C
