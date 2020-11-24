@@ -93,7 +93,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Image Classification & DIP Software
 
-* [eCognition](http://www.ecognition.com/suite/ecognition-developer) - GEOBIA software.
+* [eCognition](https://geospatial.trimble.com/products-and-solutions/ecognition) - GEOBIA software.
 * [Interimage](http://www.lvc.ele.puc-rio.br/projects/interimage/) - Open Source GEOBIA software.
 * [ENVI](http://www.harrisgeospatial.com/ProductsandSolutions/GeospatialProducts/ENVI.aspx) - Geospatial image processing and classification software.
 * [ERDAS](http://www.hexagongeospatial.com/products/producer-suite/erdas-imagine) - Geospatial image processing and classification software.
