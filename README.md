@@ -1043,6 +1043,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [landmap](https://github.com/EnvirometriX/landmap) - Provides methodology for automated mapping i.e. spatial interpolation and/or prediction using Ensemble Machine Learning.
 * [sftrack](https://github.com/mablab/sftrack) - Modern classes for tracking and movement data.
 * [osrm R](https://github.com/rCarto/osrm) - Interface Between R and the OpenStreetMap-Based Routing Service OSRM.
+* [potential](https://github.com/riatelab/potential) - An R package to compute the potential model as defined by Stewart (1941).
 
 
 ## Mobile Development
