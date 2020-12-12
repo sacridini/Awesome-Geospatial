@@ -160,6 +160,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Google Maps API Polyline String Decoder](https://github.com/mgd722/decode-google-maps-polyline) - Function that will convert encoded polyline strings (as returned by the Google Maps API) into a list of lat/lon pairs.
 * [Mapzen Tangram](https://github.com/tangrams/tangram) - JavaScript library for rendering 2D & 3D maps live in a web browser with WebGL, supports MVT, GeoJSON, TopoJSON.
 * [GeoNode](http://geonode.org/) - A web-based application and platform for developing geospatial information systems (GIS) and for deploying spatial data infrastructures (SDI).
+* [azure-maps-animations](https://github.com/Azure-Samples/azure-maps-animations) - A rich library of animations for use with the Azure Maps Web SDK.
 
 
 ## Web Map Server
