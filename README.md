@@ -142,9 +142,9 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Web Map Development
 
-* [OpenLayers](http://openlayers.org/) :star2: - High-performance, feature-packed library for creating interactive maps on the web.
-* [Ol-ext](https://viglino.github.io/ol-ext/) :star2: - Cool extensions for Openlayers (ol) - animated clusters, CSS popup, Font Awesome symbol renderer, charts for statistical map (pie/bar), layer switcher, wikipedia layer, animations, canvas filters.
-* [Leaflet](http://leafletjs.com/) :star2: - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
+* [OpenLayers](http://openlayers.org/) - High-performance, feature-packed library for creating interactive maps on the web.
+* [Ol-ext](https://viglino.github.io/ol-ext/) - Cool extensions for Openlayers (ol) - animated clusters, CSS popup, Font Awesome symbol renderer, charts for statistical map (pie/bar), layer switcher, wikipedia layer, animations, canvas filters.
+* [Leaflet](http://leafletjs.com/) - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
 * [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - Mapbox GL JS is a JavaScript library that uses WebGL to render interactive maps from vector tiles and Mapbox styles.
 * [MapLibre GL](https://github.com/maplibre/maplibre-gl-js) - Is a community led fork derived from Mapbox GL JS prior to their switch to a non-OSS license.
 * [Geomanjas](http://www.geomajas.org/) - Open source development software for web-based and cloud based GIS applications.
