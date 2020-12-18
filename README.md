@@ -1060,6 +1060,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [sftrack](https://github.com/mablab/sftrack) - Modern classes for tracking and movement data.
 * [osrm R](https://github.com/rCarto/osrm) - Interface Between R and the OpenStreetMap-Based Routing Service OSRM.
 * [potential](https://github.com/riatelab/potential) - An R package to compute the potential model as defined by Stewart (1941).
+* [edgebundle](https://github.com/schochastics/edgebundle) - R package implementing edge bundling algorithms.
 
 
 ## Mobile Development
