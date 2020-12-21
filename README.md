@@ -171,6 +171,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [angular-azure-maps](https://github.com/Acaisoft/angular-azure-maps) - Angular 6 Azure Maps is a wrapped MS Azure Map on Angular.
 * [vue-azure-maps](https://github.com/rickyruiz/vue-azure-maps) - Integrate Azure Maps in your Vue application.
 * [react-azure-maps](https://github.com/WiredSolutions/react-azure-maps) - React Wrapper for azure-maps-control.
+* [v-mapbox](https://github.com/geospoc/v-mapbox) - Vue.js wrapper for `mapbox-gl-js`.
 
 
 ## Web Map Server
