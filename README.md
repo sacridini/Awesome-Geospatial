@@ -1213,6 +1213,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Awesome GIS - sshuair](https://github.com/sshuair/awesome-gis)
 * [Awesome SQLite](https://github.com/planetopendata/awesome-sqlite) 
 * [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md)
+* [Awesome Geo Rust](https://github.com/pka/awesome-georust)
 * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 * [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel)
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
