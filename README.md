@@ -259,6 +259,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [SIAC](https://github.com/MarcYin/SIAC) - A sensor invariant Atmospheric Correction (SIAC).
 * [SIAC_GEE](https://github.com/MarcYin/SIAC_GEE) - SIAC GEE version.
 * [ACOLITE_MR](https://github.com/acolite/acolite_mr) - Atmospheric correction for aquatic applications of metre-scale satellites.
+* [gee-atmcorr-S2](https://github.com/samsammurphy/gee-atmcorr-S2) - Atmospheric correction of Sentinel 2 imagery in Google Earth Engine using Py6S.
 
 
 ## Agent-based Modeling
