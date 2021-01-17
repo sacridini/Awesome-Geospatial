@@ -203,6 +203,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [PyRate](https://github.com/GeoscienceAustralia/PyRate) - A Python tool for estimating velocity and time-series from Interferometric Synthetic Aperture Radar (InSAR) data.
 * [SARPROZ](https://www.sarproz.com/) - Implements a wide range of Synthetic Aperture Radar (SAR), Interferometric SAR (InSAR) and Multi-Temporal InSAR processing techniques.
 * [GIAnT](http://earthdef.caltech.edu/projects/giant/wiki) - Python libraries and scripts that implement various published time-series InSAR algorithms in a common framework.
+* [LiCSBAS](https://github.com/yumorishita/LiCSBAS) - LiCSBAS is an open-source package in Python and bash to carry out InSAR time series analysis using LiCSAR products.
 
 
 ## Lidar
