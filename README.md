@@ -481,6 +481,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [PODPAC](https://podpac.org/) - PODPAC is a python library that builds on the scientific python ecosystem to enable simple, reproducible geospatial analyses that run locally or in the cloud.
 * [pyDEM](https://github.com/creare-com/pydem) - Python library for Global Hydrology Analysis. Used to calculate upstream contributing area, aspect, slope, and topographic wetness index.
 * [GemGIS](https://github.com/cgre-aachen/gemgis) - Python-based, open-source geographic information processing library.
+* [aiocogeo](https://github.com/geospatial-jeff/aiocogeo) - Asynchronous cogeotiff reader.
 
 
 ## Perl
