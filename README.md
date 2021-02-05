@@ -483,6 +483,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [GemGIS](https://github.com/cgre-aachen/gemgis) - Python-based, open-source geographic information processing library.
 * [aiocogeo](https://github.com/geospatial-jeff/aiocogeo) - Asynchronous cogeotiff reader.
 * [autoRIFT](https://github.com/leiyangleon/autoRIFT) - Python module of a fast and intelligent algorithm for finding the pixel displacement between two images.
+* [geopatra](https://github.com/Sangarshanan/geopatra) - Interactive Maps with Geopandas.
 
 
 ## Perl
