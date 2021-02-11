@@ -358,6 +358,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) - MMSegmentation is an open source semantic segmentation toolbox based on PyTorch. It is a part of the OpenMMLab project.
 * [Deep Learning ArcGIS](https://github.com/Esri/deep-learning-frameworks) - Deep Learning Libraries Installers for ArcGIS.
 * [platypus](https://github.com/maju116/platypus) - R package for object detection and image segmentation.
+* [AIDE](https://github.com/microsoft/aerial_wildlife_detection) - Annotation Interface for Data-driven Ecology: Tools for detecting wildlife in aerial images using active learning
 
 
 ## Python
