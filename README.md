@@ -240,6 +240,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [World Wind](http://worldwind.arc.nasa.gov/java/) -  Providing features for displaying with geographic data
 * [Google Earth](http://earth.google.com/) - Bringing a earth view for global mapping
 * [3dfier](https://github.com/tudelft3d/3dfier) - The open-source tool for creation of 3D models.
+* [3dcitybuilder](https://github.com/arthurRuf/3dcitybuilder) - QGIS Plugin that generates 3D Models of Urban Areas.
 
 ## Geographic Data Mining
 
