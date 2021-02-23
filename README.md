@@ -22,6 +22,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [PaaS - Platform as a Service](#paas---platform-as-a-service)
     - [SaaS - Software as a Service](#saas---software-as-a-service)
     - [DaaS - Data as a Service](#daas---data-as-a-service)
+    - [Google Earth Engine](#google-earth-engine)
     - [Deep Learning](#deep-learning)
     - [Python](#python)
     - [Perl](#perl)
@@ -332,6 +333,17 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Google Maps](https://www.google.com.br/maps) - Google map service.
 * [Microsoft Bing Maps](http://www.bing.com/mapspreview) - Microsoft map service.
 * [OpenStreetMap](http://www.openstreetmap.org/) - OpenStreeMap map service.
+
+
+## Google Earth Engine
+
+* [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
+* [rgee](https://github.com/r-spatial/rgee) - Google Earth Engine for R.
+* [earthEngineGrabR](https://github.com/JesJehle/earthEngineGrabR) - The earthEngineGrabR is an interface between R and the Google Earth Engine, which simplifies the acquisition of remote sensing data.
+* [geeup](https://github.com/samapriya/geeup) - Simple CLI for Earth Engine Uploads.
+* [exploreRGEE](https://github.com/joshualerickson/exploreRGEE) - Google Earth Engine (GEE) in the Rstudio IDE.
+* [landsat-extract-gee](https://github.com/loicdtx/landsat-extract-gee) - Get Landsat surface reflectance time-series from google earth engine.
+* [gee-atmcorr-S2](https://github.com/samsammurphy/gee-atmcorr-S2) - Atmospheric correction of Sentinel 2 imagery in Google Earth Engine using Py6S.
 
 
 ## Deep Learning
