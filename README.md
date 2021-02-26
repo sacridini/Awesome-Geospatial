@@ -342,6 +342,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [GEET](https://github.com/sacridini/GEET) - Google Earth Engine Toolbox - Library to write small EE apps or big/complex apps with a lot less code.
 * [eemont](https://github.com/davemlz/eemont) - A python package that extends Google Earth Engine.
 * [geeup](https://github.com/samapriya/geeup) - Simple CLI for Earth Engine Uploads.
+* [ee-rgb-timeseries](https://github.com/jdbcode/ee-rgb-timeseries) - Earth Engine JS module to color time series chart points as stretched 3-band RGB.
 * [earthEngineGrabR](https://github.com/JesJehle/earthEngineGrabR) - The earthEngineGrabR is an interface between R and the Google Earth Engine, which simplifies the acquisition of remote sensing data.
 * [exploreRGEE](https://github.com/joshualerickson/exploreRGEE) - Google Earth Engine (GEE) in the Rstudio IDE.
 * [landsat-extract-gee](https://github.com/loicdtx/landsat-extract-gee) - Get Landsat surface reflectance time-series from google earth engine.
@@ -1192,6 +1193,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Data Sources
 
+* [AIforEarthDataSets](https://github.com/microsoft/AIforEarthDataSets) - Notebooks and documentation for AI-for-Earth-managed datasets on Azure Open Datasets.
 * [TZ Timezone Shapefiles](http://efele.net/maps/tz/world/) - Polygon boundaries of world timezones.
 * [USGS Earth Explorer](http://earthexplorer.usgs.gov/) - Provides online search,metadata export, and data download for earth science data from the archives of the USGS.
 * [GeoNames](http://www.geonames.org/) - The GeoNames geographical database covers all countries and contains over eight million place names (cities, postal codes, countries) that are available for download free of charge.
