@@ -502,6 +502,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [aiocogeo](https://github.com/geospatial-jeff/aiocogeo) - Asynchronous cogeotiff reader.
 * [autoRIFT](https://github.com/leiyangleon/autoRIFT) - Python module of a fast and intelligent algorithm for finding the pixel displacement between two images.
 * [geopatra](https://github.com/Sangarshanan/geopatra) - Interactive Maps with Geopandas.
+* [Alpha Shape Toolbox](https://github.com/bellockk/alphashape) - Toolbox for constructing alpha shapes.
 
 
 ## Perl
