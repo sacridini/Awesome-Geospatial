@@ -1110,6 +1110,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [osmextract](https://github.com/ropensci/osmextract) - Download and import OpenStreetMap data from Geofabrik and other providers.
 * [spatialRF](https://github.com/BlasBenito/spatialRF) - R package to fit spatial models with Random Forest.
 * [mapsf](https://github.com/riatelab/mapsf) - Thematic cartography with R.
+* [forestError](https://github.com/benjilu/forestError) - A Unified Framework for Random Forest Prediction Error Estimation.
 
 
 ## Mobile Development
