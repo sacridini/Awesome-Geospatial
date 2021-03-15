@@ -1112,6 +1112,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [spatialRF](https://github.com/BlasBenito/spatialRF) - R package to fit spatial models with Random Forest.
 * [mapsf](https://github.com/riatelab/mapsf) - Thematic cartography with R.
 * [forestError](https://github.com/benjilu/forestError) - A Unified Framework for Random Forest Prediction Error Estimation.
+* [ForesToolboxRS](https://github.com/ytarazona/ForesToolboxRS) - R package providing a variety of tools and algorithms for the processing and analysis of satellite images for the various applications of Remote Sensing for Earth Observations.
 
 
 ## Mobile Development
