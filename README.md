@@ -350,6 +350,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [GEET](https://github.com/sacridini/GEET) - Google Earth Engine Toolbox - Library to write small EE apps or big/complex apps with a lot less code.
 * [geeup](https://github.com/samapriya/geeup) - Simple CLI for Earth Engine Uploads.
 * [landsat-extract-gee](https://github.com/loicdtx/landsat-extract-gee) - Get Landsat surface reflectance time-series from google earth engine.
+* [msslib](https://github.com/gee-community/msslib) - An Earth Engine JavaScript library for working with Landsat MSS image data.
 * [restee](https://kmarkert.github.io/restee/) - Aims to make plugging Earth Engine (EE) computations into downstream Python processing easier.
 * [rgee](https://github.com/r-spatial/rgee) - Google Earth Engine for R.
 
