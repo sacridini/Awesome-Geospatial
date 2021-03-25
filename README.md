@@ -389,6 +389,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Rasterio](https://github.com/mapbox/rasterio) - Rasterio employs GDAL under the hood for file I/O and raster formatting.
 * [Fiona](https://fiona.readthedocs.io/en/latest/) - For making it easy to read/write geospatial data formats.
 * [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data.
+* [trackintel](https://github.com/mie-lab/trackintel) - A GeoPandas extension for tracking data
 * [networkx](http://networkx.github.io/) - To work with networks.
 * [Shapely](https://pypi.python.org/pypi/Shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
 * [PySAL](http://pysal.readthedocs.io/en/latest/) - For all your spatial econometrics needs.
