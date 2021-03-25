@@ -410,6 +410,12 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [geoalchemy](https://github.com/geoalchemy/geoalchemy) - Using SQLAlchemy with spatial databases.
 * [geocube](https://github.com/corteva/geocube) - Tool to convert geopandas vector data into rasterized xarray data.
 * [GeoDaSpace](https://github.com/GeoDaCenter/GeoDaSpace) - Software for Advanced Spatial Econometrics.
+* [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data.
+* [trackintel](https://github.com/mie-lab/trackintel) - A GeoPandas extension for tracking data
+* [networkx](http://networkx.github.io/) - To work with networks.
+* [Shapely](https://pypi.python.org/pypi/Shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
+* [PySAL](http://pysal.readthedocs.io/en/latest/) - For all your spatial econometrics needs.
+* [Rasterstats](https://github.com/perrygeo/python-rasterstats/) - Python module for summarizing geospatial raster datasets based on vector geometries.
 * [GeoDjango](https://docs.djangoproject.com/en/2.2/ref/contrib/gis/) - Django geographic web framework.
 * [geojson-area](https://github.com/scisco/area) - Calculate the area inside of any GeoJSON geometry.
 * [geojson-area](https://github.com/scisco/area) - Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python.
