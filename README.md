@@ -1189,6 +1189,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [gdal-mini](https://github.com/rouault/gdal-mini) - Minimal version of GDAL.
 * [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) - GMT is an open source collection of about 90 command-line tools for manipulating geographic and Cartesian data sets.
 * [GeoGig](http://geogig.org/) - GeoGig is a Distributed Version Control System (DVCS) specially designed to handle geospatial data efficiently
+* [GISWATER](https://www.giswater.org/?lang=en) - Open-source software for water cycle management (water supply and urban drainage).
 * [Kongsberg Geospatial's TerraLens SDK](https://www.kongsberggeospatial.com/products/terralens) - SDK designed for easy project integration and quick implementation in virtually any development environment. TerraLens provides real-time 2D and 3D mapping with powerful data visualization tools.
 * [landsat-espa-util](https://github.com/loicdtx/landsat-espa-util) - Library for querying and ordering Landsat Surface Reflectance data via ESPA.
 * [MapShaper](http://mapshaper.org/) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.
