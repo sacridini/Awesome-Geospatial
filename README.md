@@ -780,7 +780,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [geoscript.scala](https://github.com/dwins/geoscript.scala) - Scala implementation of the GeoScript API.
 * [GeoTrellis](https://github.com/locationtech/geotrellis) - GeoTrellis is a Scala library and framework that uses Spark to work with raster data.
 * [mapnik2geotools](https://github.com/dwins/mapnik2geotools) - Using the Scala XML API to translate from Mapnik XML to GeoTools' SLD dialect.
-
+* [osm4scala](https://simplexspatial.github.io/osm4scala/) - High perfromance Scala library and Spark Polyglot (Scala, Python, SQL, etc.) connector for OpenStreetMap Pbf files.
 
 ## Groovy
 
