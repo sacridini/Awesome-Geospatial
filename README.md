@@ -546,6 +546,9 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Spatial4j](https://github.com/locationtech/spatial4j) - Spatial4j is a general purpose geospatial ASL licensed open-source Java library.
 * [whitebox-geospatial-analysis-tools](https://github.com/jblindsay/whitebox-geospatial-analysis-tools) - An open-source GIS and remote sensing package.
 * [World Wind Java SDK](http://worldwind.arc.nasa.gov/java/) - Nasa cross-platform Java SDK.
+* [Proj4j](https://github.com/locationtech/proj4j) - Java port of the Proj.4 library for coordinate reprojection.
+* [PDAL-Java](Java extension and bindings for PDAL) - Java extension and bindings for PDAL.
+* [GDAL Warp Bindings](https://github.com/geotrellis/gdal-warp-bindings) - Thread-safe bindings for GDAL's Warp functionality.
 
 
 ## Kotlin
@@ -782,6 +785,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [mapnik2geotools](https://github.com/dwins/mapnik2geotools) - Using the Scala XML API to translate from Mapnik XML to GeoTools' SLD dialect.
 * [osm4scala](https://simplexspatial.github.io/osm4scala/) - High perfromance Scala library and Spark Polyglot (Scala, Python, SQL, etc.) connector for OpenStreetMap Pbf files.
 * [RTree2D](https://github.com/plokhotnyuk/rtree2d) - RTree2D is a 2D immutable R-tree with STR (Sort-Tile-Recursive) packing for ultra-fast nearest and intersection queries.
+* [Stac4s](https://github.com/azavea/stac4s) - a scala library with primitives to build applications using the SpatioTemporal Asset Catalogs specification.
+* [Franklin](https://github.com/azavea/franklin) - A STAC/OGC API Features Web Service.
 
 ## Groovy
 
