@@ -355,6 +355,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [msslib](https://github.com/gee-community/msslib) - An Earth Engine JavaScript library for working with Landsat MSS image data.
 * [restee](https://kmarkert.github.io/restee/) - Aims to make plugging Earth Engine (EE) computations into downstream Python processing easier.
 * [rgee](https://github.com/r-spatial/rgee) - Google Earth Engine for R.
+* [sankee](https://github.com/aazuspan/sankee) - Visualize classified time series data with interactive Sankey plots in Google Earth Engine.
 
 
 ## Deep Learning
