@@ -407,6 +407,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask.
 * [Descartes](https://pypi.python.org/pypi/descartes) - Plot geometries in matplotlib.
 * [EarthPy](https://github.com/earthlab/earthpy) - A package built to support working with spatial data using open source python.
+* [elevation](https://github.com/bopen/elevation) - Python script to download global terrain digital elevation models, SRTM 30m DEM and SRTM 90m DEM.
 * [eo-box](https://github.com/benmack/eo-box) - Earth observation processing framework for machine learning in Python.
 * [EODAG](https://eodag.readthedocs.io/en/latest/) - Command line tool and a plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider.
 * [Fiona](https://fiona.readthedocs.io/en/latest/) - For making it easy to read/write geospatial data formats.
