@@ -1054,6 +1054,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [ranger](https://github.com/imbs-hl/ranger) - A Fast Implementation of Random Forests.
 * [RArcInfo](https://cran.r-project.org/web/packages/RArcInfo/index.html) - Functions to import data from Arc/Info V7.x binary coverages.
 * [raster](https://cran.r-project.org/web/packages/raster/raster.pdf) - Reading, writing, manipulating, analyzing and modeling of gridded spatial data.
+* [rasterDT](https://github.com/JoshOBrien/rasterDT) - rasterDT uses the fast indexing, aggregation, and assignment operations provided by data.table to power speedy alternatives to several raster package functions.
 * [rasterVis](https://cran.r-project.org/web/packages/rasterVis/index.html) - Visualization Methods for Raster Data.
 * [rayshader](https://github.com/tylermorganwall/rayshader) - rayshader is an open source R package for producing 2D and 3D hillshaded maps of elevation matrices using a combination of raytracing, spherical texture mapping, and ambient occlusion.
 * [rayvista](https://github.com/h-a-graham/rayvista) - A package to view a 3D scene anywhere on earth.
