@@ -413,6 +413,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [elevation](https://github.com/bopen/elevation) - Python script to download global terrain digital elevation models, SRTM 30m DEM and SRTM 90m DEM.
 * [eo-box](https://github.com/benmack/eo-box) - Earth observation processing framework for machine learning in Python.
 * [EODAG](https://eodag.readthedocs.io/en/latest/) - Command line tool and a plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider.
+* [EOReader](https://github.com/sertit/eoreader) - EOReader is a multi-satellite reader allowing you to open optical and SAR data.
 * [Fiona](https://fiona.readthedocs.io/en/latest/) - For making it easy to read/write geospatial data formats.
 * [forestatrisk](https://github.com/ghislainv/forestatrisk) - Python package to model and forecast the risk of deforestation.
 * [FreeType](https://code.google.com/archive/p/freetype-py/) - For converting font glyphs to polygons.
