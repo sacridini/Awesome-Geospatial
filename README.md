@@ -1084,6 +1084,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rsMove](https://cran.r-project.org/web/packages/rsMove/index.html) - Tools that support the combined use of animal movement and remote sensing data.
 * [rstac](https://github.com/brazil-data-cube/rstac) - R Client Library for SpatioTemporal Asset Catalog.
 * [RStoolbox](https://cran.r-project.org/web/packages/RStoolbox/index.html) - Toolbox for remote sensing image processing and analysis such as calculating spectral indices, principal component transformation, unsupervised and supervised classification or fractional cover analyses.
+* [rtsVis](https://github.com/JohMast/rtsVis) - A lightweight R package to visualize large raster time series, building on a fast temporal interpolation core.
 * [rworldmap](https://cran.r-project.org/web/packages/rworldmap/index.html) - Mapping Global Data.
 * [s2](https://github.com/spatstat/s2) - R bindings for Google's s2 library for geometry on the sphere.
 * [S2sls](https://cran.r-project.org/web/packages/S2sls/index.html) - Fit a spatial instrumental-variable regression by two-stage least squares.
