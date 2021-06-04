@@ -682,6 +682,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 * [BoxTree](https://github.com/tidwall/boxtree) - An R-tree implementation for Go.
 * [BuntDB](https://github.com/tidwall/buntdb) - BuntDB is an embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
+* [cogger](https://github.com/airbusgeo/cogger) - cogger is a fast geotiff to COG converter.
 * [Draw2D](https://github.com/llgcode/draw2d) - 2D rendering for different output (raster, pdf).
 * [geom](https://github.com/ctessum/geom) - Geometry objects and functions for Go.
 * [Go GDAL](https://github.com/lukeroth/gdal) - Go (golang) wrapper for GDAL, the Geospatial Data Abstraction Library.
