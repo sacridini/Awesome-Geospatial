@@ -560,7 +560,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [LuciadLightspeed](http://www.luciad.com/solutions/luciadlightspeed) - A Java library that provides the foundations for advanced geospatial analytics applications
 * [MapFish Print](http://mapfish.github.io/) - The purpose of Mapfish Print is to create reports that contain maps (and map related components) within them. The project is a Java based servlet/library/application based on the mature Jasper Reports Library.
 * [Openmap](https://github.com/openmap-java/openmap) - Open Source JavaBeans-based programmer's toolkit.
-* [PDAL-Java](Java extension and bindings for PDAL) - Java extension and bindings for PDAL.
+* [PDAL-Java](https://github.com/PDAL/java) - Java extension and bindings for PDAL.
 * [Photon](https://github.com/komoot/photon) - Photon is an open source geocoder built for OpenStreetMap data. It is based on elasticsearch.
 * [Proj4j](https://github.com/locationtech/proj4j) - Java port of the Proj.4 library for coordinate reprojection.
 * [Spatial4j](https://github.com/locationtech/spatial4j) - Spatial4j is a general purpose geospatial ASL licensed open-source Java library.
