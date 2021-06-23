@@ -966,6 +966,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [earthEngineGrabR](https://github.com/JesJehle/earthEngineGrabR) - The earthEngineGrabR is an interface between R and the Google Earth Engine, which simplifies the acquisition of remote sensing data.
 * [ecespa](https://cran.r-project.org/web/packages/ecespa/index.html) - Functions for Spatial Point Pattern Analysis.
 * [edgebundle](https://github.com/schochastics/edgebundle) - R package implementing edge bundling algorithms.
+* [elsa](https://github.com/babaknaimi/elsa) - ELSA (entropy-based local indicator of spatial association) is a novel spatial statistic to measure local spatial autocorrelation in both categorical and continuous spatial data.
 * [exactextractr](https://github.com/isciences/exactextractr) - R package for fast and accurate raster zonal statistics.
 * [ExceedanceTools](https://cran.r-project.org/web/packages/ExceedanceTools/index.html) - Tools for constructing confidence regions for exceedance regions and contour lines.
 * [fasterize](https://github.com/ecohealthalliance/fasterize) - High performance raster conversion for modern spatial data.
