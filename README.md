@@ -1302,8 +1302,8 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Podcasts
 
-* [Scene From Above](http://scenefromabove.org/index.html) - Earth observation, remote sensing, geospatial and geeky chat
 * [Minds Behind Maps](https://minds-behind-maps.simplecast.com/) - Informal conversations with those creating maps, understanding how and why they build them. Earth Observation, Data Science, Business and how smart people combine them all to impact our world
+* [Scene From Above](http://scenefromabove.org/index.html) - Earth observation, remote sensing, geospatial and geeky chat
 
 
 ## References and other awesome lists
