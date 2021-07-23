@@ -1160,7 +1160,6 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [tripEstimation](https://cran.r-project.org/web/packages/tripEstimation/index.html) - Data handling and estimation functions for animal movement estimation from archival or satellite tags.
 * [uavRst](https://github.com/gisma/uavRst) - UAV related Remote Sensing Toolbox.
 * [vapour](https://github.com/hypertidy/vapour) - A lightweight GDAL API package for R.
-* [vapour](https://github.com/hypertidy/vapour) - A lightweight GDAL API package for R.
 * [vec2dtransf](https://cran.r-project.org/web/packages/vec2dtransf/index.html) - Package for applying affine and similarity transformations on vector spatial data (sp objects).
 * [vegan](https://cran.r-project.org/web/packages/vegan/index.html) - Ordination methods, diversity analysis and other functions for community and vegetation ecologists.
 * [Watersheds](https://cran.r-project.org/web/packages/Watersheds/index.html) - Methods for watersheds aggregation and spatial drainage network analysis.
