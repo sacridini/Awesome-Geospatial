@@ -1301,6 +1301,12 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Podcasts
 
+* [Down To Earth: A podcast for Geoscientists by Geoscientist](https://podcasts.apple.com/us/podcast/down-to-earth-a-podcast-for-geoscientists-by-geoscientist/id1549020890) - 30-minute podcast about innovative geoscience and the incredible people behind it. Each week, we host a different guest to talk about science, careers, and passions
+* [Eyes on Earth](https://www.usgs.gov/centers/eros/science/eyes-earth?qt-science_center_objects=0#qt-science_center_objects) - Eyes on Earth is a podcast on remote sensing, Earth observation, land change and science, brought to you by the USGS Earth Resources Observation and Science (EROS) Center
+* [ESRI & The Science of Where](https://www.esri.com/about/newsroom/podcast/) - Talks about business and technology leaders who share analysis, insights, and stories on data science, the Internet of Things, Smart Communities and other forces driving digital transformation and leveraging the power of location intelligence.
+* [GIS Directions](https://esriaustralia.com.au/gis-directions-podcast) - Chat with inspiring GIS users, discuss new industry trends, and dish out plenty of practical pointers.
+* [Geoadorable](https://geodorable.com/) - A podcast that may include anything and everything about the geospatial world. From news articles about the GIS industry that take our fancy, interviews with GIS practitioners, random acts of geospatial madness and of course the legendary game Export to Shapefile.
+* [The MapScaping](https://mapscaping.com/blogs/the-mapscaping-podcast) - Weekly podcast featuring interesting people doing amazing work in the geospatial world. 
 * [Minds Behind Maps](https://minds-behind-maps.simplecast.com/) - Informal conversations with those creating maps, understanding how and why they build them. Earth Observation, Data Science, Business and how smart people combine them all to impact our world
 * [Scene From Above](http://scenefromabove.org/index.html) - Earth observation, remote sensing, geospatial and geeky chat
 
