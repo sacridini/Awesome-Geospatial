@@ -1292,11 +1292,17 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Conferences
 
+* [ESRI User Conference](https://www.esri.com/en-us/about/events/uc/overview) - Esri International User Conference is an event dedicated to geographic information system technology.
 * [FOSS4G](http://foss4g.org/) - Free and Open Source Software for Geospatial.
-* [FOSSGIS](https://fossgis.de/) - yearly conference of the German OpenStreetMap chapter and FOSS GIS community
-* [GEOINFO](http://www.geoinfo.info/geoinfo2017/) - The GEOINFO series (Brazilian Symposium on Geoinformatics) is an annual conference for exploring ongoing research, development and innovative applications on geographic information science and related areas.
+* [FOSSGIS](https://fossgis.de/) - Yearly conference of the German OpenStreetMap chapter and FOSS GIS community
+* [Geo For Good Summit](https://earthoutreachonair.withgoogle.com/events/geoforgood21) - Annual conference, hosted by Google, geared toward nonprofits, scientists, government agencies and other change-makers who want to leverage mapping tools and technology for positive impact in the world. 
+* [GEOINFO](http://www.geoinfo.info/) - The GEOINFO series (Brazilian Symposium on Geoinformatics) is an annual conference for exploring ongoing research, development and innovative applications on geographic information science and related areas.
+* [GeoPython](https://2021.geopython.net/) - The conference is focused on Python and Geo, its toolkits and applications. 
+* [International Syposium on Digital Earth](https://digitalearth2021.org/) - Event dedicated to bring together policy makers and scientists and will explore pathways towards the vision of a ‘Digital Earth
+* [International Society for Photogrammetry and Remote Sensing](https://www.isprs2020-nice.com/) - The ISPRS Congress is the leading forum where classical and emergent topics related to photogrammetry, remote sensing, and spatial information sciences are discussed.
 * [SBSR](http://sbsr.com.br/br/node/1379) - Bi-annual Brazilian National Symposium on Remote Sensing.
-* [State of the Map](https://stateofthemap.org/) - is the annual event for all mappers and OpenStreetMap users.
+* [Spatial Data Conference](https://spatial-data-science-conference.com/) -  Annual Conferece that intersects GIS, Advanced Analytics & Data Science that is growing rapidly & answering some of the most pressing questions in both the private & public sector. 
+* [State of the Map](https://stateofthemap.org/) - Annual event for all mappers and OpenStreetMap users.
 
 ## Podcasts
 
