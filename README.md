@@ -460,7 +460,6 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [mapclassify](https://github.com/pysal/mapclassify) - Classification schemes for choropleth mapping.
 * [momepy](https://github.com/martinfleis/momepy) - Momepy is a library for quantitative analysis of urban form - urban morphometrics.
 * [MovingPandas](https://github.com/anitagraser/movingpandas) - Implementation of Trajectory classes and functions built on top of GeoPandas.
-* [MovingPandas](https://github.com/anitagraser/movingpandas) - MovingPandas implements a Trajectory class and corresponding methods based on GeoPandas.
 * [networkit](https://github.com/networkit/networkit) - NetworKit is a growing open-source toolkit for large-scale network analysis.
 * [networkx](http://networkx.github.io/) - To work with networks.
 * [NodeBox-opengl](http://www.cityinabottle.org/nodebox/) - For playing around with animations.
