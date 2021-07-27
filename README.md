@@ -428,7 +428,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [trackintel](https://github.com/mie-lab/trackintel) - A GeoPandas extension for tracking data
 * [networkx](http://networkx.github.io/) - To work with networks.
 * [Shapely](https://pypi.python.org/pypi/Shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
-* [PySAL](http://pysal.readthedocs.io/en/latest/) - For all your spatial econometrics needs.
+* [PySAL](https://pysal.org/pysal/api.html) - For all your spatial econometrics needs.
 * [Rasterstats](https://github.com/perrygeo/python-rasterstats/) - Python module for summarizing geospatial raster datasets based on vector geometries.
 * [GeoDjango](https://docs.djangoproject.com/en/2.2/ref/contrib/gis/) - Django geographic web framework.
 * [geojson-area](https://github.com/scisco/area) - Calculate the area inside of any GeoJSON geometry.
@@ -720,7 +720,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rust-osm](https://github.com/georust/rust-osm) - OSM XML serialization and other OpenStreetMap utilities.
 * [rust-polyline](https://github.com/georust/rust-polyline) - Google Encoded Polyline encoding & decoding in Rust.
 * [rust-proj](https://github.com/georust/rust-proj) - Rust bindings for Proj.
-* [rust-shapefile](https://github.com/georust/rust-shapefile) - Rust read/write support for shapefiles.
+* [rust-shapefile](https://github.com/tmontaigu/shapefile-rs) - Rust read/write support for shapefiles.
 * [rust-tilejson](https://github.com/georust/tilejson) - tilejson is a crate for serializing/deserializing the TileJSON format.
 * [rust-topojson](https://github.com/georust/rust-topojson) - TopoJSON bindings and utilities for Rust.
 * [rust-wkt](https://github.com/georust/rust-wkt) - Rust read/write support for well-known text (WKT).
