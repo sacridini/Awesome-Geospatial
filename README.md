@@ -1318,7 +1318,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [More Than Just Maps](https://urisatexas.org/podcast) - Talks with GIS veterans and geniuses who know a thing or two about how to find your way from student to professional and beyond, while also chatting about some neat tools, tricks, and trends. Presented by the URISA Texas Chapter.
 * [Project Geospatial](https://anchor.fm/projectgeohttp://scenefromabove.org/index.html) - Project Geospatial is a web series and blog dedicated to increasing awareness of Geospatial Technology, industry best practices, and GIS resources.
 * [Scene From Above](http://scenefromabove.org/index.html) - Earth observation, remote sensing, geospatial and geeky chat
-* [A VerySpatial ](https://veryspatial.com/) - A VerySpatial Podcast is your weekly source for information on Geography and geospatial technologies.
+* [A VerySpatial](https://veryspatial.com/) - A VerySpatial Podcast is your weekly source for information on Geography and geospatial technologies.
 
 
 ## References and other awesome lists
