@@ -1060,6 +1060,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [plotGoogleMaps](https://cran.r-project.org/web/packages/plotGoogleMaps/index.html) - Interactive plot device for handling the geographic data for web browsers.
 * [plotKML](https://cran.r-project.org/web/packages/plotKML/index.html) - Visualization of Spatial and Spatio-Temporal Objects in Google Earth.
 * [polyclip](https://github.com/baddstats/polyclip) - R package polyclip: a port of the Clipper library for polygon geometry.
+* [popRF](https://github.com/wpgp/popRF) - Random Forest-informed Population Disaggregation.
 * [potential](https://github.com/riatelab/potential) - An R package to compute the potential model as defined by Stewart (1941).
 * [PReMiuM](https://cran.r-project.org/web/packages/PReMiuM/index.html) - Dirichlet Process Bayesian Clustering, Profile Regression.
 * [Prioritizr](https://github.com/prioritizr/prioritizr) - The prioritizr R package uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.
