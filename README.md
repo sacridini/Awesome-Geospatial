@@ -487,6 +487,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [PyProj](https://github.com/jswhit/pyproj) - For conversions between projections.
 * [PyQGIS](http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/) - Python for QGIS.
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - A Python Framework for Large-Scale SAR Satellite Data Processing.
+* [pyrosm](https://github.com/HTenkanen/pyrosm) - Read OpenStreetMap data from Protobuf files into GeoDataFrame with Python, faster.
 * [PyShp](https://code.google.com/archive/p/pyshp/) - For reading and writing shapefiles.
 * [PySTAC](https://github.com/stac-utils/pystac) - Python library for working with any SpatioTemporal Asset Catalog (STAC).
 * [Python Geocoder](https://github.com/DenisCarriere/geocoder) - Simple and consistent geocoding library written in Python.
