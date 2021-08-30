@@ -1341,6 +1341,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Awesome Spatial](https://github.com/RoboDonut/awesome-spatial/blob/master/README.md)
 * [Awesome SQLite](https://github.com/planetopendata/awesome-sqlite) 
 * [Awesome-EarthObservation-Code](https://github.com/acgeospatial/awesome-earthobservation-code)
+* [Digital Earth Australia notebooks and tools repository](https://github.com/GeoscienceAustralia/dea-notebooks) 
 * [Cartography / mapping / web design resources](https://github.com/tolomaps/resources)
 * [Essential Python Geospatial Libraries](http://carsonfarmer.com/2013/07/essential-python-geo-libraries/) 
 * [GeoJSON](https://github.com/tmcw/awesome-geojson)
