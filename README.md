@@ -362,6 +362,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [restee](https://kmarkert.github.io/restee/) - Aims to make plugging Earth Engine (EE) computations into downstream Python processing easier.
 * [rgee](https://github.com/r-spatial/rgee) - Google Earth Engine for R.
 * [sankee](https://github.com/aazuspan/sankee) - Visualize classified time series data with interactive Sankey plots in Google Earth Engine.
+* [wxee](https://github.com/aazuspan/wxee) - A Python interface between Earth Engine and xarray for processing weather and climate data.
 
 
 ## Deep Learning
