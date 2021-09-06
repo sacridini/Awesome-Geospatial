@@ -841,6 +841,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [ArchGDAL](https://github.com/yeesian/ArchGDAL.jl) - Vector and Raster interfaces.
 * [ClimateTools.jl](https://github.com/Balinus/ClimateTools.jl) - Collection of commonly-used tools in Climate Science.
 * [DataFrames.jl](https://github.com/JuliaStats/DataFrames.jl) - Tools for working with tabular data in Julia.
+* [CoordinateTransformations.jl](https://github.com/JuliaGeometry/CoordinateTransformations.jl) - Julia package to manage simple or complex networks of coordinate system transformations.
 * [EarthEngine.jl](https://github.com/KMarkert/EarthEngine.jl) - Google Earth Engine in Julia.
 * [EcologicalNetwork.jl](https://github.com/PoisotLab/EcologicalNetwork.jl) - This julia package provides a common interface to analyze all types of data on ecological networks.
 * [GDALfuns.jl](https://github.com/meggart/GDALfuns.jl) - Auto-generated low-level wrapper for the GDAL library.
@@ -864,16 +865,23 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Interpolations.jl](https://github.com/juliohm/Interpolations.jl) - This package implements a variety of interpolation schemes for the Julia language.
 * [JuliaGIS](https://github.com/wkearn/GIS.jl) - A package for the visualization and manipulation of geographic data.
 * [LASindex.jl](https://github.com/evetion/LASindex.jl) - Pure Julia reader of lasindex .lax files.
+* [LasIO.jl](https://github.com/visr/LasIO.jl) - Native Julia package for working with .las pointcloud data.
 * [LazIO.jl](https://github.com/evetion/LazIO.jl) - Extends LasIO with Laszip integration.
 * [LibGEOS.jl](https://github.com/JuliaGeometry/LibGEOS.jl) - LibGEOS is a LGPL-licensed package for manipulation and analysis of planar geometric objects, based on the libraries GEOS (the engine of PostGIS) and JTS (from which GEOS is ported).
 * [LibLAS.jl](https://github.com/visr/LibLAS.jl) - Julia wrapper for LibLAS, a library for reading and writing the LAS LiDAR format.
 * [LibSpatialIndex.jl](https://github.com/JuliaGeo/LibSpatialIndex.jl) - A library for spatially indexing kD bounding box data (based on libspatialindex).
+* [NearestNeighbors.jl](https://github.com/KristofferC/NearestNeighbors.jl) - High performance nearest neighbor data structures and algorithms for Julia.
 * [NetCDF.jl](https://github.com/JuliaGeo/NetCDF.jl) - NetCDF support for the julia programming language.
 * [NMEA.jl](https://github.com/zznop/NMEA.jl) - NMEA.jl is a package for parsing NMEA GPS protocol sentences.
 * [OpenStreetMaps.jl](https://github.com/tedsteiner/OpenStreetMap.jl) - This package provides basic functionality for parsing, viewing, and working with OpenStreetMap map data.
+* [OpenStreetMapX.jl](https://github.com/pszufe/OpenStreetMapX.jl) - Provides basic functionality for parsing, viewing, and working with OpenStreetMap map data.
+* [OpenStreetMapXPlot.jl](https://github.com/pszufe/OpenStreetMapXPlot.jl) - Plotting functionality for the OpenStreetMapX.jl (Supports PyPlot.jl and Plots.jl with GR backend).
+* [RasterDataSources.jl](https://github.com/EcoJulia/RasterDataSources.jl) - Downloads raster data for local use or for integration into other spatial data packages, like GeoData.jl.
 * [Proj4.jl](https://github.com/JuliaGeo/Proj4.jl) - A simple wrapper around the Proj.4 cartographic projections library.
 * [RasterIO.jl](https://github.com/wkearn/RasterIO.jl) - Simple Raster Formats for Julia.
+* [RegionTrees.jl](https://github.com/rdeits/RegionTrees.jl) - Quadtrees, Octrees, and more in Julia.
 * [Shapefile.jl](https://github.com/JuliaGeo/Shapefile.jl) - Parsing .shp files in Julia.
+* [SpatialIndexing.jl](https://github.com/alyst/SpatialIndexing.jl) - Spatial data indexing in pure Julia (R*-trees etc).
 * [Terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data explorers. 
 * [Tinker.jl](https://github.com/JuliaImages/Tinker.jl) - Interactive graphical tool for complex image analysis.
 * [Turf.jl](https://github.com/yeesian/Turf.jl) - This library is a port of Turf.js to the Julia programming language for geospatial analysis.
@@ -1351,5 +1359,6 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Essential Python Geospatial Libraries](http://carsonfarmer.com/2013/07/essential-python-geo-libraries/) 
 * [GeoJSON](https://github.com/tmcw/awesome-geojson)
 * [GeoRails](http://daniel-azuma.com/articles/georails/)
+* [JuliaGeo](https://juliageo.org/)
 * [Spatial R](https://cran.r-project.org/web/views/Spatial.html)
 * [Vector Tiles](https://github.com/mapbox/awesome-vector-tiles)
