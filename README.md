@@ -615,6 +615,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 * [Boost Geometry](http://www.boost.org/doc/libs/1_61_0/libs/geometry/doc/html/index.html) - Part of collection of the Boost C++ Libraries, defines concepts, primitives and algorithms for solving geometry problems.
 * [Capaware](https://en.wikipedia.org/wiki/Capaware) - 3D terrain representation with multilayer representation.
+* [copc-lib](https://github.com/RockRobotic/copc-lib) - copc-lib provides an easy-to-use interface for reading and creating Cloud Optimized Point Clouds.
 * [cpd](https://github.com/gadomski/cpd) - Coherent Point Drift (CPD) is a point-set registration algorithm.
 * [depthmapX](https://github.com/varoudis/depthmapX) - Multi-platform Spatial Network Analysis Software.
 * [dreich_algorithm](https://github.com/csdms-contrib/dreich_algorithm) - Algorithm for extracting channel networks from high resolution topographic data.
