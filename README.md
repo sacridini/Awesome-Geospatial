@@ -412,6 +412,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [cuSpatial](https://github.com/rapidsai/cuspatial) - GPU-Accelerated Spatial and Trajectory Data Management and Analytics Library.
 * [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask.
 * [Descartes](https://pypi.python.org/pypi/descartes) - Plot geometries in matplotlib.
+* [Detectree](https://github.com/martibosch/detectree) - DetecTree is a Pythonic library to classify tree/non-tree pixels from aerial imagery.
 * [EarthPy](https://github.com/earthlab/earthpy) - A package built to support working with spatial data using open source python.
 * [elevation](https://github.com/bopen/elevation) - Python script to download global terrain digital elevation models, SRTM 30m DEM and SRTM 90m DEM.
 * [eo-box](https://github.com/benmack/eo-box) - Earth observation processing framework for machine learning in Python.
