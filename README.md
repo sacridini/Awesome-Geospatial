@@ -410,7 +410,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [cog_validator](https://github.com/rouault/cog_validator) - This is a standalone (Python / Flask) service that allows users to submit GeoTIFF files (preferably by URL) and check their compliance with the Cloud Optimized GeoTIFF (COG) specification.
 * [CuPy](https://github.com/cupy/cupy) - NumPy-like API accelerated with CUDA.
 * [cuSpatial](https://github.com/rapidsai/cuspatial) - GPU-Accelerated Spatial and Trajectory Data Management and Analytics Library.
-* [dask-geopandas](https://github.com/mrocklin/dask-geopandas) - Parallelized GeoPandas with Dask.
+* [dask-geopandas](https://github.com/geopandas/dask-geopandas) - Parallelized GeoPandas with Dask.
 * [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask.
 * [Descartes](https://pypi.python.org/pypi/descartes) - Plot geometries in matplotlib.
 * [Detectree](https://github.com/martibosch/detectree) - DetecTree is a Pythonic library to classify tree/non-tree pixels from aerial imagery.
