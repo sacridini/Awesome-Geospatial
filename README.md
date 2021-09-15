@@ -1257,6 +1257,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [52North SOS](http://52north.org/communities/sensorweb/sos/) - A reference implementation of the [OGC Sensor Observation Service specification (version 2.0)]
 * [CODA](http://stcorp.github.io/coda/doc/html/index.html) - The Common Data Access toolbox (CODA) provides a set of tools for ingesting, processing, and analyzing remote sensing data.
 * [DataPillager](https://github.com/gdherbert/DataPillager) - Download data from Esri service.
+* [DroneDB](https://github.com/DroneDB/DroneDB) - Effortless aerial data management and sharing.
 * [DsgTools](https://github.com/dsgoficial/DsgTools) - DSGTools is a QGIS plugin that allow users to create and manipulate Geospatial Data according to Brazilian Law (ET-EDGV 2.1.3 and ET-EDGV 3.0)
 * [exactextract](https://github.com/isciences/exactextract) - Provides a fast and accurate algorithm for summarizing values in the portion of a raster dataset that is covered by a polygon, often referred to as zonal statistics.
 * [gdal-mini](https://github.com/rouault/gdal-mini) - Minimal version of GDAL.
