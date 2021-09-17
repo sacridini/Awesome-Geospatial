@@ -1052,6 +1052,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [mapdeck](https://github.com/SymbolixAU/mapdeck) - R interface to Deck.gl and Mapbox.
 * [mapproj](https://cran.r-project.org/web/packages/mapproj/index.html) - Map Projections.
 * [maps](https://cran.r-project.org/web/packages/maps/index.html) - Draw Geographical Maps.
+* [mapscanner](https://github.com/ropensci/mapscanner) - R package to print maps, draw on them, and scan them back in.
 * [mapsf](https://github.com/riatelab/mapsf) - Thematic cartography with R.
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html) - Tools for Reading and Handling Spatial Objects.
 * [mapview](https://r-spatial.github.io/mapview/index.html) - mapview provides functions to very quickly and conveniently create interactive visualisations of spatial data.
