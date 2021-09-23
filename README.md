@@ -349,6 +349,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [earthEngineGrabR](https://github.com/JesJehle/earthEngineGrabR) - The earthEngineGrabR is an interface between R and the Google Earth Engine, which simplifies the acquisition of remote sensing data.
 * [EarthEngine.jl](https://github.com/KMarkert/EarthEngine.jl) - Google Earth Engine in Julia.
 * [ee-fastapi](https://github.com/csaybar/ee-fastapi) - Flood Detection with Google Earth Engine.
+* [ee-goes](https://github.com/jdbcode/ee-goes) - An Earth Engine JavaScript library for visualizing GOES-R time series.
 * [ee-rgb-timeseries](https://github.com/jdbcode/ee-rgb-timeseries) - Earth Engine JS module to color time series chart points as stretched 3-band RGB.
 * [eemont](https://github.com/davemlz/eemont) - A python package that extends Google Earth Engine.
 * [exploreRGEE](https://github.com/joshualerickson/exploreRGEE) - Google Earth Engine (GEE) in the Rstudio IDE.
