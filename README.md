@@ -701,6 +701,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries.
 * [Go-proj-4](https://github.com/pebbe/go-proj-4) - Go bindings for the Cartographic Projections Library PROJ.4.
 * [Go-shp](https://github.com/jonas-p/go-shp) - Go library for reading and writing ESRI Shapefiles. Pure Golang implementation based on the ESRI Shapefile technical description.
+* [go-spatial](https://github.com/jblindsay/go-spatial) - GoSpatial is a simple command-line interface program for manipulating geospatial data.
 * [godal](https://github.com/airbusgeo/godal) - Godal aims at providing an idiomatic go wrapper around the GDAL library.
 * [gopostal](https://github.com/openvenues/gopostal) - Go (cgo) interface to libpostal for fast international address parsing/normalization.
 * [GoSpatial](https://github.com/jblindsay/go-spatial) - GoSpatial is a simple command-line interface program for manipulating geospatial data.
@@ -719,6 +720,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
 * [kdtree-rs](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup
 * [Martin](https://github.com/urbica/martin) - Martin is a PostGIS vector tiles server suitable for large databases. Martin is written in Rust using Actix web framework.
+* [rstar](https://github.com/georust/rstar) - R*-tree library for the rust ecosystem.
 * [rust-gdal](https://github.com/georust/rust-gdal) - Rust bindings for GDAL.
 * [rust-geo](https://github.com/georust/rust-geo) - Geospatial primitives and algorithms for Rust.
 * [rust-geocoding](https://github.com/georust/rust-geocoding) - Geocoding library for Rust.
