@@ -35,6 +35,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [C](#c-1)
     - [Fortran](#fortran)
     - [Go](#go)
+    - [Nim](#nim)
     - [Rust](#rust)
     - [Ruby](#ruby)
     - [PHP](#php)
@@ -711,6 +712,12 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [pg_tileserv](https://github.com/CrunchyData/pg_tileserv) - A very thin PostGIS-only tile server in Go. Takes in HTTP tile requests, executes SQL, returns MVT tiles.
 * [S2](https://github.com/golang/geo) - S2 is a library for spherical geometry that aims to have the same robustness, flexibility, and performance as the best planar geometry libraries.
 * [Tegola](https://github.com/go-spatial/tegola) - Tegola is a vector tile server delivering Mapbox Vector Tiles with support for PostGIS and GeoPackage data providers.
+
+
+## Nim
+* [fp_denoise](https://github.com/jblindsay/fp_denoise) - A tool for de-noising raster digital elevation models.
+* [kdtree](https://github.com/jblindsay/kdtree) - A pure Nim k-d tree implementation for efficient spatial querying of point data.
+* [wbt_nim](https://github.com/jblindsay/wbt_nim) - A Nim-based API for using the WhiteboxTools geospatial data analysis library.
 
 
 ## Rust
