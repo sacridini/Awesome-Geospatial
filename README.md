@@ -1019,6 +1019,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [gdalcubes_R](https://github.com/appelmar/gdalcubes_R) - R package for gdalcubes to process collections of Earth observation image collection as on demand data cubes.
 * [gdalio](https://github.com/hypertidy/gdalio) - The goal of gdalio is to read data direct with GDAL warp, with an assumed grid specification.
 * [geoaxe](https://cran.r-project.org/web/packages/geoaxe/index.html) - Split 'geospatial' objects into pieces. Includes support for some spatial object inputs, 'Well-Known Text', and 'GeoJSON'.
+* [geobr](https://github.com/ipeaGIT/geobr) - Package to download official spatial data sets of Brazil.
 * [geodist](https://github.com/hypertidy/geodist) - Ultra lightweight, ultra fast calculation of geo distances.
 * [geocmeans](https://github.com/JeremyGelb/geocmeans) - An R package to perform Spatial Fuzzy C-means.
 * [geojsonio](https://cran.r-project.org/web/packages/geojsonio/index.html) - Convert data to 'GeoJSON' or 'TopoJSON' from various R classes, including vectors, lists, data frames, shape files, and spatial classes.
@@ -1045,6 +1046,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [GriegSmith](https://cran.r-project.org/web/packages/GriegSmith/index.html) - Uses the Grieg-Smith method on 2 dimensional spatial data.
 * [gstat](https://cran.r-project.org/web/packages/gstat/index.html) - Spatio-Temporal Geostatistical Modelling, Prediction and Simulation.
 * [gwrr](https://cran.r-project.org/web/packages/gwrr/index.html) - Fits geographically weighted regression (GWR) models and has tools to diagnose and remediate collinearity in the GWR models.
+* [gtfs2gps](https://github.com/ipeaGIT/gtfs2gps) - Convert GTFS data into a data.table with GPS-like records in R.
 * [hdeco](https://cran.r-project.org/web/packages/hdeco/index.html) -  Provides hierarchical decomposition of entropy for categorical map comparisons.
 * [HSAR](https://cran.r-project.org/web/packages/HSAR/index.html) - A library of the Hierarchical Spatial Autoregressive Model (HSAR), based on a Bayesian Markov Chain Monte Carlo (MCMC) algorithm.
 * [intamap](https://cran.r-project.org/web/packages/intamap/index.html) - Procedures for automated interpolation.
@@ -1106,6 +1108,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Prioritizr](https://github.com/prioritizr/prioritizr) - The prioritizr R package uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.
 * [ProbitSpatial](https://cran.r-project.org/web/packages/ProbitSpatial/index.html) - Binomial Spatial Probit models for big data.
 * [quickglobe](https://github.com/daranzolin/quickglobe) - View Country Data via a 3D, D3, Globe.
+* [r5r](https://github.com/ipeaGIT/r5r) - Package for rapid realistic routing on multimodal transport networks (walk, bike, public transport and car).
 * [RandomFields](https://cran.r-project.org/web/packages/RandomFields/index.html) - Methods for the inference on and the simulation of Gaussian fields are provided, as well as methods for the simulation of extreme value random fields.
 * [rangeMapper](https://cran.r-project.org/web/packages/rangeMapper/index.html) - Tools for easy generation of (life-history) traits maps based on species range (extent-of-occurrence) maps.
 * [ranger](https://github.com/imbs-hl/ranger) - A Fast Implementation of Random Forests.
