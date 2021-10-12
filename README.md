@@ -1387,5 +1387,6 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [GeoJSON](https://github.com/tmcw/awesome-geojson)
 * [GeoRails](http://daniel-azuma.com/articles/georails/)
 * [JuliaGeo](https://juliageo.org/)
+* [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 * [Spatial R](https://cran.r-project.org/web/views/Spatial.html)
 * [Vector Tiles](https://github.com/mapbox/awesome-vector-tiles)
