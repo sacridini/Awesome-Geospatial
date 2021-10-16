@@ -908,6 +908,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [RegionTrees.jl](https://github.com/rdeits/RegionTrees.jl) - Quadtrees, Octrees, and more in Julia.
 * [Shapefile.jl](https://github.com/JuliaGeo/Shapefile.jl) - Parsing .shp files in Julia.
 * [SpatialIndexing.jl](https://github.com/alyst/SpatialIndexing.jl) - Spatial data indexing in pure Julia (R*-trees etc).
+* [STAC.jl](https://github.com/JuliaClimate/STAC.jl) - SpatioTemporal Asset Catalog (STAC) julia client.
 * [Terriajs](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data explorers. 
 * [Tinker.jl](https://github.com/JuliaImages/Tinker.jl) - Interactive graphical tool for complex image analysis.
 * [Turf.jl](https://github.com/yeesian/Turf.jl) - This library is a port of Turf.js to the Julia programming language for geospatial analysis.
