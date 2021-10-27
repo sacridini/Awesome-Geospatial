@@ -619,6 +619,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [MaxRev.Gdal.Core](https://github.com/MaxRev-Dev/gdal.netcore) - Bindings for GDAL and OGR (both win-x64 and linux-x64). 
 * [NTS Net Topology Suite](https://github.com/NetTopologySuite/NetTopologySuite) - A .NET GIS solution that is fast and reliable for the .NET platform.
 * [osmsharp](http://www.osmsharp.com/) - OsmSharp is a C# library to work with OpenStreetMap (OSM) data.
+* [Sanchez](https://github.com/nullpainter/sanchez) - False-colour geostationary satellite image compositor.
 * [SharpKml](https://sharpkml.codeplex.com/) - Is able to read/write both KML files and KMZ files.
 * [SharpMap](http://sharpmap.codeplex.com/) - SharpMap is an easy-to-use mapping library for use in web and desktop applications.
 * [Windows UWP map control](https://msdn.microsoft.com/en-us/library/windows/apps/xaml/dn642089.aspx) - The Bing Maps control built into the Windows UWP platform.
