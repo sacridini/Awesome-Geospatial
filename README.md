@@ -390,6 +390,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [PixelLib](https://github.com/ayoolaolafenwa/PixelLib) - Pixellib is a library for performing segmentation of images. It suports both Semantic Segmentation as Instance Segmentation.
 * [platypus](https://github.com/maju116/platypus) - R package for object detection and image segmentation.
 * [Raster Vision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery.
+* [sentinel-tree-cover](https://github.com/wri/sentinel-tree-cover) - Image segmentations of trees outside forest.
 * [ShelfNet](https://github.com/juntang-zhuang/ShelfNet) - Implementation of a CNN model for real-time semantic segmentation.
 * [SIMRDWN](https://github.com/avanetten/simrdwn) - The Satellite Imagery Multiscale Rapid Detection with Windowed Networks (SIMRDWN) codebase combines some of the leading object detection algorithms into a unified framework designed to detect objects both large and small in overhead imagery.
 * [SNIPER](https://github.com/mahyarnajibi/SNIPER) - SNIPER is an efficient multi-scale object detection algorithm.
