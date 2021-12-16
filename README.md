@@ -1350,6 +1350,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [GDAL/OGR Cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/) - Simple code snippets on how to use the Python GDAL/OGR API.
 * [GeoJSON.io](http://geojson.io/) - geojson.io is a quick, simple tool for creating, viewing, and sharing maps.
 * [Geopython](https://github.com/urschrei/Geopython) - Notebooks and libraries for spatial/geo Python explorations.
+* [GIGS](https://gigs.iogp.org/) - GIGS comprises qualitative test series checklists and quantitative test dataset files.
 * [IndexDatabase](http://www.indexdatabase.de/) - A database for remote sensing indices.
 * [LOLManuscriptMonday](https://github.com/ladiesoflandsat/LOLManuscriptMonday) - Hold the links to the Ladies of Landsat Manuscript Monday series.
 * [Spatialreference.org](http://spatialreference.org/) - Source for coordinate system information.
