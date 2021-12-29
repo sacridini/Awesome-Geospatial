@@ -750,6 +750,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rust-geohash](https://github.com/georust/rust-geohash) - Geohash for Rust.
 * [rust-geojson](https://github.com/georust/rust-geojson) - Library for serializing the GeoJSON vector GIS file format.
 * [rust-geos](https://github.com/georust/geos) - Rust bindings for GEOS C API.
+* [rust-kml](https://github.com/georust/kml) - Rust support for reading and writing KML with a focus on conversion to geo-types primitives.
 * [rust-gpx](https://github.com/georust/rust-gpx) - Rust read/write support for GPS Exchange Format (GPX).
 * [rust-netcdf](https://github.com/georust/netcdf) - Medium-level netCDF bindings for Rust, allowing easy reading and writing of array-like structures to a file.
 * [rust-osm](https://github.com/georust/rust-osm) - OSM XML serialization and other OpenStreetMap utilities.
