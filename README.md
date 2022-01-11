@@ -941,6 +941,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Bing Maps V8 Web Control](https://msdn.microsoft.com/en-us/library/mt712542.aspx) - Bing Maps API for JavaScript.
 * [CesiumJS](https://github.com/AnalyticalGraphicsInc/cesium) - An open-source JavaScript library for world-class 3D globes and maps.
 * [d3-geomap](https://d3-geomap.github.io/) - A library for creating geographical maps based on D3.js.
+* [de9im](https://github.com/dpmcmlxxvi/de9im) - A collection of fast functions for DE-9IM spatial operations.
 * [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 * [Galton](https://github.com/urbica/galton) - Lightweight Node.js isochrone server. Build isochrones using OSRM, Turf and concaveman.
 * [gdal-js](https://github.com/ddohler/gdal-js/) - An Emscripten port of GDAL 2.1.
