@@ -539,6 +539,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Spectral Python](https://github.com/spectralpython/spectral) - Python module for hyperspectral image processing.
 * [stac-fastapi](https://github.com/stac-utils/stac-fastapi) - STAC API implementation with FastAPI.
 * [stackstac](https://github.com/gjoseph92/stackstac) - Turn a STAC catalog into a dask-based xarray.
+* [stactools](https://github.com/stac-utils/stactools) - Command line utility and Python library for STAC.
 * [starfm4py](https://github.com/nmileva/starfm4py) - The STARFM fusion model for Python (image fusion).
 * [Statsmodels](http://statsmodels.sourceforge.net/) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
 * [telluric](https://github.com/satellogic/telluric) - telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way.
