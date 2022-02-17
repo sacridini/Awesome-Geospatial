@@ -885,6 +885,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [DynamicGrids.jl](https://github.com/cesaraustralia/DynamicGrids.jl) - Generalised framework for building high-performance grid-based spatial simulations, including cellular automata, but also allowing a wider range of behaviours like random jumps and interactions between multiple grids. It is extended by Dispersal.jl for modelling organism dispersal processes.
 * [EarthEngine.jl](https://github.com/KMarkert/EarthEngine.jl) - Google Earth Engine in Julia.
 * [EcologicalNetwork.jl](https://github.com/PoisotLab/EcologicalNetwork.jl) - This julia package provides a common interface to analyze all types of data on ecological networks.
+* [ESDJ.jl](https://github.com/esa-esdl/ESDL.jl) - Interface for Reading from the Earth System Datacube.
 * [GDALfuns.jl](https://github.com/meggart/GDALfuns.jl) - Auto-generated low-level wrapper for the GDAL library.
 * [GeoArrays.jl](https://github.com/evetion/GeoArrays.jl) - Simple geographical raster interaction built on top of ArchGDAL, GDAL and CoordinateTransformations.
 * [GeoData.jl](https://github.com/rafaqz/GeoData.jl) - Standardising geospatial data in the Julia language.
