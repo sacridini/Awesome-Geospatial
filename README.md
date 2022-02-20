@@ -1214,6 +1214,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [stars](https://github.com/r-spatial/stars) - Spatiotemporal tidy arrays for R.
 * [stlnpp](https://github.com/Moradii/stlnpp) - Spatio-temporal point patterns on linear networks.
 * [stplanr](https://github.com/ropensci/stplanr) - Sustainable transport planning with R.
+* [Tanaka](https://github.com/riatelab/tanaka) - Tanaka Maps with R.
 * [taRifx](https://cran.r-project.org/web/packages/taRifx/index.html) - A collection of various utility and convenience functions.
 * [teamlucc](https://github.com/azvoleff/teamlucc) -  Is designed to facilitate analysis of land use and cover change (LUCC) around the monitoring sites of the Tropical Ecology Assessment and Monitoring (TEAM) Network.
 * [terra](https://github.com/rspatial/terra) - terra is an R package that replaces raster. It has a very similar, but simpler, interface, and it is much faster.
