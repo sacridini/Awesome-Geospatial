@@ -604,6 +604,9 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 * [geospatial-messenger](https://github.com/sdeleuze/geospatial-messenger) - Geospatial messenger application written with Spring Boot + Kotlin + PostgreSQL.
 
+## Dart
+
+* [turf_dart](https://github.com/dartclub/turf_dart) - A turf.js-like geospatial analysis library working with GeoJSON, written in pure Dart.
 
 ## Clojure
 
