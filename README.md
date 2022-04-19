@@ -28,6 +28,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [Perl](#perl)
     - [Java](#java)
     - [Kotlin](#kotlin)
+    - [Dart](#dart)
     - [Clojure](#clojure)
     - [Crystal](#crystal)
     - [C Sharp](#c-sharp)
