@@ -751,8 +751,10 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [A/B Street](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 * [geographiclib-rs](https://github.com/georust/geographiclib-rs) - A subset of geographiclib implemented in Rust.
 * [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
-* [kdtree-rs](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup
+* [kdtree-rs](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup.
+* [maplibre-rs](https://github.com/maplibre/maplibre-rs) - About Native Maps for Web, Mobile and Desktop.
 * [Martin](https://github.com/urbica/martin) - Martin is a PostGIS vector tiles server suitable for large databases. Martin is written in Rust using Actix web framework.
+* [rgeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
 * [rstar](https://github.com/georust/rstar) - R*-tree library for the rust ecosystem.
 * [rust-gdal](https://github.com/georust/rust-gdal) - Rust bindings for GDAL.
 * [rust-geo](https://github.com/georust/rust-geo) - Geospatial primitives and algorithms for Rust.
