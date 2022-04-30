@@ -1378,6 +1378,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [ESRI Shapefile Specs](http://www.esri.com/library/whitepapers/pdfs/shapefile.pdf) - Shapefile specifications.
 * [GDAL/OGR Cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/) - Simple code snippets on how to use the Python GDAL/OGR API.
 * [GeoJSON.io](http://geojson.io/) - geojson.io is a quick, simple tool for creating, viewing, and sharing maps.
+* [GeoParquet](https://github.com/opengeospatial/geoparquet) - Specification for storing geospatial vector data (point, line, polygon) in Parquet.
 * [Geopython](https://github.com/urschrei/Geopython) - Notebooks and libraries for spatial/geo Python explorations.
 * [GIGS](https://gigs.iogp.org/) - GIGS comprises qualitative test series checklists and quantitative test dataset files.
 * [IndexDatabase](http://www.indexdatabase.de/) - A database for remote sensing indices.
