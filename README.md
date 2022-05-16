@@ -1186,6 +1186,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [s2](https://github.com/spatstat/s2) - R bindings for Google's s2 library for geometry on the sphere.
 * [S2sls](https://cran.r-project.org/web/packages/S2sls/index.html) - Fit a spatial instrumental-variable regression by two-stage least squares.
 * [sf](https://github.com/r-spatial/sf) - Simple Features for R.
+* [sfarrow](https://wcjochem.github.io/sfarrow/index.html) - Package for reading and writing Parquet and Feather files with sf objects using arrow in R.
 * [sfheaders](https://github.com/dcooley/sfheaders) - Build sf objects from R and Rcpp.
 * [sfnetworks](https://github.com/luukvdmeer/sfnetworks) - Tidy Geospatial Networks in R.
 * [sftrack](https://github.com/mablab/sftrack) - Modern classes for tracking and movement data.
