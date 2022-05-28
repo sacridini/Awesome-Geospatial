@@ -770,6 +770,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rust-netcdf](https://github.com/georust/netcdf) - Medium-level netCDF bindings for Rust, allowing easy reading and writing of array-like structures to a file.
 * [rust-osm](https://github.com/georust/rust-osm) - OSM XML serialization and other OpenStreetMap utilities.
 * [rust-polyline](https://github.com/georust/rust-polyline) - Google Encoded Polyline encoding & decoding in Rust.
+* [rust-postal](https://github.com/kodemartin/rustpostal) - Rust bindings to libpostal.
 * [rust-proj](https://github.com/georust/rust-proj) - Rust bindings for Proj.
 * [rust-shapefile](https://github.com/tmontaigu/shapefile-rs) - Rust read/write support for shapefiles.
 * [rust-tilejson](https://github.com/georust/tilejson) - tilejson is a crate for serializing/deserializing the TileJSON format.
