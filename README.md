@@ -1336,6 +1336,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Maptiks](https://maptiks.com/) - Maptiks its a tool that provides in-depth user insights by tracking how visitors click, pan and zoom on your maps.
 * [MapTiler Desktop](https://www.maptiler.com/desktop/) - Software for converting your data into fast zoomable maps. Load your image or geodata and get a tiled map.
 * [Mapus](https://github.com/alyssaxuu/mapus) - Mapus is a tool to explore and annotate collaboratively on a map.
+* [Open Location Code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 * [opensarkit](https://github.com/openforis/opensarkit) - Tools for Automatic Preprocessing of SAR Imagery.
 * [Osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - osm2pgsql is a tool for loading OpenStreetMap data into a PostgreSQL.
 * [Planetiler](https://github.com/onthegomap/planetiler) - Flexible tool to build planet-scale vector tilesets from OpenStreetMap data in a few hours.
