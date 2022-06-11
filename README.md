@@ -1079,6 +1079,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html) - Spatial Visualization with ggplot2.
 * [ggsn](https://cran.r-project.org/web/packages/ggsn/index.html) - Adds north symbols and scale bars in kilometers to maps in geographic or metric coordinates.
 * [ggspatial](https://github.com/paleolimbot/ggspatial) - A ggplot2 R extension for plotting Spatial* objects.
+* [giscoR](https://github.com/rOpenGov/giscoR) - An API package that helps to retrieve data from Eurostat - GISCO (the Geographic Information System of the COmmission).
 * [glmmBUGS](https://cran.r-project.org/web/packages/glmmBUGS/index.html) - Automates running Generalized Linear Mixed Models, including spatial models, with WinBUGS, OpenBUGS and JAGS.
 * [gmt](https://cran.r-project.org/web/packages/gmt/index.html) - Interface between the GMT map-making software and R.
 * [googleway](https://github.com/SymbolixAU/googleway) - R Package for accessing and plotting Google Maps.
