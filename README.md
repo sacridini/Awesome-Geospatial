@@ -373,6 +373,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [geeup](https://github.com/samapriya/geeup) - Simple CLI for Earth Engine Uploads.
 * [landsat-extract-gee](https://github.com/loicdtx/landsat-extract-gee) - Get Landsat surface reflectance time-series from google earth engine.
 * [msslib](https://github.com/gee-community/msslib) - An Earth Engine JavaScript library for working with Landsat MSS image data.
+* [OEEex](https://github.com/open-geocomputing/OEEex) - A chrome extension to enhance Google Earth Engine code editor.
 * [OpenEarthEngineLibrary](https://github.com/open-geocomputing/OpenEarthEngineLibrary) - Collection of code goodies for Google Earth Engine(GEE).
 * [restee](https://kmarkert.github.io/restee/) - Aims to make plugging Earth Engine (EE) computations into downstream Python processing easier.
 * [rgee](https://github.com/r-spatial/rgee) - Google Earth Engine for R.
@@ -1367,6 +1368,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 * [AIforEarthDataSets](https://github.com/microsoft/AIforEarthDataSets) - Notebooks and documentation for AI-for-Earth-managed datasets on Azure Open Datasets.
 * [ASTER Data](https://lpdaac.usgs.gov/dataset_discovery/aster) - Download ASTER data.
+* [Callisto Generated Datasets](https://github.com/Agri-Hub/Callisto-Dataset-Collection) - A list of datasets aiming to enable Artificial Intelligence applications that use Copernicus data.
 * [CBERS on AWS](https://github.com/fredliporace/cbers-on-aws) - Information, tools and data related to the China-Brazil Earth Resources Satellite (CBERS) PDS on AWS.
 * [Cityscapes Dataset](https://www.cityscapes-dataset.com/) -  large-scale dataset that contains a diverse set of stereo video sequences recorded in street scenes from 50 different cities, with high quality pixel-level annotations of 5 000 frames in addition to a larger set of 20 000 weakly annotated frames.
 * [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home) - Sentinel data from scihub.
