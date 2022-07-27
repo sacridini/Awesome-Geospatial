@@ -345,9 +345,11 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Linq](https://www.linq.it/) - Business process mapping.
 * [Mapbox](https://www.mapbox.com/) - Plataform for web map design and manipulation.
 * [MapTiler Cloud](https://www.maptiler.com/cloud/) - Maps API for web & mobile developers. Customize maps, upload or create own geodata and publish online.
+* [Mergin Maps](https://merginmaps.com/) - A mobile data collection open-source platform for field data surveys based on QGIS. Available as service or self-hosted.
 * [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser.
 * [OpenCage Geocoding API](https://geocoder.opencagedata.com/) - An API aggregating multiple open geo datasources (OpenStreetMap and others).
 * [OpenMapTiles](https://openmaptiles.com/) - Vector tiles and map services as service, self-hosted or off-line.
+
 
 ## DaaS - Data as a Service
 
