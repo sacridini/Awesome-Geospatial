@@ -1443,6 +1443,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* [Awesome DEM](https://github.com/DahnJ/Awesome-DEM) - Overview of Digital Elevation Model (DEM) datasets.
 * [Awesome Earth Engine Apps](https://github.com/philippgaertner/awesome-earth-engine-apps)
 * [Awesome Geo Rust](https://github.com/pka/awesome-georust)
 * [Awesome GIS - sshuair](https://github.com/sshuair/awesome-gis)
