@@ -1144,6 +1144,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [nngeo](https://github.com/michaeldorman/nngeo) - k-Nearest Neighbor Join for Spatial Data.
 * [OasisR](https://cran.r-project.org/web/packages/OasisR/index.html) - A set of indexes and tests for the analysis of social segregation.
 * [OpenImageR](https://github.com/mlampros/OpenImageR) - Image processing Toolkit in R.
+* [openrouteservice-r](https://github.com/GIScience/openrouteservice-r) - R package to query openrouteservice.org.
 * [OpenStreetMap](https://cran.r-project.org/web/packages/OpenStreetMap/index.html) - Access to Open Street Map Raster Images.
 * [osmar](https://cran.r-project.org/web/packages/osmar/index.html) - Provides infrastructure to access OpenStreetMap data from different sources.
 * [osmdata](https://github.com/ropensci/osmdata) - R package for downloading OpenStreetMap data.
