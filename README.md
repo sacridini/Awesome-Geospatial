@@ -499,6 +499,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [NodeBox-opengl](http://www.cityinabottle.org/nodebox/) - For playing around with animations.
 * [Ogcserver](https://github.com/mapnik/OGCServer) - Python WMS implementation using Mapnik.
 * [Open-Elevation](https://github.com/Jorl17/open-elevation) - A free and open-source alternative to Google Elevation API.
+* [openrouteservice-py](https://github.com/GIScience/openrouteservice-py) - The Python API to consume openrouteservice(s) painlessly!
 * [Open Topo Data](https://github.com/ajnisbet/opentopodata) - Open Topo Data is a REST API server for your elevation data.
 * [orbit-predictor](https://github.com/satellogic/orbit-predictor) - Orbit Predictor is a Python library to propagate orbits of Earth-orbiting objects (satellites, ISS, Santa Claus, etc) using TLE (Two-Line Elements set).
 * [osm2geojson](https://github.com/aspectumapp/osm2geojson) - Parse OpenStreetMap (OSM) XML and Overpass JSON/XML.
