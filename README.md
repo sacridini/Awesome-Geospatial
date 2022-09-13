@@ -968,6 +968,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [d3-geomap](https://d3-geomap.github.io/) - A library for creating geographical maps based on D3.js.
 * [de9im](https://github.com/dpmcmlxxvi/de9im) - A collection of fast functions for DE-9IM spatial operations.
 * [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
+* [eurostat-map.js](https://github.com/eurostat/eurostat-map.js) - Reusable library to quickly create and customise web maps showing Eurostat data directly retrieved from Eurostat database.
 * [Galton](https://github.com/urbica/galton) - Lightweight Node.js isochrone server. Build isochrones using OSRM, Turf and concaveman.
 * [gdal-js](https://github.com/ddohler/gdal-js/) - An Emscripten port of GDAL 2.1.
 * [geoblaze](https://github.com/GeoTIFF/geoblaze) - Geoblaze is a geospatial raster processing engine written purely in javascript.
