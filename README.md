@@ -93,6 +93,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Teradata Geospatial Feature](http://br.teradata.com/Resources/Demos/Teradata-Geospatial-Features-Overview/?LangType=1046&LangSelect=true) - Teradata spatial extension for DW and BI.
 * [Tile38](https://github.com/tidwall/tile38) - Tile38 is a geospatial database, spatial index, and realtime geofence.
 * [TileDB](https://github.com/TileDB-Inc/TileDB) - TileDB is a powerful engine for storing and accessing dense and sparse multi-dimensional arrays, which can help you model any complex data efficiently.
+* [yogrt](https://github.com/Anagraph/yogrt) - A simple templating tool for importing GIS data to PostGIS
 
 
 ## Image Classification & DIP Software
