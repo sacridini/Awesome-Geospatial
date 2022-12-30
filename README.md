@@ -1389,6 +1389,7 @@ for geospatial and tabular data.
 * [CBERS on AWS](https://github.com/fredliporace/cbers-on-aws) - Information, tools and data related to the China-Brazil Earth Resources Satellite (CBERS) PDS on AWS.
 * [Cityscapes Dataset](https://www.cityscapes-dataset.com/) -  large-scale dataset that contains a diverse set of stereo video sequences recorded in street scenes from 50 different cities, with high quality pixel-level annotations of 5 000 frames in addition to a larger set of 20 000 weakly annotated frames.
 * [Copernicus Open Access Hub](https://scihub.copernicus.eu/dhus/#/home) - Sentinel data from scihub.
+* [RoadDetections](https://github.com/microsoft/RoadDetections) - Road detections from Microsoft Maps aerial imagery.
 * [Geofabrik](http://download.geofabrik.de/) - This is another source of prepared OpenStreetMap data. This distribution is generally built nightly and comes in OSM XML, pbf, and shapefile (for very popular areas) formats.
 * [GeoNames](http://www.geonames.org/) - The GeoNames geographical database covers all countries and contains over eight million place names (cities, postal codes, countries) that are available for download free of charge.
 * [INPE Database](http://www.dgi.inpe.br/CDSR/) - Download free satellite data including MODIS, Landsat (1-8), ResourceSat (1-2) and CBERS (2 and 2B) data.
