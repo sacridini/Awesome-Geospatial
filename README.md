@@ -384,6 +384,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [restee](https://kmarkert.github.io/restee/) - Aims to make plugging Earth Engine (EE) computations into downstream Python processing easier.
 * [rgee](https://github.com/r-spatial/rgee) - Google Earth Engine for R.
 * [sankee](https://github.com/aazuspan/sankee) - Visualize classified time series data with interactive Sankey plots in Google Earth Engine.
+* [spectral](https://github.com/awesome-spectral-indices/spectral) - Awesome Spectral Indices for the Google Earth Engine JavaScript API (Code Editor).
 * [wxee](https://github.com/aazuspan/wxee) - A Python interface between Earth Engine and xarray for processing weather and climate data.
 
 
@@ -906,6 +907,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Siphon](https://github.com/unidata/siphon) - A collection of Python utilities for retrieving atmospheric and oceanic data from remote sources, focusing on being able to retrieve data from Unidata data technologies, such as the THREDDS data server.
 * [som-tsp](https://github.com/DiegoVicen/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps.
 * [Spectral Python](https://github.com/spectralpython/spectral) - Python module for hyperspectral image processing.
+* [spyndex](https://github.com/awesome-spectral-indices/spyndex) - Awesome Spectral Indices in Python.
 * [stac-fastapi](https://github.com/stac-utils/stac-fastapi) - STAC API implementation with FastAPI.
 * [stackstac](https://github.com/gjoseph92/stackstac) - Turn a STAC catalog into a dask-based xarray.
 * [stactools](https://github.com/stac-utils/stactools) - Command line utility and Python library for STAC.
@@ -1440,6 +1442,7 @@ for geospatial and tabular data.
 * [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 * [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel)
 * [Awesome Spatial](https://github.com/RoboDonut/awesome-spatial/blob/master/README.md)
+* [Awesome Spectral Indices](https://github.com/awesome-spectral-indices/awesome-spectral-indices)
 * [Awesome SQLite](https://github.com/planetopendata/awesome-sqlite) 
 * [Awesome-EarthObservation-Code](https://github.com/acgeospatial/awesome-earthobservation-code)
 * [Digital Earth Australia notebooks and tools repository](https://github.com/GeoscienceAustralia/dea-notebooks) 
