@@ -680,6 +680,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Turf.js](http://turfjs.org/) - Advanced geospatial analysis for browsers and node.
 * [ui-leaflet](https://github.com/angular-ui/ui-leaflet) - AngularJS directive to embed an interact with maps managed by Leaflet library.
 * [Vue2Leaflet](https://github.com/KoRiGaN/Vue2Leaflet) - Vue 2 components for Leaflet maps.
+* [WebGISService](https://github.com/VicentGN/WebGISService) - Geospatial operations running as a service. Based on NodeJS/ExpressJS and TurfJS. Works with GeoJSON Features and FeaturesCollection.
 * [Windshaft](https://github.com/CartoDB/Windshaft) - A Node.js map tile library for PostGIS and torque.js, with CartoCSS styling.
 
 ## Julia 
