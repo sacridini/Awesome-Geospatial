@@ -701,8 +701,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [GeoInterface.jl](https://github.com/JuliaGeo/GeoInterface.jl) - A Julia Protocol for Geospatial Data.
 * [GeoJSON.jl](https://github.com/JuliaGeo/GeoJSON.jl) - This library is developed independently of, but is heavily influenced in design by the python-geojson package.
 * [GeoMakie.jl](https://github.com/JuliaPlots/GeoMakie.jl) - Geographical plotting utilities for Makie.jl
-* [GeoStats.jl](https://github.com/juliohm/GeoStats.jl) - Geostatistics in Julia.
-* [GeoStatsImages.jl](https://github.com/juliohm/GeoStatsImages.jl) - Training images for geostastical simulation in Julia.
+* [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) - An extensible framework for high-performance geostatistics in Julia.
 * [GMT.jl](https://github.com/GenericMappingTools/GMT.jl) - Generic Mapping Tools Library Wrapper for Julia.
 * [ImageFeatures.jl](https://github.com/JuliaImages/ImageFeatures.jl) - Image feature detection for the Julia language.
 * [ImageFiltering.jl](https://github.com/JuliaImages/ImageFiltering.jl) - ImageFiltering implements blurring, sharpening, gradient computation, and other linear filtering operations, as well nonlinear filters like min/max.
