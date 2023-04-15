@@ -1150,6 +1150,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [SpatialPosition](https://cran.r-project.org/web/packages/SpatialPosition/index.html) - Computes spatial position models: Stewart potentials, Reilly catchment areas, Huff catchment areas.
 * [spatialprobit](https://cran.r-project.org/web/packages/spatialprobit/index.html) - Bayesian Estimation of Spatial Probit and Tobit Models.
 * [spatialRF](https://github.com/BlasBenito/spatialRF) - R package to fit spatial models with Random Forest.
+* [SpatialRDD](https://github.com/axlehner/SpatialRDD) - R package to work spatialy with RDD files.
 * [spatialsegregation](https://cran.r-project.org/web/packages/spatialsegregation/index.html) - Summaries for measuring segregation/mingling in multitype spatial point patterns with graph based neighbourhood description.
 * [SpatialTools](https://cran.r-project.org/web/packages/SpatialTools/index.html) - Tools for spatial data analysis. Emphasis on kriging. Provides functions for prediction and simulation.
 * [spatstat](https://cran.r-project.org/web/packages/spatstat/index.html) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests.
