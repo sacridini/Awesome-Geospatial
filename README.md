@@ -1060,6 +1060,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [ModelMap](https://cran.r-project.org/web/packages/ModelMap/index.html) - Creates sophisticated models of training data and validates the models with an independent test set, cross validation, or in the case of Random Forest Models, with Out Of Bag (OOB) predictions on the training data. 
 * [ModelR](https://github.com/Model-R/modelr_pkg) - A workflow for ecological niche models based on dismo.
 * [moveVis](https://github.com/16EAGLE/moveVis) - An R package providing tools to visualize movement data (e.g. from GPS tracking) and temporal changes of environmental data (e.g. from remote sensing) by creating video animations.
+* [MTA](https://github.com/riatelab/MTA) - Multiscalar Territorial Analysis is an R package for multiscalar territorial analysis based on various contexts.
 * [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html) - Provides a high-level R interface to data files written using Unidata's netCDF library (version 4 or earlier).
 * [ncdfgeom](https://github.com/USGS-R/ncdfgeom) - NetCDF-CF Geometry and Timeseries Tools for R.
 * [ngspatial](https://cran.r-project.org/web/packages/ngspatial/index.html) - Provides tools for analyzing spatial data, especially non- Gaussian areal data.
