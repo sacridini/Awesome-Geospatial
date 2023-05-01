@@ -99,6 +99,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 ## Image Classification & DIP Software
 
 * [ArcMap Raster Edit Suite](https://github.com/haoliangyu/ares) - An ArcMap Addin that enables manual editing of single pixels on raster layer.
+* [Correlator3D](https://www.simactive.com/correlator3d-mapping-software-features) - High-end photogrammetry suite.
 * [Dinamica EGO](http://csr.ufmg.br/dinamica/) - Dinamica EGO consists of a sophisticated platform for environmental modeling.
 * [e-Foto](http://www.efoto.eng.uerj.br/en) - Free and open source digital photogrammetric workstation.
 * [eCognition](https://geospatial.trimble.com/products-and-solutions/ecognition) - GEOBIA software.
