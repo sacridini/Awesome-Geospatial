@@ -108,6 +108,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - Geospatial and remote sensing data analysis.
 * [Guidos Toolbox](http://forest.jrc.ec.europa.eu/download/software/guidos/) - Some GDAL functionalities and includes MSPA (Morphological Spatial Pattern Analysis) for connectivity maps.
 * [IDL](http://www.harrisgeospatial.com/ProductsandSolutions/GeospatialProducts/IDL.aspx) - IDL is a programming language used for data analysis and image processing programming.
+* [INPHO](https://geospatial.trimble.com/products-and-solutions/trimble-inpho) - INPHO is a Digital Photogrammetry Software.
 * [Interimage](http://www.lvc.ele.puc-rio.br/projects/interimage/) - Open Source GEOBIA software.
 * [Matlab](http://www.mathworks.com/products/matlab/) - Multi-paradigm numerical computing environment and fourth-generation programming language.
 * [MultiSpec](https://engineering.purdue.edu/~biehl/MultiSpec/index.html) - A Freeware Multispectral Image Data Analysis System.
