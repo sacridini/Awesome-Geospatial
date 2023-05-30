@@ -874,7 +874,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Peartree](https://github.com/kuanb/peartree) - Peartree: A library for converting transit data into a directed graph for network analysis.
 * [pipgeo](https://github.com/samapriya/pipgeo) - pipgeo: CLI for Unofficial windows Geospatial library wheels.
 * [Planet Movement](https://github.com/rhammell/planet-movement) - Python module enables the searching and processing of Planet imagery to highlight object movement between valid image pairs.
-* [planetary-computer](https://pypi.org/project/planetary-computer/https://pypi.org/project/planetary-computer/) - Python library for interacting with the Microsoft Planetary Computer.
+* [planetary-computer](https://pypi.org/project/planetary-computer/) - Python library for interacting with the Microsoft Planetary Computer.
 * [PODPAC](https://podpac.org/) - PODPAC is a python library that builds on the scientific python ecosystem to enable simple, reproducible geospatial analyses that run locally or in the cloud.
 * [prosail](https://github.com/jgomezdans/prosail) - Python bindings for the PROSAIL canopy reflectance model.
 * [pyCSW](http://pycsw.org/) - Fully implements the OpenGIS Catalogue Service Implementation Specification (Catalogue Service for the Web). Initial development started in 2010 (more formally announced in 2011). The project is certified OGC Compliant, and is an OGC Reference Implementation.
