@@ -1003,6 +1003,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [FRK](https://cran.r-project.org/web/packages/FRK/index.html) - Is a tool for spatial/spatio-temporal modelling and prediction with large datasets.
 * [gdalcubes_R](https://github.com/appelmar/gdalcubes_R) - R package for gdalcubes to process collections of Earth observation image collection as on demand data cubes.
 * [gdalio](https://github.com/hypertidy/gdalio) - The goal of gdalio is to read data direct with GDAL warp, with an assumed grid specification.
+* [gdalraster](https://github.com/USDAForestService/gdalraster) - R Bindings to the GDAL Raster API.
 * [geoaxe](https://cran.r-project.org/web/packages/geoaxe/index.html) - Split 'geospatial' objects into pieces. Includes support for some spatial object inputs, 'Well-Known Text', and 'GeoJSON'.
 * [geobr](https://github.com/ipeaGIT/geobr) - Package to download official spatial data sets of Brazil.
 * [geodist](https://github.com/hypertidy/geodist) - Ultra lightweight, ultra fast calculation of geo distances.
