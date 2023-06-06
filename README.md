@@ -135,7 +135,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [FME Desktop](https://www.safe.com/fme/fme-desktop/) - FME is an integrated collection of Spatial ETL tools for data transformation and data translation.
 * [GC2](http://www.mapcentia.com/en/product/) - GC2 is an enterprise platform GIS (open source)
 * [GeoDa](http://geodacenter.github.io/) - Spatial data analysis software.
-* [Geomedia](http://www.hexagongeospatial.com/products/producer-suite/geomedia) - Commercial GIS.
+* [Geomedia](https://hexagon.com/products/geomedia) - Commercial GIS.
 * [GRASS GIS](https://grass.osgeo.org/) - GRASS (Geographic Resources Analysis Support System) is a free and open source GIS.
 * [gvSIG](http://www.gvsig.com/en) - Free and open source GIS.
 * [ILWIS](http://52north.org/communities/ilwis/ilwis-open) - Integrated Land and Water Information System (ILWIS) is a remote sensing and GIS software.
