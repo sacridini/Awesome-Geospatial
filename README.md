@@ -749,7 +749,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 ## Lisp
 * [cl-ewkb](https://github.com/filonenko-mikhail/cl-ewkb/) - Common Lisp PostGIS EWKB data model and encoder/decoder.
-* [cl-proj](https://bitbucket.org/vityok/cl-proj) - CL-PROJ provides CFFI-based Common Lisp bindings for the PROJ.4 library.
+* [cl-proj](https://github.com/vityok/cl-proj) - CL-PROJ provides CFFI-based Common Lisp bindings for the PROJ.4 library.
 * [utm](https://github.com/jl2/utm) - Lisp library for converting between latitude/longitude and UTM.
 
 ## Lua
@@ -902,7 +902,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [rio-color](https://github.com/mapbox/rio-color) - Color correction plugin for rasterio.
 * [rio-hist](https://github.com/mapbox/rio-hist) - Histogram matching plugin for rasterio.
 * [rio-tiler](https://github.com/mapbox/rio-tiler) - Get mercator tile from landsat, sentinel or other AWS hosted raster.
-* [RIOS](https://bitbucket.org/chchrsc/rios/overview) - Raster I/O Simplification. A set of python modules which makes it easy to write raster processing code in Python.
+* [RIOS](https://www.rioshome.org/en/latest/) - Raster I/O Simplification. A set of python modules which makes it easy to write raster processing code in Python.
 * [rioxarray](https://github.com/corteva/rioxarray) - rasterio xarray extension.
 * [routing-py](https://github.com/gis-ops/routing-py) - Python library to access all public routing, isochrones and matrix APIs in a consistent manner.
 * [RSGISLib](http://www.rsgislib.org/) - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using Python bindings or an XML interface.
@@ -954,7 +954,6 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [laravel-geo](https://github.com/eleven-lab/laravel-geo) - GeoSpatial integration on Laravel 5.2+ that supports MySQL and PostgreSQL.
 * [li3_geo](https://github.com/nateabele/li3_geo) - Adds geospatial support to Lithium for multiple databases, including MongoDB, CouchDB and MySQL.
 * [PHP Azure Maps Provider](https://github.com/max-langerman/azure-maps-provider) - A PHP Azure Maps Geocoder Provider.
-* [php-libspatialite](https://github.com/rukandax/php-libspatialite) - PHP Query Builder for SQLite data with Spatial SQL Capabilities.
 * [PHP7 Mapnik](https://github.com/garrettrayj/php7-mapnik) - PHP extension for geospatial rendering with Mapnik.
 * [shapefile](https://github.com/phpmyadmin/shapefile) - ESRI ShapeFile library for PHP.
 * [ShapeReader](https://github.com/muka/ShapeReader) - A PHP library to parse ESRI Shape files.
@@ -1141,7 +1140,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [sgeostat](https://cran.r-project.org/web/packages/sgeostat/index.html) - An Object-oriented Framework for Geostatistical Modeling in S+ containing functions for variogram estimation, variogram fitting and kriging as well as some plot functions.
 * [shapefiles](https://cran.r-project.org/web/packages/shapefiles/index.html) - Read and Write ESRI Shapefiles.
 * [siplab](https://cran.r-project.org/web/packages/siplab/index.html) - A platform for experimenting with spatially explicit individual-based vegetation models.
-* [sits](https://github.com/gilbertocamara/sits) - satellite image time series package for R.
+* [sits](https://github.com/e-sensing/sits) - Satellite image time series package for R.
 * [smacpod](https://cran.r-project.org/web/packages/smacpod/index.html) - Various statistical methods for analyzing case-control point data.
 * [smerc](https://cran.r-project.org/web/packages/smerc/index.html) - Provides statistical methods for the analysis of data areal data, with a focus on cluster detection.
 * [soilDB](https://github.com/ncss-tech/soilDB) - Simplified Access to NCSS Soil Databases.
@@ -1180,7 +1179,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [stars](https://github.com/r-spatial/stars) - Spatiotemporal tidy arrays for R.
 * [stlnpp](https://github.com/Moradii/stlnpp) - Spatio-temporal point patterns on linear networks.
 * [stplanr](https://github.com/ropensci/stplanr) - Sustainable transport planning with R.
-* [supercells](shttps://github.com/Nowosad/supercells) - The goal of supercells is to utilize the concept of superpixels to a variety of spatial data.
+* [supercells](https://github.com/Nowosad/supercells) - The goal of supercells is to utilize the concept of superpixels to a variety of spatial data.
 * [Tanaka](https://github.com/riatelab/tanaka) - Tanaka Maps with R.
 * [taRifx](https://cran.r-project.org/web/packages/taRifx/index.html) - A collection of various utility and convenience functions.
 * [teamlucc](https://github.com/azvoleff/teamlucc) -  Is designed to facilitate analysis of land use and cover change (LUCC) around the monitoring sites of the Tropical Ecology Assessment and Monitoring (TEAM) Network.
@@ -1208,7 +1207,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Agroclimatology](https://github.com/beaorn/agroclimatology) - Ruby client for interacting with the NASA (POWER) Agroclimatology Web Resource.
 * [Evapotranspiration](https://github.com/beaorn/evapotranspiration) - Ruby library for calculating reference crop evapotranspiration (ETo).
 * [ffi-geos](https://github.com/dark-panda/ffi-geos) - Low-level ruby bindings to GEOS library.
-* [Geokit](http://geokit.rubyforge.org/) - A Ruby gem & Rails plugin for easier map-based applications.
+* [Geokit](https://github.com/geokit/geokit) - A Ruby gem & Rails plugin for easier map-based applications.
 * [Mongoid Geospatial](https://github.com/nofxx/mongoid-geospatial) - A Mongoid Extension that simplifies the use of MongoDB spatial features.
 * [PostGIS ActiveRecord Adapter](https://github.com/rgeo/activerecord-postgis-adapter) - ActiveRecord adapter for PostGIS.
 * [Rgeo GeoJSON](https://github.com/rgeo/rgeo-geojson) - RGeo component for reading and writing GeoJSON.
@@ -1278,7 +1277,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [mapbox-navigation-android](https://github.com/mapbox/mapbox-navigation-android) - Mapbox Navigation SDK for Android.
 * [MapLibre GL Native](https://github.com/maplibre/maplibre-gl-native) - The open-source alternative to Mapbox GL Native. SDKs for iOS, Android and other platforms
 * [MAPS.ME](https://github.com/mapsme/omim) - MAPS.ME — Offline OpenStreetMap maps for iOS and Android.
-* [Nutiteq Maps SDK](http://www.nutiteq.com/nutiteq-sdk/overview/) - C++ maps library for iOS, Android, Windows Phone and Xamarin with bindings for Java, ObjectiveC and C#.
+* [Nutiteq Maps SDK](https://github.com/nutiteq) - C++ maps library for iOS, Android, Windows Phone and Xamarin with bindings for Java, ObjectiveC and C#.
 * [Organic Maps](https://github.com/organicmaps/organicmaps) - Organic Maps is a better fork of MAPS.ME, an Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders. No ads, no tracking, no data collection, no crapware.
 * [WhirlyGlobe/Maply](http://mousebird.github.io/WhirlyGlobe/) - Objective C code that is able to read and render vector tiles(and style with mapnik xml) on iOS devices.
 * [XaMaps](https://github.com/AlexPshul/XaMaps) - Xamarin + Azure Maps.
@@ -1357,7 +1356,7 @@ for geospatial and tabular data.
 * [Planetiler](https://github.com/onthegomap/planetiler) - Flexible tool to build planet-scale vector tilesets from OpenStreetMap data in a few hours.
 * [Projection  Wizard](http://projectionwizard.org/) - Helps you select an appropriate projection for your map, depending on the area that you are mapping.
 * [sat-search](https://github.com/sat-utils/sat-search) - Sat-search is a Python 3 library and a command line tool for discovering and downloading publicly available satellite imagery using STAC compliant API.
-* [TileMill](https://github.com/mapbox/tilemill) - TileMill is a modern map design studio powered by Node.js and Mapnik.
+* [TileMill](https://tilemill-project.github.io/tilemill/) - TileMill is a modern map design studio powered by Node.js and Mapnik.
 * [veins](https://github.com/sommer/veins) - Open source vehicular network simulation framework.
 * [eodag](https://github.com/CS-SI/eodag) - Command line tool and a plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider.
 * [nextgisweb](https://github.com/nextgis/nextgisweb) - Server based application/server-side framework for geodata storage, management and visualization.
@@ -1375,7 +1374,7 @@ for geospatial and tabular data.
 ## Data Sources
 
 * [AIforEarthDataSets](https://github.com/microsoft/AIforEarthDataSets) - Notebooks and documentation for AI-for-Earth-managed datasets on Azure Open Datasets.
-* [ASTER Data](https://lpdaac.usgs.gov/dataset_discovery/aster) - Download ASTER data.
+* [ASTER Data](https://terra.nasa.gov/data/aster-data) - Download ASTER data.
 * [Callisto Generated Datasets](https://github.com/Agri-Hub/Callisto-Dataset-Collection) - A list of datasets aiming to enable Artificial Intelligence applications that use Copernicus data.
 * [CBERS on AWS](https://github.com/fredliporace/cbers-on-aws) - Information, tools and data related to the China-Brazil Earth Resources Satellite (CBERS) PDS on AWS.
 * [Cityscapes Dataset](https://www.cityscapes-dataset.com/) -  large-scale dataset that contains a diverse set of stereo video sequences recorded in street scenes from 50 different cities, with high quality pixel-level annotations of 5 000 frames in addition to a larger set of 20 000 weakly annotated frames.
@@ -1419,9 +1418,9 @@ for geospatial and tabular data.
 * [Geo For Good Summit](https://earthoutreachonair.withgoogle.com/events/geoforgood21) - Annual conference, hosted by Google, geared toward nonprofits, scientists, government agencies and other change-makers who want to leverage mapping tools and technology for positive impact in the world. 
 * [GEOINFO](http://www.geoinfo.info/) - The GEOINFO series (Brazilian Symposium on Geoinformatics) is an annual conference for exploring ongoing research, development and innovative applications on geographic information science and related areas.
 * [GeoPython](https://2021.geopython.net/) - The conference is focused on Python and Geo, its toolkits and applications. 
-* [International Syposium on Digital Earth](https://digitalearth2021.org/) - Event dedicated to bring together policy makers and scientists and will explore pathways towards the vision of a ‘Digital Earth
+* [International Syposium on Digital Earth](https://pcoconvin.eventsair.com/isde23/) - Event dedicated to bring together policy makers and scientists and will explore pathways towards the vision of a ‘Digital Earth
 * [International Society for Photogrammetry and Remote Sensing](https://www.isprs2020-nice.com/) - The ISPRS Congress is the leading forum where classical and emergent topics related to photogrammetry, remote sensing, and spatial information sciences are discussed.
-* [SBSR](http://sbsr.com.br/br/node/1379) - Bi-annual Brazilian National Symposium on Remote Sensing.
+* [SBSR](https://2023.sbsr.com.br/) - Bi-annual Brazilian National Symposium on Remote Sensing.
 * [Spatial Data Conference](https://spatial-data-science-conference.com/) -  Annual Conferece that intersects GIS, Advanced Analytics & Data Science that is growing rapidly & answering some of the most pressing questions in both the private & public sector. 
 * [State of the Map](https://stateofthemap.org/) - Annual event for all mappers and OpenStreetMap users.
 
@@ -1438,8 +1437,8 @@ for geospatial and tabular data.
 * [The MapScaping](https://mapscaping.com/blogs/the-mapscaping-podcast) - Weekly podcast featuring interesting people doing amazing work in the geospatial world.
 * [Minds Behind Maps](https://minds-behind-maps.simplecast.com/) - Informal conversations with those creating maps, understanding how and why they build them. Earth Observation, Data Science, Business and how smart people combine them all to impact our world.
 * [More Than Just Maps](https://urisatexas.org/podcast) - Talks with GIS veterans and geniuses who know a thing or two about how to find your way from student to professional and beyond, while also chatting about some neat tools, tricks, and trends. Presented by the URISA Texas Chapter.
-* [Project Geospatial](https://anchor.fm/projectgeohttp://scenefromabove.org/index.html) - Project Geospatial is a web series and blog dedicated to increasing awareness of Geospatial Technology, industry best practices, and GIS resources.
-* [Scene From Above](http://scenefromabove.org/index.html) - Earth observation, remote sensing, geospatial and geeky chat
+* [Project Geospatial](https://www.projectgeospatial.com/) - Project Geospatial is a web series and blog dedicated to increasing awareness of Geospatial Technology, industry best practices, and GIS resources.
+* [Scene From Above](https://scenefromabove.podbean.com/) - Earth observation, remote sensing, geospatial and geeky chat
 * [A VerySpatial](https://veryspatial.com/) - A VerySpatial Podcast is your weekly source for information on Geography and geospatial technologies.
 
 
