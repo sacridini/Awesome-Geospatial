@@ -641,6 +641,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Google Maps API](https://developers.google.com/maps/documentation/javascript/?hl=pt-br) - Google Maps API for JavaScript.
 * [Heatcanvas.js](https://github.com/sunng87/heatcanvas) - Yet another heatmap implementation for Javascript.
 * [Heatmap.js](https://www.patrick-wied.at/static/heatmapjs/) - A heatmap implementation for Javascript.
+* [hyperleaflet](https://hyperleaflet.dev/) - A library that allows you to use the popular Leaflet library with just HTML attributes.
 * [iTowns](http://www.itowns-project.org/) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data. It can connect to WMS/WMTS/TMS servers including elevation data and load many different data formats (3dTiles, gpx, KML and much much more).
 * [JSTS](https://github.com/bjornharrtell/jsts) - Port of the Java JTS library.
 * [jVectorMap](https://jvectormap.com/) - jVectorMap is a vector-based, cross-browser and cross-platform component for interactive geography-related data visualization on the web. It provides numerious features like smooth zooming and panning, fully-customizable styling, markers, labels and tooltips.
@@ -661,8 +662,9 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [openaq](https://github.com/nickolasclarke/openaq) - A JS client for the OpenAQ API. OpenAQ is a non-profit organization empowering communities around the globe to clean their air by harmonizing, sharing, and using open air quality data.
 * [OpenGlobus](https://www.openglobus.org/) - A javascript library designed to display interactive 3d maps and planets with map tiles, imagery and vector data, markers and 3d objects. It uses the WebGL technology, open source and completely free.
 * [OpenLayers](http://openlayers.org/) - Open source AJAX library.
-* [openrouteservice-js](https://github.com/GIScience/openrouteservice-js) - The JavaScript API to consume openrouteservice(s) painlessly! 
-* [OSM Building](https://osmbuildings.org/) - A JavaScript library for visualizing OpenStreetMap building geometry on 2D and 3D maps.
+* [openrouteservice-js](https://github.com/GIScience/openrouteservice-js) - The JavaScript API to consume openrouteservice(s) painlessly!
+* [OpenSphere](https://github.com/ngageoint/opensphere#opensphere) - A pluggable, single-page, GIS web application that supports both 2D and 3D views.
+* [OSM Building](https://osmbuildings.org[openrouteservice-js](https://github.com/GIScience/openrouteservice-js) - The JavaScript API to consume openrouteservice(s) painlessly!) - A JavaScript library for visualizing OpenStreetMap building geometry on 2D and 3D maps.
 * [overpass-turbo](https://github.com/tyrasd/overpass-turbo) - A web based data mining tool for OpenStreetMap using Overpass API.
 * [PGRestAPI](https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities.
 * [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library. 
