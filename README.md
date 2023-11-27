@@ -937,6 +937,7 @@ with GNSS (global navigation satellite system).
 * [som-tsp](https://github.com/DiegoVicen/som-tsp) - Solving the Traveling Salesman Problem using Self-Organizing Maps.
 * [Spectral Python](https://github.com/spectralpython/spectral) - Python module for hyperspectral image processing.
 * [spyndex](https://github.com/awesome-spectral-indices/spyndex) - Awesome Spectral Indices in Python.
+* [srai](https://github.com/kraina-ai/srai) - Spatial Representations for Artificial Intelligence. Set of tools for geospatial machine learning, data acquisition and wrangling.
 * [stac-fastapi](https://github.com/stac-utils/stac-fastapi) - STAC API implementation with FastAPI.
 * [stackstac](https://github.com/gjoseph92/stackstac) - Turn a STAC catalog into a dask-based xarray.
 * [stactools](https://github.com/stac-utils/stactools) - Command line utility and Python library for STAC.
