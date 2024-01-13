@@ -1442,6 +1442,7 @@ for geospatial and tabular data.
 * [GeoPython](https://2021.geopython.net/) - The conference is focused on Python and Geo, its toolkits and applications. 
 * [International Syposium on Digital Earth](https://pcoconvin.eventsair.com/isde23/) - Event dedicated to bring together policy makers and scientists and will explore pathways towards the vision of a ‘Digital Earth
 * [International Society for Photogrammetry and Remote Sensing](https://www.isprs2020-nice.com/) - The ISPRS Congress is the leading forum where classical and emergent topics related to photogrammetry, remote sensing, and spatial information sciences are discussed.
+* [RCMRD International Conference](https://www.rcmrd.org/) - Annual conference held in Nairobi - Kenya, bringing together policymakers, executives, experts, researchers, developers, and innovators worldwide to exchange insights in Earth observation (EO) and Geographic Information System (GIS).
 * [SBSR](https://2023.sbsr.com.br/) - Bi-annual Brazilian National Symposium on Remote Sensing.
 * [Spatial Data Conference](https://spatial-data-science-conference.com/) -  Annual Conferece that intersects GIS, Advanced Analytics & Data Science that is growing rapidly & answering some of the most pressing questions in both the private & public sector. 
 * [State of the Map](https://stateofthemap.org/) - Annual event for all mappers and OpenStreetMap users.
