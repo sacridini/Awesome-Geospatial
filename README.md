@@ -1443,7 +1443,8 @@ for geospatial and tabular data.
 * [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) 
 * [Introduction to Spatial Data Programming with R](https://geobgu.xyz/r/)
 * [R for Geographic Data Science](https://sdesabbata.github.io/r-for-geographic-data-science/index.html)
-* [SAR Handbook - Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://servirglobal.net/resources/sar-handbook) 
+* [SAR Handbook - Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://servirglobal.net/resources/sar-handbook)
+* [Spatial Data Science With Applications in R](https://r-spatial.org/book/) 
 * [Spatial Modelling for Data Scientists](https://gdsl-ul.github.io/san/)
 * [The Language of Spatial Analisys](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/books/the-language-of-spatial-analysis.pdf) 
 
