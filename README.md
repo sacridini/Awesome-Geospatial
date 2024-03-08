@@ -1443,6 +1443,7 @@ for geospatial and tabular data.
 * [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
 * [Geographic Data Science with R: Visualizing and Analyzing Environmental Change](https://bookdown.org/mcwimberly/gdswr-book/) 
 * [Geospatial Analysis](https://www.spatialanalysisonline.com/)
+* [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia/)
 * [Google Earth Engine Applications](https://www.mdpi.com/books/reprint/1262-google-earth-engine-applications) 
 * [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) 
 * [Introduction to Spatial Data Programming with R](https://geobgu.xyz/r/)
