@@ -62,6 +62,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [Cheat sheets](#cheat-sheets)
     - [Data Sources](#data-sources)
     - [Resources](#resources)
+    - [Free and Open Source Books](#free-and-open-source-books)
     - [Podcasts](#podcasts)
     - [Conferences](#conferences)
     - [References](#references-and-other-awesome-lists)
@@ -1432,7 +1433,11 @@ for geospatial and tabular data.
 * [Spatialreference.org](http://spatialreference.org/) - Source for coordinate system information.
 * [TileJSON.io](http://tilejson.io/) - tilejson.io is a simple viewer for raster tile sets (Enter tile URL, layer properties, share).
 
+## Free and Open Source Books
 
+* [Geocomputation with R](https://r.geocompx.org/)
+* [Geocomputation with Python](https://py.geocompx.org/)
+* [Elegant and informative maps with tmap](https://r-tmap.github.io/tmap-book/)
 
 ## Conferences
 
