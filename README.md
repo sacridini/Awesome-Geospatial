@@ -1435,9 +1435,17 @@ for geospatial and tabular data.
 
 ## Free and Open Source Books
 
-* [Geocomputation with R](https://r.geocompx.org/)
-* [Geocomputation with Python](https://py.geocompx.org/)
 * [Elegant and informative maps with tmap](https://r-tmap.github.io/tmap-book/)
+* [Geocomputation with Python](https://py.geocompx.org/)
+* [Geocomputation with R](https://r.geocompx.org/)
+* [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
+* [Geospatial Analysis](https://www.spatialanalysisonline.com/)
+* [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) 
+* [Introduction to Spatial Data Programming with R](https://geobgu.xyz/r/)
+* [R for Geographic Data Science](https://sdesabbata.github.io/r-for-geographic-data-science/index.html)
+* [SAR Handbook - Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://servirglobal.net/resources/sar-handbook) 
+* [Spatial Modelling for Data Scientists](https://gdsl-ul.github.io/san/)
+* [The Language of Spatial Analisys](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/books/the-language-of-spatial-analysis.pdf) 
 
 ## Conferences
 
