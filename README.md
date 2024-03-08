@@ -1446,6 +1446,7 @@ for geospatial and tabular data.
 * [SAR Handbook - Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://servirglobal.net/resources/sar-handbook)
 * [Spatial Data Science With Applications in R](https://r-spatial.org/book/) 
 * [Spatial Modelling for Data Scientists](https://gdsl-ul.github.io/san/)
+* [Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/index.html) 
 * [The Language of Spatial Analisys](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/books/the-language-of-spatial-analysis.pdf) 
 
 ## Conferences
