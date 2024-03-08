@@ -1435,11 +1435,15 @@ for geospatial and tabular data.
 
 ## Free and Open Source Books
 
+* [An Introduction to Spatial Data Analysis and Statistics: A Course in R](https://paezha.github.io/spatial-analysis-r/)
+* [Cloud-Based Remote Sensing with Google Earth Engine](https://www.eefabook.org/) 
 * [Elegant and informative maps with tmap](https://r-tmap.github.io/tmap-book/)
 * [Geocomputation with Python](https://py.geocompx.org/)
 * [Geocomputation with R](https://r.geocompx.org/)
 * [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
+* [Geographic Data Science with R: Visualizing and Analyzing Environmental Change](https://bookdown.org/mcwimberly/gdswr-book/) 
 * [Geospatial Analysis](https://www.spatialanalysisonline.com/)
+* [Google Earth Engine Applications](https://www.mdpi.com/books/reprint/1262-google-earth-engine-applications) 
 * [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) 
 * [Introduction to Spatial Data Programming with R](https://geobgu.xyz/r/)
 * [R for Geographic Data Science](https://sdesabbata.github.io/r-for-geographic-data-science/index.html)
@@ -1447,8 +1451,9 @@ for geospatial and tabular data.
 * [Spatial Data Science With Applications in R](https://r-spatial.org/book/)
 * [Spatial Microsimulation with R](https://spatial-microsim-book.robinlovelace.net/)
 * [Spatial Modelling for Data Scientists](https://gdsl-ul.github.io/san/)
-* [Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/index.html) 
-* [The Language of Spatial Analisys](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/books/the-language-of-spatial-analysis.pdf) 
+* [Spatial Statistics for Data Science: Theory and Practice with R](https://www.paulamoraga.com/book-spatial/index.html)
+* [sits: Satellite Image Time Series Analysis on Earth Observation Data Cubes](https://e-sensing.github.io/sitsbook/) 
+* [The Language of Spatial Analisys](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/books/the-language-of-spatial-analysis.pdf)
 
 ## Conferences
 
