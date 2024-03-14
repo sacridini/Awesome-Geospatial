@@ -1447,6 +1447,7 @@ for geospatial and tabular data.
 * [Google Earth Engine Applications](https://www.mdpi.com/books/reprint/1262-google-earth-engine-applications) 
 * [Intro to GIS and Spatial Analysis](https://mgimond.github.io/Spatial/index.html) 
 * [Introduction to Spatial Data Programming with R](https://geobgu.xyz/r/)
+* [Introduction to urban accessibility: A practical guide with R](https://ipeagit.github.io/intro_access_book/) 
 * [R for Geographic Data Science](https://sdesabbata.github.io/r-for-geographic-data-science/index.html)
 * [SAR Handbook - Comprehensive Methodologies for Forest Monitoring and Biomass Estimation](https://servirglobal.net/resources/sar-handbook)
 * [Spatial Data Science With Applications in R](https://r-spatial.org/book/)
