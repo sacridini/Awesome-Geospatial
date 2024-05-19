@@ -19,6 +19,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [Agent-based Modeling](#agent-based-modeling)
     - [Landscape Metrics](#landscape-metrics)
     - [Landscape Modelling](#landscape-modelling)
+    - [Spatial Optimization](#spatial-optimization)
     - [Libraries](#libraries)
     - [PaaS - Platform as a Service](#paas---platform-as-a-service)
     - [SaaS - Software as a Service](#saas---software-as-a-service)
@@ -324,7 +325,10 @@ with GNSS (global navigation satellite system).
 ## Landscape Modelling
 * [GLOBIOM](https://iiasa.ac.at/web/home/research/GLOBIOM/GLOBIOM.html) - Global Biosphere Management Model (GLOBIOM) is used to analyze the competition for land use between agriculture, forestry, and bioenergy, which are the main land-based production sectors.
 * [InVEST](https://naturalcapitalproject.stanford.edu/software/invest) - InVEST (Integrated Valuation of Ecosystem Services and Tradeoffs) is a suite of models used to map and value the goods and services from nature that sustain and fulfill human life.
-* [MARXAN](https://marxansolutions.org/) - Marxan is freely available conservation planning software. It provides decision support to a range of conservation planning problems, including the design of new reserve systems, reporting on the performance of existing reserve systems, and developing multiple-use zoning plans for natural resource management.
+
+
+## Spatial Optimization
+* [MARXAN](https://marxansolutions.org/) - Marxan is a freely available conservation planning software. It provides decision support to a range of conservation planning problems, including the design of new reserve systems, reporting on the performance of existing reserve systems, and developing multiple-use zoning plans for natural resource management.
 * [prioriactions](https://github.com/prioriactions/prioriactions) - The prioriactions R package uses a mixed integer mathematical programming (MIP) approach for building and solving multi-action conservation planning problems, where the goal is to find an optimal combination of management actions that abate threats, in an efficient way while accounting for connectivity.
 * [prioritizr](https://github.com/prioritizr/prioritizr) - R package that uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.
 * [Zonation](http://conservationcorridor.org/corridor-toolbox/programs-and-tools/zonation/) - Zonation produces a hierarchical prioritization of the landscape based on the occurrence levels of biodiversity features in sites (cells) by iteratively removing the least valuable remaining cell while accounting for connectivity and generalized complementarity.
@@ -433,6 +437,7 @@ with GNSS (global navigation satellite system).
 * [TernausNetV2](https://github.com/ternaus/TernausNetV2) - TernausNetV2: Fully Convolutional Network for Instance Segmentation.
 * [TorchGeo](https://github.com/microsoft/torchgeo) - TorchGeo is a PyTorch domain library, similar to torchvision, that provides datasets, transforms, samplers, and pre-trained models specific to geospatial data.
 * [TorchSat](https://github.com/sshuair/torchsat) - TorchSat is an open-source PyTorch framework for satellite imagery analysis.
+* [tsl](https://github.com/TorchSpatiotemporal/tsl) - PyTorch library for processing spatiotemporal data. 
 * [WaterNet](https://github.com/treigerm/WaterNet) - A convolutional neural network that identifies water in satellite images.
 * [YOLT](https://github.com/avanetten/yolt) - You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery.
 
@@ -747,12 +752,13 @@ with GNSS (global navigation satellite system).
 * [OpenStreetMaps.jl](https://github.com/tedsteiner/OpenStreetMap.jl) - This package provides basic functionality for parsing, viewing, and working with OpenStreetMap map data.
 * [OpenStreetMapX.jl](https://github.com/pszufe/OpenStreetMapX.jl) - Provides basic functionality for parsing, viewing, and working with OpenStreetMap map data.
 * [OpenStreetMapXPlot.jl](https://github.com/pszufe/OpenStreetMapXPlot.jl) - Plotting functionality for the OpenStreetMapX.jl (Supports PyPlot.jl and Plots.jl with GR backend).
-* [RasterDataSources.jl](https://github.com/EcoJulia/RasterDataSources.jl) - Downloads raster data for local use or for integration into other spatial data packages, like GeoData.jl.
 * [Proj4.jl](https://github.com/JuliaGeo/Proj4.jl) - A simple wrapper around the Proj.4 cartographic projections library.
+* [RasterDataSources.jl](https://github.com/EcoJulia/RasterDataSources.jl) - Downloads raster data for local use or for integration into other spatial data packages, like GeoData.jl.
 * [RasterIO.jl](https://github.com/wkearn/RasterIO.jl) - Simple Raster Formats for Julia.
 * [RegionTrees.jl](https://github.com/rdeits/RegionTrees.jl) - Quadtrees, Octrees, and more in Julia.
 * [Shapefile.jl](https://github.com/JuliaGeo/Shapefile.jl) - Parsing .shp files in Julia.
 * [SpatialIndexing.jl](https://github.com/alyst/SpatialIndexing.jl) - Spatial data indexing in pure Julia (R*-trees etc).
+* [SpectralIndices.jl](https://github.com/awesome-spectral-indices/SpectralIndices.jl) - Julia package for working with spectral indices commonly used in remote sensing and earth observation applications.
 * [STAC.jl](https://github.com/JuliaClimate/STAC.jl) - SpatioTemporal Asset Catalog (STAC) julia client.
 * [Tinker.jl](https://github.com/JuliaImages/Tinker.jl) - Interactive graphical tool for complex image analysis.
 * [Turf.jl](https://github.com/yeesian/Turf.jl) - This library is a port of Turf.js to the Julia programming language for geospatial analysis.
