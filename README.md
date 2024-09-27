@@ -1506,6 +1506,7 @@ for geospatial and tabular data.
 * [Awesome DEM](https://github.com/DahnJ/Awesome-DEM) - Overview of Digital Elevation Model (DEM) datasets.
 * [Awesome Earth Engine Apps](https://github.com/philippgaertner/awesome-earth-engine-apps)
 * [Awesome Forests](https://github.com/blutjens/awesome-forests) - A curated list of ground-truth forest datasets for the machine learning and forestry community.
+* [Awesome Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis) - Geographic Information Systems (GIS) for web browsers. For managing, analyzing, editing, and visualizing geographic data.
 * [Awesome Geo Rust](https://github.com/pka/awesome-georust)
 * [Awesome GIS - sshuair](https://github.com/sshuair/awesome-gis)
 * [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
@@ -1519,7 +1520,7 @@ for geospatial and tabular data.
 * [Awesome SQLite](https://github.com/planetopendata/awesome-sqlite) 
 * [Awesome-EarthObservation-Code](https://github.com/acgeospatial/awesome-earthobservation-code)
 * [Digital Earth Australia notebooks and tools repository](https://github.com/GeoscienceAustralia/dea-notebooks) 
-* [Cartography / mapping / web design resources](https://github.com/tolomaps/resources)
+* [Cartography / Mapping / Web design resources](https://github.com/tolomaps/resources)
 * [Essential Python Geospatial Libraries](http://carsonfarmer.com/2013/07/essential-python-geo-libraries/) 
 * [GeoJSON](https://github.com/tmcw/awesome-geojson)
 * [GeoRails](http://daniel-azuma.com/articles/georails/)
