@@ -1006,6 +1006,7 @@ with GNSS (global navigation satellite system).
 * [AMOEBA](https://cran.r-project.org/web/packages/AMOEBA/index.html) - A function to calculate spatial clusters using the Getis-Ord local statistic. It searches irregular clusters (ecotopes) on a map.
 * [bfastSpatial](https://github.com/loicdtx/bfastSpatial) - Package to pre-process gridded time-series data in order for them to be analyzed with change detection algorithms such as bfast. Uses classes from the raster package and includes utilities to run the algorithms and post-process the results.
 * [biodivMapR](https://github.com/jbferet/biodivMapR) - R package for α- and β-diversity mapping using remotely-sensed images.
+* [bivariatemaps](https://github.com/hidasi/bivariatemaps) - Generates bivariate maps and intersects shapefiles with grids and excludes cells based on area coverage. 
 * [CARBayes](https://cran.r-project.org/web/packages/CARBayes/index.html) - Package implements Bayesian hierarchical spatial areal unit models.
 * [cartography](https://github.com/riatelab/cartography) - Thematic Cartography with R.
 * [censobr](https://github.com/ipeaGIT/censobr) - R package to download data from Brazil's Population Census.
