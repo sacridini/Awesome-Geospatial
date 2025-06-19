@@ -839,6 +839,7 @@ with GNSS (global navigation satellite system).
 * [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
 * [geeup](https://github.com/samapriya/geeup) - Simple CLI for Earth Engine Uploads.
 * [GemGIS](https://github.com/cgre-aachen/gemgis) - Python-based, open-source geographic information processing library.
+* [GeoAI](https://github.com/opengeos/geoai) - GeoAI: Artificial Intelligence for Geospatial Data
 * [geoalchemy](https://github.com/geoalchemy/geoalchemy) - Using SQLAlchemy with spatial databases.
 * [geoapify](https://github.com/huels-originals/geoapify) - CLI and Python client for Geoapify's location services.
 * [geocube](https://github.com/corteva/geocube) - Tool to convert geopandas vector data into rasterized xarray data.
