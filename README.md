@@ -1408,6 +1408,7 @@ for geospatial and tabular data.
 * [Planetiler](https://github.com/onthegomap/planetiler) - Flexible tool to build planet-scale vector tilesets from OpenStreetMap data in a few hours.
 * [Projection  Wizard](http://projectionwizard.org/) - Helps you select an appropriate projection for your map, depending on the area that you are mapping.
 * [sat-search](https://github.com/sat-utils/sat-search) - Sat-search is a Python 3 library and a command line tool for discovering and downloading publicly available satellite imagery using STAC compliant API.
+* [Satellite Optical Sensor Calculator](https://opticalsatellitetools.space/) - A calculator that simplifies complex satellite sensor design by providing approximate calculations for optical parameters.
 * [TileMill](https://tilemill-project.github.io/tilemill/) - TileMill is a modern map design studio powered by Node.js and Mapnik.
 * [veins](https://github.com/sommer/veins) - Open source vehicular network simulation framework.
 * [eodag](https://github.com/CS-SI/eodag) - Command line tool and a plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider.
