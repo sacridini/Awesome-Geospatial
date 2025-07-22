@@ -846,6 +846,7 @@ with GNSS (global navigation satellite system).
 * [GeoDaSpace](https://github.com/GeoDaCenter/GeoDaSpace) - Software for Advanced Spatial Econometrics.
 * [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data.
 * [geofileops](https://github.com/geofileops/geofileops) - Python toolbox to process large vector files faster.
+* [geojson-shave](https://github.com/ben-nour/geojson-shave) - A Python command-line tool to reduce the size of GeoJSON files.
 * [geospatial](https://github.com/giswqs/geospatial) - A collection of Python packages for geospatial analysis and data visualization.
 * [GSTools](https://github.com/GeoStat-Framework/GSTools) - A geostatistical toolbox: random fields, variogram estimation, covariance models, kriging and much more.
 * [trackintel](https://github.com/mie-lab/trackintel) - A GeoPandas extension for tracking data
