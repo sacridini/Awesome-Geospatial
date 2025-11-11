@@ -1278,6 +1278,7 @@ with GNSS (global navigation satellite system).
 * [geographiclib-rs](https://github.com/georust/geographiclib-rs) - A subset of geographiclib implemented in Rust.
 * [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
 * [kdtree-rs](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup.
+* [latlong_bng](https://docs.rs/lonlat_bng/latest/lonlat_bng/index.html) - Provides functions that convert decimal (WGS84 / ETRS89) longitude and latitude coordinates into British National Grid coordinates, and vice versa. This library makes use of the OSTN02 transformations.
 * [maplibre-rs](https://github.com/maplibre/maplibre-rs) - About Native Maps for Web, Mobile and Desktop.
 * [Martin](https://github.com/urbica/martin) - Martin is a PostGIS vector tiles server suitable for large databases. Martin is written in Rust using Actix web framework.
 * [rgeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
