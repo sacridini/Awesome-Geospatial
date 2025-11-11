@@ -1279,28 +1279,29 @@ with GNSS (global navigation satellite system).
 * [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
 * [kdtree-rs](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup.
 * [latlong_bng](https://docs.rs/lonlat_bng/latest/lonlat_bng/index.html) - Provides functions that convert decimal (WGS84 / ETRS89) longitude and latitude coordinates into British National Grid coordinates, and vice versa. This library makes use of the OSTN02 transformations.
+* [gdal](https://github.com/georust/rust-gdal) - Rust bindings for GDAL.
+* [geo](https://github.com/georust/rust-geo) - Geospatial primitives and algorithms for Rust.
+* [geocoding](https://github.com/georust/rust-geocoding) - Geocoding library for Rust.
+* [geohash](https://github.com/georust/rust-geohash) - Geohash for Rust.
+* [geojson](https://github.com/georust/rust-geojson) - Library for serializing the GeoJSON vector GIS file format.
+* [geos](https://github.com/georust/geos) - Rust bindings for GEOS C API.
+* [geozero](https://github.com/georust/geozero) - Zero-Copy reading and writing of geospatial data.
+* [kml](https://github.com/georust/kml) - Rust support for reading and writing KML with a focus on conversion to geo-types primitives.
+* [gpx](https://github.com/georust/rust-gpx) - Rust read/write support for GPS Exchange Format (GPX).
 * [maplibre-rs](https://github.com/maplibre/maplibre-rs) - About Native Maps for Web, Mobile and Desktop.
 * [Martin](https://github.com/urbica/martin) - Martin is a PostGIS vector tiles server suitable for large databases. Martin is written in Rust using Actix web framework.
+* [netcdf](https://github.com/georust/netcdf) - Medium-level netCDF bindings for Rust, allowing easy reading and writing of array-like structures to a file.
+* [osm](https://github.com/georust/rust-osm) - OSM XML serialization and other OpenStreetMap utilities.
+* [polyline](https://github.com/georust/rust-polyline) - Google Encoded Polyline encoding & decoding in Rust.
+* [postal](https://github.com/kodemartin/rustpostal) - Rust bindings to libpostal.
+* [proj](https://github.com/georust/rust-proj) - Rust bindings for Proj.
 * [rgeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
 * [rstar](https://github.com/georust/rstar) - R*-tree library for the rust ecosystem.
-* [rust-gdal](https://github.com/georust/rust-gdal) - Rust bindings for GDAL.
-* [rust-geo](https://github.com/georust/rust-geo) - Geospatial primitives and algorithms for Rust.
-* [rust-geocoding](https://github.com/georust/rust-geocoding) - Geocoding library for Rust.
-* [rust-geohash](https://github.com/georust/rust-geohash) - Geohash for Rust.
-* [rust-geojson](https://github.com/georust/rust-geojson) - Library for serializing the GeoJSON vector GIS file format.
-* [rust-geos](https://github.com/georust/geos) - Rust bindings for GEOS C API.
-* [rust-kml](https://github.com/georust/kml) - Rust support for reading and writing KML with a focus on conversion to geo-types primitives.
-* [rust-gpx](https://github.com/georust/rust-gpx) - Rust read/write support for GPS Exchange Format (GPX).
-* [rust-netcdf](https://github.com/georust/netcdf) - Medium-level netCDF bindings for Rust, allowing easy reading and writing of array-like structures to a file.
-* [rust-osm](https://github.com/georust/rust-osm) - OSM XML serialization and other OpenStreetMap utilities.
-* [rust-polyline](https://github.com/georust/rust-polyline) - Google Encoded Polyline encoding & decoding in Rust.
-* [rust-postal](https://github.com/kodemartin/rustpostal) - Rust bindings to libpostal.
-* [rust-proj](https://github.com/georust/rust-proj) - Rust bindings for Proj.
-* [rust-shapefile](https://github.com/tmontaigu/shapefile-rs) - Rust read/write support for shapefiles.
-* [rust-tilejson](https://github.com/georust/tilejson) - tilejson is a crate for serializing/deserializing the TileJSON format.
-* [rust-topojson](https://github.com/georust/rust-topojson) - TopoJSON bindings and utilities for Rust.
-* [rust-wkt](https://github.com/georust/rust-wkt) - Rust read/write support for well-known text (WKT).
+* [shapefile](https://github.com/tmontaigu/shapefile-rs) - Rust read/write support for shapefiles.
+* [tilejson](https://github.com/georust/tilejson) - tilejson is a crate for serializing/deserializing the TileJSON format.
+* [topojson](https://github.com/georust/rust-topojson) - TopoJSON bindings and utilities for Rust.
 * [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) - An advanced geospatial data analysis platform.
+* [wkt](https://github.com/georust/rust-wkt) - Rust read/write support for well-known text (WKT).
 
 ## Scala
 
