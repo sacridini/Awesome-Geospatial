@@ -334,6 +334,8 @@ with GNSS (global navigation satellite system).
 * [prioriactions](https://github.com/prioriactions/prioriactions) - The prioriactions R package uses a mixed integer mathematical programming (MIP) approach for building and solving multi-action conservation planning problems, where the goal is to find an optimal combination of management actions that abate threats, in an efficient way while accounting for connectivity.
 * [prioritizr](https://github.com/prioritizr/prioritizr) - R package that uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.
 * [Zonation](http://conservationcorridor.org/corridor-toolbox/programs-and-tools/zonation/) - Zonation produces a hierarchical prioritization of the landscape based on the occurrence levels of biodiversity features in sites (cells) by iteratively removing the least valuable remaining cell while accounting for connectivity and generalized complementarity.
+* [VOXENSE](https://github.com/voxensesol) - A decentralized spatial sensing network built on Solana. It converts real-world device signals (GPS, motion, ambient, audio fingerprints) into cryptographically verified Proof-of-Sensing and aggregates them into encrypted geospatial tiles for AI, robotics, and mapping applications.
+
 
 
 ## Libraries
