@@ -502,6 +502,7 @@ with GNSS (global navigation satellite system).
 * [RSGISLib](http://rsgislib.org/) - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using Python bindings or an XML interface.
 * [S2 Geometry](https://github.com/google/s2geometry) - Computational geometry and spatial indexing on the sphere.
 * [Selene](https://github.com/kmhofmann/selene) - A C++14 image representation, processing and I/O library.
+* [SFCGAL](https://www.sfcgal.org/) - a C++ wrapper library around [CGAL](https://www.cgal.org/) with the aim of supporting ISO 19107:2013 and OGC Simple Features Access 1.2 for 3D operations.
 * [Spatial](https://sourceforge.net/projects/spatial/) - Spatial is a generic header-only C++ library providing multi-dimensional in-memory containers, iterators and functionals.
 * [Supercluster](https://github.com/mapbox/supercluster.hpp) - A C++14 port of supercluster, a fast 2D point clustering library for use in interactive maps.
 * [TauDEM](https://github.com/dtarb/TauDEM) - Terrain Analysis Using Digital Elevation Models (TauDEM) software for hydrologic terrain analysis and channel network extraction.
