@@ -831,6 +831,7 @@ with GNSS (global navigation satellite system).
 * [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask.
 * [Descartes](https://pypi.python.org/pypi/descartes) - Plot geometries in matplotlib.
 * [Detectree](https://github.com/martibosch/detectree) - DetecTree is a Pythonic library to classify tree/non-tree pixels from aerial imagery.
+* [dsm2dtm](https://github.com/seedlit/dsm2dtm) - A Python library to convert Digital Surface Models (DSMs) to Digital Terrain Models (DTMs).
 * [EarthPy](https://github.com/earthlab/earthpy) - A package built to support working with spatial data using open source python.
 * [elevation](https://github.com/bopen/elevation) - Python script to download global terrain digital elevation models, SRTM 30m DEM and SRTM 90m DEM.
 * [eo-box](https://github.com/benmack/eo-box) - Earth observation processing framework for machine learning in Python.
