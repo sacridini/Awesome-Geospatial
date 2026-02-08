@@ -1454,7 +1454,7 @@ for geospatial and tabular data.
 * [Sentinel 2 AWS](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/) - Sentinel 2 data on Amazon S3.
 * [TZ Timezone Shapefiles](http://efele.net/maps/tz/world/) - Polygon boundaries of world timezones.
 * [USGS Earth Explorer](http://earthexplorer.usgs.gov/) - Provides online search,metadata export, and data download for earth science data from the archives of the USGS.
-
+* [99 Boundaries](https://99boundaries.com/) - Download or generate maritime and land country boundaries from OpenStreetMap in GeoJSON and other file formats.
 
 ## Resources
 
