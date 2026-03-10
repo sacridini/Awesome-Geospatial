@@ -1189,6 +1189,7 @@ with GNSS (global navigation satellite system).
 * [rworldmap](https://cran.r-project.org/web/packages/rworldmap/index.html) - Mapping Global Data.
 * [s2](https://github.com/spatstat/s2) - R bindings for Google's s2 library for geometry on the sphere.
 * [S2sls](https://cran.r-project.org/web/packages/S2sls/index.html) - Fit a spatial instrumental-variable regression by two-stage least squares.
+* [secciones-nacionalidades](https://github.com/GeiserX/secciones-nacionalidades) - R Shiny app to visualize population by nationality at census section level in Spain using INE data, with interactive Leaflet maps and Highcharter charts.
 * [sf](https://github.com/r-spatial/sf) - Simple Features for R.
 * [sfarrow](https://wcjochem.github.io/sfarrow/index.html) - Package for reading and writing Parquet and Feather files with sf objects using arrow in R.
 * [sfheaders](https://github.com/dcooley/sfheaders) - Build sf objects from R and Rcpp.
