@@ -1396,6 +1396,7 @@ with GNSS (global navigation satellite system).
 ## Tools
 
 * [52North SOS](http://52north.org/communities/sensorweb/sos/) - A reference implementation of the [OGC Sensor Observation Service specification (version 2.0)]
+* [Bounding Box Tool](https://vibhorsingh.com/boundingbox) - Interactive tool for drawing bounding boxes on a map and exporting as WKT, GeoJSON, KML, Overpass API, OGC BBOX, STAC and more. Supports 3,900+ EPSG projections and Uber H3 grid tools.
 * [CODA](http://stcorp.github.io/coda/doc/html/index.html) - The Common Data Access toolbox (CODA) provides a set of tools for ingesting, processing, and analyzing remote sensing data.
 * [DataPillager](https://github.com/gdherbert/DataPillager) - Download data from Esri service.
 * [DroneDB](https://github.com/DroneDB/DroneDB) - Effortless aerial data management and sharing.
