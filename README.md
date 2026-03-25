@@ -170,6 +170,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [azure-maps-services-ui](https://github.com/Azure-Samples/azure-maps-services-ui) - A set of web UI controls that wrap the Azure Maps REST services.
 * [azure-maps-swipe-map](https://github.com/Azure-Samples/azure-maps-swipe-map) - A module for the Azure Maps Web SDK that allows swiping between two overlapping maps, ideal for comparing two overlapping data sets.
 * [azure-maps-sync-maps](https://github.com/Azure-Samples/azure-maps-sync-maps) - An Azure Maps Web SDK module that synchronizes the cameras of two or more maps.
+* [BuoyBoy](https://www.buoyboy.info/) - Web app for visualizing real-time NOAA and CDIP buoy data, including wave height and swell period.
 * [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and make thematic maps for the web.
 * [CesiumJS](https://cesium.com/platform/cesiumjs/) - An open-source JavaScript library for world-class 3D globes and maps.
 * [CMV - The Configurable Map Viewer](https://github.com/cmv/cmv-app) - CMV is a community-supported open source mapping framework. CMV works with the Esri JavaScript API, ArcGIS Server, ArcGIS Online and more.
