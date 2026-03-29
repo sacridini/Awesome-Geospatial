@@ -867,6 +867,7 @@ with GNSS (global navigation satellite system).
 * [networkx](http://networkx.github.io/) - To work with networks.
 * [Shapely](https://pypi.python.org/pypi/Shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
 * [PyKrige](https://github.com/GeoStat-Framework/PyKrige) - Kriging Toolkit for Python.
+* [geoconformal](https://github.com/pengtum/geoconformal) - Model-agnostic uncertainty quantification for geospatial prediction using conformal prediction.
 * [PySAL](https://pysal.org/pysal/api.html) - For all your spatial econometrics needs.
 * [Rasterstats](https://github.com/perrygeo/python-rasterstats/) - Python module for summarizing geospatial raster datasets based on vector geometries.
 * [GeoDjango](https://docs.djangoproject.com/en/2.2/ref/contrib/gis/) - Django geographic web framework.
