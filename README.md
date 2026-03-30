@@ -863,13 +863,7 @@ with GNSS (global navigation satellite system).
 * [geojson-shave](https://github.com/ben-nour/geojson-shave) - A Python command-line tool to reduce the size of GeoJSON files.
 * [geospatial](https://github.com/giswqs/geospatial) - A collection of Python packages for geospatial analysis and data visualization.
 * [GSTools](https://github.com/GeoStat-Framework/GSTools) - A geostatistical toolbox: random fields, variogram estimation, covariance models, kriging and much more.
-* [trackintel](https://github.com/mie-lab/trackintel) - A GeoPandas extension for tracking data
-* [networkx](http://networkx.github.io/) - To work with networks.
-* [Shapely](https://pypi.python.org/pypi/Shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
-* [PyKrige](https://github.com/GeoStat-Framework/PyKrige) - Kriging Toolkit for Python.
 * [geoconformal](https://github.com/pengtum/geoconformal) - Model-agnostic uncertainty quantification for geospatial prediction using conformal prediction.
-* [PySAL](https://pysal.org/pysal/api.html) - For all your spatial econometrics needs.
-* [Rasterstats](https://github.com/perrygeo/python-rasterstats/) - Python module for summarizing geospatial raster datasets based on vector geometries.
 * [GeoDjango](https://docs.djangoproject.com/en/2.2/ref/contrib/gis/) - Django geographic web framework.
 * [geojson-area](https://github.com/scisco/area) - Calculate the area inside of any GeoJSON geometry.
 * [geojson-area](https://github.com/scisco/area) - Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python.
@@ -904,7 +898,7 @@ with GNSS (global navigation satellite system).
 * [mapclassify](https://github.com/pysal/mapclassify) - Classification schemes for choropleth mapping.
 * [momepy](https://github.com/martinfleis/momepy) - Momepy is a library for quantitative analysis of urban form - urban morphometrics.
 * [MovingPandas](https://github.com/anitagraser/movingpandas) - Implementation of Trajectory classes and functions built on top of GeoPandas.
-* [ MuseoToolBox](https://github.com/nkarasiak/MuseoToolBox) - Museo ToolBox is a python library to simplify the use of raster/vector, especially for machine learning and remote sensing.
+* [MuseoToolBox](https://github.com/nkarasiak/MuseoToolBox) - Museo ToolBox is a python library to simplify the use of raster/vector, especially for machine learning and remote sensing.
 * [networkit](https://github.com/networkit/networkit) - NetworKit is a growing open-source toolkit for large-scale network analysis.
 * [networkx](http://networkx.github.io/) - To work with networks.
 * [NodeBox-opengl](http://www.cityinabottle.org/nodebox/) - For playing around with animations.
@@ -934,6 +928,7 @@ with GNSS (global navigation satellite system).
 * [pyGMT](https://github.com/GenericMappingTools/pygmt) - Pythonic interface for the Generic Mapping Tools (GMT).
 * [pyimpute](https://github.com/perrygeo/pyimpute) - Python module for geospatial prediction using scikit-learn and rasterio.
 * [pyinterpolate](https://github.com/DataverseLabs/pyinterpolate) - Ordinary Kriging, Simple Kriging, Indicator Kriging, Poisson Kriging, Area-to-Point Kriging, Semivariogram Deconvolution, and variogram modeling in Python
+* [PyKrige](https://github.com/GeoStat-Framework/PyKrige) - Kriging Toolkit for Python.
 * [pyKriging](https://github.com/capaulson/pyKriging) - N-dimensional kriging.
 * [pyle38](https://github.com/iwpnd/pyle38) - Asynchronous Client for the worlds fastest in-memory geo-database Tile38
 * [pymap3d](https://github.com/scivision/pymap3d) - Python 3D coordinate conversions for geospace ecef enu eci.
@@ -944,6 +939,7 @@ with GNSS (global navigation satellite system).
 * [PyQGIS](http://docs.qgis.org/testing/en/docs/pyqgis_developer_cookbook/) - Python for QGIS.
 * [pyroSAR](https://github.com/johntruckenbrodt/pyroSAR) - A Python Framework for Large-Scale SAR Satellite Data Processing.
 * [pyrosm](https://github.com/HTenkanen/pyrosm) - Read OpenStreetMap data from Protobuf files into GeoDataFrame with Python, faster.
+* [PySAL](https://pysal.org/pysal/api.html) - For all your spatial econometrics needs.
 * [PyShp](https://code.google.com/archive/p/pyshp/) - For reading and writing shapefiles.
 * [PySTAC](https://github.com/stac-utils/pystac) - Python library for working with any SpatioTemporal Asset Catalog (STAC).
 * [Python Geocoder](https://github.com/DenisCarriere/geocoder) - Simple and consistent geocoding library written in Python.
@@ -983,6 +979,7 @@ with GNSS (global navigation satellite system).
 * [telluric](https://github.com/satellogic/telluric) - telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way.
 * [thunder](https://github.com/thunder-project/thunder) - Thunder is an ecosystem of tools for the analysis of image and time series data in Python.
 * [Tobler](https://github.com/pysal/tobler) - Tobler is a python package for areal interpolation, dasymetric mapping, and change of support.
+* [trackintel](https://github.com/mie-lab/trackintel) - A GeoPandas extension for tracking data
 * [ts-raster](https://github.com/adbeda/ts-raster) - ts-raster is a python package for analyzing time-series characteristics from raster data. It allows feature extraction, dimension reduction and applications of machine learning techniques for geospatial data.
 * [Turfpy](https://github.com/omanges/turfpy) - This is Python library for performing geo spatial data analysis. This is an python alternative for turf.js.
 * [unmixing](https://github.com/arthur-e/unmixing) - Interactive tools and functions for performing linear spectral mixture analysis (LSMA) and spatially adaptive spectral mixture analysis (SASMA).
