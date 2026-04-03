@@ -367,7 +367,7 @@ with GNSS (global navigation satellite system).
 * [ArcGIS Online](https://www.arcgis.com/home/) - ArcGIS Online GIS platform for mapping and spatial analysis.
 * [ARLAS](https://www.arlas.io/) - ARLAS Exploration is an Open Source software for exploring and analysing Geo BigData.
 * [Carto](https://carto.com/) - Cloud computing platform that provides GIS and web mapping tools for display in a web browser.
-* [CSV2GEO](https://csv2geo.com) - Batch geocoder using excel/csv file, text or API as an input and get latitude, longitude and an interactive map as output.
+* [CSV2GEO](https://csv2geo.com) - Batch geocoding platform with 461M+ addresses across 200+ countries. 18 API endpoints (forward, reverse, batch, places, divisions, autocomplete), CSV/Excel file upload with AI column detection, and interactive map preview. [API docs](https://csv2geo.com/api/geocoding) | [Python SDK](https://pypi.org/project/csv2geo/) | [Node.js SDK](https://www.npmjs.com/package/csv2geo-sdk)
 * [DataV Atlas](https://datav.aliyun.com/portal/school/atlas/area_generator) - Cloud AI platform for online real-time analysis and visualization of geo bigdata. Powered by Alibaba Cloud with Qwen.
 * [Fulcrum](http://www.fulcrumapp.com/) - A mobile data collection platform that allows you to build, deploy, & collect field data with your own customizable data collection apps.
 * [Geobox](https://en.geobox.ir/) - Geobox is a suite of products that together cover all stages of building an online GIS.
