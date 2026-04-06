@@ -67,6 +67,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
     - [Podcasts](#podcasts)
     - [Conferences](#conferences)
     - [References](#references-and-other-awesome-lists)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for geospatial development workflow orchestration, automated mapping management, and multi-agent coordination. MIT licensed.
 
 - - -
 
