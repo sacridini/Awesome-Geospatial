@@ -76,6 +76,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Atlas4D](https://github.com/crisbez/atlas4d-base) - Open-source 4D spatiotemporal platform with PostGIS, TimescaleDB, pgvector, and H3 hexagonal indexing.
 * [Cloudant](https://cloudant.com/) - IBM noSQL database that supports spatial data (GeoJSON).
 * [DB2 Spatial Extender](http://www-03.ibm.com/software/products/en/db2spaext) - Spatial Extender allows you to store, manage, and analyze spatial data in DB2.
+* [duckdb-raster](https://github.com/ahuarte47/duckdb-raster) - DuckDB Extension for reading and writing raster files using SQL. 
 * [GeoCouch](https://github.com/couchbase/geocouch) - GeoCouch is a spatial extension for Couchbase and Apache CouchDB.
 * [Geopackage](https://www.geopackage.org/) - SQLite spatial extension. More powerful than its older brother Spatialite.
 * [H2GIS](https://github.com/orbisgis/h2gis) - A spatial extension of the H2 database.
