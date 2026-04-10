@@ -1438,7 +1438,7 @@ for geospatial and tabular data.
 * [veins](https://github.com/sommer/veins) - Open source vehicular network simulation framework.
 * [eodag](https://github.com/CS-SI/eodag) - Command line tool and a plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider.
 * [nextgisweb](https://github.com/nextgis/nextgisweb) - Server based application/server-side framework for geodata storage, management and visualization.
-
+* [CoordinateMapper](https://coordinatemapper.com/) - Free browser-based tool for converting between lat/long, UTM, UK Grid References, Easting/Northing, MGRS, DMS and DDM. Includes map preview and CSV/KML/DXF export.
 
 ## Cheat sheets
 
