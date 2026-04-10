@@ -789,6 +789,7 @@ with GNSS (global navigation satellite system).
 
 * [geospatial-messenger](https://github.com/sdeleuze/geospatial-messenger) - Geospatial messenger application written with Spring Boot + Kotlin + PostgreSQL.
 * [Lets-Plot](https://github.com/JetBrains/lets-plot-kotlin/blob/master/docs/geotools.md) - An open-source plotting library. Together with GeoTools it allows you to visualize geospatial data in Jupyter notebooks or a JVM application.
+* [Spatial K](https://github.com/maplibre/spatial-k) - Spatial K - A set of Kotlin Multiplatform Libraries for working with geospatial data 
 
 ## Lisp
 * [cl-ewkb](https://github.com/filonenko-mikhail/cl-ewkb/) - Common Lisp PostGIS EWKB data model and encoder/decoder.
