@@ -1404,9 +1404,11 @@ with GNSS (global navigation satellite system).
 * [52North SOS](http://52north.org/communities/sensorweb/sos/) - A reference implementation of the [OGC Sensor Observation Service specification (version 2.0)]
 * [Bounding Box Tool](https://vibhorsingh.com/boundingbox) - Interactive tool for drawing bounding boxes on a map and exporting as WKT, GeoJSON, KML, Overpass API, OGC BBOX, STAC and more. Supports 3,900+ EPSG projections and Uber H3 grid tools.
 * [CODA](http://stcorp.github.io/coda/doc/html/index.html) - The Common Data Access toolbox (CODA) provides a set of tools for ingesting, processing, and analyzing remote sensing data.
+* [CoordinateMapper](https://coordinatemapper.com/) - Free browser-based tool for converting between lat/long, UTM, UK Grid References, Easting/Northing, MGRS, DMS and DDM. Includes map preview and CSV/KML/DXF export.
 * [DataPillager](https://github.com/gdherbert/DataPillager) - Download data from Esri service.
 * [DroneDB](https://github.com/DroneDB/DroneDB) - Effortless aerial data management and sharing.
 * [DsgTools](https://github.com/dsgoficial/DsgTools) - DSGTools is a QGIS plugin that allow users to create and manipulate Geospatial Data according to Brazilian Law (ET-EDGV 2.1.3 and ET-EDGV 3.0)
+* [eodag](https://github.com/CS-SI/eodag) - Command line tool and a plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider.
 * [exactextract](https://github.com/isciences/exactextract) - Provides a fast and accurate algorithm for summarizing values in the portion of a raster dataset that is covered by a polygon, often referred to as zonal statistics.
 * [fresco](https://github.com/go-spatial/fresco) - Fresco is an open source Mapbox Vector Tile Style editor that allows cartographers to craft stylesheets for use with Mapbox GL maps.
 * [Galileo](https://galileo.gisdata.io/) - Geospatial data discovery and management platform. Search over 1,890+ data sources using advanced filters, spatial search, and previews. Manage your data with collections and downloads to 5 file types.
@@ -1426,6 +1428,7 @@ for geospatial and tabular data.
 * [MapTiler Desktop](https://www.maptiler.com/desktop/) - Software for converting your data into fast zoomable maps. Load your image or geodata and get a tiled map.
 * [Mapus](https://github.com/alyssaxuu/mapus) - Mapus is a tool to explore and annotate collaboratively on a map.
 * [Namazue Console](https://github.com/Hybirdss/namazue-console) - Japan-wide earthquake intelligence console with GMPE intensity computation, real-time P/S wave propagation, PLATEAU 3D Tiles, and infrastructure fragility assessment.
+* [nextgisweb](https://github.com/nextgis/nextgisweb) - Server based application/server-side framework for geodata storage, management and visualization.
 * [Open Location Code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 * [opensarkit](https://github.com/openforis/opensarkit) - Tools for Automatic Preprocessing of SAR Imagery.
 * [Osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - osm2pgsql is a tool for loading OpenStreetMap data into a PostgreSQL.
@@ -1436,9 +1439,8 @@ for geospatial and tabular data.
 * [StoryRoute](https://storyroute.netlify.app) - Free web application that applies large language models to geospatial context to generate immersive, location-aware travel narratives.
 * [TileMill](https://tilemill-project.github.io/tilemill/) - TileMill is a modern map design studio powered by Node.js and Mapnik.
 * [veins](https://github.com/sommer/veins) - Open source vehicular network simulation framework.
-* [eodag](https://github.com/CS-SI/eodag) - Command line tool and a plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider.
-* [nextgisweb](https://github.com/nextgis/nextgisweb) - Server based application/server-side framework for geodata storage, management and visualization.
-* [CoordinateMapper](https://coordinatemapper.com/) - Free browser-based tool for converting between lat/long, UTM, UK Grid References, Easting/Northing, MGRS, DMS and DDM. Includes map preview and CSV/KML/DXF export.
+
+
 
 ## Cheat sheets
 
