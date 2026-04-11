@@ -1290,6 +1290,7 @@ with GNSS (global navigation satellite system).
 ## Rust
 
 * [A/B Street](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+* [auto-sea-way](https://github.com/auto-sea-way/asw) - Open source maritime auto-routing engine that builds a global water-surface routing graph from OSM land polygons using an adaptive H3 hexagonal grid cascade.
 * [geoarrow-rs](https://github.com/kylebarron/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations.
 * [geographiclib-rs](https://github.com/georust/geographiclib-rs) - A subset of geographiclib implemented in Rust.
 * [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
