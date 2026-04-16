@@ -1377,6 +1377,7 @@ with GNSS (global navigation satellite system).
 * [CityEngine-Twitter](https://github.com/urschrei/CityEngine-Twitter) - Visualise Twitter activity using a procedurally-generated 3D city model.
 * [CometTS](https://github.com/CosmiQ/CometTS) - Comet Time Series Toolset for working with a time-series of remote sensing imagery and user defined polygons.
 * [D3.js](https://d3js.org/) - D3.js is a JavaScript library for manipulating documents based on data.
+* [deck.gl-raster](https://github.com/developmentseed/deck.gl-raster) - Client-side, GPU-accelerated Cloud-Optimized GeoTIFF visualization in deck.gl.
 * [Folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
 * [GeoJs](https://github.com/OpenGeoscience/geojs) - High-performance visualization and interactive data exploration of scientific and geospatial location aware datasets.
 * [geoplot](https://github.com/ResidentMario/geoplot) -  High-level Python geospatial plotting library. It's an extension to cartopy and matplotlib which makes mapping easy.
