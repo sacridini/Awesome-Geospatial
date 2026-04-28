@@ -367,6 +367,7 @@ with GNSS (global navigation satellite system).
 
 * [ArcGIS Online](https://www.arcgis.com/home/) - ArcGIS Online GIS platform for mapping and spatial analysis.
 * [ARLAS](https://www.arlas.io/) - ARLAS Exploration is an Open Source software for exploring and analysing Geo BigData.
+* [BC Property Check](https://bcpropertycheck.ca/) - Free parcel intelligence for British Columbia, Canada - zoning, density (Bill 44 SSMUH), riparian setbacks, ALR, BC Hydro corridors, all from open government data.
 * [Carto](https://carto.com/) - Cloud computing platform that provides GIS and web mapping tools for display in a web browser.
 * [CSV2GEO](https://csv2geo.com) - Batch geocoder using excel/csv file, text or API as an input and get latitude, longitude and an interactive map as output.
 * [DataV Atlas](https://datav.aliyun.com/portal/school/atlas/area_generator) - Cloud AI platform for online real-time analysis and visualization of geo bigdata. Powered by Alibaba Cloud with Qwen.
