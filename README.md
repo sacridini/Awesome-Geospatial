@@ -371,6 +371,7 @@ with GNSS (global navigation satellite system).
 * [Carto](https://carto.com/) - Cloud computing platform that provides GIS and web mapping tools for display in a web browser.
 * [CSV2GEO](https://csv2geo.com) - Batch geocoder using excel/csv file, text or API as an input and get latitude, longitude and an interactive map as output.
 * [DataV Atlas](https://datav.aliyun.com/portal/school/atlas/area_generator) - Cloud AI platform for online real-time analysis and visualization of geo bigdata. Powered by Alibaba Cloud with Qwen.
+* [Dekart](https://dekart.xyz) - Open-source alternative to CARTO. SQL to interactive map platform that connects BigQuery, Snowflake, and PostGIS. Self-host or cloud.
 * [Fulcrum](http://www.fulcrumapp.com/) - A mobile data collection platform that allows you to build, deploy, & collect field data with your own customizable data collection apps.
 * [Geobox](https://en.geobox.ir/) - Geobox is a suite of products that together cover all stages of building an online GIS.
 * [Geodocs](https://geodocs.io/) - GIS-powered project management platform for construction and infrastructure projects with support for KML, KMZ, Shapefile, and GeoJSON uploads, PostGIS database, MVT vector tiles, dynamic forms, and Mapbox GL JS visualization.
