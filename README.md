@@ -870,6 +870,7 @@ with GNSS (global navigation satellite system).
 * [geocube](https://github.com/corteva/geocube) - Tool to convert geopandas vector data into rasterized xarray data.
 * [GeoDaSpace](https://github.com/GeoDaCenter/GeoDaSpace) - Software for Advanced Spatial Econometrics.
 * [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data.
+* [GeoSQL](https://github.com/dekart-xyz/geosql) - Claude/Codex skill (Python package) for cost-safe geospatial SQL on BigQuery and Snowflake. Validates results, prunes partitions, renders interactive maps.
 * [geofileops](https://github.com/geofileops/geofileops) - Python toolbox to process large vector files faster.
 * [geojson-shave](https://github.com/ben-nour/geojson-shave) - A Python command-line tool to reduce the size of GeoJSON files.
 * [geospatial](https://github.com/giswqs/geospatial) - A collection of Python packages for geospatial analysis and data visualization.
