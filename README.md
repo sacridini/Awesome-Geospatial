@@ -385,12 +385,12 @@ with GNSS (global navigation satellite system).
 * [Mergin Maps](https://merginmaps.com/) - A mobile data collection open-source platform for field data surveys based on QGIS. Available as service or self-hosted.
 * [MyCarTracks](https://mycartracks.com) - Mainly app-based GPS vehicle tracking and automatic mileage tracking with route history, geofencing, mileage reports, and fleet visibility.
 * [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser.
+* [OnCoord](https://www.oncoord.com) - Geocoding, reverse geocoding, location intelligence, and geospatial APIs for Latin America. Includes population, terrain, nightlight activity, and POI services.
 * [OpenCage Geocoding API](https://geocoder.opencagedata.com/) - An API aggregating multiple open geo datasources (OpenStreetMap and others).
 * [OpenMapTiles](https://openmaptiles.com/) - Vector tiles and map services as service, self-hosted or off-line.
 * [Phantom Tide](https://github.com/tg12/phantomtide) - Real-time geospatial intelligence platform for maritime and airspace monitoring, combining vessel tracking, ADS-B flight activity, official notices, environmental context, and satellite detections in a single live map workflow.
 * [PixelGust](https://pixelgust.com/) - A web-based geospatial analysis platform providing 30m terrain data, climate risk assessment, NDVI time series, and environmental reports for any location. Free tier and API available.
 * [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform aggregating live military flight tracking (ADS-B), AIS vessel monitoring, GPS jamming heatmaps, conflict event overlays, satellite data, and geopolitical risk scores on an interactive 3D globe.
-* [OnCoord](https://www.oncoord.com) - Geocoding, reverse geocoding, location intelligence, and geospatial APIs for Latin America. Includes population, terrain, nightlight activity, and POI services.
 
 
 ## DaaS - Data as a Service
@@ -403,7 +403,6 @@ with GNSS (global navigation satellite system).
 * [Postali](https://postali.app/api) - Free postal codes (zip codes) REST API for Mexico, Colombia, and Spain. ~200k entries from official sources (SEPOMEX, GeoNames). No API key, no signup, no monthly quota.
 * [Warnely](https://warnely.com/developers) - Composite travel-safety scores for 180 countries (FCDO + US State + Global Peace Index + WGI + live incident wire). Free REST API, OpenAPI 3.1 spec, CC BY 4.0. Returns per-country lat/lng centroids alongside score and tier.
 * [Zip-Codes](https://www.zip-codes.com/api/) - REST API for US ZIP and Canadian postal code lookup, address validation, radius search, demographics, and boundaries.
-* [OnCoord](https://www.oncoord.com) - Location intelligence data APIs for Latin America. Returns population density, terrain elevation, VIIRS nightlight activity, and POI density for any coordinate.
 
 
 
