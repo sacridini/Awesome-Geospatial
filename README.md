@@ -844,6 +844,7 @@ with GNSS (global navigation satellite system).
 * [AnaFlow](https://github.com/GeoStat-Framework/AnaFlow) - A python-package containing analytical solutions for the groundwater flow equation.
 * [ArcGIS Python API](https://developers.arcgis.com/python/) - ArcGIS API for Python is a Python library for working with maps and geospatial data, powered by web GIS.
 * [autoRIFT](https://github.com/leiyangleon/autoRIFT) - Python module of a fast and intelligent algorithm for finding the pixel displacement between two images.
+* [Azure Planetary Computer](https://pypi.org/project/azure-planetarycomputer/1.0.0/) - Provides programmatic access to Microsoft Planetary Computer Pro, a geospatial data management service built on Azure's hyperscale infrastructure.
 * [Cartopy](http://scitools.org.uk/cartopy/) - A library providing cartographic tools for python for plotting spatial data.
 * [cdsapi](https://github.com/ecmwf/cdsapi) - Python API to access the Copernicus Climate Data Store (CDS).
 * [cedar-datacube](https://github.com/ceholden/cedar-datacube) - Create Earth engine Datacubes of Analytical Readiness.
