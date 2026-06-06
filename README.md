@@ -402,6 +402,7 @@ with GNSS (global navigation satellite system).
 * [Microsoft Bing Maps](http://www.bing.com/mapspreview) - Microsoft map service.
 * [OpenStreetMap](http://www.openstreetmap.org/) - OpenStreeMap map service.
 * [Postali](https://postali.app/api) - Free postal codes (zip codes) REST API for Mexico, Colombia, and Spain. ~200k entries from official sources (SEPOMEX, GeoNames). No API key, no signup, no monthly quota.
+* [Spraay x402 Gateway](https://docs.spraay.app/#cat-geospatial) - x402 payment gateway with 12 geospatial endpoints for AI agents: geocoding, reverse geocoding, routing, weather, flights, elevation, isochrone, distance matrix, nearby places, and timezone. Pay-per-call in USDC on Base & Solana — no API keys. Providers include Nominatim, OSRM, ORS, OpenWeatherMap, and AeroDataBox.
 * [Warnely](https://warnely.com/developers) - Composite travel-safety scores for 180 countries (FCDO + US State + Global Peace Index + WGI + live incident wire). Free REST API, OpenAPI 3.1 spec, CC BY 4.0. Returns per-country lat/lng centroids alongside score and tier.
 * [Zip-Codes](https://www.zip-codes.com/api/) - REST API for US ZIP and Canadian postal code lookup, address validation, radius search, demographics, and boundaries.
 
