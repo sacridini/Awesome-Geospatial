@@ -1703,7 +1703,7 @@ for geospatial and tabular data.
 * [IndexDatabase](http://www.indexdatabase.de/) - A database for remote sensing indices.
 * [LOLManuscriptMonday](https://github.com/ladiesoflandsat/LOLManuscriptMonday) - Hold the links to the Ladies of Landsat Manuscript Monday series.
 * [Spatialreference.org](http://spatialreference.org/) - Source for coordinate system information.
-* [TileJSON.io](http://tilejson.io/) - tilejson.io is a simple viewer for raster tile sets (Enter tile URL, layer properties, share).\n
+* [TileJSON.io](http://tilejson.io/) - tilejson.io is a simple viewer for raster tile sets (Enter tile URL, layer properties, share).
 ### Icons
 
 * [font-GIS](https://github.com/Viglino/font-gis) - A very very cool icon font set for use with GIS and spatial analysis tools.
@@ -1716,7 +1716,7 @@ for geospatial and tabular data.
 * [Chroma.js Color Palette Helper](https://gka.github.io/palettes/) - Chroma.js-powered tool for mastering multi-hued, multi-stop color scales.
 * [ColorBrewer](https://colorbrewer2.org/) - Colour advice for maps, based on Dr. Cynthia Brewer's research.
 * [Textures.js](https://github.com/riccardoscalco/textures) - JavaScript library for creating SVG patterns, designed for data visualization.
-\n
+
 ## Free and Open Source Books
 
 * [An Introduction to Spatial Data Analysis and Statistics: A Course in R](https://paezha.github.io/spatial-analysis-r/)
