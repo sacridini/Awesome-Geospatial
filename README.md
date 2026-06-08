@@ -1354,35 +1354,162 @@ with GNSS (global navigation satellite system).
 ## Rust
 
 * [A/B Street](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+* [A5](https://a5geo.org/docs/quickstart/rust) - Rust library for the A5 geospatial indexing system, a new alternative to S2 and H3 using irregular, equilateral pentagons.
+* [Airmail](https://github.com/ellenhp/airmail) - Lightweight geocoder in pure Rust.
+* [anime](https://github.com/JosiahParry/anime) - Approximate Network Matching, Integration, and Enrichment.
+* [Arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 * [auto-sea-way](https://github.com/auto-sea-way/asw) - Open source maritime auto-routing engine that builds a global water-surface routing graph from OSM land polygons using an adaptive H3 hexagonal grid cascade.
-* [geoarrow-rs](https://github.com/kylebarron/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations.
-* [geographiclib-rs](https://github.com/georust/geographiclib-rs) - A subset of geographiclib implemented in Rust.
-* [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
-* [kdtree-rs](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup.
-* [latlong_bng](https://docs.rs/lonlat_bng/latest/lonlat_bng/index.html) - Provides functions that convert decimal (WGS84 / ETRS89) longitude and latitude coordinates into British National Grid coordinates, and vice versa. This library makes use of the OSTN02 transformations.
+* [BBOX services](https://github.com/bbox-services/bbox) - Composable spatial services.
+* [Bevy Point Cloud](https://github.com/rlamarche/bevy_pointcloud) - A Bevy plugin to render point clouds.
+* [boostvoronoi](https://github.com/eadf/boostvoronoi.rs) - Segmented Voronoi for Rust.
+* [Cavalier Contours](https://github.com/jbuckmccready/cavalier_contours) - 2D polyline/shape library for offsetting, combining, etc.
+* [CGAR](https://github.com/aseverino/cgar) - Computational Geometry Algorithms for Rust.
+* [cheap-ruler-rs](https://github.com/vipera/cheap-ruler-rs) - Collection of very fast approximations to common geodesic measurements.
+* [coord_transforms](https://github.com/DaveKram/coord_transforms) - Rust crate for performing coordinate transforms.
+* [copc-rs](https://github.com/pka/copc-rs) - Cloud Optimized Point Cloud (COPC) reader and writer.
+* [cosmo](https://codeberg.org/mvexel/cosmo) - Filter & transform OSM PBF data to geoparquet or geojson.
+* [country-boundaries](https://github.com/westnordost/country-boundaries-rust) - A fast offline reverse geocoder: Find the area in which a geo position is located.
+* [cql2-rs](https://github.com/developmentseed/cql2-rs) - Library for parsing the OGC CQL2 filter language.
+* [delaunator-rs](https://github.com/mourner/delaunator-rs) - A very fast static 2D Delaunay triangulation library for Rust.
+* [density mesh](https://github.com/PsichiX/density-mesh) - Image density/height map to mesh generator.
+* [Discord](https://discord.gg/Fp2aape) - GeoRust Discord channel
+* [earclip](https://github.com/Open-S2/earclip) - Triangle mesh designed to be fast, efficient, and sphere capable.
+* [earcut-rs](https://github.com/ciscorn/earcut-rs) - Port of the Earcut polygon triangulation library with performance in mind.
+* [earcutr](https://github.com/frewsxcv/earcutr) - Port of MapBox's earcut triangulation code to Rust language.
+* [etiles](https://github.com/tum-gis/etiles) - A Rust library for processing 3D Tiles data.
+* [Fast Paths](https://github.com/easbar/fast_paths) - Fast shortest path calculations for Rust.
+* [FastGtfs](https://github.com/nicomazz/fastgtfs) - GTFS parsing, navigation, time table creation, and real-time network simulation.
+* [Ferrostar](https://github.com/stadiamaps/ferrostar) - A FOSS navigation SDK built from the ground up for the future.
+* [flat-projection](https://github.com/Turbo87/flat-projection-rs) - Fast geodesic distance approximations via flat surface projection.
+* [FlatGeobuf](https://github.com/flatgeobuf/flatgeobuf) - A performant binary encoding for geographic data based on flatbuffers.
+* [Galileo](https://github.com/Maximkaaa/galileo) - General purpose cross-platform geo-rendering library.
+* [Gauzilla](https://github.com/BladeTransformerLLC/gauzilla) - 3D Gaussian Splatting renderer for WebAssembly with lock-free multithreading.
 * [gdal](https://github.com/georust/rust-gdal) - Rust bindings for GDAL.
 * [geo](https://github.com/georust/rust-geo) - Geospatial primitives and algorithms for Rust.
+* [Geo Engine](https://github.com/geo-engine/geoengine) - Cloud-ready geospatial data processing platform with workflows, raster *and* vector support and OGC-compliant interfaces.
+* [geo-index](https://github.com/kylebarron/geo-index) - Fast, immutable, ABI-stable spatial indexes.
+* [geo-quadkey-rs](https://github.com/masaishi/geo-quadkey-rs) - Rust library for encoding and decoding geographical coordinates to and from QuadKeys.
+* [geo-rasterize](https://github.com/msalib/geo-rasterize/) - A pure-rust 2D rasterizer for geospatial applications.
+* [geoarrow-rs](https://github.com/kylebarron/geoarrow-rs) - GeoArrow in Rust and WebAssembly with vectorized geometry operations.
+* [geocart](https://github.com/HectorMRC/geocart) - A bridge between geographic and cartesian coordinates.
+* [geocentric-rs](https://github.com/ciscorn/geocentric-rs) - Conversion between geodetic (geographic) and geocentric (cartesian) coordinates.
 * [geocoding](https://github.com/georust/rust-geocoding) - Geocoding library for Rust.
+* [geographiclib-rs](https://github.com/georust/geographiclib-rs) - A subset of geographiclib implemented in Rust.
 * [geohash](https://github.com/georust/rust-geohash) - Geohash for Rust.
 * [geojson](https://github.com/georust/rust-geojson) - Library for serializing the GeoJSON vector GIS file format.
+* [geojson-vt-rs](https://github.com/maxammann/geojson-vt-rs) - Crate for slicing GeoJSON into vector tiles on the fly.
+* [geom3d](https://github.com/J-F-Liu/geom3d) - Data structures and algorithms for 3D geometric modeling.
+* [geometry-rs](https://github.com/ringsaturn/geometry-rs) - Partial port of tidwall/geometry (efficient 2D geometry library for Go).
+* [GeoPolars](https://github.com/geopolars/geopolars) - Geospatial extensions for Polars.
+* [georaster](https://github.com/pka/georaster) - Rust library for accessing geospatial raster images (GeoTIFF).
 * [geos](https://github.com/georust/geos) - Rust bindings for GEOS C API.
+* [geoserde](https://github.com/p4ken/geoserde) - Adapter between geographic feature and GIS files.
+* [GeoTIFF](https://github.com/georust/geotiff) - Work with GeoTIFF raster files.
 * [geozero](https://github.com/georust/geozero) - Zero-Copy reading and writing of geospatial data.
-* [kml](https://github.com/georust/kml) - Rust support for reading and writing KML with a focus on conversion to geo-types primitives.
+* [gpkg-rs](https://github.com/cjriley9/gpkg-rs) - A Rust crate for reading and writing GeoPackages.
 * [gpx](https://github.com/georust/rust-gpx) - Rust read/write support for GPS Exchange Format (GPX).
+* [gtfs-structures](https://github.com/rust-transit/gtfs-structure) - Read GTFS files into structs, with smart references.
+* [h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system.
+* [hdf5-rust](https://github.com/aldanor/hdf5-rust) - Thread-safe Rust bindings and high-level wrappers for the HDF5 library API.
+* [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
+* [image-tiff](https://github.com/image-rs/image-tiff) - TIFF decoding and encoding library in pure Rust.
+* [intersect2d](https://github.com/eadf/intersect2d.rs) - Line intersection sweep-line algorithm.
+* [iOverlay](https://github.com/iShape-Rust/iOverlay) - Boolean Operations for 2D Polygons: Supports intersection, union, difference, xor, and self-intersections for all polygon varieties.
+* [iTriangle](https://github.com/iShape-Rust/iTriangle) - A fast, stable, and robust 2d triangulation library.
+* [jord](https://github.com/ofmooseandmen/jord-rs) - Geographical Position Calculations (spherical + ellipsoidal models and local frames).
+* [Karttapullautin](https://github.com/karttapullautin/karttapullautin) - A fast and accurate map generator from classified LiDAR data.
+* [kdbush](https://github.com/pka/rust-kdbush) - A Rust port of kdbush, a fast static spatial index for 2D points.
+* [kdtree](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup
+* [kdtree-rs](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup.
+* [kml](https://github.com/georust/kml) - Rust support for reading and writing KML with a focus on conversion to geo-types primitives.
+* [las-rs](https://github.com/gadomski/las-rs) - Read and write ASPRS las files.
+* [latlong_bng](https://docs.rs/lonlat_bng/latest/lonlat_bng/index.html) - Provides functions that convert decimal (WGS84 / ETRS89) longitude and latitude coordinates into British National Grid coordinates, and vice versa. This library makes use of the OSTN02 transformations.
+* [linesweeper](https://github.com/jneem/linesweeper) - Two-dimensional geometric primitives like boolean operations on sets bounded by Bézier paths.
+* [Louvre](https://github.com/acheul/louvre) - Computational Geometry Library with Rust
+* [map-engine](https://gitlab.com/spadarian/map-engine/) - A rust library to work with tiled geospatial (raster) data.
+* [maplibre-legend](https://github.com/mvt-proj/maplibre-legend) - Maplibre legend generator crate.
 * [maplibre-rs](https://github.com/maplibre/maplibre-rs) - About Native Maps for Web, Mobile and Desktop.
 * [Martin](https://github.com/urbica/martin) - Martin is a PostGIS vector tiles server suitable for large databases. Martin is written in Rust using Actix web framework.
+* [Miniproj](https://git.geomar.de/flemming-staebler/miniproj) - Geographic transformations between different coordinate systems defined by the European Petroleum Survey Group.
+* [MVT Server](https://github.com/mvt-proj/mvt-rs) - Simple and high-speed vector tile server with a built-in web-based admin interface.
+* [N5](https://github.com/aschampion/rust-n5) - N5 "Not HDF5" tensor file system format.
 * [netcdf](https://github.com/georust/netcdf) - Medium-level netCDF bindings for Rust, allowing easy reading and writing of array-like structures to a file.
+* [offset-polygon](https://github.com/anlumo/offset_polygon) - A Rust crate for offsetting (shrinking/expanding) polygons.
+* [OGC API](https://github.com/georust/ogcapi) - OGC API building blocks.
 * [osm](https://github.com/georust/rust-osm) - OSM XML serialization and other OpenStreetMap utilities.
+* [osm-lump-ways](https://github.com/amandasaurus/osm-lump-ways) - Group OSM ways based on topology & shared tags
+* [osm-pbf-parquet](https://github.com/OvertureMaps/osm-pbf-parquet) - Transcode OSM PBF file to parquet files.
+* [osm-renderer](https://github.com/dfyz/osm-renderer) - OpenStreetMap raster tile renderer.
+* [osm-transit-extractor](https://github.com/CanalTP/osm-transit-extractor) - Extract OSM public transport data and write to CSV files.
+* [osm_boundaries_utils_rs](https://github.com/Qwant/osm_boundaries_utils_rs) - Read OpenStretMap relations with type=boundary as valid MultiPolygon.
+* [osm_ch](https://github.com/Stunkymonkey/osm_ch) - OSM-Contraction-Hierarchies.
+* [osmflat](https://github.com/boxdot/osmflat-rs) - OpenStreetMap flatdata format and compiler.
+* [osmpbf](https://github.com/b-r-u/osmpbf) - Library for reading the OpenStreetMap PBF file format.
+* [osmpbfreader-rs](https://github.com/TeXitoi/osmpbfreader-rs) - Read OpenStreetMap PBF files.
+* [osmx](https://github.com/jake-low/osmx-rs) - Rust port of OSMExpress, a fast database file format for OpenStreetMap.
+* [pasture](https://github.com/Mortano/pasture) - A Rust library for working with point cloud data.
+* [Pbfextractor](https://github.com/Lesstat/pbfextractor) - Create graph files out of OSM and SRTM data
+* [pgstac-rs](https://github.com/gadomski/pgstac-rs) - Rust interface for [pgstac](https://github.com/stac-utils/pgstac).
+* [PlanetVectorTile](https://github.com/planet-vector-tile/planet-vector-tile) - A map engine enabling you to have the entire map of the OSM planet on your own computer.
+* [plateau-gis-converter](https://github.com/MIERUNE/plateau-gis-converter) - A GUI and CLI tool for converting PLATEAU's 3D city models (CityGML) of Japan into various geospatial formats, including 3D Tiles, MVT, and GeoPackage.
+* [PMTiles (for Rust)](https://github.com/stadiamaps/pmtiles-rs) - Rust implementation of PMTiles
+* [Polars ST](https://github.com/Oreilles/polars-st) - Spatial extension for Polars DataFrames.
+* [poly2tri-rs](https://github.com/shuoli84/poly2tri-rs) - Calculate CDT (Constrained Delaunay Triangulation) on a polygon.
+* [polygon-offsetting](https://github.com/Akirami/polygon-offsetting) - Offset a polygon (only margin).
+* [Polylabel-rs](https://github.com/urschrei/polylabel-rs) - A Rust implementation of the Polylabel algorithm, with FFI.
 * [polyline](https://github.com/georust/rust-polyline) - Google Encoded Polyline encoding & decoding in Rust.
 * [postal](https://github.com/kodemartin/rustpostal) - Rust bindings to libpostal.
 * [proj](https://github.com/georust/rust-proj) - Rust bindings for Proj.
+* [Proj4rs](https://github.com/3liz/proj4rs) - Rust adaptation of Proj4
+* [Proj4wkt](https://github.com/3liz/proj4wkt-rs) - Parse WKT to Proj strings
+* [Quadbin](https://github.com/atsyplenkov/qbin) - Hierarchical geospatial index tiling, similar to Quadkey.
+* [rasters.rs](https://github.com/AspecScire/rasters.rs) - Raster processing library and tools written in rust.
 * [rgeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
+* [rgis](https://github.com/frewsxcv/rgis) - Performant, cross-platform (web, desktop) GIS app written in Rust
+* [RINEX](https://github.com/georust/rinex) - RINEX analysis & and processing.
+* [Robust](https://github.com/georust/robust) - Robust primitives for computational geometry.
+* [rout3serv](https://github.com/nmandery/rout3serv) - H3-grid based Routing server with GRPC-API and dataframe integration.
+* [RouteE Compass](https://github.com/NREL/routee-compass) - An energy-aware vehicle routing engine.
+* [Routers](https://github.com/routers-org/routers) - Set of routing tools designed for system-agnostic maps.
+* [routrs](https://github.com/routrs/routrs) - Geograph-based shortest distance calculation for Rust.
 * [rstar](https://github.com/georust/rstar) - R*-tree library for the rust ecosystem.
+* [rusqlite-gpkg](https://github.com/yutannihilation/rusqlite-gpkg) - GeoPackage reader/writer built on top of rusqlite.
+* [Rust Geodesy](https://github.com/busstoptaktik/geodesy/) - A geodesy library written in Rust.
+* [rust-geo-booleanop](https://github.com/21re/rust-geo-booleanop) - Rust implementation of the Martinez-Rueda Polygon Clipping Algorithm.
+* [rust_road_router](https://github.com/kit-algo/rust_road_router) - Rust routing framework and toolkit.
+* [rusterize](https://github.com/ttrotto/rusterize) - High performance rasterization tool for python built in Rust.
+* [rustworkx](https://github.com/Qiskit/rustworkx) - A high-performance, general-purpose graph library for Python, written in Rust.
+* [S2](https://github.com/danhhz/s2) - S2 spherical geometry library in Rust.
+* [s2-pmtiles](https://github.com/Open-S2/s2-pmtiles) - Read/Write PMTiles V3.0 as well as S2PMTiles V1.0
+* [Sailor](https://github.com/Yatekii/sailor) - A sailing navigation application.
+* [SedonaDB](https://github.com/apache/sedona-db) - Single-node analytical database engine with geospatial as the first-class citizen.
+* [sguaba](https://github.com/helsing-ai/sguaba) - Types for points and vectors in coordinate spaces and transformations based on rigid body transforms.
 * [shapefile](https://github.com/tmontaigu/shapefile-rs) - Rust read/write support for shapefiles.
+* [shapefile-rs](https://github.com/tmontaigu/shapefile-rs) - Rust library to read & write shapefiles.
+* [sif-rtree](https://github.com/adamreichold/sif-rtree) and [sif-kdtree](https://github.com/adamreichold/sif-kdtree) - R and K-D trees which can be memory-mapped directly from disk.
+* [Skeleton Tracing](https://github.com/LingDong-/skeleton-tracing/tree/master/rs) - A new algorithm for retrieving topological skeleton as a set of polylines from binary images.
+* [Solari](https://github.com/ellenhp/solari) - Multimodal routing in Rust.
+* [spade](https://github.com/Stoeoef/spade) - Delaunay Triangulations for the Rust ecosystem.
+* [spatial-join](https://github.com/msalib/spatial-join) - Perform streaming geospatial-joins on geographic data.
+* [sst](https://github.com/hugoledoux/sst) - streaming startin.
+* [stac-rs](https://github.com/gadomski/stac-rs) - Rust implementation of the SpatioTemporal Asset Catalog (STAC) specification.
+* [startin](https://github.com/hugoledoux/startin) - A Delaunay triangulator for processing TINs.
+* [static-bushes](https://github.com/apendleton/static-bushes) - Port of the Flatbush and KDBush JS libraries to Rust.
+* [t-rex](https://github.com/t-rex-tileserver/t-rex) - Vector tile server specialized on publishing MVT tiles from your own data.
+* [The Roaring Landmask](https://github.com/gauteh/roaring-landmask) - A fast and memory-limited landmask based on GSHHG for determing whether a point on Earth is on land or in the ocean.
+* [tile-grid](https://crates.io/crates/tile-grid) - Library for map tile grid calculations.
 * [tilejson](https://github.com/georust/tilejson) - tilejson is a crate for serializing/deserializing the TileJSON format.
 * [topojson](https://github.com/georust/rust-topojson) - TopoJSON bindings and utilities for Rust.
+* [Transit](https://github.com/georust/transitfeed) - Work with GTFS files.
+* [transit_model](https://github.com/hove-io/transit_model) - Manage, convert and enrich transit data.
+* [tzf-rs](https://github.com/ringsaturn/tzf-rs) - Get timezone via longitude&latitude in Rust in a fast way
+* [utiles](https://github.com/jessekrubin/utiles) - utils & tiles w/ (rs & pyo3).
+* [Vector Tile Builder](https://github.com/ShogoHirasawa/web-vector-tile-maker) - Web application for generating vector tiles in the browser
 * [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) - An advanced geospatial data analysis platform.
 * [wkt](https://github.com/georust/rust-wkt) - Rust read/write support for well-known text (WKT).
+* [World file](https://github.com/georust/world-file) - Work with World-files.
+* [zarrs](https://github.com/LDeakin/zarrs) - A rust library for the Zarr V3 storage format for multidimensional arrays and metadata.
+* [zonebuilder](https://github.com/zonebuilders/zonebuilder-rust) - Build zones for large geographic regions.
 
 ## Scala
 
