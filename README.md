@@ -1603,3 +1603,5 @@ for geospatial and tabular data.
 * [satellite-image-deep-learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 * [Spatial R](https://cran.r-project.org/web/views/Spatial.html)
 * [Vector Tiles](https://github.com/mapbox/awesome-vector-tiles)
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring API for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Free MCP server for agent identity verification in agentic geospatial workflows: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
