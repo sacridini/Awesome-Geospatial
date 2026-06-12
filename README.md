@@ -432,6 +432,7 @@ with GNSS (global navigation satellite system).
 * [Apple Maps](https://mapsconnect.apple.com/) - Apple map service.
 * [Crime Brasil](https://crimebrasil.com.br) - Open-data platform consolidating and geocoding Brazilian crime data. ~3M incidents geocoded to neighborhood level in Rio Grande do Sul, municipality-level for MG and RJ. Free REST API, CC BY 4.0.
 * [Google Maps](https://www.google.com.br/maps) - Google map service.
+* [InfraNode](https://infranode.dev/) - Free REST API for German city infrastructure data (EV chargers, water levels, boundaries, demographics) from 35+ official sources.
 * [Microsoft Bing Maps](http://www.bing.com/mapspreview) - Microsoft map service.
 * [OpenStreetMap](http://www.openstreetmap.org/) - OpenStreeMap map service.
 * [Postali](https://postali.app/api) - Free postal codes (zip codes) REST API for Mexico, Colombia, and Spain. ~200k entries from official sources (SEPOMEX, GeoNames). No API key, no signup, no monthly quota.
