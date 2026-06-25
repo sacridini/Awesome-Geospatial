@@ -81,6 +81,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [DB2 Spatial Extender](http://www-03.ibm.com/software/products/en/db2spaext) - Spatial Extender allows you to store, manage, and analyze spatial data in DB2.
 * [duckdb-raster](https://github.com/ahuarte47/duckdb-raster) - DuckDB Extension for reading and writing raster files using SQL. 
 * [GeoCouch](https://github.com/couchbase/geocouch) - GeoCouch is a spatial extension for Couchbase and Apache CouchDB.
+* [GeoDesk](https://github.com/clarisma/geodesk) - Fast and storage-efficient spatial database engine for OpenStreetMap data
 * [Geopackage](https://www.geopackage.org/) - SQLite spatial extension. More powerful than its older brother Spatialite.
 * [H2GIS](https://github.com/orbisgis/h2gis) - A spatial extension of the H2 database.
 * [Hastings](https://github.com/cloudant-labs/hastings) - GeoSpatial Search for CouchDB 2
@@ -400,13 +401,17 @@ with GNSS (global navigation satellite system).
 * [GISCO data distribution API](https://gisco-services.ec.europa.eu/distribution/v2/) - European Commission data source for administrative regions and boundaries.
 * [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves various vehicle routing problems.
 * [Honeycomb Maps](https://honeycombmaps.com) - Browser-based enterprise map dashboard software, with real-time filtering and metric calculation.
+* [LatLng](https://www.latlng.work/) - OSM-based geocoding, reverse geocoding, places, static maps, and tile APIs.
 * [LYRASENSE](https://lyrasense.com) - Agentic AI platform for satellite data analysis with a notebook environment and Google Earth Engine integration.
 * [MapAtlas](https://mapatlas.eu/) - A mapping REST API providing geocoding, directions, route optimization, matrix, isochrone, MVT vector tiles, map matching, and GeoEnrich services using OpenStreetMap and proprietary data.
-* [Mapbox](https://www.mapbox.com/) - Plataform for web map design and manipulation.
+* [Mapbase](https://mapbase.dev/) - Location registry API that turns coordinates into official locations, custom zones, hierarchy, geometry, and SEO-ready location context. Includes autocomplete, resolve, postcodes, LAU regions, and a TypeScript SDK.
+* [Mapbox](https://www.mapbox.com/) - Platform for web map design and manipulation.
 * [MapTiler Cloud](https://www.maptiler.com/cloud/) - Maps API for web & mobile developers. Customize maps, upload or create own geodata and publish online.
+* [Mercator](https://mercator.blue/) - Gridded earth data (weather, ocean, air quality, elevation) as value-encoded Web Mercator tiles, with an open-source MapLibre SDK for colormapped rasters, wind and current streamlines, arrows and contours.
 * [Mergin Maps](https://merginmaps.com/) - A mobile data collection open-source platform for field data surveys based on QGIS. Available as service or self-hosted.
 * [movebank-api](https://github.com/movebank/movebank-api-doc) - Platform for animal tracking data.
 * [MyCarTracks](https://mycartracks.com) - Mainly app-based GPS vehicle tracking and automatic mileage tracking with route history, geofencing, mileage reports, and fleet visibility.
+* [NetLoc8](https://netloc8.com) - IP geolocation API with city-level precision and SDKs for Next.js, React, and Go. Free tier included.
 * [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser.
 * [OnCoord](https://www.oncoord.com) - Geocoding, reverse geocoding, location intelligence, and geospatial APIs for Latin America. Includes population, terrain, nightlight activity, and POI services.
 * [Open Notify](http://open-notify.org/Open-Notify-API/) - ISS location and number of people in space.
@@ -420,6 +425,7 @@ with GNSS (global navigation satellite system).
 * [PostalCodes](https://postalcodes.info/api) - Global postal code search, country exports, and address validation data.
 * [RainViewer](https://www.rainviewer.com/api.html) - Free weather radar and satellite data API.
 * [REST countries](https://restcountries.com/) - Get country information via a RESTful API.
+* [SafeStreets](https://safestreets.streetsandcommons.com) - Free address-level walkability and pedestrian-safety analysis, scoring any neighborhood on a 15-minute-city framework using OpenStreetMap and public data.
 * [Sunrise and sunset](https://sunrise-sunset.org) - Provides sunset and sunrise times for locations.
 * [TomTom](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction) - Geocoding, routing, traffic, and more.
 * [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Search earthquake data by various parameters.
@@ -433,6 +439,7 @@ with GNSS (global navigation satellite system).
 * [Google Maps](https://www.google.com.br/maps) - Google map service.
 * [Microsoft Bing Maps](http://www.bing.com/mapspreview) - Microsoft map service.
 * [OpenStreetMap](http://www.openstreetmap.org/) - OpenStreeMap map service.
+* [OpenWaterAtlas](https://openwateratlas.com/en/datasets/) - Integrated open dataset joining 2,928 dive/kite/surf/freedive sites with per-spot climate aggregates (Open-Meteo + ERA5), 112,548 OBIS + GBIF marine species observations, and the 34,876-route OpenFlights direct-route airline graph. CSV + Parquet, CC-BY 4.0, DOI 10.5281/zenodo.20668393.
 * [Postali](https://postali.app/api) - Free postal codes (zip codes) REST API for Mexico, Colombia, and Spain. ~200k entries from official sources (SEPOMEX, GeoNames). No API key, no signup, no monthly quota.
 * [Warnely](https://warnely.com/) - Composite travel-safety scores for 180 countries (FCDO + US State + Global Peace Index + WGI + live incident wire). Free REST API, OpenAPI 3.1 spec, CC BY 4.0. Returns per-country lat/lng centroids alongside score and tier.
 * [Zip-Codes](https://www.zip-codes.com/api/) - REST API for US ZIP and Canadian postal code lookup, address validation, radius search, demographics, and boundaries.
@@ -505,6 +512,7 @@ with GNSS (global navigation satellite system).
 
 * [emem](https://github.com/Vortx-AI/emem) - Earth memory MCP server that gives AI agents signed geospatial facts and cite-able receipts for place-based questions.
 * [Microsoft Planetary Computer Pro MCP Tools](https://marketplace.visualstudio.com/items?itemName=ms-planetarycomputer.mpc-pro-mcp-tools) - A Model Context Protocol (MCP) server that enables GitHub Copilot to interact with Microsoft Planetary Computer Pro.
+* [NetLoc8 MCP](https://github.com/netloc8/netloc8-mcp) - Model Context Protocol server giving AI assistants geolocation tools to lookup country, city, region, timezone, coordinates, and ASN.
 
 ## C
 
