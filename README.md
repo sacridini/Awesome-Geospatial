@@ -385,6 +385,7 @@ with GNSS (global navigation satellite system).
 * [API Geo](https://geo.api.gouv.fr/) - Official French geographical data API.
 * [ArcGIS Online](https://www.arcgis.com/home/) - ArcGIS Online GIS platform for mapping and spatial analysis.
 * [ARLAS](https://www.arlas.io/) - ARLAS Exploration is an Open Source software for exploring and analysing Geo BigData.
+* [AssessorSearch](https://assessorsearch.com/) - U.S. property-record and parcel lookup service with assessor data, owner details, tax records, deeds, permits, and county-source links.
 * [BC Property Check](https://bcpropertycheck.ca/) - Free parcel intelligence for British Columbia, Canada - zoning, density (Bill 44 SSMUH), riparian setbacks, ALR, BC Hydro corridors, all from open government data.
 * [bng2latlong](https://www.getthedata.com/bng2latlong) - Converts British National Grid to latitude and longitude.
 * [BreezoMeter](https://docs.breezometer.com/api-documentation/introduction/) - Air Quality, Weather, Pollen, and Environmental data.
