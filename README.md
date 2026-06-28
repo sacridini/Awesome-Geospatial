@@ -438,6 +438,7 @@ with GNSS (global navigation satellite system).
 * [Apple Maps](https://mapsconnect.apple.com/) - Apple map service.
 * [Crime Brasil](https://crimebrasil.com.br) - Open-data platform consolidating and geocoding Brazilian crime data. ~3M incidents geocoded to neighborhood level in Rio Grande do Sul, municipality-level for MG and RJ. Free REST API, CC BY 4.0.
 * [Google Maps](https://www.google.com.br/maps) - Google map service.
+* [Mantle Place](https://mantle.place) - Draw an area on a globe to get elevation, features, and imagery, delivered as multiple file types you own. Free up to 2 km².
 * [Microsoft Bing Maps](http://www.bing.com/mapspreview) - Microsoft map service.
 * [OpenStreetMap](http://www.openstreetmap.org/) - OpenStreeMap map service.
 * [OpenWaterAtlas](https://openwateratlas.com/en/datasets/) - Integrated open dataset joining 2,928 dive/kite/surf/freedive sites with per-spot climate aggregates (Open-Meteo + ERA5), 112,548 OBIS + GBIF marine species observations, and the 34,876-route OpenFlights direct-route airline graph. CSV + Parquet, CC-BY 4.0, DOI 10.5281/zenodo.20668393.
