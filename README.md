@@ -79,7 +79,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Atlas4D](https://github.com/crisbez/atlas4d-base) - Open-source 4D spatiotemporal platform with PostGIS, TimescaleDB, pgvector, and H3 hexagonal indexing.
 * [Cloudant](https://cloudant.com/) - IBM noSQL database that supports spatial data (GeoJSON).
 * [DB2 Spatial Extender](http://www-03.ibm.com/software/products/en/db2spaext) - Spatial Extender allows you to store, manage, and analyze spatial data in DB2.
-* [duckdb-raster](https://github.com/ahuarte47/duckdb-raster) - DuckDB Extension for reading and writing raster files using SQL. 
+* [duckdb-raster](https://github.com/ahuarte47/duckdb-raster) - DuckDB Extension for reading and writing raster files using SQL.
 * [GeoCouch](https://github.com/couchbase/geocouch) - GeoCouch is a spatial extension for Couchbase and Apache CouchDB.
 * [GeoDesk](https://github.com/clarisma/geodesk) - Fast and storage-efficient spatial database engine for OpenStreetMap data
 * [Geopackage](https://www.geopackage.org/) - SQLite spatial extension. More powerful than its older brother Spatialite.
@@ -367,6 +367,7 @@ with GNSS (global navigation satellite system).
 * [PointCloud](https://github.com/pgpointcloud/pointcloud) - A PostgreSQL extension for storing point cloud (LIDAR) data.
 * [Terralib](http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
 * [TerraMA2](https://github.com/TerraMA2/terrama2) - A free and open source computational platform for early warning systems.
+* [PyCanopy](https://github.com/pranav-walimbe) - A high-performance spatial query layer for Polars
 
 
 ## PaaS - Platform as a Service
@@ -857,7 +858,7 @@ with GNSS (global navigation satellite system).
 
 * [geospatial-messenger](https://github.com/sdeleuze/geospatial-messenger) - Geospatial messenger application written with Spring Boot + Kotlin + PostgreSQL.
 * [Lets-Plot](https://github.com/JetBrains/lets-plot-kotlin/blob/master/docs/geotools.md) - An open-source plotting library. Together with GeoTools it allows you to visualize geospatial data in Jupyter notebooks or a JVM application.
-* [Spatial K](https://github.com/maplibre/spatial-k) - Spatial K - A set of Kotlin Multiplatform Libraries for working with geospatial data 
+* [Spatial K](https://github.com/maplibre/spatial-k) - Spatial K - A set of Kotlin Multiplatform Libraries for working with geospatial data
 
 ## Lisp
 * [cl-ewkb](https://github.com/filonenko-mikhail/cl-ewkb/) - Common Lisp PostGIS EWKB data model and encoder/decoder.
@@ -1051,7 +1052,7 @@ with GNSS (global navigation satellite system).
 * [starfm4py](https://github.com/nmileva/starfm4py) - The STARFM fusion model for Python (image fusion).
 * [Statsmodels](http://statsmodels.sourceforge.net/) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
 * [telluric](https://github.com/satellogic/telluric) - telluric is a Python library to manage vector and raster geospatial data in an interactive and easy way.
-* [TerraTiff](https://github.com/Hejarshahabi/TerraTiff) - A lightweight, GDAL-free Python package for reading, writing, resampling, and masking GeoTIFF raster files using Numpy. 
+* [TerraTiff](https://github.com/Hejarshahabi/TerraTiff) - A lightweight, GDAL-free Python package for reading, writing, resampling, and masking GeoTIFF raster files using Numpy.
 * [thunder](https://github.com/thunder-project/thunder) - Thunder is an ecosystem of tools for the analysis of image and time series data in Python.
 * [Tobler](https://github.com/pysal/tobler) - Tobler is a python package for areal interpolation, dasymetric mapping, and change of support.
 * [trackintel](https://github.com/mie-lab/trackintel) - A GeoPandas extension for tracking data
@@ -1103,7 +1104,7 @@ with GNSS (global navigation satellite system).
 * [bfastSpatial](https://github.com/loicdtx/bfastSpatial) - Package to pre-process gridded time-series data in order for them to be analyzed with change detection algorithms such as bfast. Uses classes from the raster package and includes utilities to run the algorithms and post-process the results.
 * [biodivMapR](https://github.com/jbferet/biodivMapR) - R package for α- and β-diversity mapping using remotely-sensed images.
 * [biomod2](https://github.com/biomodhub/biomod2) - Computer platform for ensemble forecasting of species distributions, enabling the treatment of a range of methodological uncertainties in models and the examination of species-environment relationships.
-* [bivariatemaps](https://github.com/hidasi/bivariatemaps) - Generates bivariate maps and intersects shapefiles with grids and excludes cells based on area coverage. 
+* [bivariatemaps](https://github.com/hidasi/bivariatemaps) - Generates bivariate maps and intersects shapefiles with grids and excludes cells based on area coverage.
 * [CARBayes](https://cran.r-project.org/web/packages/CARBayes/index.html) - Package implements Bayesian hierarchical spatial areal unit models.
 * [cartography](https://github.com/riatelab/cartography) - Thematic Cartography with R.
 * [censobr](https://github.com/ipeaGIT/censobr) - R package to download data from Brazil's Population Census.
@@ -1546,7 +1547,7 @@ with GNSS (global navigation satellite system).
 * [Mapbox Android SDK](https://www.mapbox.com/android-sdk/) - An open source toolset for building mapping applications for Android devices.
 * [Mapbox iOS SDK](https://www.mapbox.com/ios-sdk/) - An open source toolset for building mapping applications for iPhone and iPad devices.
 * [mapbox-navigation-android](https://github.com/mapbox/mapbox-navigation-android) - Mapbox Navigation SDK for Android.
-* [MapLibre Compose](https://github.com/maplibre/maplibre-compose) - Add interactive vector tile maps to your Compose app 
+* [MapLibre Compose](https://github.com/maplibre/maplibre-compose) - Add interactive vector tile maps to your Compose app
 * [MapLibre GL Native](https://github.com/maplibre/maplibre-gl-native) - The open-source alternative to Mapbox GL Native. SDKs for iOS, Android and other platforms
 * [MAPS.ME](https://github.com/mapsme/omim) - MAPS.ME — Offline OpenStreetMap maps for iOS and Android.
 * [Nutiteq Maps SDK](https://github.com/nutiteq) - C++ maps library for iOS, Android, Windows Phone and Xamarin with bindings for Java, ObjectiveC and C#.
@@ -1583,7 +1584,7 @@ with GNSS (global navigation satellite system).
 * [Go Cart](https://github.com/Flow-Based-Cartograms/go_cart) - Fast cartogram generator written in C.
 * [Kongsberg Geospatial's TerraLens SDK](https://www.kongsberggeospatial.com/products/terralens) - SDK designed for easy project integration and quick implementation in virtually any development environment. TerraLens provides real-time 2D and 3D mapping with powerful data visualization tools.
 * [Kosmtik](https://github.com/kosmtik/kosmtik) - Very lite but extendable mapping framework to create Mapnik ready maps with OpenStreetMap data (and more).
-* [lonboard](https://github.com/developmentseed/lonboard) - Fast, interactive geospatial data visualization in Jupyter. 
+* [lonboard](https://github.com/developmentseed/lonboard) - Fast, interactive geospatial data visualization in Jupyter.
 * [mapdeck](https://github.com/SymbolixAU/mapdeck) - R interface to Deck.gl and Mapbox.
 * [mplleaflet](https://github.com/jwass/mplleaflet) - Easily convert matplotlib plots from Python into interactive Leaflet web maps.
 * [openFrameworks](http://openframeworks.cc/) - openFrameworks is an open source C++ toolkit for creative coding.
