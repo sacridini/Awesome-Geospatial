@@ -367,7 +367,6 @@ with GNSS (global navigation satellite system).
 * [PointCloud](https://github.com/pgpointcloud/pointcloud) - A PostgreSQL extension for storing point cloud (LIDAR) data.
 * [Terralib](http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
 * [TerraMA2](https://github.com/TerraMA2/terrama2) - A free and open source computational platform for early warning systems.
-* [PyCanopy](https://github.com/pranav-walimbe) - A high-performance spatial query layer for Polars
 
 
 ## PaaS - Platform as a Service
@@ -993,6 +992,7 @@ with GNSS (global navigation satellite system).
 * [planetary-computer](https://pypi.org/project/planetary-computer/) - Python library for interacting with the Microsoft Planetary Computer.
 * [PODPAC](https://podpac.org/) - PODPAC is a python library that builds on the scientific python ecosystem to enable simple, reproducible geospatial analyses that run locally or in the cloud.
 * [prosail](https://github.com/jgomezdans/prosail) - Python bindings for the PROSAIL canopy reflectance model.
+* [PyCanopy](https://github.com/pranav-walimbe) - A high-performance spatial query layer for Polars.
 * [pyCSW](http://pycsw.org/) - Fully implements the OpenGIS Catalogue Service Implementation Specification (Catalogue Service for the Web). Initial development started in 2010 (more formally announced in 2011). The project is certified OGC Compliant, and is an OGC Reference Implementation.
 * [pydeck](https://pydeck.gl) – Python bindings for deck.gl
 * [pydelatin](https://github.com/kylebarron/pydelatin) - Python bindings to `hmm` for fast terrain mesh generation
