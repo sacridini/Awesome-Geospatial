@@ -94,6 +94,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html) - Oracle database spatial extension.
 * [OrientDB](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source Multi-Model NoSQL DBMS with the support of Native Graphs, Documents Full-Text, Reactivity, Geo-Spatial and Object Oriented concepts.
 * [PgRouting](https://pgrouting.org/) - pgRouting extends the PostGIS / PostgreSQL geospatial database to provide geospatial routing functionality.
+* [PointCloud](https://github.com/pgpointcloud/pointcloud) - A PostgreSQL extension for storing point cloud (LIDAR) data.
 * [PostGEESE](https://duckdb.org/2023/04/28/spatial.html) - A spatial extension for DuckDB.
 * [PostGIS Vector Tile Utils](https://github.com/mapbox/postgis-vt-util) - A set of PostgreSQL functions that are useful when creating vector tile sources.
 * [PostGIS](http://postgis.net/) - PostgreSql spatial extension.
@@ -158,6 +159,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [QGIS](http://www.qgis.org/en/site/) - Cross-platform free and open-source desktop geographic information system.
 * [SAGA](http://www.saga-gis.org/en/index.html) - SAGA is the abbreviation for System for Automated Geoscientific Analyses.
 * [Smallworld](https://www.gegridsolutions.com/geospatial/catalog/smallworld_core.htm) - Commercial GIS.
+* [TerraMA2](https://github.com/TerraMA2/terrama2) - A free and open source computational platform for early warning systems.
 * [Terraview](http://www.obt.inpe.br/OBT/assuntos/projetos/terralib-terraview) - GIS application built using the TerraLib  GIS library.
 * [uDig](http://udig.refractions.net/) - A GIS Framework for Eclipse (Java) and also a GIS software.
 
@@ -359,14 +361,16 @@ with GNSS (global navigation satellite system).
 ## Libraries
 
 * [GDAL](http://www.gdal.org/) - Geospatial Data Abstraction Library (GDAL) is a translator library for raster and vector geospatial data formats.
+* [GEOS](https://trac.osgeo.org/geos/) - Geometry Engine - Open Source, a C++ port of the Java Topology Suite (JTS) that provides spatial predicates and functions, serving as the core engine for libraries like Shapely (Python), sf (R), and spatial databases like PostGIS.
 * [GeographicLib](http://geographiclib.sourceforge.net/) - For solving geodesic problems. Implemented in C, C++, Java, Javascript, Fortran, Python and Matlab.
 * [Geolib](http://www.geolib.co.uk/) - GeoLib is a fast, efficient, computational geometry library available in C++, C# and Java.
+* [H3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system, written in C with bindings/ports in Python, JavaScript, Java, R, Rust, Go, Swift, and C#.
 * [Mapnik](http://mapnik.org/) - C++/Python/Node.js library for map rendering.
 * [MDAL](https://github.com/lutraconsulting/MDAL) - Mesh Data Abstraction Library.
-* [pgRouting](http://pgrouting.org/) - Extends the PostGIS / PostgreSQL geospatial database to provide geospatial routing functionality.
-* [PointCloud](https://github.com/pgpointcloud/pointcloud) - A PostgreSQL extension for storing point cloud (LIDAR) data.
+* [PDAL](https://pdal.io/) - Point Data Abstraction Library (PDAL) is a C++ library and command-line utility for translating and manipulating point cloud data formats, similar to GDAL for raster/vector data.
+* [PROJ](https://proj.org/) - Cartographic Projections library for transforming coordinates between different reference systems, with bindings/ports in almost every language (C, C++, Python, R, Java, JavaScript, Rust, Go).
+* [S2 Geometry](https://s2geometry.io/) - Computational geometry and spatial indexing on the sphere, written in C++ with ports/bindings in Go, Java, Python, Rust, and R.
 * [Terralib](http://www.terralib.org/) - TerraLib is a GIS classes and functions open source library.
-* [TerraMA2](https://github.com/TerraMA2/terrama2) - A free and open source computational platform for early warning systems.
 
 
 ## PaaS - Platform as a Service
