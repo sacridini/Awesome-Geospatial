@@ -232,6 +232,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [MapTiler Server](https://www.maptiler.com/server/) - Map server for self-hosting. Publish interactive maps to get map services from your own server or laptop.
 * [Nanocubes](https://github.com/laurolins/nanocube) - An in-memory data structure for spatiotemporal data cubes.
 * [PGRestAPI](https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities. AKA: SpatialServer.
+* [Planisfy](https://github.com/giseity/planisfy) - Open-source geospatial API platform for MapLibre styles, vector tiles, routing, geocoding, API keys, usage tracking, jobs, and map operations.
 * [Terracotta](https://github.com/DHI-GRAS/terracotta) - A light-weight, versatile XYZ tile server. MIT-licensed, pure Python, serving Cloud-Optimized GeoTIFF (COG).
 * [THREDDS](https://github.com/Unidata/thredds) - The THREDDS Data Server (TDS) is a web server that provides metadata and data access for scientific data sets, using OPeNDAP, OGC WCS, HTTP, and other data access protocols.
 * [utilery](https://github.com/tilery/utilery) - Micro vector tile manufacturing from PostGIS.
