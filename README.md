@@ -440,6 +440,7 @@ with GNSS (global navigation satellite system).
 * [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Search earthquake data by various parameters.
 * [what3words](https://developer.what3words.com/public-api) - Converts 3-word addresses to coordinates.
 * [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform aggregating live military flight tracking (ADS-B), AIS vessel monitoring, GPS jamming heatmaps, conflict event overlays, satellite data, and geopolitical risk scores on an interactive 3D globe.
+* [Zornade](https://app.zornade.com) - Italian cadastral parcel intelligence platform aggregating 15+ public data sources (ISPRA hydrogeological risk, OMI real estate prices, ISTAT demographics) into a per-parcel profile covering 85M Italian cadastral parcels, with a free REST API.
 
 ## DaaS - Data as a Service
 
