@@ -1697,6 +1697,7 @@ for geospatial and tabular data.
 * [Natural Earth](http://www.naturalearthdata.com/) - This site offers public domain map data sets that contain both raster and vector data.
 * [Ookla internet speed data](https://github.com/teamookla/ookla-open-data) - Global network performance metrics.
 * [OpenAerialMap](https://openaerialmap.org/) - Open service for accessing licensed imagery.
+* [OpenWaterAtlas](https://openwateratlas.com/en/datasets/) - Open (CC BY 4.0) dataset joining 2,928 dive/kite/surf/freedive sites to 112,548 OBIS + GBIF marine species occurrences within 5 km, per-spot 5-year daily climate aggregates (Open-Meteo + ERA5), and 34,876 OpenFlights direct routes. Versioned Zenodo DOI, mirrored on Kaggle and Hugging Face.
 * [Overture Maps open data](https://overturemaps.org/download/) - Free and open (CDLA Permissive 2.0) global GeoParquet datasets, updated monthly on AWS S3 and Azure.
 * [RoadDetections](https://github.com/microsoft/RoadDetections) - Road detections from Microsoft Maps aerial imagery.
 * [Scale Open Datasets](https://scale.com/open-datasets?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter) - Open Datasets for Autonomous Driving.
