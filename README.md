@@ -431,6 +431,7 @@ with GNSS (global navigation satellite system).
 * [OpenCage Geocoding API](https://geocoder.opencagedata.com/) - An API aggregating multiple open geo datasources (OpenStreetMap and others).
 * [OpenMapTiles](https://openmaptiles.com/) - Vector tiles and map services as service, self-hosted or off-line.
 * [OpenSky API](https://github.com/openskynetwork/opensky-api) - Retrieve live airspace information.
+* [OSRMRoute](https://osrmroute.com) - Hosted routing, distance matrix, isochrones, map-matching and geocoding REST API built on OpenStreetMap/OSRM.
 * [Phantom Tide](https://github.com/tg12/phantomtide) - Real-time geospatial intelligence platform for maritime and airspace monitoring, combining vessel tracking, ADS-B flight activity, official notices, environmental context, and satellite detections in a single live map workflow.
 * [PixelGust](https://pixelgust.com/) - A web-based geospatial analysis platform providing 30m terrain data, climate risk assessment, NDVI time series, and environmental reports for any location. Free tier and API available.
 * [PostalCodes](https://postalcodes.info/api) - Global postal code search, country exports, and address validation data.
