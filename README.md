@@ -448,6 +448,7 @@ with GNSS (global navigation satellite system).
 ## DaaS - Data as a Service
 
 * [Apple Maps](https://mapsconnect.apple.com/) - Apple map service.
+* [AtlasPI](https://atlaspi.it) - Historical geography as a service for AI agents: 1000+ polities with real GeoJSON borders, events, trade routes, succession chains and cited sources, 4500 BCE-2024. Free, no key, Apache-2.0.
 * [Crime Brasil](https://crimebrasil.com.br) - Open-data platform consolidating and geocoding Brazilian crime data. ~3M incidents geocoded to neighborhood level in Rio Grande do Sul, municipality-level for MG and RJ. Free REST API, CC BY 4.0.
 * [Google Maps](https://www.google.com.br/maps) - Google map service.
 * [Mantle Place](https://mantle.place) - Draw an area on a globe to get elevation, features, and imagery, delivered as multiple file types you own. Free up to 2 km².
