@@ -1473,6 +1473,7 @@ with GNSS (global navigation satellite system).
 * [osmx](https://github.com/jake-low/osmx-rs) - Rust port of OSMExpress, a fast database file format for OpenStreetMap.
 * [pasture](https://github.com/Mortano/pasture) - A Rust library for working with point cloud data.
 * [Pbfextractor](https://github.com/Lesstat/pbfextractor) - Create graph files out of OSM and SRTM data
+* [pbfhogg](https://github.com/folknor/pbfhogg) - Fast library and CLI to read, write, and transform OSM PBF files; parallel and pipelined decoding, planet-scale on modest hardware.
 * [pgstac-rs](https://github.com/gadomski/pgstac-rs) - Rust interface for [pgstac](https://github.com/stac-utils/pgstac).
 * [PlanetVectorTile](https://github.com/planet-vector-tile/planet-vector-tile) - A map engine enabling you to have the entire map of the OSM planet on your own computer.
 * [plateau-gis-converter](https://github.com/MIERUNE/plateau-gis-converter) - A GUI and CLI tool for converting PLATEAU's 3D city models (CityGML) of Japan into various geospatial formats, including 3D Tiles, MVT, and GeoPackage.
