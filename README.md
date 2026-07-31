@@ -1700,6 +1700,7 @@ for geospatial and tabular data.
 * [Japan Neighborhoods](https://japanneighborhoods.com) - Free English-language dataset of Tokyo crime statistics covering 5,078 neighborhoods (chōme) across Tokyo 23 wards + Tama area, 7 years (2018-2024, 36,222 records) sourced from Tokyo Metropolitan Police open data. Includes interactive Leaflet crime map, safety grading (A+ to F), and cost-of-living index. CC BY licensed.
 * [MapTiler Data](https://www.maptiler.com/data/) - Ready-to-use geographic data. The very best of open geospatial data, processed and packaged for your next on-prem project. Available as vector/raster tiles and in GIS formats.
 * [Mapzen](https://mapzen.com/metro-extracts) - It provides data in OSM/PBF and Esri shapefile formats for popular cities.
+* [MideaFind Germany DIY Store Locations](https://mideafind.com/marktabdeckung-karte.html) - Open ODbL 1.0 snapshot of 1,314 German DIY store locations derived from OpenStreetMap and Overpass, with direct JSON download, a quality report, and a STAC 1.1 catalog.
 * [NASA Earth Data](https://search.earthdata.nasa.gov/search) - Search, discover, visualize, refine, and access NASA Earth Observation data in your browser with Earthdata Search.
 * [NASA Earth Observations](https://neo.gsfc.nasa.gov/) - Browse and download satellite data imagery.
 * [Natural Earth](http://www.naturalearthdata.com/) - This site offers public domain map data sets that contain both raster and vector data.
