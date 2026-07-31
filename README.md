@@ -409,6 +409,7 @@ with GNSS (global navigation satellite system).
 * [GIS Cloud](https://www.giscloud.com/) - Real-time mapping platform for the entire workflow of your organization.
 * [GISCO data distribution API](https://gisco-services.ec.europa.eu/distribution/v2/) - European Commission data source for administrative regions and boundaries.
 * [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves various vehicle routing problems.
+* [Grundradar](https://grundradar.de/) - Free German land-parcel due-diligence tool: cadastral context, official land values, planning constraints and environmental risks from public data.
 * [Honeycomb Maps](https://honeycombmaps.com) - Browser-based enterprise map dashboard software, with real-time filtering and metric calculation.
 * [Knowground](https://www.knowground.com) - Free, no-signup lookup of per-address US civic and environmental data - FEMA flood zone, ground elevation, NCES public schools, EPA hazard facilities, FCC broadband, and Census/ACS - each value attributed to its federal source and dated.
 * [LatLng](https://www.latlng.work/) - OSM-based geocoding, reverse geocoding, places, static maps, and tile APIs.
