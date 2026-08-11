@@ -1641,6 +1641,7 @@ with GNSS (global navigation satellite system).
 * [gdal-mini](https://github.com/rouault/gdal-mini) - Minimal version of GDAL.
 * [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) - GMT is an open source collection of about 90 command-line tools for manipulating geographic and Cartesian data sets.
 * [GeoGig](http://geogig.org/) - GeoGig is a Distributed Version Control System (DVCS) specially designed to handle geospatial data efficiently.
+* [Geo Hound](https://www.geohound.app/) - Chrome extension that detects the GIS data behind any web map and lets you save it as a live layer to query and analyze in the browser.
 * [gisweep](https://github.com/enisgetmez/gisweep) - GIS vulnerability scanner for ArcGIS REST, OGC (WMS/WFS), and embedded web maps. Audits anonymous write capabilities, exposed admin endpoints, PII fields in feature schemas, and outdated server / client-side libraries; every finding is mapped to KVKK / GDPR articles. Active-mode probes are gated behind explicit opt-in.
 * [GISWATER](https://www.giswater.org/?lang=en) - Open-source software for water cycle management (water supply and urban drainage).
 * [GrADS](http://cola.gmu.edu/grads/) - The Grid Analysis and Display System (GrADS) is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data.
@@ -1661,6 +1662,7 @@ for geospatial and tabular data.
 * [Osm2pgsql](https://github.com/openstreetmap/osm2pgsql) - osm2pgsql is a tool for loading OpenStreetMap data into a PostgreSQL.
 * [Planetiler](https://github.com/onthegomap/planetiler) - Flexible tool to build planet-scale vector tilesets from OpenStreetMap data in a few hours.
 * [Projection  Wizard](http://projectionwizard.org/) - Helps you select an appropriate projection for your map, depending on the area that you are mapping.
+* [Quick Map Tools](https://www.quickmaptools.com/) - Free browser-based GIS toolkit for viewing, converting, and processing geospatial files such as GeoJSON, Shapefile, KML, and GeoTIFF, plus coordinate conversion and open data downloads.
 * [sat-search](https://github.com/sat-utils/sat-search) - Sat-search is a Python 3 library and a command line tool for discovering and downloading publicly available satellite imagery using STAC compliant API.
 * [Satellite Optical Sensor Calculator](https://opticalsatellitetools.space/) - A calculator that simplifies complex satellite sensor design by providing approximate calculations for optical parameters.
 * [StoryRoute](https://storyroute.netlify.app) - Free web application that applies large language models to geospatial context to generate immersive, location-aware travel narratives.
