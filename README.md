@@ -420,6 +420,7 @@ with GNSS (global navigation satellite system).
 * [MapAtlas](https://mapatlas.eu/) - A mapping REST API providing geocoding, directions, route optimization, matrix, isochrone, MVT vector tiles, map matching, and GeoEnrich services using OpenStreetMap and proprietary data.
 * [Mapbase](https://mapbase.dev/) - Location registry API that turns coordinates into official locations, custom zones, hierarchy, geometry, and SEO-ready location context. Includes autocomplete, resolve, postcodes, LAU regions, and a TypeScript SDK.
 * [Mapbox](https://www.mapbox.com/) - Platform for web map design and manipulation.
+* [MapGrid](https://mapgrid.us/) - A web-based mapping platform for exploring, organizing, and sharing geospatial data.
 * [MapTiler Cloud](https://www.maptiler.com/cloud/) - Maps API for web & mobile developers. Customize maps, upload or create own geodata and publish online.
 * [Mercator](https://mercator.blue/) - Gridded earth data (weather, ocean, air quality, elevation) as value-encoded Web Mercator tiles, with an open-source MapLibre SDK for colormapped rasters, wind and current streamlines, arrows and contours.
 * [Mergin Maps](https://merginmaps.com/) - A mobile data collection open-source platform for field data surveys based on QGIS. Available as service or self-hosted.
