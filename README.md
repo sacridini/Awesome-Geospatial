@@ -456,6 +456,7 @@ with GNSS (global navigation satellite system).
 * [Apple Maps](https://mapsconnect.apple.com/) - Apple map service.
 * [AtlasPI](https://atlaspi.it) - Historical geography as a service for AI agents: 1000+ polities with real GeoJSON borders, events, trade routes, succession chains and cited sources, 4500 BCE-2024. Free, no key, Apache-2.0.
 * [Crime Brasil](https://crimebrasil.com.br) - Open-data platform consolidating and geocoding Brazilian crime data. ~3M incidents geocoded to neighborhood level in Rio Grande do Sul, municipality-level for MG and RJ. Free REST API, CC BY 4.0.
+* [GeoRank](https://georank.place/data/cities-tools.json) - Monthly climate normals for 478 world cities with lat/lon: sunshine hours, mean and daytime-high temperature, rainfall, plus a modelled outdoor-comfort index (apparent temperature from temperature, humidity and wind, evaluated half-hourly across daylight) and Numbeo-based cost-of-living fields. Sunshine is SARAH-3 satellite bias-corrected against 219 published station normals, each listed with its source and period. Single JSON file, no key, no signup, CC BY 4.0.
 * [Google Maps](https://www.google.com.br/maps) - Google map service.
 * [Mantle Place](https://mantle.place) - Draw an area on a globe to get elevation, features, and imagery, delivered as multiple file types you own. Free up to 2 km².
 * [Microsoft Bing Maps](http://www.bing.com/mapspreview) - Microsoft map service.
