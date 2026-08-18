@@ -216,6 +216,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [TerriaJS](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data explorers.
 * [titiler](https://github.com/developmentseed/titiler) - A dynamic Web Map tile server.
 * [v-mapbox](https://github.com/geospoc/v-mapbox) - Vue.js wrapper for `mapbox-gl-js`.
+* [VectorAtlas](https://vectoratlas.menelabs.com/) - Free, 80KB SVG world map with one path per country, id-keyed by ISO 3166-1 alpha-2 code, ready for choropleths.
 * [vue-azure-maps](https://github.com/rickyruiz/vue-azure-maps) - Integrate Azure Maps in your Vue application.
 * [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet.
 
