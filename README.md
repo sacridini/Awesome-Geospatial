@@ -657,8 +657,12 @@ with GNSS (global navigation satellite system).
 
 * [distance](https://github.com/pkinney/distance) - Provides a set of distance functions for use in GIS or graphic applications.
 * [geo](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
+* [geocalc](https://github.com/yltsrc/geocalc) - Geographic calculations for Elixir.
 * [Geometry Library](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
-* [GeoPostGIS](https://github.com/bryanjos/geo_postgis) - Postgrex extension for the PostGIS data types.
+* [GeoPostGIS](https://github.com/bryanjos/geo_postgis) - PostgreSQL extension for the PostGIS data types.
+* [Proj](https://github.com/CandyGumdrop/proj) - Elixir coordinate conversion library using OSGeo's PROJ.4.
+* [SRTM](https://github.com/adriankumpf/srtm) - Query locations for elevation data from the NASA Shuttle Radar Topography Mission.
+* [Topo](https://github.com/pkinney/topo) - A Geometry library for Elixir that calculates spatial relationships between two geometries.
 
 ## Fortran
 * [6S](http://6s.ltdri.org/) - Second Simulation of the Satellite Signal in the Solar Spectrum (6S) open source algorithm.
