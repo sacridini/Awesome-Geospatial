@@ -666,6 +666,7 @@ with GNSS (global navigation satellite system).
 
 ## Fortran
 * [6S](http://6s.ltdri.org/) - Second Simulation of the Satellite Signal in the Solar Spectrum (6S) open source algorithm.
+* [FortranGIS](https://github.com/ARPA-SIMC/fortrangis) - A collection of Fortran interfaces to the most common Open Source GIS libraries.
 * [SPECFEM3D_GLOBE](https://github.com/geodynamics/specfem3d_globe) - SPECFEM3D_GLOBE simulates global and regional (continental-scale) seismic wave propagation.
 * [SWAT](https://github.com/WatershedModels/SWAT) - Implementation of SWAT model.
 
