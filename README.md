@@ -637,6 +637,7 @@ with GNSS (global navigation satellite system).
 
 ## Crystal
 
+* [geo](https://github.com/geocrystal/geo) - Geospatial primitives and algorithms for Crystal.
 * [lidar](https://github.com/jblindsay/lidar) - A Crystal language library for reading and writing LiDAR data in LAS format.
 
 ## CSS
