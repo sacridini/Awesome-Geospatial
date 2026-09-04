@@ -1509,6 +1509,7 @@ with GNSS (global navigation satellite system).
 * [proj](https://github.com/georust/rust-proj) - Rust bindings for Proj.
 * [Proj4rs](https://github.com/3liz/proj4rs) - Rust adaptation of Proj4
 * [Proj4wkt](https://github.com/3liz/proj4wkt-rs) - Parse WKT to Proj strings
+* [PurRDF Geo](https://crates.io/crates/purrdf-geo) - Pure-Rust GeoSPARQL 1.1 implementation using exact rational geometry for deterministic topological predicates, with WKT and GeoJSON support.
 * [Quadbin](https://github.com/atsyplenkov/qbin) - Hierarchical geospatial index tiling, similar to Quadkey.
 * [rasters.rs](https://github.com/AspecScire/rasters.rs) - Raster processing library and tools written in rust.
 * [rgeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
