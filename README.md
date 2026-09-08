@@ -398,6 +398,7 @@ with GNSS (global navigation satellite system).
 * [BC Property Check](https://bcpropertycheck.ca/) - Free parcel intelligence for British Columbia, Canada - zoning, density (Bill 44 SSMUH), riparian setbacks, ALR, BC Hydro corridors, all from open government data.
 * [bng2latlong](https://www.getthedata.com/bng2latlong) - Converts British National Grid to latitude and longitude.
 * [BreezoMeter](https://docs.breezometer.com/api-documentation/introduction/) - Air Quality, Weather, Pollen, and Environmental data.
+* [CampRoo](https://camproo.com/) - Free dispersed camping and corridor route navigation web app mapping 9,780+ verified public land sites (BLM, USFS, USACE) across the United States.
 * [Carto](https://carto.com/) - Cloud computing platform that provides GIS and web mapping tools for display in a web browser.
 * [CenaDzialki.pl](https://cenadzialki.pl/) - Polish land-parcel analysis and valuation: price medians from notarial transactions (RCN), zoning plans (MPZP), utilities, flood/mining risk layers and a 3D house-fit check.
 * [Country State City API](https://countrystatecity.in/) - Database of city, state, and country data.
