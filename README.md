@@ -819,10 +819,12 @@ with GNSS (global navigation satellite system).
 * [procedural-gl-js](https://github.com/felixpalmer/procedural-gl-js) - Procedural GL JS is a library for creating 3D map experiences on the web, written in JavaScript and WebGL. It is built on top THREE.js.
 * [proj4js](https://github.com/proj4js/proj4js) - JavaScript library to transform coordinates from one coordinate system to another, including datum transformations.
 * [PureJsImage](https://github.com/a-r-d/PureJsImage) - Zero-dependency TypeScript library for GeoTIFF, COG, GeoZarr, ENVI, and range-backed raster access in browsers and Node.js.
+* [railroute-ts](https://github.com/mayurrawte/railroutes) - Shortest rail route and distance between two points or station codes over OpenStreetMap / FRA rail networks (Europe, India, North America, China, CIS), with gauge, electrification and train-ferry awareness. TypeScript, runs in browser or Node, GeoJSON output.
 * [rbush](https://github.com/mourner/rbush) - A high-performance JavaScript library for 2D spatial indexing.
 * [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
 * [react-map-gl](https://github.com/uber/react-map-gl) - React friendly API wrapper around MapboxGL JS.
 * [reproject](https://github.com/perliedman/reproject) - Change, convert, transform, reproject GeoJSON between different projections/CRS.
+* [searoute-ts](https://github.com/mayurrawte/searoute-ts) - Shortest maritime route between ports (UN/LOCODE) or coordinates on the Eurostat marnet, with canal/strait restrictions, vessel draft, ECA zones and CO₂e estimates. TypeScript, GeoJSON output.
 * [Spatial](https://github.com/troufster/spatial) - A 2d spatial hash module for node.js.
 * [spl.js](https://github.com/jvail/spl.js) - SpatiaLite and friends - sqlite, geos, proj, rttopo - for node (sync API) and browser (async API).
 * [SQLite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
