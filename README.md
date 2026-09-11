@@ -142,8 +142,6 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [ArcGIS Pro](https://pro.arcgis.com/en/pro-app/) - Fully 64-bit version of ArcGIS with new GUI and 2D/3D integration.
 * [ArcGIS](https://www.arcgis.com/features/) - GIS for working with maps and geographic information.
 * [AutoCAD Map 3D](http://www.autodesk.com.br/products/autocad-map-3d/overview) - GIS AutoCAD integration.
-
-* [SM Datum](https://smdatum.com/) - Free browser-based GIS toolkit: format conversion (shapefile/KML/GeoJSON/GeoPackage/DXF), vector analysis, CRS reprojection, raster and hydrology tools, survey calculators. No install or signup.
 * [FME Desktop](https://www.safe.com/fme/fme-desktop/) - FME is an integrated collection of Spatial ETL tools for data transformation and data translation.
 * [GC2](http://www.mapcentia.com/en/product/) - GC2 is an enterprise platform GIS (open source)
 * [GeoDa](http://geodacenter.github.io/) - Spatial data analysis software.
@@ -160,6 +158,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [OpenJUMP](http://openjump.org/) - Open source Java GIS.
 * [QGIS](http://www.qgis.org/en/site/) - Cross-platform free and open-source desktop geographic information system.
 * [SAGA](http://www.saga-gis.org/en/index.html) - SAGA is the abbreviation for System for Automated Geoscientific Analyses.
+* [SM Datum](https://smdatum.com/) - Free browser-based GIS toolkit: format conversion (shapefile/KML/GeoJSON/GeoPackage/DXF), vector analysis, CRS reprojection, raster and hydrology tools, survey calculators. No install or signup.
 * [Smallworld](https://www.gegridsolutions.com/geospatial/catalog/smallworld_core.htm) - Commercial GIS.
 * [TerraMA2](https://github.com/TerraMA2/terrama2) - A free and open source computational platform for early warning systems.
 * [Terraview](http://www.obt.inpe.br/OBT/assuntos/projetos/terralib-terraview) - GIS application built using the TerraLib  GIS library.
