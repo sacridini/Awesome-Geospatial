@@ -160,6 +160,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [OpenJUMP](http://openjump.org/) - Open source Java GIS.
 * [QGIS](http://www.qgis.org/en/site/) - Cross-platform free and open-source desktop geographic information system.
 * [SAGA](http://www.saga-gis.org/en/index.html) - SAGA is the abbreviation for System for Automated Geoscientific Analyses.
+* [SM Datum](https://smdatum.com/) - Free browser-based GIS toolkit: format conversion (shapefile/KML/GeoJSON/GeoPackage/DXF), vector analysis, CRS reprojection, raster and hydrology tools, survey calculators. No install or signup.
 * [Smallworld](https://www.gegridsolutions.com/geospatial/catalog/smallworld_core.htm) - Commercial GIS.
 * [TerraMA2](https://github.com/TerraMA2/terrama2) - A free and open source computational platform for early warning systems.
 * [Terraview](http://www.obt.inpe.br/OBT/assuntos/projetos/terralib-terraview) - GIS application built using the TerraLib  GIS library.
