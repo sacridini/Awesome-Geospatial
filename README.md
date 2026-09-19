@@ -426,6 +426,7 @@ with GNSS (global navigation satellite system).
 * [LYRASENSE](https://lyrasense.com) - Agentic AI platform for satellite data analysis with a notebook environment and Google Earth Engine integration.
 * [MapAtlas](https://mapatlas.eu/) - A mapping REST API providing geocoding, directions, route optimization, matrix, isochrone, MVT vector tiles, map matching, and GeoEnrich services using OpenStreetMap and proprietary data.
 * [Mapbase](https://mapbase.dev/) - Location registry API that turns coordinates into official locations, custom zones, hierarchy, geometry, and SEO-ready location context. Includes autocomplete, resolve, postcodes, LAU regions, and a TypeScript SDK.
+* [MapBees](https://mapbees.com/) - Browser-based neighborhood analysis on an H3 hex grid, with no GIS install: weighted site-selection scoring, Location Quotient, gap analysis, Getis-Ord Gi* hot spots, Shannon/Simpson diversity, bivariate maps, isochrone territories and Huff market share, built on Overture Maps, OpenStreetMap and national census data. Free tier.
 * [Mapbox](https://www.mapbox.com/) - Platform for web map design and manipulation.
 * [MapTiler Cloud](https://www.maptiler.com/cloud/) - Maps API for web & mobile developers. Customize maps, upload or create own geodata and publish online.
 * [Mercator](https://mercator.blue/) - Gridded earth data (weather, ocean, air quality, elevation) as value-encoded Web Mercator tiles, with an open-source MapLibre SDK for colormapped rasters, wind and current streamlines, arrows and contours.
