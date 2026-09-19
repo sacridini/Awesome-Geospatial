@@ -996,6 +996,7 @@ with GNSS (global navigation satellite system).
 * [geosnap](https://github.com/spatialucr/geosnap) - geosnap makes it easier to explore, model, analyze, and visualize the social and spatial dynamics of neighborhoods.
 * [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy) - GSLIB reimplimented in Python
 * [geotiff](https://github.com/Open-Source-Agriculture/geotiff) - A noGDAL tool for reading geotiff files.
+* [geotiff-tile-bind](https://github.com/shaneraphel/geotiff-tile-bind) - register GeoTIFF tiles by geotiff id so two rasters cannot append into one unsigned list.
 * [get_modis](https://github.com/jgomezdans/get_modis) - Downloading MODIS data from the USGS repository.
 * [GIPPY](https://github.com/gipit/gippy) - Geospatial Image Processing for Python.
 * [gpdvega](https://github.com/iliatimofeev/gpdvega) - gpdvega is a bridge between GeoPandas and Altair that allows to seamlessly chart geospatial data.
