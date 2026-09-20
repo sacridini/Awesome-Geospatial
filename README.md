@@ -457,6 +457,8 @@ with GNSS (global navigation satellite system).
 
 
 
+* [Zornade](https://zornade.com) - Italian cadastral, geospatial and real-estate data as a service: geocoding, parcel profiles, risk and solar layers, valuations and administrative lists. Free API key (10,000 requests/hour); MCP server for AI assistants at https://mcp.zornade.com/mcp.
+
 ## Google Earth Engine
 
 * [AREA2](https://area2.readthedocs.io/en/latest/overview.html) - AREA 2 (“area squared” or “area two”), short for Area Estimation & Accuracy Assessment, is a Google Earth Engine application that provides comprehensive support for sampling and estimation in a design-based inference framework.
