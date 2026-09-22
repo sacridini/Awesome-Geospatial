@@ -405,6 +405,7 @@ with GNSS (global navigation satellite system).
 * [CampRoo](https://camproo.com/) - Free dispersed camping and corridor route navigation web app mapping 9,780+ verified public land sites (BLM, USFS, USACE) across the United States.
 * [Carto](https://carto.com/) - Cloud computing platform that provides GIS and web mapping tools for display in a web browser.
 * [CenaDzialki.pl](https://cenadzialki.pl/) - Polish land-parcel analysis and valuation: price medians from notarial transactions (RCN), zoning plans (MPZP), utilities, flood/mining risk layers and a 3D house-fit check.
+* [CoordMap](https://www.coordmap.com/) - Free browser-based geographic toolkit for coordinate lookup, elevation, distance measurement, coordinate conversion, maps, and location data.
 * [Country State City API](https://countrystatecity.in/) - Database of city, state, and country data.
 * [CSV2GEO](https://csv2geo.com) - Batch geocoder using excel/csv file, text or API as an input and get latitude, longitude and an interactive map as output.
 * [DataV Atlas](https://datav.aliyun.com/portal/school/atlas/area_generator) - Cloud AI platform for online real-time analysis and visualization of geo bigdata. Powered by Alibaba Cloud with Qwen.
