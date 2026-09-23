@@ -1690,6 +1690,7 @@ for geospatial and tabular data.
 * [Maparz](https://maparz.com/) - Free online geospatial file converter powered by GDAL. Converts between Shapefile, GeoJSON, KML/KMZ, GeoPackage, GPX, DXF, GML, FlatGeobuf and CSV — 81 conversion pairs, live map preview, no signup or installation required.
 * [MapDraw](https://www.mapdraw.net/) - Free browser-based editor for drawing and editing paths, areas and markers. Supports GeoJSON, GPX, KML and KMZ, with routing, elevation profiles and shareable links.
 * [MapShaper](http://mapshaper.org/) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.
+* [MapsLinkQuest](https://mapslink.quest/) - Free for up to 25 places per list, no account needed. Converts a shared Google Maps list link into GPX, KML, CSV or GeoJSON waypoints, with no Takeout export. Paid tiers raise the limit.
 * [MapTiler Desktop](https://www.maptiler.com/desktop/) - Software for converting your data into fast zoomable maps. Load your image or geodata and get a tiled map.
 * [Mapus](https://github.com/alyssaxuu/mapus) - Mapus is a tool to explore and annotate collaboratively on a map.
 * [Namazue Console](https://github.com/Hybirdss/namazue-console) - Japan-wide earthquake intelligence console with GMPE intensity computation, real-time P/S wave propagation, PLATEAU 3D Tiles, and infrastructure fragility assessment.
