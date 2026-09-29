@@ -1668,6 +1668,7 @@ with GNSS (global navigation satellite system).
 * [CODA](http://stcorp.github.io/coda/doc/html/index.html) - The Common Data Access toolbox (CODA) provides a set of tools for ingesting, processing, and analyzing remote sensing data.
 * [CoordinateMapper](https://coordinatemapper.com/) - Free browser-based tool for converting between lat/long, UTM, UK Grid References, Easting/Northing, MGRS, DMS and DDM. Includes map preview and CSV/KML/DXF export.
 * [DataPillager](https://github.com/gdherbert/DataPillager) - Download data from Esri service.
+* [Driftlog Country Counter](https://driftlog-counter.pages.dev) - Free browser-based tool that counts the countries you have visited from photo GPS (JPEG, HEIC, video) or a Google Maps Timeline / Takeout export, by point-in-polygon against Natural Earth borders in the browser, and shows them on a world map with first and last years. Nothing is uploaded; source on [GitHub](https://github.com/anegogo/driftlog-counter).
 * [DroneDB](https://github.com/DroneDB/DroneDB) - Effortless aerial data management and sharing.
 * [DsgTools](https://github.com/dsgoficial/DsgTools) - DSGTools is a QGIS plugin that allow users to create and manipulate Geospatial Data according to Brazilian Law (ET-EDGV 2.1.3 and ET-EDGV 3.0)
 * [eodag](https://github.com/CS-SI/eodag) - Command line tool and a plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider.
