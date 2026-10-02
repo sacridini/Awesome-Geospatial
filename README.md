@@ -1750,6 +1750,7 @@ for geospatial and tabular data.
 * [INPE CBERS4A and Amazonia1 Database](http://www2.dgi.inpe.br/catalogo/explore) - Download free CBERS 4A and Amazonia 1 images.
 * [INPE Database](http://www.dgi.inpe.br/CDSR/) - Download free satellite data including MODIS, Landsat (1-8), ResourceSat (1-2) and CBERS (2 and 2B) data.
 * [Japan Neighborhoods](https://japanneighborhoods.com) - Free English-language dataset of Tokyo crime statistics covering 5,078 neighborhoods (chōme) across Tokyo 23 wards + Tama area, 7 years (2018-2024, 36,222 records) sourced from Tokyo Metropolitan Police open data. Includes interactive Leaflet crime map, safety grading (A+ to F), and cost-of-living index. CC BY licensed.
+* [Lifemap](https://lifemap.org.uk) - Life expectancy and healthy life expectancy for every UK council from the Office for National Statistics, with confidence intervals and trends. Free CSV and JSON downloads under the Open Government Licence.
 * [MapTiler Data](https://www.maptiler.com/data/) - Ready-to-use geographic data. The very best of open geospatial data, processed and packaged for your next on-prem project. Available as vector/raster tiles and in GIS formats.
 * [Mapzen](https://mapzen.com/metro-extracts) - It provides data in OSM/PBF and Esri shapefile formats for popular cities.
 * [NASA Earth Data](https://search.earthdata.nasa.gov/search) - Search, discover, visualize, refine, and access NASA Earth Observation data in your browser with Earthdata Search.
