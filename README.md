@@ -462,6 +462,7 @@ with GNSS (global navigation satellite system).
 * [Sunrise and sunset](https://sunrise-sunset.org) - Provides sunset and sunrise times for locations.
 * [TomTom](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction) - Geocoding, routing, traffic, and more.
 * [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Search earthquake data by various parameters.
+* [VivaMap](https://vivamap.ch) - Free quality-of-life map scoring every Swiss commune on 9 dimensions (tax, transit, schools, noise, air, sunshine, nature, restaurants, healthcare) and every Dutch municipality on 8, on an H3 hexagon grid; includes a Swiss income-tax explorer for 40 household profiles.
 * [what3words](https://developer.what3words.com/public-api) - Converts 3-word addresses to coordinates.
 * [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform aggregating live military flight tracking (ADS-B), AIS vessel monitoring, GPS jamming heatmaps, conflict event overlays, satellite data, and geopolitical risk scores on an interactive 3D globe.
 * [Zornade](https://app.zornade.com) - Italian cadastral parcel intelligence platform aggregating 15+ public data sources (ISPRA hydrogeological risk, OMI real estate prices, ISTAT demographics) into a per-parcel profile covering 85M Italian cadastral parcels, with a free REST API.
