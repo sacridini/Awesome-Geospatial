@@ -454,9 +454,6 @@ with GNSS (global navigation satellite system).
 * [Seascape](https://openwaters.io/charts/seascape) - Global bathymetry web-map tiles built from 23 global and regional open sources: Terrarium raster DEM and vector depth contours, spot soundings, and drying areas for MapLibre/Mapbox GL, CC BY 4.0.
 * [Warnely](https://warnely.com/) - Composite travel-safety scores for 180 countries (FCDO + US State + Global Peace Index + WGI + live incident wire). Free REST API, OpenAPI 3.1 spec, CC BY 4.0. Returns per-country lat/lng centroids alongside score and tier.
 * [Zip-Codes](https://www.zip-codes.com/api/) - REST API for US ZIP and Canadian postal code lookup, address validation, radius search, demographics, and boundaries.
-
-
-
 * [Zornade](https://zornade.com) - Italian cadastral, geospatial and real-estate data as a service: geocoding, parcel profiles, risk and solar layers, valuations and administrative lists. Free API key (10,000 requests/hour); MCP server for AI assistants at https://mcp.zornade.com/mcp.
 
 ## Google Earth Engine
