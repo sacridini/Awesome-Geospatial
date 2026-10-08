@@ -483,6 +483,7 @@ with GNSS (global navigation satellite system).
 * [Seascape](https://openwaters.io/charts/seascape) - Global bathymetry web-map tiles built from 23 global and regional open sources: Terrarium raster DEM and vector depth contours, spot soundings, and drying areas for MapLibre/Mapbox GL, CC BY 4.0.
 * [thirdtrail](https://thirdtrail.life) - Sun, moon, twilight, clear-sky irradiance and tide APIs for any point on Earth, with elevation as a first-class input (sunrise at 214 m is ~3 min earlier than at sea level). Tides from the FES2022 global atlas, any past or future date. Free tier, OpenAPI 3.1, Python client, MCP server.
 * [Warnely](https://warnely.com/) - Composite travel-safety scores for 180 countries (FCDO + US State + Global Peace Index + WGI + live incident wire). Free REST API, OpenAPI 3.1 spec, CC BY 4.0. Returns per-country lat/lng centroids alongside score and tier.
+* [Yatmo](https://yatmo.com/real-estate-poi-api) - Neighbourhood data for any address in 25 countries (Europe, Canada, Australia, Morocco): nearest schools, shops and public transport with routed travel times on foot, by bike, by car and by public transport (GTFS), isochrones, routes, geocoding and static map images. REST API, OpenAPI 3.1, SDKs for JavaScript, PHP, Python and .NET.
 * [Zip-Codes](https://www.zip-codes.com/api/) - REST API for US ZIP and Canadian postal code lookup, address validation, radius search, demographics, and boundaries.
 * [Zornade](https://zornade.com) - Italian cadastral, geospatial and real-estate data as a service: geocoding, parcel profiles, risk and solar layers, valuations and administrative lists. Free API key (10,000 requests/hour); MCP server for AI assistants at https://mcp.zornade.com/mcp.
 
@@ -562,6 +563,7 @@ with GNSS (global navigation satellite system).
 * [NetLoc8 MCP](https://github.com/netloc8/netloc8-mcp) - Model Context Protocol server giving AI assistants geolocation tools to lookup country, city, region, timezone, coordinates, and ASN.
 * [OSM Edit MCP](https://github.com/skywinder/osm-edit-mcp) - Python MCP server for inspecting OpenStreetMap data and previewing version-checked road-edit proposals from selected local GPX survey segments. Applying changes requires explicit user confirmation of the proposal digest. Alpha.
 * [roadstyle MCP server](https://github.com/Khoshkhah/roadstyle) - Lets an AI agent draw styled, interactive, offline road maps of any place (OpenStreetMap via OSMnx) or road file, and check each map from a PNG preview. `uvx roadstyle-mcp`.
+* [Yatmo MCP](https://github.com/Yatmo/yatmo-mcp) - Remote MCP server that lets AI assistants describe the neighbourhood of an address: nearest schools, shops and public transport with travel times, nearest place by category and accessibility profile, in 25 countries.
 
 ## Agent Skills
 
