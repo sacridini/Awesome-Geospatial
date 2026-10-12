@@ -1663,6 +1663,7 @@ with GNSS (global navigation satellite system).
 * [Processing](https://processing.org/) - Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts.
 * [Skia](https://skia.org/) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 * [Strava](https://github.com/marcusvolz/strava) - Create artistic visualisations with your exercise data.
+* [Then & Now](https://github.com/AtharvaLakhe/then-and-now) - Swipe, flicker or compare side by side between yearly Sentinel-2 cloudless mosaics from 2016 to 2024 for any place on Earth, in the browser with MapLibre ([live](https://atharvalakhe.github.io/then-and-now/)).
 * [three.js](https://threejs.org/) - A javascript 3D library which makes WebGL simpler
 * [tippecanoe](https://github.com/mapbox/tippecanoe) - Build vector tilesets from large collections of GeoJSON features.
 * [xarray_leaflet](https://github.com/davidbrochart/xarray_leaflet) - An xarray extension for tiled map plotting.
