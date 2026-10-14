@@ -146,6 +146,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [AutoCAD Map 3D](http://www.autodesk.com.br/products/autocad-map-3d/overview) - GIS AutoCAD integration.
 * [FME Desktop](https://www.safe.com/fme/fme-desktop/) - FME is an integrated collection of Spatial ETL tools for data transformation and data translation.
 * [GC2](http://www.mapcentia.com/en/product/) - GC2 is an enterprise platform GIS (open source)
+* [GeoD Agent](https://github.com/gaopengbin/geod-agent) - Open-source Windows GIS agent for conversational imagery downloads, local processing and GeoTIFF export, with support for user-configured model providers.
 * [GeoDa](http://geodacenter.github.io/) - Spatial data analysis software.
 * [Geolibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
 * [Geomedia](https://hexagon.com/products/geomedia) - Commercial GIS.
