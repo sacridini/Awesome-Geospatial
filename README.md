@@ -463,6 +463,7 @@ with GNSS (global navigation satellite system).
 * [TomTom](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction) - Geocoding, routing, traffic, and more.
 * [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Search earthquake data by various parameters.
 * [what3words](https://developer.what3words.com/public-api) - Converts 3-word addresses to coordinates.
+* [Watchfloor](https://crisis.notamy.app) - Crisis intelligence on a live map: earthquake shaking maps with building-level damage estimates, public pages for every significant disaster (GDACS Orange/Red) and a daily brief on the world's crises.
 * [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform aggregating live military flight tracking (ADS-B), AIS vessel monitoring, GPS jamming heatmaps, conflict event overlays, satellite data, and geopolitical risk scores on an interactive 3D globe.
 * [Zornade](https://app.zornade.com) - Italian cadastral parcel intelligence platform aggregating 15+ public data sources (ISPRA hydrogeological risk, OMI real estate prices, ISTAT demographics) into a per-parcel profile covering 85M Italian cadastral parcels, with a free REST API.
 
