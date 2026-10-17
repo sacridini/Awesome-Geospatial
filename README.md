@@ -418,6 +418,7 @@ with GNSS (global navigation satellite system).
 * [Dekart](https://dekart.xyz) - Open-source alternative to CARTO. SQL to interactive map platform that connects BigQuery, Snowflake, and PostGIS. Self-host or cloud.
 * [Draw on a Map](https://drawonamap.com/) - Browser-based map annotation and route-planning tool for drawing routes, markers, arrows, and radius circles on OpenStreetMap and sharing them by URL.
 * [Działkopedia](https://dzialkopedia.pl) - Polish land-parcel due-diligence tool: cadastral boundaries (GUGiK), orthophoto, transaction prices (RCN) and municipal zoning plans on an OpenStreetMap-based map.
+* [EUDR Map Studio](https://eudrtools.com/tools/eudr-geolab/map-studio) - Free browser-based tool to inspect and repair supplier plot GeoJSON/KML geometry and export the prepared file. Technical checks do not verify land history, legality, or EUDR compliance.
 * [Fulcrum](http://www.fulcrumapp.com/) - A mobile data collection platform that allows you to build, deploy, & collect field data with your own customizable data collection apps.
 * [Geobox](https://en.geobox.ir/) - Geobox is a suite of products that together cover all stages of building an online GIS.
 * [Geocode.xyz](https://geocode.xyz/) - Reverse geocoding, forward geocoding, and geoparsing API.
