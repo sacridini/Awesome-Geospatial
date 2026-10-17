@@ -182,7 +182,6 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [azure-maps-swipe-map](https://github.com/Azure-Samples/azure-maps-swipe-map) - A module for the Azure Maps Web SDK that allows swiping between two overlapping maps, ideal for comparing two overlapping data sets.
 * [azure-maps-sync-maps](https://github.com/Azure-Samples/azure-maps-sync-maps) - An Azure Maps Web SDK module that synchronizes the cameras of two or more maps.
 * [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and make thematic maps for the web.
-* [BuoyBoy](https://www.buoyboy.info/) - Web app for visualizing real-time NOAA and CDIP buoy data, including wave height and swell period.
 * [CesiumJS](https://cesium.com/platform/cesiumjs/) - An open-source JavaScript library for world-class 3D globes and maps.
 * [CMV - The Configurable Map Viewer](https://github.com/cmv/cmv-app) - CMV is a community-supported open source mapping framework. CMV works with the Esri JavaScript API, ArcGIS Server, ArcGIS Online and more.
 * [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js.
@@ -214,7 +213,6 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [OpenLayers](http://openlayers.org/) - High-performance, feature-packed library for creating interactive maps on the web.
 * [Oskari](https://oskari.org/) - Framework for easily building multipurpose web mapping applications utilizing distributed Spatial Data Infrastructures like INSPIRE.
 * [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive geospatial visualization.
-* [Pumperly](https://github.com/GeiserX/pumperly) - Open-source fuel and EV route planner that finds the cheapest stations along your route using PostGIS spatial queries, MapLibre GL JS, Valhalla routing, and Photon geocoding. Has live prices from 22 countries.
 * [react-azure-maps](https://github.com/WiredSolutions/react-azure-maps) - React Wrapper for azure-maps-control.
 * [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - An SVG mapping component library for React, built on top of d3-geo.
 * [TerriaJS](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data explorers.
@@ -400,41 +398,29 @@ with GNSS (global navigation satellite system).
 ## SaaS - Software as a Service
 
 * [Address API](https://gisco-services.ec.europa.eu/addressapi/docs/) - Pan-European address data with geocoding and reverse-geocoding.
-* [API Geo](https://geo.api.gouv.fr/) - Official French geographical data API.
 * [ArcGIS Online](https://www.arcgis.com/home/) - ArcGIS Online GIS platform for mapping and spatial analysis.
 * [ARLAS](https://www.arlas.io/) - ARLAS Exploration is an Open Source software for exploring and analysing Geo BigData.
-* [AssessorSearch](https://assessorsearch.com/) - U.S. property-record and parcel lookup service with assessor data, owner details, tax records, deeds, permits, and county-source links.
-* [BC Property Check](https://bcpropertycheck.ca/) - Free parcel intelligence for British Columbia, Canada - zoning, density (Bill 44 SSMUH), riparian setbacks, ALR, BC Hydro corridors, all from open government data.
-* [bng2latlong](https://www.getthedata.com/bng2latlong) - Converts British National Grid to latitude and longitude.
 * [BreezoMeter](https://docs.breezometer.com/api-documentation/introduction/) - Air Quality, Weather, Pollen, and Environmental data.
-* [CampRoo](https://camproo.com/) - Free dispersed camping and corridor route navigation web app mapping 9,780+ verified public land sites (BLM, USFS, USACE) across the United States.
 * [Carto](https://carto.com/) - Cloud computing platform that provides GIS and web mapping tools for display in a web browser.
 * [Catastro GPS](https://www.catastrogps.es/) - European cadastral parcel lookup (29 countries plus the Basque and Navarre foral cadastres): reference to GPS, outline, area and land use from official open data, with a free API tier.
-* [CenaDzialki.pl](https://cenadzialki.pl/) - Polish land-parcel analysis and valuation: price medians from notarial transactions (RCN), zoning plans (MPZP), utilities, flood/mining risk layers and a 3D house-fit check.
 * [CoordMap](https://www.coordmap.com/) - Free browser-based geographic toolkit for coordinate lookup, elevation, distance measurement, coordinate conversion, maps, and location data.
 * [Country State City API](https://countrystatecity.in/) - Database of city, state, and country data.
 * [CSV2GEO](https://csv2geo.com) - Batch geocoder using excel/csv file, text or API as an input and get latitude, longitude and an interactive map as output.
-* [DataV Atlas](https://datav.aliyun.com/portal/school/atlas/area_generator) - Cloud AI platform for online real-time analysis and visualization of geo bigdata. Powered by Alibaba Cloud with Qwen.
 * [Dekart](https://dekart.xyz) - Open-source alternative to CARTO. SQL to interactive map platform that connects BigQuery, Snowflake, and PostGIS. Self-host or cloud.
 * [Draw on a Map](https://drawonamap.com/) - Browser-based map annotation and route-planning tool for drawing routes, markers, arrows, and radius circles on OpenStreetMap and sharing them by URL.
-* [Działkopedia](https://dzialkopedia.pl) - Polish land-parcel due-diligence tool: cadastral boundaries (GUGiK), orthophoto, transaction prices (RCN) and municipal zoning plans on an OpenStreetMap-based map.
 * [Fulcrum](http://www.fulcrumapp.com/) - A mobile data collection platform that allows you to build, deploy, & collect field data with your own customizable data collection apps.
-* [Geobox](https://en.geobox.ir/) - Geobox is a suite of products that together cover all stages of building an online GIS.
 * [Geocode.xyz](https://geocode.xyz/) - Reverse geocoding, forward geocoding, and geoparsing API.
 * [Geodocs](https://geodocs.io/) - GIS-powered project management platform for construction and infrastructure projects with support for KML, KMZ, Shapefile, and GeoJSON uploads, PostGIS database, MVT vector tiles, dynamic forms, and Mapbox GL JS visualization.
 * [GOAT](https://www.plan4better.de/en/goat/) - Open-source WebGIS for spatial analysis in the browser: built-in catalogue of 30,000+ datasets, accessibility analysis (isochrones, public transport quality classes), no-code workflows, dashboards and real-time collaboration. Cloud or self-hosted.
 * [GIS Cloud](https://www.giscloud.com/) - Real-time mapping platform for the entire workflow of your organization.
 * [GISCO data distribution API](https://gisco-services.ec.europa.eu/distribution/v2/) - European Commission data source for administrative regions and boundaries.
 * [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves various vehicle routing problems.
-* [Grundradar](https://grundradar.de/) - Free German land-parcel due-diligence tool: cadastral context, official land values, planning constraints and environmental risks from public data.
 * [Honeycomb Maps](https://honeycombmaps.com) - Browser-based enterprise map dashboard software, with real-time filtering and metric calculation.
 * [InstaMaps](https://get-instamaps.com) - Location formulas for Google Sheets: geocoding, routing (100-stop Google Maps links), territories and live shareable maps from spreadsheet data.
 * [IPGeolocation.io](https://ipgeolocation.io/) - IP geolocation API bundling timezone and currency data in the same response.
-* [Knowground](https://www.knowground.com) - Free, no-signup lookup of per-address US civic and environmental data - FEMA flood zone, ground elevation, NCES public schools, EPA hazard facilities, FCC broadband, and Census/ACS - each value attributed to its federal source and dated.
 * [LatLng](https://www.latlng.work/) - OSM-based geocoding, reverse geocoding, places, static maps, and tile APIs.
 * [LYRASENSE](https://lyrasense.com) - Agentic AI platform for satellite data analysis with a notebook environment and Google Earth Engine integration.
 * [MapAtlas](https://mapatlas.eu/) - A mapping REST API providing geocoding, directions, route optimization, matrix, isochrone, MVT vector tiles, map matching, and GeoEnrich services using OpenStreetMap and proprietary data.
-* [Mapbase](https://mapbase.dev/) - Location registry API that turns coordinates into official locations, custom zones, hierarchy, geometry, and SEO-ready location context. Includes autocomplete, resolve, postcodes, LAU regions, and a TypeScript SDK.
 * [MapBees](https://mapbees.com/) - Browser-based neighborhood analysis on an H3 hex grid, with no GIS install: weighted site-selection scoring, Location Quotient, gap analysis, Getis-Ord Gi* hot spots, Shannon/Simpson diversity, bivariate maps, isochrone territories and Huff market share, built on Overture Maps, OpenStreetMap and national census data. Free tier.
 * [Mapbox](https://www.mapbox.com/) - Platform for web map design and manipulation.
 * [MapsLinkQuest](https://mapslink.quest/) - Free for up to 25 places per list, no account needed. Converts a shared Google Maps list link into GPX, KML, CSV or GeoJSON waypoints, with no Takeout export. Paid tiers raise the limit.
@@ -446,9 +432,7 @@ with GNSS (global navigation satellite system).
 * [NetLoc8](https://netloc8.com) - IP geolocation API with city-level precision and SDKs for Next.js, React, and Go. Free tier included.
 * [NMEA Checksum Calculator](https://beomanro.com/tools/net/nmea-checksum/) - Browser-based NMEA 0183 and AIS sentence checksum validator and calculator with batch processing and XOR step visualization.
 * [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser.
-* [OnCoord](https://www.oncoord.com) - Geocoding, reverse geocoding, location intelligence, and geospatial APIs for Latin America. Includes population, terrain, nightlight activity, and POI services.
 * [Open Notify](http://open-notify.org/Open-Notify-API/) - ISS location and number of people in space.
-* [Open Postcode Geo API](https://www.getthedata.com/open-postcode-geo-api) - British postcodes with geospatial data.
 * [Open-Meteo](https://open-meteo.com/) - Global weather forecast API.
 * [OpenCage Geocoding API](https://geocoder.opencagedata.com/) - An API aggregating multiple open geo datasources (OpenStreetMap and others).
 * [OpenMapTiles](https://openmaptiles.com/) - Vector tiles and map services as service, self-hosted or off-line.
@@ -467,13 +451,11 @@ with GNSS (global navigation satellite system).
 * [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Search earthquake data by various parameters.
 * [what3words](https://developer.what3words.com/public-api) - Converts 3-word addresses to coordinates.
 * [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform aggregating live military flight tracking (ADS-B), AIS vessel monitoring, GPS jamming heatmaps, conflict event overlays, satellite data, and geopolitical risk scores on an interactive 3D globe.
-* [Zornade](https://app.zornade.com) - Italian cadastral parcel intelligence platform aggregating 15+ public data sources (ISPRA hydrogeological risk, OMI real estate prices, ISTAT demographics) into a per-parcel profile covering 85M Italian cadastral parcels, with a free REST API.
 
 ## DaaS - Data as a Service
 
 * [Apple Maps](https://mapsconnect.apple.com/) - Apple map service.
 * [AtlasPI](https://atlaspi.it) - Historical geography as a service for AI agents: 1000+ polities with real GeoJSON borders, events, trade routes, succession chains and cited sources, 4500 BCE-2024. Free, no key, Apache-2.0.
-* [Crime Brasil](https://crimebrasil.com.br) - Open-data platform consolidating and geocoding Brazilian crime data. ~3M incidents geocoded to neighborhood level in Rio Grande do Sul, municipality-level for MG and RJ. Free REST API, CC BY 4.0.
 * [GeoRank](https://georank.place) - Monthly sunshine, temperature, rainfall and outdoor-comfort hours for 478 world cities with coordinates. Single JSON file, no key, CC BY 4.0, archived at [Zenodo](https://doi.org/10.5281/zenodo.21976372).
 * [Google Maps](https://www.google.com.br/maps) - Google map service.
 * [Mantle Place](https://mantle.place) - Draw an area on a globe to get elevation, features, and imagery, delivered as multiple file types you own. Free up to 2 km².
@@ -481,13 +463,10 @@ with GNSS (global navigation satellite system).
 * [OpenStreetMap](http://www.openstreetmap.org/) - OpenStreeMap map service.
 * [OpenWaterAtlas](https://openwateratlas.com/en/datasets/) - Integrated open dataset joining 2,928 dive/kite/surf/freedive sites with per-spot climate aggregates (Open-Meteo + ERA5), 112,548 OBIS + GBIF marine species observations, and the 34,876-route OpenFlights direct-route airline graph. CSV + Parquet, CC-BY 4.0, DOI 10.5281/zenodo.20668393.
 * [Pera Portal](https://portal.geopera.com) - Satellite imagery platform with a free tier: unlimited Sentinel-2 browsing with 45+ spectral indices computed in-browser. Commercial archive search and tasking across 100+ satellites (30 cm to 2 m), per-km² price shown before ordering, public STAC 1.0.0 API.
-* [Postali](https://postali.app/api) - Free postal codes (zip codes) REST API for Mexico, Colombia, and Spain. ~200k entries from official sources (SEPOMEX, GeoNames). No API key, no signup, no monthly quota.
 * [Seamap](https://openwaters.io/charts/seamap) - Nautical chart web-map tiles rendered weekly from OpenStreetMap seamark data: buoys and beacons with IALA colours and topmarks, lights with sector arcs and characteristics, rocks, wrecks, traffic separation schemes, and depth shading from Seascape. Vector tiles and a MapLibre GL style, CC BY 4.0.
 * [Seascape](https://openwaters.io/charts/seascape) - Global bathymetry web-map tiles built from 23 global and regional open sources: Terrarium raster DEM and vector depth contours, spot soundings, and drying areas for MapLibre/Mapbox GL, CC BY 4.0.
 * [thirdtrail](https://thirdtrail.life) - Sun, moon, twilight, clear-sky irradiance and tide APIs for any point on Earth, with elevation as a first-class input (sunrise at 214 m is ~3 min earlier than at sea level). Tides from the FES2022 global atlas, any past or future date. Free tier, OpenAPI 3.1, Python client, MCP server.
 * [Warnely](https://warnely.com/) - Composite travel-safety scores for 180 countries (FCDO + US State + Global Peace Index + WGI + live incident wire). Free REST API, OpenAPI 3.1 spec, CC BY 4.0. Returns per-country lat/lng centroids alongside score and tier.
-* [Zip-Codes](https://www.zip-codes.com/api/) - REST API for US ZIP and Canadian postal code lookup, address validation, radius search, demographics, and boundaries.
-* [Zornade](https://zornade.com) - Italian cadastral, geospatial and real-estate data as a service: geocoding, parcel profiles, risk and solar layers, valuations and administrative lists. Free API key (10,000 requests/hour); MCP server for AI assistants at https://mcp.zornade.com/mcp.
 
 ## Google Earth Engine
 
@@ -557,9 +536,7 @@ with GNSS (global navigation satellite system).
 
 ## MCP Servers
 
-* [bhoonidhi-mcp](https://github.com/geovicco-dev/bhoonidhi-mcp) - Model Context Protocol server for ISRO's Bhoonidhi Earth-observation portal, over the bhoonidhi-downloader SDK. Lets an AI agent search the archive in natural language, resolve place names and satellite tokens, report each scene's availability, and (with a login) save queries, download open-access scenes, and stage scenes to the cart.
 * [CARTO for Agents](https://docs.carto.com/carto-for-agents?utm_source=awesome-geospatial&utm_medium=listing&utm_campaign=mcp-marketplace-listings) - Official remote MCP server for CARTO, the Agentic GIS platform. Query governed warehouse data, run spatial analysis, create or edit maps and workflows, and render interactive maps in the conversation; every tool call runs inside your own data warehouse (BigQuery, Snowflake, Databricks, Redshift, or PostgreSQL).
-* [CoworkingView MCP](https://coworkingview.com/en/mcp) - Remote MCP server (no authentication) for finding coworking spaces and private offices in Germany, Spain, the UK, the Netherlands and the UAE by radius or bounding box around a point, with addresses, operators' published prices and per-city market rates.
 * [emem](https://github.com/Vortx-AI/emem) - Earth memory MCP server that gives AI agents signed geospatial facts and cite-able receipts for place-based questions.
 * [League of Spin](https://leagueofspin.com/api/mcp) - Remote MCP server for finding 27,000+ outdoor ping-pong tables worldwide, built on OpenStreetMap data, with spot details and live playing conditions.
 * [Microsoft Planetary Computer Pro MCP Tools](https://marketplace.visualstudio.com/items?itemName=ms-planetarycomputer.mpc-pro-mcp-tools) - A Model Context Protocol (MCP) server that enables GitHub Copilot to interact with Microsoft Planetary Computer Pro.
@@ -567,8 +544,6 @@ with GNSS (global navigation satellite system).
 * [OSM Edit MCP](https://github.com/skywinder/osm-edit-mcp) - Python MCP server for inspecting OpenStreetMap data and previewing version-checked road-edit proposals from selected local GPX survey segments. Applying changes requires explicit user confirmation of the proposal digest. Alpha.
 * [roadstyle MCP server](https://github.com/Khoshkhah/roadstyle) - Lets an AI agent draw styled, interactive, offline road maps of any place (OpenStreetMap via OSMnx) or road file, and check each map from a PNG preview. `uvx roadstyle-mcp`.
 * [ShowMeOnMap MCP](https://showmeonmap.com/developers) - Remote MCP server (OAuth or API key) that turns a plain-English question into a rendered, shareable map from live, cited public data, with spatial-analysis tools; also on npm as @showmeonmap/mcp.
-
-* [TerraLab MCP](https://terra-lab.ai/mcp) - Remote MCP server for open map data, GIS file conversion, coordinates, elevation and French parcels, with source and licence information.
 
 ## Agent Skills
 
@@ -1686,7 +1661,6 @@ with GNSS (global navigation satellite system).
 * [DataPillager](https://github.com/gdherbert/DataPillager) - Download data from Esri service.
 * [Driftlog Country Counter](https://driftlog-counter.pages.dev) - Free browser-based tool that counts the countries you have visited from photo GPS (JPEG, HEIC, video) or a Google Maps Timeline / Takeout export, by point-in-polygon against Natural Earth borders in the browser, and shows them on a world map with first and last years. Nothing is uploaded; source on [GitHub](https://github.com/anegogo/driftlog-counter).
 * [DroneDB](https://github.com/DroneDB/DroneDB) - Effortless aerial data management and sharing.
-* [DsgTools](https://github.com/dsgoficial/DsgTools) - DSGTools is a QGIS plugin that allow users to create and manipulate Geospatial Data according to Brazilian Law (ET-EDGV 2.1.3 and ET-EDGV 3.0)
 * [duck soup](https://github.com/henrik716/duck-soup) - Open-source, config-driven spatial ETL as an alternative to FME workspaces. Describe sources, spatial/attribute joins, geoprocessing (buffer, clip, overlay, dissolve) and attribute mapping in YAML or a web editor; runs on DuckDB spatial and outputs GeoPackage or GeoParquet.
 * [eodag](https://github.com/CS-SI/eodag) - Command line tool and a plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider.
 * [exactextract](https://github.com/isciences/exactextract) - Provides a fast and accurate algorithm for summarizing values in the portion of a raster dataset that is covered by a polygon, often referred to as zonal statistics.
@@ -1710,7 +1684,6 @@ for geospatial and tabular data.
 * [MapShaper](http://mapshaper.org/) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.
 * [MapTiler Desktop](https://www.maptiler.com/desktop/) - Software for converting your data into fast zoomable maps. Load your image or geodata and get a tiled map.
 * [Mapus](https://github.com/alyssaxuu/mapus) - Mapus is a tool to explore and annotate collaboratively on a map.
-* [Namazue Console](https://github.com/Hybirdss/namazue-console) - Japan-wide earthquake intelligence console with GMPE intensity computation, real-time P/S wave propagation, PLATEAU 3D Tiles, and infrastructure fragility assessment.
 * [nextgisweb](https://github.com/nextgis/nextgisweb) - Server based application/server-side framework for geodata storage, management and visualization.
 * [Open Location Code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 * [opensarkit](https://github.com/openforis/opensarkit) - Tools for Automatic Preprocessing of SAR Imagery.
