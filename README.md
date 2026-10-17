@@ -409,6 +409,7 @@ with GNSS (global navigation satellite system).
 * [BreezoMeter](https://docs.breezometer.com/api-documentation/introduction/) - Air Quality, Weather, Pollen, and Environmental data.
 * [CampRoo](https://camproo.com/) - Free dispersed camping and corridor route navigation web app mapping 9,780+ verified public land sites (BLM, USFS, USACE) across the United States.
 * [Carto](https://carto.com/) - Cloud computing platform that provides GIS and web mapping tools for display in a web browser.
+* [Catastro GPS](https://www.catastrogps.es/) - European cadastral parcel lookup (29 countries plus the Basque and Navarre foral cadastres): reference to GPS, outline, area and land use from official open data, with a free API tier.
 * [CenaDzialki.pl](https://cenadzialki.pl/) - Polish land-parcel analysis and valuation: price medians from notarial transactions (RCN), zoning plans (MPZP), utilities, flood/mining risk layers and a 3D house-fit check.
 * [CoordMap](https://www.coordmap.com/) - Free browser-based geographic toolkit for coordinate lookup, elevation, distance measurement, coordinate conversion, maps, and location data.
 * [Country State City API](https://countrystatecity.in/) - Database of city, state, and country data.
