@@ -1697,7 +1697,7 @@ for geospatial and tabular data.
 * [StoryRoute](https://storyroute.netlify.app) - Free web application that applies large language models to geospatial context to generate immersive, location-aware travel narratives.
 * [TileMill](https://tilemill-project.github.io/tilemill/) - TileMill is a modern map design studio powered by Node.js and Mapnik.
 * [veins](https://github.com/sommer/veins) - Open source vehicular network simulation framework.
-
+* [WEPANET](https://github.com/KIOS-Research/WEPANET) - An open-source, web-based tool for modeling and simulating water distribution networks using EPANET and EPANET-MSX.
 
 
 ## Cheat sheets
