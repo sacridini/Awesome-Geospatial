@@ -443,6 +443,7 @@ with GNSS (global navigation satellite system).
 * [PixelGust](https://pixelgust.com/) - A web-based geospatial analysis platform providing 30m terrain data, climate risk assessment, NDVI time series, and environmental reports for any location. Free tier and API available.
 * [PostalCodes](https://postalcodes.info/api) - Global postal code search, country exports, and address validation data.
 * [RainViewer](https://www.rainviewer.com/api.html) - Free weather radar and satellite data API.
+* [Rastradar](https://rastradar.com/) - Free search and map of over 2,400 rest areas on German motorways, filterable by brand, fuel card, amenities and EV charging.
 * [REST countries](https://restcountries.com/) - Get country information via a RESTful API.
 * [SafeStreets](https://safestreets.streetsandcommons.com) - Free address-level walkability and pedestrian-safety analysis, scoring any neighborhood on a 15-minute-city framework using OpenStreetMap and public data.
 * [ShowMeOnMap](https://showmeonmap.com) - Natural-language questions to cited interactive maps; live hazard layers, embeds, MCP/WebMCP agent tools.
