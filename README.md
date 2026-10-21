@@ -435,6 +435,7 @@ with GNSS (global navigation satellite system).
 * [Open Notify](http://open-notify.org/Open-Notify-API/) - ISS location and number of people in space.
 * [Open-Meteo](https://open-meteo.com/) - Global weather forecast API.
 * [OpenCage Geocoding API](https://geocoder.opencagedata.com/) - An API aggregating multiple open geo datasources (OpenStreetMap and others).
+* [OpenGeocoding](https://opengeocoding.com/) - Hosted geocoding API on open data (OpenStreetMap, Overture Maps, OpenAddresses): address search, autocomplete and reverse geocoding.
 * [OpenMapTiles](https://openmaptiles.com/) - Vector tiles and map services as service, self-hosted or off-line.
 * [OpenSky API](https://github.com/openskynetwork/opensky-api) - Retrieve live airspace information.
 * [OSM2CDR](https://osm2cdr.com/) - Web service that exports OpenStreetMap data for a drawn area or admin boundary into 62+ vector, CAD, GIS and 3D formats (CDR, DWG, DXF, SVG, Shapefile, GeoJSON, STL, PMTiles), keeping map layers editable.
@@ -541,6 +542,7 @@ with GNSS (global navigation satellite system).
 * [League of Spin](https://leagueofspin.com/api/mcp) - Remote MCP server for finding 27,000+ outdoor ping-pong tables worldwide, built on OpenStreetMap data, with spot details and live playing conditions.
 * [Microsoft Planetary Computer Pro MCP Tools](https://marketplace.visualstudio.com/items?itemName=ms-planetarycomputer.mpc-pro-mcp-tools) - A Model Context Protocol (MCP) server that enables GitHub Copilot to interact with Microsoft Planetary Computer Pro.
 * [NetLoc8 MCP](https://github.com/netloc8/netloc8-mcp) - Model Context Protocol server giving AI assistants geolocation tools to lookup country, city, region, timezone, coordinates, and ASN.
+* [OpenGeocoding MCP](https://opengeocoding.com/docs/mcp) - Remote MCP server with OAuth sign-in that lets AI agents geocode addresses, reverse geocode coordinates and autocomplete places on open data.
 * [OSM Edit MCP](https://github.com/skywinder/osm-edit-mcp) - Python MCP server for inspecting OpenStreetMap data and previewing version-checked road-edit proposals from selected local GPX survey segments. Applying changes requires explicit user confirmation of the proposal digest. Alpha.
 * [roadstyle MCP server](https://github.com/Khoshkhah/roadstyle) - Lets an AI agent draw styled, interactive, offline road maps of any place (OpenStreetMap via OSMnx) or road file, and check each map from a PNG preview. `uvx roadstyle-mcp`.
 * [ShowMeOnMap MCP](https://showmeonmap.com/developers) - Remote MCP server (OAuth or API key) that turns a plain-English question into a rendered, shareable map from live, cited public data, with spatial-analysis tools; also on npm as @showmeonmap/mcp.
