@@ -1697,6 +1697,7 @@ for geospatial and tabular data.
 * [StoryRoute](https://storyroute.netlify.app) - Free web application that applies large language models to geospatial context to generate immersive, location-aware travel narratives.
 * [TileMill](https://tilemill-project.github.io/tilemill/) - TileMill is a modern map design studio powered by Node.js and Mapnik.
 * [veins](https://github.com/sommer/veins) - Open source vehicular network simulation framework.
+* [Waystones](https://github.com/waystones-nexus/waystones) - Open-source visual data modeler that turns geospatial data models into self-hostable, OGC standards-based web services, packaged as deployment kits.
 
 
 
