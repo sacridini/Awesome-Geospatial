@@ -1682,6 +1682,7 @@ for geospatial and tabular data.
 * [Magrit](https://github.com/riatelab/magrit) - Magrit is an online application for thematic mapping.
 * [Maparz](https://maparz.com/) - Free online geospatial file converter powered by GDAL. Converts between Shapefile, GeoJSON, KML/KMZ, GeoPackage, GPX, DXF, GML, FlatGeobuf and CSV — 81 conversion pairs, live map preview, no signup or installation required.
 * [MapDraw](https://www.mapdraw.net/) - Free browser-based editor for drawing and editing paths, areas and markers. Supports GeoJSON, GPX, KML and KMZ, with routing, elevation profiles and shareable links.
+* [Maps Link Converter](https://maps.xuedo.ng/) - Free browser tool and iPhone shortcut that converts Google Maps links to Apple Maps links and back, including places, dropped pins, searches and directions; open source on [GitHub](https://github.com/steven-panxd/google-apple-maps-converter).
 * [MapShaper](http://mapshaper.org/) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.
 * [MapTiler Desktop](https://www.maptiler.com/desktop/) - Software for converting your data into fast zoomable maps. Load your image or geodata and get a tiled map.
 * [Mapus](https://github.com/alyssaxuu/mapus) - Mapus is a tool to explore and annotate collaboratively on a map.
