@@ -277,6 +277,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [libLAS](https://liblas.org/) - libLAS is a C/C++ library for reading and writing the very common LAS LiDAR format.
 * [lidar](https://github.com/jblindsay/lidar) - A Crystal language library for reading and writing LiDAR data in LAS format.
 * [lidario](https://github.com/jblindsay/lidario) - A small Go library for reading and writing LiDAR (LAS) files.
+* [LidarKit](https://lidar-kit.com/) - Browser-based LAS, LAZ, COPC and E57 viewer and converter, with ground classification and DEM export; files are processed locally, never uploaded.
 * [lidR](https://github.com/Jean-Romain/lidR) - R package for airborne LiDAR data manipulation and visualisation for forestry application.
 * [MCC-LIDAR](https://sourceforge.net/projects/mcclidar/) - Multiscale Curvature Classification for LIDAR Data.
 * [PDAL](https://pdal.io/) - PDAL is a C++ BSD library for translating and manipulating point cloud data.
