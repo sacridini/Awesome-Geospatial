@@ -425,6 +425,7 @@ with GNSS (global navigation satellite system).
 * [Mapbox](https://www.mapbox.com/) - Platform for web map design and manipulation.
 * [MapsLinkQuest](https://mapslink.quest/) - Free for up to 25 places per list, no account needed. Converts a shared Google Maps list link into GPX, KML, CSV or GeoJSON waypoints, with no Takeout export. Paid tiers raise the limit.
 * [MapTiler Cloud](https://www.maptiler.com/cloud/) - Maps API for web & mobile developers. Customize maps, upload or create own geodata and publish online.
+* [MapToNap](https://maptonap.com/) - Browser tool that turns OpenStreetMap data into architectural site analysis drawings and 3D context models.
 * [Mercator](https://mercator.blue/) - Gridded earth data (weather, ocean, air quality, elevation) as value-encoded Web Mercator tiles, with an open-source MapLibre SDK for colormapped rasters, wind and current streamlines, arrows and contours.
 * [Mergin Maps](https://merginmaps.com/) - A mobile data collection open-source platform for field data surveys based on QGIS. Available as service or self-hosted.
 * [movebank-api](https://github.com/movebank/movebank-api-doc) - Platform for animal tracking data.
