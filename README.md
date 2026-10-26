@@ -411,6 +411,7 @@ with GNSS (global navigation satellite system).
 * [Fulcrum](http://www.fulcrumapp.com/) - A mobile data collection platform that allows you to build, deploy, & collect field data with your own customizable data collection apps.
 * [Geocode.xyz](https://geocode.xyz/) - Reverse geocoding, forward geocoding, and geoparsing API.
 * [Geodocs](https://geodocs.io/) - GIS-powered project management platform for construction and infrastructure projects with support for KML, KMZ, Shapefile, and GeoJSON uploads, PostGIS database, MVT vector tiles, dynamic forms, and Mapbox GL JS visualization.
+* [geoo.app](https://geoo.app/) - Browser-based GIS and CAD file converter for 50+ formats (SHP, GeoJSON, KML/KMZ, DWG, DXF, GPX, CSV, GeoTIFF and more). Files are processed locally in the browser with WebAssembly and never uploaded; free, no sign-up. Includes a viewer, coordinate conversion, and free sample GIS data.
 * [GOAT](https://www.plan4better.de/en/goat/) - Open-source WebGIS for spatial analysis in the browser: built-in catalogue of 30,000+ datasets, accessibility analysis (isochrones, public transport quality classes), no-code workflows, dashboards and real-time collaboration. Cloud or self-hosted.
 * [GIS Cloud](https://www.giscloud.com/) - Real-time mapping platform for the entire workflow of your organization.
 * [GISCO data distribution API](https://gisco-services.ec.europa.eu/distribution/v2/) - European Commission data source for administrative regions and boundaries.
