@@ -544,6 +544,7 @@ with GNSS (global navigation satellite system).
 * [OSM Edit MCP](https://github.com/skywinder/osm-edit-mcp) - Python MCP server for inspecting OpenStreetMap data and previewing version-checked road-edit proposals from selected local GPX survey segments. Applying changes requires explicit user confirmation of the proposal digest. Alpha.
 * [roadstyle MCP server](https://github.com/Khoshkhah/roadstyle) - Lets an AI agent draw styled, interactive, offline road maps of any place (OpenStreetMap via OSMnx) or road file, and check each map from a PNG preview. `uvx roadstyle-mcp`.
 * [ShowMeOnMap MCP](https://showmeonmap.com/developers) - Remote MCP server (OAuth or API key) that turns a plain-English question into a rendered, shareable map from live, cited public data, with spatial-analysis tools; also on npm as @showmeonmap/mcp.
+* [Wheremind](https://wheremind.ai) - Hosted remote MCP server (`https://wheremind.ai/mcp`) that gives AI agents live places search, geocoding, nearby search and turn-by-turn directions; works in Claude, ChatGPT, Cursor and Claude Code, with sign-in from the app and no API keys.
 
 ## Agent Skills
 
