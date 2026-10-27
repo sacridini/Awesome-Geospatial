@@ -454,6 +454,7 @@ with GNSS (global navigation satellite system).
 
 ## DaaS - Data as a Service
 
+* [APIVerve](https://apiverve.com) - Geospatial REST APIs under one API key: Reverse Geocode, Timezone Lookup, IP Lookup (geolocation), Country Boundaries, State Boundaries, Zip Codes Lookup, Distance Calculator, Coordinates Are Sea and UTM Coordinate Converter. JSON responses, free plan with no card, hosted MCP server.
 * [Apple Maps](https://mapsconnect.apple.com/) - Apple map service.
 * [AtlasPI](https://atlaspi.it) - Historical geography as a service for AI agents: 1000+ polities with real GeoJSON borders, events, trade routes, succession chains and cited sources, 4500 BCE-2024. Free, no key, Apache-2.0.
 * [GeoRank](https://georank.place) - Monthly sunshine, temperature, rainfall and outdoor-comfort hours for 478 world cities with coordinates. Single JSON file, no key, CC BY 4.0, archived at [Zenodo](https://doi.org/10.5281/zenodo.21976372).
