@@ -441,6 +441,7 @@ with GNSS (global navigation satellite system).
 * [OSRMRoute](https://osrmroute.com) - Hosted routing, distance matrix, isochrones, map-matching and geocoding REST API built on OpenStreetMap/OSRM.
 * [Phantom Tide](https://github.com/tg12/phantomtide) - Real-time geospatial intelligence platform for maritime and airspace monitoring, combining vessel tracking, ADS-B flight activity, official notices, environmental context, and satellite detections in a single live map workflow.
 * [PixelGust](https://pixelgust.com/) - A web-based geospatial analysis platform providing 30m terrain data, climate risk assessment, NDVI time series, and environmental reports for any location. Free tier and API available.
+* [PLU IA](https://pluia.fr/) - French PLU (local urban plan) reading tool: zoning and rules per address or cadastral parcel from the Géoportail de l'Urbanisme, each with the page of the official PDF; web app, REST API and MCP connector.
 * [PostalCodes](https://postalcodes.info/api) - Global postal code search, country exports, and address validation data.
 * [RainViewer](https://www.rainviewer.com/api.html) - Free weather radar and satellite data API.
 * [REST countries](https://restcountries.com/) - Get country information via a RESTful API.
