@@ -400,6 +400,7 @@ with GNSS (global navigation satellite system).
 * [Address API](https://gisco-services.ec.europa.eu/addressapi/docs/) - Pan-European address data with geocoding and reverse-geocoding.
 * [ArcGIS Online](https://www.arcgis.com/home/) - ArcGIS Online GIS platform for mapping and spatial analysis.
 * [ARLAS](https://www.arlas.io/) - ARLAS Exploration is an Open Source software for exploring and analysing Geo BigData.
+* [Basesheet](https://basesheet.site) - Free, open-source site base plans from any US address: parcel lines, USGS 3DEP LiDAR contours, SSURGO soils, FEMA flood zones and NWI wetlands as DXF, LandXML, GeoJSON, GeoTIFF, KML and SketchUp terrain.
 * [BreezoMeter](https://docs.breezometer.com/api-documentation/introduction/) - Air Quality, Weather, Pollen, and Environmental data.
 * [Carto](https://carto.com/) - Cloud computing platform that provides GIS and web mapping tools for display in a web browser.
 * [Catastro GPS](https://www.catastrogps.es/) - European cadastral parcel lookup (29 countries plus the Basque and Navarre foral cadastres): reference to GPS, outline, area and land use from official open data, with a free API tier.
