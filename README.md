@@ -1666,6 +1666,7 @@ with GNSS (global navigation satellite system).
 * [duck soup](https://github.com/henrik716/duck-soup) - Open-source, config-driven spatial ETL as an alternative to FME workspaces. Describe sources, spatial/attribute joins, geoprocessing (buffer, clip, overlay, dissolve) and attribute mapping in YAML or a web editor; runs on DuckDB spatial and outputs GeoPackage or GeoParquet.
 * [eodag](https://github.com/CS-SI/eodag) - Command line tool and a plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider.
 * [exactextract](https://github.com/isciences/exactextract) - Provides a fast and accurate algorithm for summarizing values in the portion of a raster dataset that is covered by a polygon, often referred to as zonal statistics.
+* [FixFinder](https://findrtk.com) - Directory of US RTK/NTRIP correction networks by state, free and paid, with a coverage check by address.
 * [fresco](https://github.com/go-spatial/fresco) - Fresco is an open source Mapbox Vector Tile Style editor that allows cartographers to craft stylesheets for use with Mapbox GL maps.
 * [Galileo](https://galileo.gisdata.io/) - Geospatial data discovery and management platform. Search over 1,890+ data sources using advanced filters, spatial search, and previews. Manage your data with collections and downloads to 5 file types.
 * [gdal-mini](https://github.com/rouault/gdal-mini) - Minimal version of GDAL.
