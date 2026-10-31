@@ -289,6 +289,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [The Point Cloud Library - PCL](https://pointclouds.org/) - Standalone, large scale, open project for 2D/3D image and point cloud processing.
 * [TopoDOT](https://new.certainty3d.com/) - Proprietary software for extracting topography, 3D models, GIS Assets, and more from point cloud data.
 * [Treetop](https://github.com/carlos-alberto-silva/weblidar-treetop) - A Shiny-based Application for Extracting Forest Information from LiDAR data.
+* [ViewerFX](https://viewerfx.io) - Hosted point cloud sharing: upload LAS, LAZ or E57 and send a streaming browser link with measuring, section cuts and annotations. Free tier.
 
 
 ## 3D Application
