@@ -296,6 +296,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [3dcitybuilder](https://github.com/arthurRuf/3dcitybuilder) - QGIS Plugin that generates 3D Models of Urban Areas.
 * [3dfier](https://github.com/tudelft3d/3dfier) - The open-source tool for creation of 3D models.
 * [ArcGIS Earth](http://www.esri.com/software/arcgis-earth) - Display data, sketch placemarks, measure distances and areas, and add annotations at any part of the world
+* [BlockMap](https://blockmap.app/) - Phone app (iOS, Android) that turns any place on Earth into a playable Minecraft world (Bedrock or Java), built from OpenStreetMap, Overture buildings, ESA WorldCover land cover, canopy heights and terrain data.
 * [CityEngine](http://www.esri.com/software/cityengine/) - Transform 2D GIS Data into Smart 3D City Models
 * [erzberg](https://github.com/sorny/erzberg) - MIT-licensed browser tool that turns GeoTIFFs and DEMs into topographic line art in 41 draw modes, with OpenStreetMap overlays and SVG, STL and PNG export.
 * [Google Earth](http://earth.google.com/) - Bringing a earth view for global mapping
