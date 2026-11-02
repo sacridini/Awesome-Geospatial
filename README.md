@@ -146,6 +146,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [AutoCAD Map 3D](http://www.autodesk.com.br/products/autocad-map-3d/overview) - GIS AutoCAD integration.
 * [FME Desktop](https://www.safe.com/fme/fme-desktop/) - FME is an integrated collection of Spatial ETL tools for data transformation and data translation.
 * [GC2](http://www.mapcentia.com/en/product/) - GC2 is an enterprise platform GIS (open source)
+* [GeoD Agent](https://github.com/gaopengbin/geod-agent) - Open-source Windows GIS agent for conversational imagery downloads, local processing and GeoTIFF export, with support for user-configured model providers.
 * [GeoDa](http://geodacenter.github.io/) - Spatial data analysis software.
 * [Geolibre](https://github.com/opengeos/GeoLibre) - A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.
 * [Geomedia](https://hexagon.com/products/geomedia) - Commercial GIS.
@@ -192,6 +193,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Flare Cluster Layer](https://github.com/nickcam/FlareClusterLayer) - ArcGIS javascript custom graphics layer. Creates clusters and creates flares for clusters.
 * [geojson-vt](https://github.com/mapbox/geojson-vt) - A highly efficient JavaScript library for slicing GeoJSON data into vector tiles on the fly.
 * [GeoNode](http://geonode.org/) - A web-based application and platform for developing geospatial information systems (GIS) and for deploying spatial data infrastructures (SDI).
+* [geowright](https://github.com/geowright/geowright) - Playwright testing for MapLibre GL JS web maps: query rendered features, assert on them, and click or drag through real input.
 * [globe.gl](https://github.com/vasturiano/globe.gl) - This library is a convenience wrapper around the three-globe plugin, using ThreeJS/WebGL for 3D rendering.
 * [Google Maps API Polyline String Decoder](https://github.com/mgd722/decode-google-maps-polyline) - Function that will convert encoded polyline strings (as returned by the Google Maps API) into a list of lat/lon pairs.
 * [gridviz](https://github.com/eurostat/gridviz) - A package for visualizing gridded data.
@@ -277,6 +279,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [libLAS](https://liblas.org/) - libLAS is a C/C++ library for reading and writing the very common LAS LiDAR format.
 * [lidar](https://github.com/jblindsay/lidar) - A Crystal language library for reading and writing LiDAR data in LAS format.
 * [lidario](https://github.com/jblindsay/lidario) - A small Go library for reading and writing LiDAR (LAS) files.
+* [LidarKit](https://lidar-kit.com/) - Browser-based LAS, LAZ, COPC and E57 viewer and converter, with ground classification and DEM export; files are processed locally, never uploaded.
 * [lidR](https://github.com/Jean-Romain/lidR) - R package for airborne LiDAR data manipulation and visualisation for forestry application.
 * [MCC-LIDAR](https://sourceforge.net/projects/mcclidar/) - Multiscale Curvature Classification for LIDAR Data.
 * [PDAL](https://pdal.io/) - PDAL is a C++ BSD library for translating and manipulating point cloud data.
@@ -289,6 +292,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [The Point Cloud Library - PCL](https://pointclouds.org/) - Standalone, large scale, open project for 2D/3D image and point cloud processing.
 * [TopoDOT](https://new.certainty3d.com/) - Proprietary software for extracting topography, 3D models, GIS Assets, and more from point cloud data.
 * [Treetop](https://github.com/carlos-alberto-silva/weblidar-treetop) - A Shiny-based Application for Extracting Forest Information from LiDAR data.
+* [ViewerFX](https://viewerfx.io) - Hosted point cloud sharing: upload LAS, LAZ or E57 and send a streaming browser link with measuring, section cuts and annotations. Free tier.
 
 
 ## 3D Application
@@ -302,7 +306,9 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Lookout](https://github.com/ExtremeAI-Labs/lookout) - Self-hosted 3D situational-awareness console on a CesiumJS globe: live aircraft, ships, satellites, earthquakes and public cameras, MIT licensed.
 * [Open3D](http://www.open3d.org/) - Open-source library that supports rapid development of software that deals with 3D data. The Open3D frontend exposes a set of carefully selected data structures and algorithms in both C++ and Python.
 * [Planetary Atlas](https://planetatlas.org) - Browser-based 3D globes of 14 worlds built from open NASA, USGS, ESA and JAXA imagery, with the IAU nomenclature and surface mission landing sites
+* [Printed Canyon](https://www.printedcanyon.com/) - Browser tool that turns a GPX track, place, country or city area into a 3D-printable terrain model (STL, 3MF) or map poster from USGS, Copernicus, GEBCO and OpenStreetMap data. Downloads are pay what you want, including free.
 * [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - A glimpse into Skyline's cutting-edge 3D geospatial visualization products, and their potential to transform the way your organization makes decisions, shares information and manages its assets
+* [Space Radar](https://github.com/Sara-Managed-Projects/space-radar) - MIT-licensed browser globe of the Earth with the day's clouds, seven NASA GIBS data maps and about 17,000 satellites overhead, plus tiled maps of the Moon and Mars.
 * [World Wind](http://worldwind.arc.nasa.gov/java/) -  Providing features for displaying with geographic data
 * [WorldSeed](https://github.com/yz4git/next-gen) - MIT-licensed browser tool that turns open geospatial data into playable, exportable Three.js worlds with terrain-aware roads, GLB, road graphs, spawn points, and versioned JSON Schema.
 * [Yapmap](https://yapmap.cc) - Free, voice-controlled 3D globe in the browser: tap to talk and an AI guide flies anywhere, dives into photorealistic 3D terrain, drops pins and narrates each place. Built on MapLibre GL JS and deck.gl.
@@ -411,6 +417,7 @@ with GNSS (global navigation satellite system).
 * [Fulcrum](http://www.fulcrumapp.com/) - A mobile data collection platform that allows you to build, deploy, & collect field data with your own customizable data collection apps.
 * [Geocode.xyz](https://geocode.xyz/) - Reverse geocoding, forward geocoding, and geoparsing API.
 * [Geodocs](https://geodocs.io/) - GIS-powered project management platform for construction and infrastructure projects with support for KML, KMZ, Shapefile, and GeoJSON uploads, PostGIS database, MVT vector tiles, dynamic forms, and Mapbox GL JS visualization.
+* [geoo.app](https://geoo.app/) - Browser-based GIS and CAD file converter for 50+ formats (SHP, GeoJSON, KML/KMZ, DWG, DXF, GPX, CSV, GeoTIFF and more). Files are processed locally in the browser with WebAssembly and never uploaded; free, no sign-up. Includes a viewer, coordinate conversion, and free sample GIS data.
 * [GOAT](https://www.plan4better.de/en/goat/) - Open-source WebGIS for spatial analysis in the browser: built-in catalogue of 30,000+ datasets, accessibility analysis (isochrones, public transport quality classes), no-code workflows, dashboards and real-time collaboration. Cloud or self-hosted.
 * [GIS Cloud](https://www.giscloud.com/) - Real-time mapping platform for the entire workflow of your organization.
 * [GISCO data distribution API](https://gisco-services.ec.europa.eu/distribution/v2/) - European Commission data source for administrative regions and boundaries.
@@ -425,6 +432,7 @@ with GNSS (global navigation satellite system).
 * [Mapbox](https://www.mapbox.com/) - Platform for web map design and manipulation.
 * [MapsLinkQuest](https://mapslink.quest/) - Free for up to 25 places per list, no account needed. Converts a shared Google Maps list link into GPX, KML, CSV or GeoJSON waypoints, with no Takeout export. Paid tiers raise the limit.
 * [MapTiler Cloud](https://www.maptiler.com/cloud/) - Maps API for web & mobile developers. Customize maps, upload or create own geodata and publish online.
+* [MapToNap](https://maptonap.com/) - Browser tool that turns OpenStreetMap data into architectural site analysis drawings and 3D context models.
 * [Mercator](https://mercator.blue/) - Gridded earth data (weather, ocean, air quality, elevation) as value-encoded Web Mercator tiles, with an open-source MapLibre SDK for colormapped rasters, wind and current streamlines, arrows and contours.
 * [Mergin Maps](https://merginmaps.com/) - A mobile data collection open-source platform for field data surveys based on QGIS. Available as service or self-hosted.
 * [movebank-api](https://github.com/movebank/movebank-api-doc) - Platform for animal tracking data.
@@ -435,6 +443,7 @@ with GNSS (global navigation satellite system).
 * [Open Notify](http://open-notify.org/Open-Notify-API/) - ISS location and number of people in space.
 * [Open-Meteo](https://open-meteo.com/) - Global weather forecast API.
 * [OpenCage Geocoding API](https://geocoder.opencagedata.com/) - An API aggregating multiple open geo datasources (OpenStreetMap and others).
+* [OpenGeocoding](https://opengeocoding.com/) - Hosted geocoding API on open data (OpenStreetMap, Overture Maps, OpenAddresses): address search, autocomplete and reverse geocoding.
 * [OpenMapTiles](https://openmaptiles.com/) - Vector tiles and map services as service, self-hosted or off-line.
 * [OpenSky API](https://github.com/openskynetwork/opensky-api) - Retrieve live airspace information.
 * [OSM2CDR](https://osm2cdr.com/) - Web service that exports OpenStreetMap data for a drawn area or admin boundary into 62+ vector, CAD, GIS and 3D formats (CDR, DWG, DXF, SVG, Shapefile, GeoJSON, STL, PMTiles), keeping map layers editable.
@@ -447,6 +456,7 @@ with GNSS (global navigation satellite system).
 * [SafeStreets](https://safestreets.streetsandcommons.com) - Free address-level walkability and pedestrian-safety analysis, scoring any neighborhood on a 15-minute-city framework using OpenStreetMap and public data.
 * [ShowMeOnMap](https://showmeonmap.com) - Natural-language questions to cited interactive maps; live hazard layers, embeds, MCP/WebMCP agent tools.
 * [Sunrise and sunset](https://sunrise-sunset.org) - Provides sunset and sunrise times for locations.
+* [TectonicPlateMap.org](https://tectonicplatemap.org/) - Interactive Earth geophysics and live hazard web map exploring all 52 tectonic plates (PB2002), fault boundaries, real-time USGS earthquakes, and active volcanoes.
 * [TomTom](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction) - Geocoding, routing, traffic, and more.
 * [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Search earthquake data by various parameters.
 * [what3words](https://developer.what3words.com/public-api) - Converts 3-word addresses to coordinates.
@@ -507,6 +517,7 @@ with GNSS (global navigation satellite system).
 * [Deep Learning ArcGIS](https://github.com/Esri/deep-learning-frameworks) - Deep Learning Libraries Installers for ArcGIS.
 * [DeepForest](https://github.com/weecology/DeepForest) - Python Package for Tree Crown Detection in Airborne RGB imagery.
 * [eo-learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python.
+* [geochips](https://github.com/ngo-binh0108/geochips) - Cut GeoTIFFs and GeoJSON polygons into YOLO or COCO training chips in one command.
 * [Hyperspectral](https://github.com/KGPML/Hyperspectral) - Deep Learning for Land-cover Classification in Hyperspectral Images.
 * [Label Maker](https://github.com/developmentseed/label-maker) - Data Preparation for Satellite Machine Learning.
 * [libtorch-yolov3](https://github.com/walktree/libtorch-yolov3) - A Libtorch implementation of the YOLO v3 object detection algorithm.
@@ -538,12 +549,17 @@ with GNSS (global navigation satellite system).
 
 * [CARTO for Agents](https://docs.carto.com/carto-for-agents?utm_source=awesome-geospatial&utm_medium=listing&utm_campaign=mcp-marketplace-listings) - Official remote MCP server for CARTO, the Agentic GIS platform. Query governed warehouse data, run spatial analysis, create or edit maps and workflows, and render interactive maps in the conversation; every tool call runs inside your own data warehouse (BigQuery, Snowflake, Databricks, Redshift, or PostgreSQL).
 * [emem](https://github.com/Vortx-AI/emem) - Earth memory MCP server that gives AI agents signed geospatial facts and cite-able receipts for place-based questions.
+* [EncDotNet.S100 MCP server](https://github.com/philliphoff/EncDotNet.S100) - MCP server for S-100 nautical charts that lets AI agents query chart features, sample bathymetry, currents and water levels, and plan routes. Runs locally from the project's command-line tool or its desktop chart viewer (SoundCharts), which agents can also drive.
+* [GridPin MCP](https://github.com/gridpin/gridpin/tree/main/mcp) - Offline geocoding and reverse geocoding for AI agents from one local file per country; no API key, and queries stay on the machine.
 * [League of Spin](https://leagueofspin.com/api/mcp) - Remote MCP server for finding 27,000+ outdoor ping-pong tables worldwide, built on OpenStreetMap data, with spot details and live playing conditions.
 * [Microsoft Planetary Computer Pro MCP Tools](https://marketplace.visualstudio.com/items?itemName=ms-planetarycomputer.mpc-pro-mcp-tools) - A Model Context Protocol (MCP) server that enables GitHub Copilot to interact with Microsoft Planetary Computer Pro.
 * [NetLoc8 MCP](https://github.com/netloc8/netloc8-mcp) - Model Context Protocol server giving AI assistants geolocation tools to lookup country, city, region, timezone, coordinates, and ASN.
+* [OpenGeocoding MCP](https://opengeocoding.com/docs/mcp) - Remote MCP server with OAuth sign-in that lets AI agents geocode addresses, reverse geocode coordinates and autocomplete places on open data.
 * [OSM Edit MCP](https://github.com/skywinder/osm-edit-mcp) - Python MCP server for inspecting OpenStreetMap data and previewing version-checked road-edit proposals from selected local GPX survey segments. Applying changes requires explicit user confirmation of the proposal digest. Alpha.
 * [roadstyle MCP server](https://github.com/Khoshkhah/roadstyle) - Lets an AI agent draw styled, interactive, offline road maps of any place (OpenStreetMap via OSMnx) or road file, and check each map from a PNG preview. `uvx roadstyle-mcp`.
 * [ShowMeOnMap MCP](https://showmeonmap.com/developers) - Remote MCP server (OAuth or API key) that turns a plain-English question into a rendered, shareable map from live, cited public data, with spatial-analysis tools; also on npm as @showmeonmap/mcp.
+* [Velocity](https://github.com/AndrewCTF/velocity) - Self-hosted flight and ship tracker whose MCP server answers with live aircraft and ship positions from public feeds (no API keys), naming the feeds behind each contact and the age of its fix. Areas can be a circle or a polygon.
+* [Wheremind](https://wheremind.ai) - Hosted remote MCP server (`https://wheremind.ai/mcp`) that gives AI agents live places search, geocoding, nearby search and turn-by-turn directions; works in Claude, ChatGPT, Cursor and Claude Code, with sign-in from the app and no API keys.
 
 ## Agent Skills
 
@@ -627,6 +643,7 @@ with GNSS (global navigation satellite system).
 * [DEM Net Elevation API](https://github.com/dem-net/DEM.Net) - 3D terrain generation library, provides access to global DEM datasets (OpenTopography, Nasa ASTER) and tiled imagery services. GlTF and STL export formats supported. [Live demo](https://elevationapi.com)
 * [DotSpatial](https://github.com/DotSpatial/DotSpatial) - DotSpatial is a geographic information system library written for .NET 4.
 * [Earth-Lens](https://github.com/Microsoft/Earth-Lens) - Earth Lens, a Microsoft Garage project is an iOS iPad application that helps people and organizations quickly identify and classify objects in aerial imagery through the power of machine learning.
+* [EncDotNet.S100](https://github.com/philliphoff/EncDotNet.S100) - .NET implementation of the IHO S-100 hydrographic data model: reads, validates and renders S-101 ENCs, S-102 bathymetry, S-104/S-111 water levels and currents, S-124 navigational warnings and legacy S-57 charts. Includes a cross-platform desktop chart viewer ([SoundCharts](https://soundcharts.app)) and a command-line tool.
 * [GDAL/OGR CSharp](https://trac.osgeo.org/gdal/wiki/GdalOgrInCsharp) - C# bindings for GDAL and OGR.
 * [Geo](https://github.com/sibartlett/Geo) - A geospatial library for .NET
 * [GeoJSON.Net](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers.
@@ -696,6 +713,7 @@ with GNSS (global navigation satellite system).
 * [gopostal](https://github.com/openvenues/gopostal) - Go (cgo) interface to libpostal for fast international address parsing/normalization.
 * [GoSpatial](https://github.com/jblindsay/go-spatial) - GoSpatial is a simple command-line interface program for manipulating geospatial data.
 * [lidario](https://github.com/jblindsay/lidario) - A small Go library for reading and writing LiDAR (LAS) files.
+* [oapif-go](https://github.com/waystones-nexus/oapif-go) - Lightweight, cloud-native OGC API - Features server in Go that queries GeoParquet files directly on S3-compatible object storage via DuckDB, without a spatial database. Supports CQL2 filtering, bbox-crs and output CRS reprojection.
 * [orb](https://github.com/paulmach/orb) - A set of types for working with 2d geo and planar/projected geometric data in Golang
 * [pg_featureserv](https://github.com/CrunchyData/pg_featureserv) - Lightweight RESTful Geospatial Feature Server for PostGIS in Go.
 * [pg_tileserv](https://github.com/CrunchyData/pg_tileserv) - A very thin PostGIS-only tile server in Go. Takes in HTTP tile requests, executes SQL, returns MVT tiles.
@@ -796,6 +814,7 @@ with GNSS (global navigation satellite system).
 * [leaflet-elevation](https://github.com/Raruto/leaflet-elevation) - Leaflet plugin that allows to add elevation profiles using d3js
 * [leaflet-providers](https://github.com/leaflet-extras/leaflet-providers) - An extension to Leaflet that contains configurations for various free tile providers.
 * [Loam](https://github.com/azavea/loam) - Javascript wrapper for GDAL in the browser.
+* [location-picker](https://github.com/cyphercodes/location-picker) - Form field web component for picking one latitude/longitude by panning a map under a fixed pin (OpenStreetMap, Google Maps or MapLibre).
 * [LuciadRIA](http://www.luciad.com/solutions/luciadria) - A JavaScript library for 3D globes and maps, with support for military symbology and desktop-like performance
 * [mapbox-gl-draw](https://github.com/mapbox/mapbox-gl-draw) - Draw tools for mapbox-gl-js.
 * [mapboxgl-powerbi](https://github.com/mapbox/mapboxgl-powerbi) - Mapbox GL PowerBI custom visual.
@@ -994,6 +1013,7 @@ with GNSS (global navigation satellite system).
 * [get_modis](https://github.com/jgomezdans/get_modis) - Downloading MODIS data from the USGS repository.
 * [GIPPY](https://github.com/gipit/gippy) - Geospatial Image Processing for Python.
 * [gpdvega](https://github.com/iliatimofeev/gpdvega) - gpdvega is a bridge between GeoPandas and Altair that allows to seamlessly chart geospatial data.
+* [GridPin](https://github.com/gridpin/gridpin) - Offline forward and reverse geocoder: one memory-mapped file per country, no server and no API key; also a CLI and a DuckDB extension.
 * [HyperCoast](https://github.com/opengeos/HyperCoast) - A Python package for visualizing and analyzing hyperspectral data in coastal regions.
 * [HyRiver](https://hyriver.readthedocs.io) - A suite of Python packages for retrieving various geospatial/temporal data from public web services.
 * [HPGL](https://github.com/hpgl/hpgl) - High Perfomance Geostatistics Library.
@@ -1698,6 +1718,8 @@ for geospatial and tabular data.
 * [TileMill](https://tilemill-project.github.io/tilemill/) - TileMill is a modern map design studio powered by Node.js and Mapnik.
 * [veins](https://github.com/sommer/veins) - Open source vehicular network simulation framework.
 * [WEPANET](https://github.com/KIOS-Research/WEPANET) - An open-source, web-based tool for modeling and simulating water distribution networks using EPANET and EPANET-MSX.
+* [Waystones](https://github.com/waystones-nexus/waystones) - Open-source visual data modeler that turns geospatial data models into self-hostable, OGC standards-based web services, packaged as deployment kits.
+
 
 
 ## Cheat sheets
