@@ -213,6 +213,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [Ol-ext](https://viglino.github.io/ol-ext/) - Cool extensions for OpenLayers (ol) - animated clusters, CSS popup, Font Awesome symbol renderer, charts for statistical map (pie/bar), layer switcher, wikipedia layer, animations, canvas filters.
 * [OpenGlobus](https://www.openglobus.org/) - A javascript library designed to display interactive 3d maps and planets with map tiles, imagery and vector data, markers and 3d objects. It uses the WebGL technology, open source and completely free.
 * [OpenLayers](http://openlayers.org/) - High-performance, feature-packed library for creating interactive maps on the web.
+* [Ortho Earth](https://www.ortho-earth.com/) - Serverless 3D globe map engine for the browser (WebGPU/WebGL2); reads 18 GIS formats in the browser and runs MapLibre GL JS and CesiumJS code.
 * [Oskari](https://oskari.org/) - Framework for easily building multipurpose web mapping applications utilizing distributed Spatial Data Infrastructures like INSPIRE.
 * [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive geospatial visualization.
 * [react-azure-maps](https://github.com/WiredSolutions/react-azure-maps) - React Wrapper for azure-maps-control.
