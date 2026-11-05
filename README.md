@@ -1011,6 +1011,7 @@ with GNSS (global navigation satellite system).
 * [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy) - GSLIB reimplimented in Python
 * [geotiff](https://github.com/Open-Source-Agriculture/geotiff) - A noGDAL tool for reading geotiff files.
 * [get_modis](https://github.com/jgomezdans/get_modis) - Downloading MODIS data from the USGS repository.
+* [GigaSpatial](https://github.com/unicef/giga-spatial) - Acquire published geospatial datasets, such as WorldPop, GHSL, and building footprints, and map them onto H3, S2, Mercator tiles, administrative boundaries, or points of interest.
 * [GIPPY](https://github.com/gipit/gippy) - Geospatial Image Processing for Python.
 * [gpdvega](https://github.com/iliatimofeev/gpdvega) - gpdvega is a bridge between GeoPandas and Altair that allows to seamlessly chart geospatial data.
 * [GridPin](https://github.com/gridpin/gridpin) - Offline forward and reverse geocoder: one memory-mapped file per country, no server and no API key; also a CLI and a DuckDB extension.
