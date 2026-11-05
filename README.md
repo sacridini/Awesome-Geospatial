@@ -1759,6 +1759,7 @@ for geospatial and tabular data.
 * [Lifemap](https://lifemap.org.uk) - Life expectancy and healthy life expectancy for every UK council from the Office for National Statistics, with confidence intervals and trends. Free CSV and JSON downloads under the Open Government Licence.
 * [MapTiler Data](https://www.maptiler.com/data/) - Ready-to-use geographic data. The very best of open geospatial data, processed and packaged for your next on-prem project. Available as vector/raster tiles and in GIS formats.
 * [Mapzen](https://mapzen.com/metro-extracts) - It provides data in OSM/PBF and Esri shapefile formats for popular cities.
+* [MeetAndPlay Canchas de México](https://github.com/idimetrix/canchas-mexico) - Open dataset (ODbL, CSV and GeoJSON, DOI 10.5281/zenodo.23986488) of 1,052 padel, tennis and pickleball courts in Mexico, extracted from OpenStreetMap.
 * [NASA Earth Data](https://search.earthdata.nasa.gov/search) - Search, discover, visualize, refine, and access NASA Earth Observation data in your browser with Earthdata Search.
 * [NASA Earth Observations](https://neo.gsfc.nasa.gov/) - Browse and download satellite data imagery.
 * [Natural Earth](http://www.naturalearthdata.com/) - This site offers public domain map data sets that contain both raster and vector data.
