@@ -559,6 +559,7 @@ with GNSS (global navigation satellite system).
 * [roadstyle MCP server](https://github.com/Khoshkhah/roadstyle) - Lets an AI agent draw styled, interactive, offline road maps of any place (OpenStreetMap via OSMnx) or road file, and check each map from a PNG preview. `uvx roadstyle-mcp`.
 * [ShowMeOnMap MCP](https://showmeonmap.com/developers) - Remote MCP server (OAuth or API key) that turns a plain-English question into a rendered, shareable map from live, cited public data, with spatial-analysis tools; also on npm as @showmeonmap/mcp.
 * [Velocity](https://github.com/AndrewCTF/velocity) - Self-hosted flight and ship tracker whose MCP server answers with live aircraft and ship positions from public feeds (no API keys), naming the feeds behind each contact and the age of its fix. Areas can be a circle or a polygon.
+* [VesselAPI MCP server](https://github.com/vessel-api/vesselapi-mcp) - 19 tools for AI agents over maritime vessel data: vessel search, latest and batch positions, declared ETA, port search and details, port arrivals and departures, EU MRV emissions, casualty records, and vessels within a bounding box or radius. Runs locally over stdio (`npx -y vesselapi-mcp`) with a VesselAPI key; the free plan covers 150 calls a month.
 * [Wheremind](https://wheremind.ai) - Hosted remote MCP server (`https://wheremind.ai/mcp`) that gives AI agents live places search, geocoding, nearby search and turn-by-turn directions; works in Claude, ChatGPT, Cursor and Claude Code, with sign-in from the app and no API keys.
 
 ## Agent Skills
