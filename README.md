@@ -1665,6 +1665,7 @@ with GNSS (global navigation satellite system).
 * [procedural-gl-js](https://github.com/felixpalmer/procedural-gl-js) - Procedural GL JS is a library for creating 3D map experiences on the web, written in JavaScript and WebGL. It is built on top THREE.js.
 * [Processing.py](http://py.processing.org/) - Python mode for Processing.
 * [Processing](https://processing.org/) - Processing is a flexible software sketchbook and a language for learning how to code within the context of the visual arts.
+* [ShadowBroker](https://github.com/BigBodyCobain/Shadowbroker) - Self-hosted Next.js + MapLibre GL dashboard that streams 60+ live geospatial feeds (ADS-B, AIS, satellite TLEs, USGS earthquakes, NASA FIRMS, SAR) onto one map.
 * [Skia](https://skia.org/) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 * [Strava](https://github.com/marcusvolz/strava) - Create artistic visualisations with your exercise data.
 * [three.js](https://threejs.org/) - A javascript 3D library which makes WebGL simpler
