@@ -1877,6 +1877,7 @@ for geospatial and tabular data.
 * [Awesome Geo Rust](https://github.com/pka/awesome-georust)
 * [Awesome GERS](https://github.com/OvertureMaps/awesome-gers) - A curated list of GERS resources: docs, tools (overturemaps-py, overtureR, Fused UDFs), platform integrations (Esri, CARTO, Databricks, Wherobots), tutorials, talks, and case studies.
 * [Awesome GIS - sshuair](https://github.com/sshuair/awesome-gis)
+* [Awesome Mineral Exploration](https://github.com/XploraHub/awesome-mineral-exploration) - Curated list of open-source software for mineral exploration.
 * [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
 * [Awesome Python](https://github.com/vinta/awesome-python/blob/master/README.md)
 * [Awesome SAR](https://github.com/RadarCODE/awesome-sar)
