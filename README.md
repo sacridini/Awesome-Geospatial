@@ -1870,6 +1870,7 @@ for geospatial and tabular data.
 * [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 * [Awesome DEM](https://github.com/DahnJ/Awesome-DEM) - Overview of Digital Elevation Model (DEM) datasets.
+* [Awesome Digital Civil Engineering](https://github.com/Ayberkrk/awesome-digital-civil-engineering) - Open source tools and datasets for civil and infrastructure engineering, including geospatial, remote sensing, point cloud and digital twin projects.
 * [Awesome Earth Engine Apps](https://github.com/philippgaertner/awesome-earth-engine-apps)
 * [Awesome Earth Observation Instruments](https://github.com/awesome-spectral-indices/awesome-earth-observation-instruments) - A machine-readable catalogue of Earth observation instruments with spectral, spatial, temporal, and operational characteristics.
 * [Awesome Forests](https://github.com/blutjens/awesome-forests) - A curated list of ground-truth forest datasets for the machine learning and forestry community.
