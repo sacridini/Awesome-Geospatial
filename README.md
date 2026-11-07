@@ -427,6 +427,7 @@ with GNSS (global navigation satellite system).
 * [IPGeolocation.io](https://ipgeolocation.io/) - IP geolocation API bundling timezone and currency data in the same response.
 * [LatLng](https://www.latlng.work/) - OSM-based geocoding, reverse geocoding, places, static maps, and tile APIs.
 * [LYRASENSE](https://lyrasense.com) - Agentic AI platform for satellite data analysis with a notebook environment and Google Earth Engine integration.
+* [Map Animation Studio](https://map-animation.com/) - Browser-based map video editor with a visual timeline, animated travel routes, region highlights, camera controls, and MP4 export.
 * [MapAtlas](https://mapatlas.eu/) - A mapping REST API providing geocoding, directions, route optimization, matrix, isochrone, MVT vector tiles, map matching, and GeoEnrich services using OpenStreetMap and proprietary data.
 * [MapBees](https://mapbees.com/) - Browser-based neighborhood analysis on an H3 hex grid, with no GIS install: weighted site-selection scoring, Location Quotient, gap analysis, Getis-Ord Gi* hot spots, Shannon/Simpson diversity, bivariate maps, isochrone territories and Huff market share, built on Overture Maps, OpenStreetMap and national census data. Free tier.
 * [Mapbox](https://www.mapbox.com/) - Platform for web map design and manipulation.
