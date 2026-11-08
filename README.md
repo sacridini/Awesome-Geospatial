@@ -1745,6 +1745,7 @@ for geospatial and tabular data.
 * [ETOPO1](https://www.ngdc.noaa.gov/mgg) - 1 arc-minute global relief model of Earth's surface.
 * [European population grids - GISCO](https://ec.europa.eu/eurostat/web/gisco/geodata/grids) - Population figures in grid cells.
 * [European Postcodes Point Data](https://ec.europa.eu/eurostat/web/gisco/geodata/administrative-units/postal-codes) - Location of postal codes across Europe.
+* [Fotoshi](https://fotoshi.com/) - Crowdsourced photos of places and objects linked to OpenStreetMap and Overture identities, with contributor photos under CC BY 4.0 and GeoJSON and STAC APIs.
 * [GBIF](https://www.gbif.org/) - Open access to biodiversity data.
 * [Geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free political boundaries database.
 * [Geofabrik](http://download.geofabrik.de/) - This is another source of prepared OpenStreetMap data. This distribution is generally built nightly and comes in OSM XML, pbf, and shapefile (for very popular areas) formats.
