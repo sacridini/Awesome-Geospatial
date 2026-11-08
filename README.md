@@ -1692,6 +1692,7 @@ with GNSS (global navigation satellite system).
 * [Generic Mapping Tools](https://github.com/GenericMappingTools/gmt) - GMT is an open source collection of about 90 command-line tools for manipulating geographic and Cartesian data sets.
 * [GeoGig](http://geogig.org/) - GeoGig is a Distributed Version Control System (DVCS) specially designed to handle geospatial data efficiently.
 * [Geo Hound](https://www.geohound.app/) - Chrome extension that detects the GIS data behind any web map and lets you save it as a live layer to query and analyze in the browser.
+* [Geovo Remote](https://apps.apple.com/app/id6829830051) - Free iPhone and iPad app that opens GPX and KML files, records GPX tracks, shows GPS status and logs geofence enter and exit events on the device.
 * [gisweep](https://github.com/enisgetmez/gisweep) - GIS vulnerability scanner for ArcGIS REST, OGC (WMS/WFS), and embedded web maps. Audits anonymous write capabilities, exposed admin endpoints, PII fields in feature schemas, and outdated server / client-side libraries; every finding is mapped to KVKK / GDPR articles. Active-mode probes are gated behind explicit opt-in.
 * [GISWATER](https://www.giswater.org/?lang=en) - Open-source software for water cycle management (water supply and urban drainage).
 * [GrADS](http://cola.gmu.edu/grads/) - The Grid Analysis and Display System (GrADS) is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data.
