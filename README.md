@@ -1706,6 +1706,7 @@ for geospatial and tabular data.
 * [MapShaper](http://mapshaper.org/) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.
 * [MapTiler Desktop](https://www.maptiler.com/desktop/) - Software for converting your data into fast zoomable maps. Load your image or geodata and get a tiled map.
 * [Mapus](https://github.com/alyssaxuu/mapus) - Mapus is a tool to explore and annotate collaboratively on a map.
+* [Mini5Planner](https://www.anleggtech.no/en/mini5planner) - Desktop app for macOS and Windows that plans single-grid and double-grid photogrammetry flights for DJI Fly drones (Mini 4/5 Pro, Air 3/3S, Mavic 3/3 Pro/4 Pro) and exports them as WPML KMZ missions. Free tier; optional paid Pro adds terrain following and battery splitting.
 * [nextgisweb](https://github.com/nextgis/nextgisweb) - Server based application/server-side framework for geodata storage, management and visualization.
 * [Open Location Code](https://github.com/google/open-location-code) - Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 * [opensarkit](https://github.com/openforis/opensarkit) - Tools for Automatic Preprocessing of SAR Imagery.
