@@ -440,6 +440,7 @@ with GNSS (global navigation satellite system).
 * [NetLoc8](https://netloc8.com) - IP geolocation API with city-level precision and SDKs for Next.js, React, and Go. Free tier included.
 * [NMEA Checksum Calculator](https://beomanro.com/tools/net/nmea-checksum/) - Browser-based NMEA 0183 and AIS sentence checksum validator and calculator with batch processing and XOR step visualization.
 * [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser.
+* [NZ Elevation Tools](https://nzelevationtools.com/) - Browser-based terrain analysis for New Zealand built on the national 1m LiDAR DEM from LINZ: contours, slope and aspect, viewshed, flow paths, elevation profiles and property terrain reports. Free to use on screen; paid downloads (GeoJSON, DXF, KML, GeoTIFF, STL).
 * [Open Notify](http://open-notify.org/Open-Notify-API/) - ISS location and number of people in space.
 * [Open-Meteo](https://open-meteo.com/) - Global weather forecast API.
 * [OpenCage Geocoding API](https://geocoder.opencagedata.com/) - An API aggregating multiple open geo datasources (OpenStreetMap and others).
