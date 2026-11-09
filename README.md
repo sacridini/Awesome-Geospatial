@@ -459,6 +459,7 @@ with GNSS (global navigation satellite system).
 * [TectonicPlateMap.org](https://tectonicplatemap.org/) - Interactive Earth geophysics and live hazard web map exploring all 52 tectonic plates (PB2002), fault boundaries, real-time USGS earthquakes, and active volcanoes.
 * [TomTom](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction) - Geocoding, routing, traffic, and more.
 * [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Search earthquake data by various parameters.
+* [VeroMaps](https://veromaps.com) - Map of hidden gems and little-known true stories about places, with 3D terrain, live satellite clouds and offline maps, built on OpenStreetMap data.
 * [what3words](https://developer.what3words.com/public-api) - Converts 3-word addresses to coordinates.
 * [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform aggregating live military flight tracking (ADS-B), AIS vessel monitoring, GPS jamming heatmaps, conflict event overlays, satellite data, and geopolitical risk scores on an interactive 3D globe.
 
