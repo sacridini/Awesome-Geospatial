@@ -1749,6 +1749,7 @@ for geospatial and tabular data.
 * [Geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free political boundaries database.
 * [Geofabrik](http://download.geofabrik.de/) - This is another source of prepared OpenStreetMap data. This distribution is generally built nightly and comes in OSM XML, pbf, and shapefile (for very popular areas) formats.
 * [GeoNames](http://www.geonames.org/) - The GeoNames geographical database covers all countries and contains over eight million place names (cities, postal codes, countries) that are available for download free of charge.
+* [Get a List Of](https://getalistof.com/free-business-lists-csv/) - 2,207 free CSV extracts of named local businesses from OpenStreetMap (56 categories in 84 cities, ODbL), each row with name, address, neighbourhood, coordinates and the website or phone where the record has one.
 * [Global Climate Monitor](https://kerdoc.cica.es/) - Global open climate data.
 * [Global power plant database](https://datasets.wri.org/dataset/globalpowerplantdatabase) - Open source database of power plants.
 * [Healthcare Services in Europe](https://ec.europa.eu/eurostat/web/gisco/geodata/basic-services#Healthcare) - Locations of healthcare services in Europe.
