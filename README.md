@@ -430,6 +430,7 @@ with GNSS (global navigation satellite system).
 * [MapAtlas](https://mapatlas.eu/) - A mapping REST API providing geocoding, directions, route optimization, matrix, isochrone, MVT vector tiles, map matching, and GeoEnrich services using OpenStreetMap and proprietary data.
 * [MapBees](https://mapbees.com/) - Browser-based neighborhood analysis on an H3 hex grid, with no GIS install: weighted site-selection scoring, Location Quotient, gap analysis, Getis-Ord Gi* hot spots, Shannon/Simpson diversity, bivariate maps, isochrone territories and Huff market share, built on Overture Maps, OpenStreetMap and national census data. Free tier.
 * [Mapbox](https://www.mapbox.com/) - Platform for web map design and manipulation.
+* [MapScale](https://mapscale.io/) - Thailand-focused maps API: vector tiles, Thai/English geocoding and autocomplete, routing, isochrones and static maps.
 * [MapsLinkQuest](https://mapslink.quest/) - Free for up to 25 places per list, no account needed. Converts a shared Google Maps list link into GPX, KML, CSV or GeoJSON waypoints, with no Takeout export. Paid tiers raise the limit.
 * [MapTiler Cloud](https://www.maptiler.com/cloud/) - Maps API for web & mobile developers. Customize maps, upload or create own geodata and publish online.
 * [MapToNap](https://maptonap.com/) - Browser tool that turns OpenStreetMap data into architectural site analysis drawings and 3D context models.
