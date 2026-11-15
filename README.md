@@ -172,6 +172,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 ## Web Map Development
 
 * [angular-azure-maps](https://github.com/Acaisoft/angular-azure-maps) - Angular 6 Azure Maps is a wrapped MS Azure Map on Angular.
+* [No Stairs Please](https://nostairsplease.com/) - Interactive North American map, drive-time router, and MCP server for 2,200+ step-free live-music venues.
 * [ArcGIS JS App Generator](https://github.com/odoe/generator-arcgis-js-app) - This is a yeoman generator for ArcGIS API for JavaScript applications.
 * [ArcGIS REST JS](https://github.com/Esri/arcgis-rest-js) - Compact, modular JavaScript wrappers for the ArcGIS REST API that run in Node.js and modern browsers.
 * [azure-maps-animations](https://github.com/Azure-Samples/azure-maps-animations) - A rich library of animations for use with the Azure Maps Web SDK.
