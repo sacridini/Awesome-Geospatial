@@ -1788,6 +1788,7 @@ for geospatial and tabular data.
 * [GeoParquet](https://github.com/opengeospatial/geoparquet) - Specification for storing geospatial vector data (point, line, polygon) in Parquet.
 * [Geopython](https://github.com/urschrei/Geopython) - Notebooks and libraries for spatial/geo Python explorations.
 * [GIGS](https://gigs.iogp.org/) - GIGS comprises qualitative test series checklists and quantitative test dataset files.
+* [GISGP GeoJSON Viewer](https://gisgp.com/geojson) - View GeoJSON, KML, GPX and CSV files on a map in the browser and export to Shapefile, KML, CSV or GeoPackage.
 * [IndexDatabase](http://www.indexdatabase.de/) - A database for remote sensing indices.
 * [Kalmix GNSS Handbook](https://www.kalmixtech.com/blogs/blog/tagged/gnss-handbook) - Free engineering articles on GNSS fundamentals, signal bands, RTCM/NTRIP corrections, NMEA and coordinate systems.
 * [LOLManuscriptMonday](https://github.com/ladiesoflandsat/LOLManuscriptMonday) - Hold the links to the Ladies of Landsat Manuscript Monday series.
