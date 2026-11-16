@@ -421,6 +421,7 @@ with GNSS (global navigation satellite system).
 * [GOAT](https://www.plan4better.de/en/goat/) - Open-source WebGIS for spatial analysis in the browser: built-in catalogue of 30,000+ datasets, accessibility analysis (isochrones, public transport quality classes), no-code workflows, dashboards and real-time collaboration. Cloud or self-hosted.
 * [GIS Cloud](https://www.giscloud.com/) - Real-time mapping platform for the entire workflow of your organization.
 * [GISCO data distribution API](https://gisco-services.ec.europa.eu/distribution/v2/) - European Commission data source for administrative regions and boundaries.
+* [Google Maps Places Scraper](https://apify.com/johnvc/google-maps-places-api) - Hosted scraper on Apify that searches Google Maps by keyword and location and returns places as JSON: name, address, coordinates, phone, website, category, rating, review count and opening hours. Paid per place returned.
 * [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves various vehicle routing problems.
 * [Honeycomb Maps](https://honeycombmaps.com) - Browser-based enterprise map dashboard software, with real-time filtering and metric calculation.
 * [InstaMaps](https://get-instamaps.com) - Location formulas for Google Sheets: geocoding, routing (100-stop Google Maps links), territories and live shareable maps from spreadsheet data.
