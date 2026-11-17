@@ -1770,6 +1770,7 @@ for geospatial and tabular data.
 * [Scale Open Datasets](https://scale.com/open-datasets?utm_campaign=Spatial%20Awareness&utm_medium=email&utm_source=Revue%20newsletter) - Open Datasets for Autonomous Driving.
 * [Sentinel 2 AWS](http://sentinel-pds.s3-website.eu-central-1.amazonaws.com/) - Sentinel 2 data on Amazon S3.
 * [Sunshine Atlas](https://sunshineatlas.com/data/) - Open dataset (CC BY 4.0, DOI) of monthly sunshine hours, temperature, rainfall and sea-surface-temperature climate normals for 3,833 destinations worldwide; interactive globe, mirrored on GitHub, Zenodo, Hugging Face and Kaggle.
+* [Trails, Rivers and Coasts 360° Panoramas](https://huggingface.co/datasets/terrain360/trails-rivers-coasts-360-panoramas) - About 900,000 geotagged ground-level 360° locations of trails, rivers and coasts, six images and a 77-field record at each; 39 US states, DC and France, 2012 to 2026. Commercial license, free evaluation sample on request.
 * [TZ Timezone Shapefiles](http://efele.net/maps/tz/world/) - Polygon boundaries of world timezones.
 * [USGS Earth Explorer](http://earthexplorer.usgs.gov/) - Provides online search,metadata export, and data download for earth science data from the archives of the USGS.
 * [World Atlas TopoJSON](https://github.com/topojson/world-atlas) - Natural Earth's vector data as TopoJSON.
