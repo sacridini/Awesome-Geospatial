@@ -547,6 +547,7 @@ with GNSS (global navigation satellite system).
 
 ## MCP Servers
 
+* [BatchData MCP](https://batchdata.io/mcp-server) - Official remote MCP server for U.S. property data covering 169 million+ parcels: address verification, geocoding and reverse geocoding, property lookup and search, and comparables. Sign in with a BatchData account (OAuth) or use an API token.
 * [CARTO for Agents](https://docs.carto.com/carto-for-agents?utm_source=awesome-geospatial&utm_medium=listing&utm_campaign=mcp-marketplace-listings) - Official remote MCP server for CARTO, the Agentic GIS platform. Query governed warehouse data, run spatial analysis, create or edit maps and workflows, and render interactive maps in the conversation; every tool call runs inside your own data warehouse (BigQuery, Snowflake, Databricks, Redshift, or PostgreSQL).
 * [emem](https://github.com/Vortx-AI/emem) - Earth memory MCP server that gives AI agents signed geospatial facts and cite-able receipts for place-based questions.
 * [EncDotNet.S100 MCP server](https://github.com/philliphoff/EncDotNet.S100) - MCP server for S-100 nautical charts that lets AI agents query chart features, sample bathymetry, currents and water levels, and plan routes. Runs locally from the project's command-line tool or its desktop chart viewer (SoundCharts), which agents can also drive.
