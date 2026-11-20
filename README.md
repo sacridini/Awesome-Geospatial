@@ -1683,6 +1683,7 @@ for geospatial and tabular data.
 * [MapTiler Data](https://www.maptiler.com/data/) - Ready-to-use geographic data. The very best of open geospatial data, processed and packaged for your next on-prem project. Available as vector/raster tiles and in GIS formats.
 * [NASA Earth Data](https://search.earthdata.nasa.gov/search) - Search, discover, visualize, refine, and access NASA Earth Observation data in your browser with Earthdata Search.
 * [NASA Earth Observations](https://neo.gsfc.nasa.gov/) - Browse and download satellite data imagery.
+* [National Register of Historic Places open data](https://github.com/Gobig2026/national-register-open-data) - CSV of 99,881 US National Register of Historic Places records with coordinates where public, built on National Park Service data. CC BY 4.0.
 * [Natural Earth](http://www.naturalearthdata.com/) - This site offers public domain map data sets that contain both raster and vector data.
 * [Ookla internet speed data](https://github.com/teamookla/ookla-open-data) - Global network performance metrics.
 * [OpenAerialMap](https://openaerialmap.org/) - Open service for accessing licensed imagery.
