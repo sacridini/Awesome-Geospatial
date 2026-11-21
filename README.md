@@ -366,6 +366,7 @@ with GNSS (global navigation satellite system).
 
 
 ## Spatial Optimization
+* [Dendritic Forest Management](https://github.com/jdhart81/hdfm-framework) - Open-source landscape planning that starts from existing roads and waterways and checks whether retained forest corridors stay connected through every proposed harvest plan, with a self-hostable map app and portable reports (MIT; research pilot, not field-validated).
 * [MARXAN](https://marxansolutions.org/) - Marxan is a freely available conservation planning software. It provides decision support to a range of conservation planning problems, including the design of new reserve systems, reporting on the performance of existing reserve systems, and developing multiple-use zoning plans for natural resource management.
 * [prioriactions](https://github.com/prioriactions/prioriactions) - The prioriactions R package uses a mixed integer mathematical programming (MIP) approach for building and solving multi-action conservation planning problems, where the goal is to find an optimal combination of management actions that abate threats, in an efficient way while accounting for connectivity.
 * [prioritizr](https://github.com/prioritizr/prioritizr) - R package that uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.
