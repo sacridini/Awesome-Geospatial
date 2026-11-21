@@ -744,6 +744,7 @@ with GNSS (global navigation satellite system).
 * [Ginkgoch](https://ginkgoch.com) - Ginkgoch is a GIS visualization, analyze library on Node.js. It allows to build cross-platform GIS services, desktop and mobile apps.
 * [gmaps.js](https://github.com/hpneo/gmaps) - gmaps.js allows you to use the potential of Google Maps in a simple way.
 * [Google Maps API](https://developers.google.com/maps/documentation/javascript/?hl=pt-br) - Google Maps API for JavaScript.
+* [gpx-privacy](https://github.com/saimulft/gpx-privacy) - Edit GPX tracks before sharing: trim the start and end for privacy, simplify the line, and compute distance and climb.
 * [Heatcanvas.js](https://github.com/sunng87/heatcanvas) - Yet another heatmap implementation for Javascript.
 * [Heatmap.js](https://www.patrick-wied.at/static/heatmapjs/) - A heatmap implementation for Javascript.
 * [hyperleaflet](https://github.com/cemrehancavdar/hyperleaflet) - A library that allows you to use the popular Leaflet library with just HTML attributes.
