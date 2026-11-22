@@ -942,6 +942,7 @@ with GNSS (global navigation satellite system).
 * [geopy](https://github.com/geopy/geopy) - geopy is a Python 2 and 3 client for several popular geocoding web services.
 * [geosnap](https://github.com/oturns/geosnap) - geosnap makes it easier to explore, model, analyze, and visualize the social and spatial dynamics of neighborhoods.
 * [GeostatsPy](https://github.com/GeostatsGuy/GeostatsPy) - GSLIB reimplimented in Python
+* [GeoStride](https://github.com/Rohan-Dedhia/geostride) - Lightweight pure-Python library for geospatial feature engineering, trajectory kinematics, spatial autocorrelation, and standalone map visualization without C/C++ GIS dependencies.
 * [geotiff](https://github.com/KipCrossing/geotiff) - A noGDAL tool for reading geotiff files.
 * [get_modis](https://github.com/jgomezdans/get_modis) - Downloading MODIS data from the USGS repository.
 * [GigaSpatial](https://github.com/unicef/giga-spatial) - Acquire published geospatial datasets, such as WorldPop, GHSL, and building footprints, and map them onto H3, S2, Mercator tiles, administrative boundaries, or points of interest.
