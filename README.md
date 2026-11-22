@@ -1562,6 +1562,7 @@ with GNSS (global navigation satellite system).
 
 * [Blender GIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data.
 * [bv](https://github.com/daleroberts/bv) - bv is a small tool to quickly view high-resolution multi-band imagery directly in your iTerm 2.
+* [Chronicles of the Realm (Jiangshan Map)](https://github.com/DeanChensj/jiangshan-map) - Open-source, zero-dependency interactive historical atlas of China (403 BCE–present) with multi-stage dynastic GeoJSON boundaries, ancient cities, and historical figure journeys.
 * [Cinder](https://libcinder.org/) - Cinder is a free and open source library for professional-quality creative coding in C++.
 * [circlize](https://github.com/jokergoo/circlize) - Circular visualization in R. Circular layout is an efficient way for the visualization of huge amounts of information.
 * [CityEngine-Twitter](https://github.com/urschrei/CityEngine-Twitter) - Visualise Twitter activity using a procedurally-generated 3D city model.
