@@ -264,6 +264,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 
 * [CloudCompare](https://www.danielgm.net/cc/) - 3D point cloud processing software.
 * [DielmoOpenLidar](http://www.dielmo.com/eng/ficha-tecnologia-software.php?prod=21) - Open source software based in gvSIG for the management of LiDAR data.
+* [Dioramap Lab](https://github.com/FL-AntoineDurand/dioramap-lab) - C engine and browser lab that turns IGN LiDAR HD point clouds into LoD2 roof models and embeddable three.js scenes of real places, with orthophoto/cadastre co-registration and deshadowing.
 * [displaz](https://github.com/c42f/displaz) - A hackable lidar viewer.
 * [Entwine](https://github.com/connormanning/entwine) - Point cloud indexing for massive datasets.
 * [FullAnalyze](https://code.google.com/archive/p/fullanalyze/) - Handling, visualizing and processing lidar data (3D point clouds and waveforms).
