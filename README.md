@@ -1687,9 +1687,11 @@ for geospatial and tabular data.
 * [Ookla internet speed data](https://github.com/teamookla/ookla-open-data) - Global network performance metrics.
 * [OpenAerialMap](https://openaerialmap.org/) - Open service for accessing licensed imagery.
 * [Overture Maps open data](https://overturemaps.org/download/) - Free and open (CDLA Permissive 2.0) global GeoParquet datasets, updated monthly on AWS S3 and Azure.
+* [Register Atlas](https://registeratlas.com/data/) - Every listing on the U.S. National Register of Historic Places as one CSV, more than 100,000 rows with coordinates, listing date, landmark status, and the year built, style and architect where Wikidata records them. Built from National Park Service data, refreshed weekly, CC0.
 * [RoadDetections](https://github.com/microsoft/RoadDetections) - Road detections from Microsoft Maps aerial imagery.
 * [Sentinel 2 AWS](https://registry.opendata.aws/sentinel-2/) - Sentinel 2 data on Amazon S3.
 * [Sunshine Atlas](https://sunshineatlas.com/data/) - Open dataset (CC BY 4.0, DOI) of monthly sunshine hours, temperature, rainfall and sea-surface-temperature climate normals for 3,833 destinations worldwide; interactive globe, mirrored on GitHub, Zenodo, Hugging Face and Kaggle.
+* [Trailhead Atlas](https://trailheadatlas.com/data/) - 46,133 named trails on U.S. National Forest land as CSV, grouped from the Forest Service trail layer, with miles, allowed uses, accessibility and start and end coordinates, plus 3,654 trailheads. Refreshed weekly, CC0.
 * [TZ Timezone Shapefiles](http://efele.net/maps/tz/world/) - Polygon boundaries of world timezones.
 * [USGS Earth Explorer](http://earthexplorer.usgs.gov/) - Provides online search,metadata export, and data download for earth science data from the archives of the USGS.
 * [World Atlas TopoJSON](https://github.com/topojson/world-atlas) - Natural Earth's vector data as TopoJSON.
