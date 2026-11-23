@@ -406,6 +406,7 @@ with GNSS (global navigation satellite system).
 * [Country State City API](https://countrystatecity.in/) - Database of city, state, and country data.
 * [CSV2GEO](https://csv2geo.com) - Batch geocoder using excel/csv file, text or API as an input and get latitude, longitude and an interactive map as output.
 * [Dekart](https://dekart.xyz) - Open-source alternative to CARTO. SQL to interactive map platform that connects BigQuery, Snowflake, and PostGIS. Self-host or cloud.
+* [ForLab Geo API](https://forlab.io/en/projects/geo-api) - REST API and MCP server for countries, administrative units and boundaries, timezones, postal codes and phone numbers from one versioned dataset built on OpenStreetMap, Overture, GeoNames and CLDR.
 * [Fulcrum](http://www.fulcrumapp.com/) - A mobile data collection platform that allows you to build, deploy, & collect field data with your own customizable data collection apps.
 * [Geocode.xyz](https://geocode.xyz/) - Reverse geocoding, forward geocoding, and geoparsing API.
 * [GOAT](https://www.plan4better.de/en/goat/) - Open-source WebGIS for spatial analysis in the browser: built-in catalogue of 30,000+ datasets, accessibility analysis (isochrones, public transport quality classes), no-code workflows, dashboards and real-time collaboration. Cloud or self-hosted.
