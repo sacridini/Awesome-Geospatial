@@ -951,7 +951,8 @@ with GNSS (global navigation satellite system).
 * [HyRiver](https://hyriver.readthedocs.io) - A suite of Python packages for retrieving various geospatial/temporal data from public web services.
 * [HPGL](https://github.com/hpgl/hpgl) - High Perfomance Geostatistics Library.
 * [Intake-stac](https://github.com/intake/intake-stac) - This is an intake data source for SpatioTemporal Asset Catalogs (STAC).
-* [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website.
+* [Land Cover Rewind](https://github.com/gorniakgrzegorz/urban-sprawl-tor-byd-random-forest) - Streamlit app that reconstructs built-up land for any area from the Landsat archive (1985-2025) with a Dynamic World-trained Random Forest, outputting GeoTIFF maps, landscape metrics and the SDG 11.3.1 indicator without a Google account.
+* * [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website.
 * [landsat-extract-gee](https://github.com/loicdtx/landsat-extract-gee) - Get Landsat surface reflectance time-series from google earth engine.
 * [Landsat-util](https://github.com/developmentseed/landsat-util) - Landsat-util is a command line utility that makes it easy to search, download, and process Landsat imagery.
 * [landsatxplore](https://github.com/yannforget/landsatxplore) - Search and download Landsat scenes from EarthExplorer.
