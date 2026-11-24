@@ -298,6 +298,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [ArcGIS Earth](http://www.esri.com/software/arcgis-earth) - Display data, sketch placemarks, measure distances and areas, and add annotations at any part of the world
 * [CityEngine](https://www.esri.com/en-us/arcgis/products/arcgis-cityengine/overview) - Transform 2D GIS Data into Smart 3D City Models
 * [erzberg](https://github.com/sorny/erzberg) - MIT-licensed browser tool that turns GeoTIFFs and DEMs into topographic line art in 41 draw modes, with OpenStreetMap overlays and SVG, STL and PNG export.
+* [Geländemodell](https://3ddruckwien.at/de/gelaendemodell/) - Browser tool that turns a selected 0.5 to 2.5 km area into a 3D printable terrain and city model (STL, 3MF, OBJ) from open elevation data and OpenStreetMap buildings, roads and water. Free download after email verification.
 * [Google Earth](http://earth.google.com/) - Bringing a earth view for global mapping
 * [Lookout](https://github.com/ExtremeAI-Labs/lookout) - Self-hosted 3D situational-awareness console on a CesiumJS globe: live aircraft, ships, satellites, earthquakes and public cameras, MIT licensed.
 * [Open3D](http://www.open3d.org/) - Open-source library that supports rapid development of software that deals with 3D data. The Open3D frontend exposes a set of carefully selected data structures and algorithms in both C++ and Python.
