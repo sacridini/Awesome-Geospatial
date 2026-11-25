@@ -1692,6 +1692,7 @@ for geospatial and tabular data.
 * [Sunshine Atlas](https://sunshineatlas.com/data/) - Open dataset (CC BY 4.0, DOI) of monthly sunshine hours, temperature, rainfall and sea-surface-temperature climate normals for 3,833 destinations worldwide; interactive globe, mirrored on GitHub, Zenodo, Hugging Face and Kaggle.
 * [TZ Timezone Shapefiles](http://efele.net/maps/tz/world/) - Polygon boundaries of world timezones.
 * [USGS Earth Explorer](http://earthexplorer.usgs.gov/) - Provides online search,metadata export, and data download for earth science data from the archives of the USGS.
+* [Which District India](https://which-district-india.at01.io/data/) - Places in India with district, local government codes, PIN codes and coordinates where known, as one CSV (CC BY 4.0).
 * [World Atlas TopoJSON](https://github.com/topojson/world-atlas) - Natural Earth's vector data as TopoJSON.
 * [World Bank](https://www.unccd.int/resources/knowledge-sharing-system/world-banks-open-data) - Free access to global development data.
 * [WorldPop](https://www.worldpop.org/) - Open access spatial demographic datasets.
