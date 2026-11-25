@@ -413,7 +413,7 @@ with GNSS (global navigation satellite system).
 * [GISCO data distribution API](https://gisco-services.ec.europa.eu/distribution/v2/) - European Commission data source for administrative regions and boundaries.
 * [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves various vehicle routing problems.
 * [Honeycomb Maps](https://honeycombmaps.com) - Browser-based enterprise map dashboard software, with real-time filtering and metric calculation.
-* [IPGeolocation.io](https://ipgeolocation.io/) - IP geolocation API bundling timezone and currency data in the same response.
+* [IPGeolocation.io](https://ipgeolocation.io/) - IP geolocation API bundling timezone and currency data in the same response. [MCP setup](https://ipgeolocation.io/integrations/ipgeolocation-io-mcp).
 * [Kardinal](https://kardinal.ai/) - Route optimization API solving vehicle routing problems with complex real-world constraints such as delivery time windows, vehicle types and capacities. Public pricing.
 * [LYRASENSE](https://lyrasense.com) - Agentic AI platform for satellite data analysis with a notebook environment and Google Earth Engine integration.
 * [MapAtlas](https://mapatlas.eu/) - A mapping REST API providing geocoding, directions, route optimization, matrix, isochrone, MVT vector tiles, map matching, and GeoEnrich services using OpenStreetMap and proprietary data.
