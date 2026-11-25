@@ -973,6 +973,7 @@ with GNSS (global navigation satellite system).
 * [networkx](http://networkx.github.io/) - To work with networks.
 * [NodeBox-opengl](http://www.cityinabottle.org/nodebox/) - For playing around with animations.
 * [Ogcserver](https://github.com/mapnik/OGCServer) - Python WMS implementation using Mapnik.
+* [open-business-finder](https://github.com/Pinlyx/open-business-finder) - Python command-line tool that lists local businesses by country, region, district and category from Overture Maps data using DuckDB.
 * [Open-Elevation](https://github.com/Jorl17/open-elevation) - A free and open-source alternative to Google Elevation API.
 * [openrouteservice-py](https://github.com/GIScience/openrouteservice-py) - The Python API to consume openrouteservice(s) painlessly!
 * [Open Topo Data](https://github.com/ajnisbet/opentopodata) - Open Topo Data is a REST API server for your elevation data.
