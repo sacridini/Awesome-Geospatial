@@ -435,6 +435,7 @@ with GNSS (global navigation satellite system).
 * [Sunrise and sunset](https://sunrise-sunset.org) - Provides sunset and sunrise times for locations.
 * [TomTom](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction) - Geocoding, routing, traffic, and more.
 * [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Search earthquake data by various parameters.
+* [WARNPOINT](https://warnpoint.com/map) - Real-time global conflict and incident map: located incidents from 1,000+ graded news and official sources, Sentinel satellite before/after imagery and NASA FIRMS heat detections at struck sites, and per-country government travel advisories.
 * [what3words](https://developer.what3words.com/public-api) - Converts 3-word addresses to coordinates.
 * [World Monitor](https://www.worldmonitor.app) - Real-time global intelligence platform aggregating live military flight tracking (ADS-B), AIS vessel monitoring, GPS jamming heatmaps, conflict event overlays, satellite data, and geopolitical risk scores on an interactive 3D globe.
 
