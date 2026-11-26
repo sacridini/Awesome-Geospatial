@@ -195,6 +195,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [geowright](https://github.com/geowright/geowright) - Playwright testing for MapLibre GL JS web maps: query rendered features, assert on them, and click or drag through real input.
 * [globe.gl](https://github.com/vasturiano/globe.gl) - This library is a convenience wrapper around the three-globe plugin, using ThreeJS/WebGL for 3D rendering.
 * [Google Maps API Polyline String Decoder](https://github.com/geodav-tech/decode-google-maps-polyline) - Function that will convert encoded polyline strings (as returned by the Google Maps API) into a list of lat/lon pairs.
+* [google-maps-fetch](https://github.com/ninadsutrave/google-maps-fetch) - A fetch-based client for Google Maps Platform web APIs (Places API (New), Routes, Geocoding and more) that runs in Node.js, edge runtimes and the browser.
 * [gridviz](https://github.com/eurostat/gridviz) - A package for visualizing gridded data.
 * [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps.
 * [Honua SDK JS](https://github.com/honua-io/honua-sdk-js) - TypeScript geospatial client for ArcGIS/Esri GeoServices, OGC API, WFS, WMS/WMTS, STAC, OData, and GeoParquet with a MapLibre runtime and an ArcGIS migration codemod. [Example](https://honua-io.github.io/honua-sdk-js/guides/quickstart.html)
