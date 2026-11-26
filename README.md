@@ -276,6 +276,7 @@ Long list of geospatial analysis tools. Geospatial analysis, or just spatial ana
 * [LASzip](https://laszip.org/) - Quickly turns bulky LAS files into compact LAZ files without information loss.
 * [libLAS](https://liblas.org/) - libLAS is a C/C++ library for reading and writing the very common LAS LiDAR format.
 * [lidario](https://github.com/jblindsay/lidario) - A small Go library for reading and writing LiDAR (LAS) files.
+* [LiDAR Processor LAS Viewer](https://lidarprocessor.com/las-viewer) - Free in-browser viewer for LAS, LAZ (incl. COPC) and XYZ/PTS/CSV point clouds; files are decoded locally and never uploaded, no account needed. Colour by RGB, elevation, ASPRS class or intensity, with CRS, extent and density shown.
 * [LidarKit](https://lidar-kit.com/) - Browser-based LAS, LAZ, COPC and E57 viewer and converter, with ground classification and DEM export; files are processed locally, never uploaded.
 * [lidR](https://github.com/r-lidar/lidR) - R package for airborne LiDAR data manipulation and visualisation for forestry application.
 * [MCC-LIDAR](https://sourceforge.net/projects/mcclidar/) - Multiscale Curvature Classification for LIDAR Data.
