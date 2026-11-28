@@ -522,6 +522,7 @@ with GNSS (global navigation satellite system).
 * [emem](https://github.com/Vortx-AI/emem) - Earth memory MCP server that gives AI agents signed geospatial facts and cite-able receipts for place-based questions.
 * [EncDotNet.S100 MCP server](https://github.com/philliphoff/EncDotNet.S100) - MCP server for S-100 nautical charts that lets AI agents query chart features, sample bathymetry, currents and water levels, and plan routes. Runs locally from the project's command-line tool or its desktop chart viewer (SoundCharts), which agents can also drive.
 * [Microsoft Planetary Computer Pro MCP Tools](https://marketplace.visualstudio.com/items?itemName=ms-planetarycomputer.mpc-pro-mcp-tools) - A Model Context Protocol (MCP) server that enables GitHub Copilot to interact with Microsoft Planetary Computer Pro.
+* [OmniEarth MCP](https://github.com/lokeshsk/omniearth) - Zero-dependency stdio MCP server (`omniearth-mcp`) exposing 14 open Earth observation & environmental modalities (Sentinel-1/2, Landsat, DEM, WorldCover, Weather ET0/VPD, 3D SoilGrids, NASA FIRMS, Sentinel-5P, EnMAP/EMIT) plus spectral index computation. Apache-2.0, on PyPI.
 * [Velocity](https://github.com/AndrewCTF/velocity) - Self-hosted flight and ship tracker whose MCP server answers with live aircraft and ship positions from public feeds (no API keys), naming the feeds behind each contact and the age of its fix. Areas can be a circle or a polygon.
 
 ## Agent Skills
@@ -766,6 +767,7 @@ with GNSS (global navigation satellite system).
 * [math.gl](https://github.com/uber-web/math.gl) - JavaScript math library focused on Geospatial and 3D use cases.
 * [Moveet](https://github.com/ivannovazzi/moveet) - Real-time vehicle fleet simulator with A* pathfinding on real road networks.
 * [NASA WebWorldWind](https://github.com/NASAWorldWind/WebWorldWind) - The NASA WorldWind Javascript SDK (WebWW) includes the library and examples for creating geo-browser web applications and for embedding a 3D globe in HTML5 web pages.
+* [OmniEarth](https://github.com/lokeshsk/omniearth) - TypeScript / Node.js SDK and CLI for querying 14 open satellite, DEM, weather, and 3D soil APIs with GeoJSON and CSV export.
 * [OpenGlobus](https://www.openglobus.org/) - A javascript library designed to display interactive 3d maps and planets with map tiles, imagery and vector data, markers and 3d objects. It uses the WebGL technology, open source and completely free.
 * [OpenLayers](http://openlayers.org/) - Open source AJAX library.
 * [openrouteservice-js](https://github.com/GIScience/openrouteservice-js) - The JavaScript API to consume openrouteservice(s) painlessly!
@@ -973,6 +975,7 @@ with GNSS (global navigation satellite system).
 * [networkx](http://networkx.github.io/) - To work with networks.
 * [NodeBox-opengl](http://www.cityinabottle.org/nodebox/) - For playing around with animations.
 * [Ogcserver](https://github.com/mapnik/OGCServer) - Python WMS implementation using Mapnik.
+* [OmniEarth](https://github.com/lokeshsk/omniearth) - Unified zero-config Earth observation & environmental data engine across 14 modalities (Sentinel, Landsat, EnMAP, EMIT, DEM, WorldCover, Weather, SoilGrids) with GeoPandas and xarray exports.
 * [Open-Elevation](https://github.com/Jorl17/open-elevation) - A free and open-source alternative to Google Elevation API.
 * [openrouteservice-py](https://github.com/GIScience/openrouteservice-py) - The Python API to consume openrouteservice(s) painlessly!
 * [Open Topo Data](https://github.com/ajnisbet/opentopodata) - Open Topo Data is a REST API server for your elevation data.
