@@ -522,8 +522,8 @@ with GNSS (global navigation satellite system).
 * [emem](https://github.com/Vortx-AI/emem) - Earth memory MCP server that gives AI agents signed geospatial facts and cite-able receipts for place-based questions.
 * [EncDotNet.S100 MCP server](https://github.com/philliphoff/EncDotNet.S100) - MCP server for S-100 nautical charts that lets AI agents query chart features, sample bathymetry, currents and water levels, and plan routes. Runs locally from the project's command-line tool or its desktop chart viewer (SoundCharts), which agents can also drive.
 * [Microsoft Planetary Computer Pro MCP Tools](https://marketplace.visualstudio.com/items?itemName=ms-planetarycomputer.mpc-pro-mcp-tools) - A Model Context Protocol (MCP) server that enables GitHub Copilot to interact with Microsoft Planetary Computer Pro.
-* [Velocity](https://github.com/AndrewCTF/velocity) - Self-hosted flight and ship tracker whose MCP server answers with live aircraft and ship positions from public feeds (no API keys), naming the feeds behind each contact and the age of its fix. Areas can be a circle or a polygon.
 * [OmniEarth MCP](https://github.com/lokeshsk/omniearth) - Zero-dependency stdio MCP server (`omniearth-mcp`) exposing 14 open Earth observation & environmental modalities (Sentinel-1/2, Landsat, DEM, WorldCover, Weather ET0/VPD, 3D SoilGrids, NASA FIRMS, Sentinel-5P, EnMAP/EMIT) plus spectral index computation. Apache-2.0, on PyPI.
+* [Velocity](https://github.com/AndrewCTF/velocity) - Self-hosted flight and ship tracker whose MCP server answers with live aircraft and ship positions from public feeds (no API keys), naming the feeds behind each contact and the age of its fix. Areas can be a circle or a polygon.
 
 ## Agent Skills
 
